@@ -1083,7 +1083,9 @@ TODO:
 		-Ask them a lot about their subjective experience.
 			-"Do you. . . miss what you now lack?"
 		-You're a bit unsure what you think if this was a great blessing sort-of-you gave them, or
-		 a terrible atrocity you/he committed.
+		 a terrible atrocity you/he committed. You're terribly tempted by this wonder, and want to
+		 believe it's a _gift_, one the your monks/family would be _glad_ to have. You're just also
+		 a bit horrified by the idea of _being_ such a being.
 	-Figure out what to do with the artifact dagger, and those red jade blades and breastplate.
 		-The dagger: dagger, +1 acc, +2 dam, 3m attune, +1 acc every additional mote spent (max 5)
 		-I had been thinking the jade stuff may also be artifacts, but that seemed less likely,
