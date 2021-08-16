@@ -1,0 +1,162 @@
+Name: 
+Caste: Dawn
+Motivation: To restore the glories of The First Age, and the glorious rule of The Solar Exalted,
+			for all the peoples of the world, at this, the dawning of a new age.
+
+Attributes: (8/6/4 above base of 1 in each)
+	Physical: (8)
+		Strength: 4
+		Dexterity: 4
+		Stamina: 3
+	Social: (4)
+		Charisma: 3
+		Manipulation: 2
+		Appearance: 2
+	Mental: (6)
+		Perception: 3
+		Intelligence: 3
+		Wits: 3
+
+Abilities: (10 Caste & Favored, 18 any, none above 3)
+	Dawn:
+		Martial Arts: 5
+			Specialty: Fighting Unarmed
+		War: 2
+	Zenith:
+		Integrity: 3
+		Presence: 3
+		Resistance (F): 3
+	Twilight:
+		Lore: 1
+		Occult (F): 3
+	Night:
+		Athletics (F): 3
+		Awareness (F): 3
+		Dodge (F): 3
+			Specialty: When Unarmed
+	Eclipse:
+		Linguistics: 1
+			-Old Realm
+		
+
+Backgrounds: (7, none above 3)
+	Artifact: 2
+		-Orichalum Hearthstone Bracers, increasing the damage of all attacks by 2 dice when warn.
+	Cult: 1
+	Followers: 2
+	Manse: 4
+		-A level 4 Manse.
+		-Seven Leaping Dragon Stone (Core pg. 384), granting 4 extra dice to any Martial Arts roll.
+	Resources: 2
+
+Charms: (5 Caste & Favored, 5 any)
+	Dawn:
+		Martial Arts:
+			Striking Cobra Technique
+			Serpentine Evasion
+			Snake Form
+			Essence Fangs and Scales Technique
+	Zenith:
+		Resistance:
+			Ox-Body Technique
+				-Choosing one extra -1 level and two extra -2 levels.
+	Twilight:
+		Occult:
+			Terrestrial Circle Sorcery
+	Sorcery:
+		Terrestrial Circle:
+			Emerald Countermagic
+			Invulnerable Skin of Bronze
+			Stormwind Rider
+			Wood Dragon's Claw
+
+Virtues: (5 above 1 in each, none above 4)
+	Compassion: 1
+	Conviction: 3
+	Temperance: 1
+	Valor:		4
+
+Intimacies: (equal to compassion, though you can defer the choice of some until play)
+	-The monastary and it's order are the only home you've ever really known, and it is very dear
+	 to you. You may lament their foibles, but that doesn't change that they're home and family to
+	 you.
+
+Willpower: 7 (Sum of two highest virtues)
+
+Essence: 3 (2+1 for bonus points spent)
+Essence Pool:
+	Personal:	16 (Essence*3+Willpower)
+	Peripheral:	37 (Essence*7+Willpower+(sum of Virtues))
+
+Movement:
+	
+
+Bonus points (15)
+	7	Essence 3
+	2	Manse 4
+	2	Artifact 1 & 2
+	2	Martial Arts 4 & 5
+	1	2 Specialties
+	1	Cult 1
+
+Character Description and Background:
+	-Appearance:
+		-
+	-You are the reincarnation of The Dragon of the Dawn, the former owner of your manse, prophecied
+	 to be reborn amongst the monks of your ancient order that dwell within it.
+		-Well, you're at least the first of the monks or their young trainees to Exalt, fulfilling
+		 the prophecy.
+	-Your manse stands in a hidden vale, known only to the monks of your (now _your_) order, few of
+	 whom ever leave.
+	-You grew up in it's ornate halls, yet another foundling taken in and raised to become one of
+	 the monks.
+		-When your Exaltation came as a teenager, you went from expectations of humbleness to the
+		 venerated center of attention, heir to the manse, it's treasures, and the service of the
+		 order of monks.
+			-Good opportunity for roleplay. When stressed, you can fall back into old patterns.
+				-Maybe how you refer to yourself? Normally "I", but sometimes falling back into
+				 "This one"?
+		-After that, your education continued to focus on martial arts and occult secrets, but the
+		 specifics changed dramatically. Ancient tomes, painstakingly copied again and again over
+		 the centuries, were brought forth and you learned the techniques of the Solar Exalted.
+		-Your teachers, once harsh authority figures, were now obsequious but no less infuriating,
+		 as you underwent a sorcerous initiation prescribed many centuries ago by your predecessor.
+	-Your sorcerous initiation:
+		-Sacrifice? Some link to your past, before being adopted into the order?
+			-Jeeze, maybe your memories of whatever past he had before child-monk adoption?
+				-"I gave up _my mother's face!_"
+	-Eventually, your long education reached it's conclusion, and your life was, for the very first
+	 time, your own.
+		-You're also in possession a powerful manse, it's centuries-dwindled treasures, and a small
+		 order of monks trained in martial arts and thaumaturgy, ready now to once again participate
+		 in the world at large, with their master's return.
+			-The reopening of the manse, according to instructions laid down more than a millennium
+			 ago, was a sight to behold. You had _thought_ the manse ornate, as compared to the rude
+			 out-buildings constructed around it over the centuries, and so it was, compared to what
+			 you've now seen of the world away from it. The monks pulled down it's fine wood
+			 paneling, though, to reveal great murals alongside carved and gilded stone work, all
+			 depicting The Unconquered Sun and his Solar Exalts.
+			-Weirdly, as soon as you came into your inheritance in full, some of the monks requested
+			 your permission to marry one another. Apparently the order had not been intended to be
+			 celebate, but rather forbade sex outside of marriages sanctioned by The Dragon.
+				-You kind of get the impression that your predecessor didn't intend to be gone this
+				 long. . .
+		-Or, perhaps not _all_ of it's treasures. You reached the end of your prescribed education
+		 period, but there are a few areas of the manse that no one goes, forbidden to the order,
+		 and you as well.
+			-Carved warnings stand at the entrances, speaking of grave danger to all who enter, but
+			 also of signs and portents that will indicate that The Dragon of the Dawn should now
+			 venture within. The monks claim that all who have ever violated the warning and entered
+			 were never seen again. . .
+	-Manse construction?!?
+		-https://discord.com/channels/@me/772891797726822481/829200091176763442
+
+Equipment:
+	-Fine Buff Jacket
+		-Soak of 4L/5B as a result of Fine.
+	-A Hooded Cloak
+		-It is often wise to hide the sorcerous tranfromation of your body.
+
+Advancement:
+	-
+	-Tentative schedule:

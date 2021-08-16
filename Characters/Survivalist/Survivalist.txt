@@ -1,0 +1,207 @@
+Name: Garn
+Caste: Zenith
+Motivation: Liberation and prosperity for the downtrodden, starting with your followers.
+
+Attributes: (8/6/4 above base of 1 in each)
+	Physical: (8)
+		Strength: 3
+		Dexterity: 4
+		Stamina: 4
+	Social: (4)
+		Charisma: 3
+		Manipulation: 2
+		Appearance: 2
+	Mental: (6)
+		Perception: 4
+		Intelligence: 2
+		Wits: 3
+
+Abilities: (pick 5 Favored; 10 ranks in Caste & Favored, 18 in any, none above 3; 3 bonus spent)
+	Dawn:
+		Archery (F): 4
+			Specialty: Long Bows
+		Melee: 2
+		War (F): 3
+	Zenith:
+		Integrity: 1
+		Presence: 2
+		Resistance: 2
+		Survival: 5
+	Twilight:
+		Craft (Wood): 2
+		Medicine: 1
+	Night:
+		Athletics (F): 2
+		Awarness (F): 2
+		Dodge (F): 3
+		Stealth: 2
+			Specialty: In Wilderness Areas
+	Eclipse:
+		
+
+Backgrounds: (7, none above 3)
+	Cult: 1
+	Followers: 3
+	Resources: 3
+
+Charms: (5 Caste & Favored, 5 any; 1 for bonus)
+	Dawn:
+		Archery: (min A4, E3)
+			Essence Overwhelming
+			Infinite Mastery
+		War: (min W3, E3)
+			Essence Triumphant
+			Mob-Dispersing Rebuke
+			Fury Inciting Presence
+	Zenith:
+		Resistance:
+			Ox-Body Technique
+				-Choosing one extra -1 level and two extra -2 levels.
+		Survival: (min S5, E3)
+			Essence Triumphant
+			Food-Gathering Exercise
+			Trackless Region Navigation
+			Unshakeable Bloodhound Technique
+			Traceless Passage
+
+Virtues: (5 above 1 in each, none above 4)
+	Compassion: 2
+	Conviction: 3
+	Temperance: 1
+	Valor:		3
+		Conviction is primary and your flaw is:
+		Heart of Flint
+		-----------------
+		The character’s heart hardens to all emotion. He feels and expresses no emotions: not robotic, but lacking all empathy and feeling. The character considers only efficiency in choosing his course of action, and his reduced tact imposes a two-die penalty on all Social rolls involving face-to-face interactions.
+		"Nature can be hard, and so to must we, for the great goal. . ."
+
+Intimacies: (equal to compassion, though you can defer the choice of some until play)
+	
+
+Willpower: 6 (Sum of two highest virtues; _bonus_ can't increase above 8, only virtues)
+
+Essence: 3 (2+1 for bonus)
+Essence Pool:
+	Personal:	15 (Essence*3+Willpower)
+	Peripheral:	36 (Essence*7+Willpower+(sum of Virtues))
+
+Movement:
+	
+
+Bonus points (15)
+	7	Essence 3
+	2	Survival 4 & 5
+	1	Archery 4
+	4	Ox-Body Technique
+	1 	Long Bow and In Wilderness Areas specialties
+
+Character Description and Background:
+	-Appearance:
+		-You're a tall, thin man with sun-bronzed skin, dark hair, and a full but short beard.
+		-You generally dress in well made and well worn buckskin traveling clothes, often along
+		 with a hooded traveler's cloak.
+	-You were called up to war, with your friends and neighbors, from your home village in The
+	 Hundred Kingdoms, a fractious corner of The Scavenger Lands.
+		-Like the rest of them, you had trained in the arts of war, particularly archery, since you
+		 were a boy, in preparation for a peasant levy like this.
+	-The campaign was a disaster.
+		-The unit you were attached to broke and reformed many times, its remnants merged repeatedly
+		 with similar groups, and soon you found yourself fighting alone among strangers.
+	-When the army you were part of was routed, you made a long, torturous trip through the
+	 wilderness home, living off the land.
+	-When you got home, you found your village had been razed, perhaps in the war you fought in, or
+	 perhaps in some other conflict.
+	-You managed to find a few old neighbors, living rudely in the forest nearby, but the
+	 designs on the banners and shields of those who burned their homes had meant little to them.
+		-Same with the other groups that had since passed, making them fearful to return home.
+	-You rallied them and other, similarly displaced people in the area to your side, helping them
+	 search for supplies missed in the ruins and to forage for other food.
+		-In time, a few of those who went to war with you even found their own ways back. Too few.
+	-It was at this time that your Exaltation came.
+		-And with it, a vision of The Unconquered Sun, leading a seemingly endless host of people.
+			-Looking closer, it was in fact comprised of many smaller groups, each led by a shining
+			 individual. One of the shining ones was you, with your friends at your back!
+		-With this, the uncomfortable degree of obsequiousness your followers were beginning to show
+		 became even more pronounced, and began to turn into worship.
+			-You're even more uncomfortable with that last, though you must admit it's both making
+			 guiding your followers somewhat easier and also evoking a powerful feeling within your
+			 heart.
+	-Eventually, it was no longer safe to remain in the area surrounding your former home.
+		-Military units continued to pass through the area, and there had been more raids on other
+		 villages nearby.
+		-Word was also beginning to spread about the people living in the forest.
+			-And, even worse, about the shining being that leads them. . .
+	-You led your group through the wilderness and away from your homeland, keeping on the move for
+	 safety, new forage, and new opportunities.
+	-Your Backgrounds are all intertwined, representing the group of people that follow you,
+	 some of whom worship you, and the traveling supplies and trade goods the group brings with
+	 it where ever it goes.
+		-They're drawn from refugees, the downtrodden, and escaped slaves. Even some people from
+		 your long-gone home village still walk at your side.
+		-They largely rely on foraging with your guidance to eat, but that also brings in valuable
+		 plants, hides, and other resources.
+			-That, along with odd jobs performed by your followers and some amount of trading as
+			 you all travel from place to place, makes up your Resources.
+		-They tend to share your general skill set, and many are similarly armed.
+			-Partly, that's because many share a similar background to you, and partly that's
+			 because you're actively training them to survive the same way you've learned to.
+
+Equipment:
+	-Fine Long Bow
+		-Choosing +1 damage for Fine.
+	-Arrows
+		-An assortment of each type.
+	-Fine Short Spear
+		-Choosing +1 damage for Fine.
+	-Fine Chain Shirt
+		-Soak of 4L/2B as a result of Fine.
+
+Advancement:
+	-You want to eventually get to Tiger Warrior Training Technique, and begin turning your
+	 followers into elite guerilla fighters.
+	-Tentative schedule:
+
+
+
+
+
+-Original Charm brainstorming:
+	Charms: (5 Caste & Favored, 5 any)
+		Dawn:
+			Archery: (min A4, E3)
+				Essence Triumphant
+				Infininite Mastery
+			War: (min W4, E4)
+				Essence Triumphant
+				Rout-Stemming Gesture
+				Mob-Dispersing Rebuke
+				Fury Inciting Presence
+				Heroism-Encouraging Presence
+				Tiger Warrior Training Technique
+		Zenith:
+			Resistance:
+				Ox-Body Technique?
+					-Multiple times? What health level choices?
+			Survival: (min S5, E3)
+				Essence Triumphant
+				Food-Gathering Exercise
+				Trackless Region Navigation
+				Unshakeable Bloodhound Technique
+				Traceless Passage
+				Eye-Deceiving Camouflage?
+		Twilight:
+			Lore: (min L5, E3 or E4)
+				ANY TWO EXCELLENCIES?
+				Immanent Solar Glory?
+				Harmonious Academic Methodology?
+				Legenary Scholar Curriculum?
+			Medicine: (min M3, E2)
+				ANY EXCELLENCY?
+				Wound-Mending Care Technique?
+			Occult:
+				Terrestrial Circle Sorcery?
+		Sorcery:
+			Emerald Countermagic?
+			Impenetrable Frost Barrier?
+			Stormwind Rider?
+			Wood Dragon's Claw?

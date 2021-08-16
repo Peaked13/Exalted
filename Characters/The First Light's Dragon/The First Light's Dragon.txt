@@ -1,0 +1,279 @@
+Name: The First Light's Dragon (You were once known as Garn, and still use the name when incognito-ish.)
+Caste: Twilight
+Motivation: To restore the glories of The First Age, and the glorious rule of The Solar Exalted,
+			for all the peoples of the world, leading to the dawning of a new age.
+
+Attributes: (8/6/4 above base of 1 in each)
+	Physical: (8)
+		Strength: 4
+		Dexterity: 4
+		Stamina: 3
+	Social: (4)
+		Charisma: 3
+		Manipulation: 2
+		Appearance: 2
+	Mental: (6)
+		Perception: 3
+		Intelligence: 3
+		Wits: 3
+
+Abilities: (10 Caste & Favored, 18 any, none above 3)
+	Dawn:
+		Martial Arts (F): 5
+			Specialty: Fighting Unarmed
+	Zenith:
+		Integrity: 3
+		Presence: 2
+		Resistance (F): 3
+	Twilight:
+		Investigation: 1
+		Lore: 3
+		Occult: 3
+	Night:
+		Athletics (F): 3
+		Awareness (F): 3
+		Dodge (F): 3
+			Specialty: When Unarmed
+	Eclipse:
+		Linguistics: 1
+			-Old Realm
+		
+
+Backgrounds: (7, none above 3)
+	Artifact: 2
+		-Orichalcum Hearthstone Bracers, increasing the damage of all attacks by 2 dice when worn and
+		 adding 3 dice to dodge attempts.
+			-"The Dragon's Claws"
+	Cult: 1
+	Followers: 2
+	Manse: 4
+		-A level 4 Manse.
+		-Seven Leaping Dragon Stone (Core pg. 384), granting 4 extra dice to any Martial Arts roll.
+	Resources: 2
+
+Charms: (5 Caste & Favored, 5 any)
+	Dawn:
+		Martial Arts:
+			Striking Cobra Technique
+			Serpentine Evasion
+			Snake Form
+			Essence Fangs and Scales Technique
+	Zenith:
+		Resistance:
+			Ox-Body Technique
+				-Choosing one extra -1 level and two extra -2 levels.
+	Twilight:
+		Occult:
+			Terrestrial Circle Sorcery
+	Sorcery:
+		Terrestrial Circle:
+			Emerald Countermagic
+			Invulnerable Skin of Bronze
+			Stormwind Rider
+			Wood Dragon's Claw
+
+
+Thaumaturgical Rituals;
+	-Known:
+		The Art of Geomancy (Core pg. 139):
+			Essence Sense (0, Perception, 1, one minute)
+				-Perceive the presence of Essence on or in a being or thing.
+		The Art of Enchantment (Oadenol's pg. 137):
+			Analyze Talisman (0, Perception, 1, five minutes)
+				-Shows if the item is enchanted or not.
+		The Art of Warding and Exorcism (Oadenol's pg. 141):
+			Sensing the Barrier (0, Perception, 3, one minute)
+				-Reveals the presence, but no other details, of every mystic barrier within sight,
+				 even if it would not affect the thaumaturge.
+
+
+Virtues: (5 above 1 in each, none above 4)
+	Compassion: 1
+	Conviction: 4
+		Flaw: Deliberate Cruelty
+	Temperance: 1
+	Valor:		3
+
+Intimacies: (equal to compassion, though you can defer the choice of some until play)
+	-The monastary and it's order are the only home you've ever really known, and it is very dear
+	 to you. You may lament their foibles, but that doesn't change that they're home and family to
+	 you.
+		-Worded it as "The Order of the Dragon Over the Horizon is the only family you have (left)
+		 and must be protected from the outside world."
+	-We also get a free one, to one of the two individuals everyone in the circle is loyal to.
+		-I picked: "Silver-Tongued Rishi is a comrade and has much to teach."
+
+Willpower: 7 (Sum of two highest virtues)
+
+Essence: 3 (2+1 for bonus points spent)
+Essence Pool:
+	Personal:	16 (Essence*3+Willpower)
+	Peripheral:	37 (Essence*7+Willpower+(sum of Virtues))
+	Attunments:
+		4m	Orichalum Hearthstone Bracers
+
+Movement:
+	
+
+Bonus points (15)
+	7	Essence 3
+	2	Manse 4
+	2	Artifact 1 & 2
+	2	Martial Arts 4 & 5
+	1	2 Specialties
+	1	Cult 1
+	-TODON'T: Drop Specialties and Cult for Hidden Manse Merit (Scroll of Heroes pg. 57)?
+		-Seems like it might be required for the way you've characterized your Manse.
+		-Considered ditching Artifact, but sounds like the Hearthstone needs to be in an artifact
+		 for you to get it's intrinsic effect too.
+		-Oh! It says it's for use if you _don't_ have Oadenol's with that having some more detailed
+		 system.
+			-Yeah, using that system, you can probably hide it to the extent necessary with nothing
+			 extra.
+
+Character Description and Background:
+	-Appearance:
+		-Character art: https://i.imgur.com/fN7gX22.jpg
+	-You are the reincarnation of The _Last_ Light's Dragon, the former owner of your manse, prophecied
+	 to be reborn amongst the monks of your ancient order that dwell within it.
+		-More title than name, _you'll_ eventually be "The Last", after you die. . .
+	-Your manse stands in a hidden vale, known only to the monks of your (now _your_) order, few of
+	 whom ever leave.
+		-They're known as The Order of the Dragon Over the Horizon.
+			-They're martial artists and thaumaturges, with a specialty in Astrology.
+				-The few who leave the monastary, to trade for what they're not self sufficient in
+				 and to keep an eye on the surrounding lands, survive as traveling astrologers.
+		-The manse's hidden vale is somewhere a bit NE of The Range Towns of Maruken.
+	-You grew up in it's ornate halls, yet another foundling taken in and raised to become one of
+	 the monks.
+		-When your Exaltation came as a teenager, you went from expectations of humbleness to the
+		 venerated center of attention, heir to the manse, it's treasures, and the service of the
+		 order of monks.
+			-Good opportunity for roleplay. When stressed, you can fall back into old patterns.
+				-Maybe how you refer to yourself? Normally "I", but sometimes falling back into
+				 "This one"?
+		-After that, your education continued to focus on martial arts and occult secrets, but the
+		 specifics changed dramatically. Ancient tomes, painstakingly copied again and again over
+		 the centuries, were brought forth and you learned the techniques of the Solar Exalted.
+		-Your teachers, once harsh authority figures, were now obsequious but no less infuriating,
+		 as you underwent a sorcerous initiation prescribed many centuries ago by your predecessor.
+	-Your sorcerous initiation:
+		-Sacrifice? Some link to your past, before being adopted into the order?
+			-Your memories of whatever past he had before child-monk adoption. (Jeeze.)
+				-"I gave up _my mother's face!_"
+	-Eventually, your long education reached it's conclusion, and your life was, for the very first
+	 time, your own.
+		-You're also in possession a powerful manse, it's centuries-dwindled treasures, and a small
+		 order of monks trained in martial arts and thaumaturgy, ready now to once again participate
+		 in the world at large, with their master's return.
+			-The reopening of the manse, according to instructions laid down more than a millennium
+			 ago, was a sight to behold. You had _thought_ the manse ornate, as compared to the rude
+			 out-buildings constructed around it over the centuries, and so it was, compared to what
+			 you've now seen of the world away from it. The monks pulled down it's fine wood
+			 paneling, though, to reveal great murals alongside carved and gilded stone work, all
+			 depicting The Unconquered Sun and his Solar Exalts.
+			-Weirdly, as soon as you came into your inheritance in full, some of the monks requested
+			 your permission to marry one another. Apparently the order had not been intended to be
+			 celebate, but rather forbade sex outside of marriages sanctioned by The Dragon.
+				-You kind of get the impression that your predecessor didn't intend to be gone this
+				 long. . .
+		-Or, perhaps not _all_ of it's treasures. You reached the end of your prescribed education
+		 period, but there are a few areas of the manse that no one goes, forbidden to the order,
+		 and you as well.
+			-Carved warnings stand at the entrances, speaking of grave danger to all who enter, but
+			 also of signs and portents that will indicate that The First Light's Dragon should now
+			 venture within. The monks claim that all who have ever violated the warning and entered
+			 were never seen again. . .
+
+Equipment:
+	-Fine Buff Jacket
+		-Soak of 4L/5B as a result of Fine.
+	-A hooded cloak
+		-It is usually wise to hide the sorcerous transformation of your body.
+	-Leather and cloth wrappings, concealing the bracer's you wear and are very seldom without.
+	-A wrought iron ring.
+	-A hooded lantern and some fuel.
+
+Manse Design (see Oadenol's pg. 66):
+	-Creation points:
+		-8 for rank 4 manse.
+		-6 for downsides.
+	-Downsides:
+		Fragility 2
+		Maintenance 4
+			-Performed by the monks.
+			-Perhaps also tied to their archive copying duties, creating and burning copies of some
+			 ritual document.
+	-Powers:
+		-Greater Veil of Shadows (4):
+			-Even beyond the manse's remote location, it is hidden from prying eyes through clever
+			 geomantic means. The eye simply refuses to notice it's valley until one is within it,
+			 at which point th manse's traps take care of the rest (Oadenol's pg. 76).
+		-Provider (3):
+			-The manse automatically provides air, water, and food enough to sustain a group with
+			 Magnitude equal to it's level + 1.
+		-Ultra-Deadly Traps (3):
+			-To approach your manse, or to leave it, is to pass through a harrowing gauntlet of
+			 incredibly dangerous traps. Only a few of the monks, and now you, know the paths,
+			 passwords, and mechanisms that allow for safe passage. It has kept the manse safe from
+			 any who have pierced it's Veil, whether intentionally or not, for centuries (Oadenol's
+			 pg. 76).
+		-Archive (2):
+			-The library in the manse contains many scrolls and loosely bound books. The vast
+			 majority of them date from The First Age, and have been painstakingly copied over the
+			 centuries by the monks of The Order (though the manse's magical conveniences aid in
+			 that somewhat). The small number of later additions contain recent (or at least _more_
+			 recent) observations about the manse's surroundings, the local developments and
+			 hazards, by the monks themselves.
+			-Topics selected:
+				-First Age Lore (Lore Specialty)
+				-Thaumaturgy (Occult Specialty)
+				-Five Terrestrial Circle Spells:
+					Emerald Countermagic
+					Invulnerable Skin of Bronze
+					Stormwind Rider
+					Wood Dragon's Claw
+					Burning Eyes of the Offender (White Treatise pg. 39)
+				-Five more Terrestrial Circle Spells:
+					Incantation of Effective Restoration (White Treatise pg. 49)
+					Personal Tempest (White Treatise pg. 55)?
+					Ritual of Elemental Empowerment (White Treatise pg. 57)
+					Spoke the Wooden Face (White Treatise pg. 61)?
+					The Spy Who Walks in Darkness (White Treatise pg. 62)
+		-Comfort Zone (1):
+			-The environment within the area of the manse is always comfortable, despite the high
+			 mountain valley in which it's situated, which should by all rights be cold with thin
+			 air (Oadenol's pg. 66).
+		-Magical Conveniences (1):
+			-Your manse features various magical conveniences (Oadenol's pg. 67).
+			-Conveniences selected:
+				-Advanced training room
+				-Azure canvases of dictation
+				-Moonsilver plaque providing self-updating library catalog.
+				-Everyone who sleeps in the manse is awakened just before dawn by a chime audible to
+				 only them, and they hear a similar chime every hour until dusk while they remain
+				 within the grounds of the manse.
+
+Advancement:
+	-Specialties look like a good deal at 3 XP each.
+		-The XP chart claims you can "purchase the same specialty multiple times", which sure sounds
+		 like to get +3 dice to Martial Arts unarmed.
+			-More of your Dodge specialty is way cheaper than just advancing it.
+		-First Age Lore would be a very flavorful _and_ useful one for you.
+	-More Snake Style!
+		-Starting the other branch, beginning with Snake Strikes the Heel, looks more attractive
+		 than Armor-Pentrating Fang Strike, since latter is expensive, because the cheaper Essence
+		 Fangs and Scales you already have does half of it already, and because it's a dead end
+		 until you complete the other branch anyways.
+	-More spells, starting with the stuff in your archive.
+		-The Spy is amazing!
+		-(DONE!) Spoke the Wooden Face might give you easy access to all the rest.
+			-"Hold the book up to the tree!"
+		-Ritual of Elemental Empowerment will make you friends.
+	-Dodge Charms, especially Reflex Sidestep Technique are fairly attractive.
+	-More Ox-Body is the only Resistance one that looks especially useful to you.
+		-Too much duplication of your spells.
+	-Investigation 2 would only cost you one XP.
+		-DONE!
+	-Tentative schedule:
+		

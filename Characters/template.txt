@@ -1,0 +1,71 @@
+Name: 
+Caste: 
+Motivation: 
+
+Attributes: (8/6/4 above base of 1 in each)
+	Physical: ()
+		Strength: 
+		Dexterity: 
+		Stamina: 
+	Social: ()
+		Charisma: 
+		Manipulation: 
+		Appearance: 
+	Mental: ()
+		Perception: 
+		Intelligence: 
+		Wits: 
+
+Abilities: (10 Caste & Favored, 18 any, none above 3)
+	Dawn:
+		
+	Zenith:
+		
+	Twilight:
+		
+	Night:
+		
+	Eclipse:
+		
+
+Backgrounds: (7, none above 3)
+	
+
+Charms: (5 Caste & Favored, 5 any)
+	
+
+Virtues: (5 above 1 in each, none above 4)
+	Compassion: 
+	Conviction: 
+	Temperance: 
+	Valor:		
+
+Intimacies: (equal to compassion, though you can defer the choice of some until play)
+	
+
+Willpower:  (Sum of two highest virtues; _bonus points_ can't increase above 8, only virtues)
+
+Essence: 2 (2, max 5 with bonus points)
+Essence Pool:
+	Personal:	 (Essence*3+Willpower)
+	Peripheral:	 (Essence*7+Willpower+(sum of Virtues))
+
+Movement:
+	
+
+Merits & Flaws:
+	
+
+Bonus points (15)
+	
+
+Character Description and Background:
+	-Appearance:
+		-
+
+Equipment:
+	-
+
+Advancement:
+	-
+	-Tentative schedule:
