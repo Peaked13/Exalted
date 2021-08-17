@@ -273,7 +273,7 @@ Advancement:
 	-Dodge Charms, especially Reflex Sidestep Technique are fairly attractive.
 	-More Ox-Body is the only Resistance one that looks especially useful to you.
 		-Too much duplication of your spells.
-	-Investigation 2 would only cost you one XP.
-		-DONE!
+		-More Ox-Body _is_ straight great, though!
+	-(DONE!) Investigation 2 would only cost you one XP.
 	-Tentative schedule:
 		

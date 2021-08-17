@@ -502,8 +502,8 @@ TODO:
 				-They've raised small armies in the past, to test the defenses of Nexus.
 	-We then asked The Mistress about the letters.
 		-They were love letters between a Solar and his Lunar lover.
-			-Written by Ozandus to the wolf-beast Marika (?).
-				-Our destination on the map lies in "Marika's Domain", but you're not certain that's
+			-Written by Ozandus Pal to the wolf-beast Mithra.
+				-Our destination on the map lies in "Mithra's Domain", but you're not certain that's
 				 the name you heard Lesley say.
 		-They also spoke of the manse, the last wonder by Kalbax, the very one who had worked on the
 		 imperial manse.
@@ -817,7 +817,7 @@ TODO:
 	 ten figures were there, who quickly knealt prostrate before us.
 	-They greeted us as Exalted lords (claiming the scent of our essence was. . . unmistakable).
 	-With Blade questioning them as to who they are, they claimed to be "The Founders", who helped
-	 "Kelbax" construct this place, and who have been here the subsequent 800 years.
+	 "Kalbax" construct this place, and who have been here the subsequent 800 years.
 		-Their spokesman gave the name U'awa.
 	-Asking them about the creatures, they termed them "ice eaters", also trapped here, and a result
 	 of lesser races of demons mingling with the animals of the land.
@@ -835,14 +835,14 @@ TODO:
 	 25 miles, though this wasteland, to an encampment of demons, which they named Gateway.
 	-The shelters were made from every imaginable material to be found in the land, ice, rock, bone,
 	 and even the stiched corpses of their fellows.
-	-Many, and much varied, demons looked on, many too seemingly like hybrids with various animals.
+	-Many, and much varied, demons looked on, many too seeminged like hybrids with various animals.
 	-"Take us to your leader."
 	-They did indeed lead us into the largest structure, an igloo, on which a massive demonic woman
 	 sat atop a pile of skulls, Kordal.
 		-The top half was a corpulant witch-woman, atop an enormous, ant-like body.
 		-Beyond the skulls, there were scattered about the bones of various meals, picked clean, and
 		 a number of the cat-wasp-demons, the ice eaters.
-		-She invited us to dine with her and, after a question as to the menu (tubers and the meat
+		-U'awa invited us to dine with her and, after a question as to the menu (tubers and the meat
 		 of their. . . baser kin), we accepted, dining on what appeared to be salvage (damaged plates,
 		 bits of mirrors, pieces of wood, etc.)
 		-Though U'awa solicitously asked after our every need, and the other demons picked lightly
@@ -857,7 +857,7 @@ TODO:
 			 rebellion of the Terrestrials against the Solars, their masters fell, one by one. They
 			 begged for release, but were denied, until none still lived to grant it.
 		-Golden Blade also broke out some booze, and the reaction was like he'd broken it out at an
-		 AA meetin, as the fiends fiended for it.
+		 AA meeting, as the fiends fiended for it.
 			-Blade poured each a glass, which they all licked clean with grotesque thirst.
 	-We assented to their request, freedom in exchange for their help reaching the manse.
 	-Through his charm again, U'awa guided us to the manse at speed, stopping on a scree covered
@@ -873,7 +873,7 @@ TODO:
 		-Blade attempted to speak with it, receieving more Old Realm in response, which I could
 		 understand as a request to keep speaking, as it was "calibrating new speech patterns".
 		-I spent some time conveying that to my companions, in Riverspeak, only to hear it report
-		 the completion of calibration, and begin speaking in Riverspeak, greating us as masters
+		 the completion of calibration, and begin speaking in Riverspeak, greeting us as masters
 		 and welcoming us to The Invisible Fortress.
 		-Blade asked it where the bodies of it's former masters lay, but it professed ignorance,
 		 claiming that "internal sensors had been damaged".
@@ -947,22 +947,22 @@ TODO:
 					-I accepted, and she led us up to an upstairs parlor, bedecked with twelve
 					 portraits of the manse's lords.
 					-Master Kalbax ("Bax"), of the Twilight caste, constructed this fortress.
-					-Osandus Pol, also of Twilight, was Bax's apprentice, and it was with his
+					-Ozandus Pal, also of Twilight, was Bax's apprentice, and it was with his
 					 ingenuity the manse was completed in time to retreat from the troubles in the
 					 South.
-					-Cyranus Pros, also of Twilight, was the one who painted these portraits, and
+					-Crinis Proles, also of Twilight, was the one who painted these portraits, and
 					 many of the other works in the manse.
-					-The next portrait felt like looking in a mirror She said it was Larquen Quin,
+					-The next portrait felt like looking in a mirror She said it was Larquen Quen,
 					 of Twilight, and the creator of these masks.
-						-Clearly, before me stands a portrait of one of my predecessors, perhaps
-						 even The Last Light's Dragon.
+						-Clearly, before me stands a portrait of one of my predecessors, The Last
+						 Light's Dragon.
 						-He created the spell to preserve the spirits of his greatest servants,
 						 forever.
 						-The man stands in a circle, surrounded by prostrate elementals, matching
 						 my vision.
 					-Avika _____, of the Zenith caste, helped Larquen summon the demons that created
-					 the fortress. She is depicted playing a flute
-					-Maharen, of the Zenith caste, was depicted riding bareback through The Wyld, a
+					 the fortress. She is depicted playing a flute.
+					-Maheren, of the Zenith caste, was depicted riding bareback through The Wyld, a
 					 horn at his lips, flaming spear at his side.
 						-Libak seemed to start at this one.
 					-Kotor Velos, of the Night caste, depicted as a contortionist, was the first to
@@ -1014,7 +1014,7 @@ TODO:
 			 a jumble, seemingly a result of the demons' frantic search for the rune. Fragments of
 			 the covers of other tomes lay scatterd on the ground.
 			-One of the most intact remaining books, printed on sheets of gold, was missing the back
-			 half of its pages, but appeared to be a manual of sorcery by Larquen Quin.
+			 half of its pages, but appeared to be a manual of sorcery by Larquen Quen.
 				-This I definitely grabbed, and stuck it in my bag, to be perused after we've explored
 				 the rest of the manse.
 					-TODO: read that, and give it the wooden face archiving too.
@@ -1070,21 +1070,312 @@ TODO:
 					 continue exploring.
 
 
+8/16/21:
+	-Libak and I followed our rope back through the backstage of the maze, to collect the others.
+	-We relayed to them the events with the ghost/spirit/whatever, and the grisly tableau we'd
+	 found.
+		-We knew so-called "hungry ghosts" often rose from the unburied dead, remaining until they
+		 fulfilled some purpose, but we were unsure if Libak's sacred flames consuming the corpses
+		 had fully addressed the problem or not.
+	-We then opted to return along our marked path through the maze, to further explore the second
+	 floor of the manse.
+	-Blade strode quickly down a hallway, ignoring smaller doors, with us trailing after him.
+	 Eventually he came to a door marked by a shredded portrait, and entered.
+		-Based on the workroom connected to the shredded bedroom, we surmised it was Kalbax's room.
+		-The workroom featured a 16' tall model of the manse, seemingly indestructible, but
+		 splattered with what we presumed to be vengeful demon filth.
+		-It was also filled with the remains of documents, of which only clay tablets had survived
+		 the ages.
+			-They, though, depicted blue prints, for both this manse and many other buildings,
+			 including even some we recognized as First Age buildings in Nexus!
+				-The Nexus buildings interestingly showed extensive underground portions. . .
+				-All of that sounds potentially valuable, and certainly worth salvaging, though
+				 also somewhat weighty, and in need of careful packing.
+	-An adjoining bedroom appeared to belong to Kalbax's student, Pal.
+		-In a drawer guarded by a tiny mask, disarmed by Silent Onyx's Charms, we found some letters
+		 signed with his mark, to Mithra.
+			-letters_to_mithra.pdf
+			-We recognized the mark, as he was the author of the letters our captive Abyssal had
+			 reproduced for us. Here were more letters to his lover.
+	-We found several more bedrooms, though containing little of interest.
+	-An office, though, featured a locked, and soon defeated, chest.
+		-Inside lay two artifacts, both tied to darkness.
+		-One, a band of leather which I recognized as demon skin, showed an indent, as if for the
+		 nose. Golden Blade was reluctant to touch it, but I boldly tied it over my eyes.
+			-It proved to be a "Shadowlight Caul", inverting darkness and light for the purposes of
+			 vision.
+			-It seemed of great use to Silent Onyx, who I offered it up to.
+		-The other was an amulet, of onyx, orichalum, and jade. Not to be shown up _twice_, Blade
+		 placed it around his neck. He was instantly wreathed in concealing shadows, and said it
+		 also tugged at his Essence, as if it could be fed Essence for some effect.
+			-This too we offered up to Silent Onyx, but he seemed uninterested, confident in his
+			 abilities in this area.
+			-As such, I volunteered to grab it, saying I wouldn't mind being able to keep up with
+			 Onyx in such pursuits, though I said it seemed best to experiment with it's other
+			 functions in safer circumstances.
+	-A much smaller bedroom contained a mask on the remains of a bed.
+		-Feeding it 5 motes of essence, I awoke what turned out to be the head servant.
+		-He was very helpful, mentioning:
+			-That tombs for each of the solars once residing here had been constructed, in advance
+			 of their need, in the cellar. Only Kelbax had been laid to rest when last the valet
+			 was awake.
+				-Ask by Blade what he may have been buried with, the valet was unsure, but speculated
+				 that his white robe and rune stone (!) may still lie with him.
+			-That defenses were controlled from the parlor with it's portraits of the solars, though
+			 he did not know how they worked.
+			-That he was in charge of the staff, and was the first bestowed with this new form, as
+			 their lifespans reached their ends.
+				-I asked him how he felt about that and he said, strangely, "I do not know."
+				-"You do not recall?" I asked.
+				 "I do not. . . feel, the way I once did, in this form. . ."
+				-Not the most pleasant existance, sounds like. . .
+	-From there, we decided to return to the parlor and investigate the defenses.
+		-In the South of the room, glass orbs were mounted on four daises, with mirrors behind them.
+		-Blade approached one, and, when he got close, the mirror changed, and revealed a scene
+		 outside the fortress, snow in motion, falling.
+		-I was unsure of the function of the devices, but Onyx termed them "metasorcerous
+		 resonators", having apparently encountered (read: stolen) a paper related subject. Sorcery
+		 and other Charms can be used _through_ such things. Often, they're paired with artifacts
+		 or magitech that can summon elementals, such that a melee charm used through the orb would
+		 be performed by the elemental.
+	-After that, most were eager to investigate the tombs in the cellar, but I pushed instead to
+	 first sweep the attic, suspecting the situation may. . . evolve rapidly once we held the rune.
+	-The attic featured many large rooms, many featuring large holes in their roofs, through which
+	 snow fell onto tables full of dead plants.
+	-Down a hallway, though, we could see a trail of brown, long dried blood along the still-clear
+	 floor.
+		-Inside was a grisly tableau, blood scattered everywhere and a corpse, surrounded by
+		 surgical instruments, on a table. A distance away from the table, a severed arm, _not_
+		 belonging to the corpse, lay on the floor.
+			-Libak looked the scene over thoroughly, eventually concluding that the corpse had been
+			 experimented on, while alive, but had fought back, severing someone's arm, only to fall,
+			 wounded or dead, a short distance away and be dragged back to the table.
+				-Looking close, we thought it might be Crinis Proles, one of the exalts in the
+				 portraits above (in fact, likely the one who painted them).
+			-Meanwhile, Pip and I examined the arm, clad in a bracer.
+				-The bracer was marked with writing in Old Realm, writing I could see were prayers
+				 to Brigid, Mother of Sorcery.
+				-They also seemed to have a socket for a hearthstone.
+				-Pip put them on, and felt nothing, though pins did emerge from the heartstone
+				 socket, and then retract.
+				-I (still being cagey about my own manse) offered to examine it further, and see
+				 what I could learn, so Pip gave it over to my care.
+					-Looking them over quickly, they seemed somehow similar to the metasorcerous
+					 resonators. Perhaps again something sorcery can be used _through_?
+	-The rest of the attic was empty, so we headed to the basement.
+		-At the base of the stairs we followed down, great glass blades had emerged from the last
+		 two stairs, some dusty time ago.
+			-Looks like the demons may have had a poor time here.
+		-Exploring the basement, we came upon a mask hanging on the wall, clearly sylized as a cook
+		 (chef's hat, Boyardee mustache, etc.).
+			-Feeding it five motes of essence, the figure formed indeed offered us food.
+			-Though, asked about the stores, he confessed they were bare, but inisted that, given
+			 time, he could make *something*.
+				-Asking him what that would be seemed to yield only a loop, so we assented, and
+				 asked where we should wait, and he suggested the arena, saying our predecessors
+				 often took meals there in between training.
+		-The arena was a large open room, likely beneath the grand salon and similar in size save
+		 height. It's walls were lined with mundane-but-sericeable examples of seemingly every
+		 melee weapon known to creation.
+			-Three bronze centurions stood in alcoves around the room, each surrounded by a set of
+			 weaponry. Presumably the automaton opponents offered by the training room.
+		-Mere moments later, a parade of masked servants delivered dish after dish to the room,
+		 piled high with foods of all sorts.
+			-It looked fantastic, and felt like real food, but smelled and tasted like little to
+			 nothing. It provided the feeling of fullness, but, from the letters, you suspect it
+			 offerred no nourishment.
+			-We spent an hour dining nonetheless, then continued through the basement.
+	-The next door we checked led to a. . . servant's dormitory of a kind.
+		-It's walls were coverred in racks of masks, hundreds of them, perhaps a thousand.
+		-Some suggested clear roles, maid masks, cook masks, etc., but the vast majority were marked
+		 with and Old Realm symbol, which Blade called me over to tranlsate.
+			-It was the mark of Rabszolga, god of slaves. . .
+			-This got the not unsuprisingly irked Golden Blade, who grabbed one, and fed essence
+			 into it.
+			-A small, emaciated man appeared, to fill out the mask, and Blade asked him who he was,
+			 to which he received no response.
+			-Asked if he understood, the figure nodded, but did not seem able to speak.
+			-Golden Blade then asked if he wished to be free of this existence, getting another nod
+			 in response. Blade then immediately smashed the mask.
+			-He then began babbling about how best to smash many masks.
+				-"All of the masks?" I asked him.
+				 "The slaves."
+				-Between Libak and myself, we convinced him it was perhaps not the time, given the
+				 danger we were still in, and that it could be hazerdous, messing with things only
+				 half understood here. He agreed to return to the matter later.
+	-Another set of doors proved to be the cooks kitchen and scullery, now dormant, and thoroughly
+	 ransacked, leaving some question as to the origin of the false food.
+	-On the other side of the hallway, we found our first tomb, in what seemed to be a former
+	 storeroom.
+		-Writing in Old Realm marked it as the tomb of Larquen Quen (!).
+			-I did a lot of describing of Garn's suspicious reactions to this, though never admitted
+			 to my connection to Quen. _Especially_ after some comments about him being the "monster"
+			 who created these masks.
+			-Though Garn was reluctant, the others plowed ahead with opening the tomb.
+				-The corpse inside was missing an arm (!).
+					-Yet more grisly crimes on his (my?!?) part.
+				-The inside of the tomb, meanwhile, was covered in scratches, and some of them formed
+				 words: "I will return" (!!!)
+				-After Pip translated that, the rest of the circle hurridly closed the tomb again with
+				 it's slab.
+	-Atraxia the Weaver
+		-This tomb was already open, and there were ropes suspended from pulleys in the ceiling,
+		 seemingly used to lift the slab on top of it, such that we could simply peer in.
+		-It contained _three_ bodies. One nothing but bones, one cut in half, one mummified and pinned
+		 to the wall by a scythe blade, likely part of a sprung trap.
+			-The bones had a orichalum ring, set with a single jewel.
+			-The trap-pinned mummy, on the other hand, bore the Mon of House Peleps, one of the
+			 twelve great houses of the Dragonborn. Perhaps we were not the first to find the
+			 manse in the last millenia. . .
+	-The ring was of interest, but we thought it best to perhaps have Libak ritually incinerate the
+	 corpses before we further disturbed grave goods.
+		-In discussing the matter, I asked if we shouldn't retrieve Larquen's arm before doing so.
+		-Seeing the opportunity for a good deed, Pip characteristically ran off, shouting that she'd
+		 go fetch it.
+	-Perhaps 15-20 minutes later, Silent Onyx, the most perceptive of us, claimed to hear a knocking,
+	 as if at a metal door, coming from above.
+		-We followed him up to the first floor, where someone was indeed banging on the door, now
+		 faintly.
+		-Looking from one to another, Blade went to go open the door, revealing a half-frozen Pip,
+		 collapsed at the threshold of the gate, wounded.
+		-None of us are overly competant when it comes to medicine, but I seemed to guess most.
+			-I worried that too quick a temperature change may harm her, but remembered that bath's
+			 offered a _cool_ water pool as well, and we carried her to it, immersing her within.
+			-Gradually, she came to, and relayed a tale of encountering and unknown man, who fled
+			 for the roof, climbing a rope through one of the holes in the attic's ceiling.
+			-She had followed, but lost her footing on the snowy roof and fell, narrowly missing
+			 spikes of ice below. She crawled from there to the gate, hoping to find her way back
+			 inside.
+	-After Pip soaked for 20 minutes, she was feeling up to _walking_ at least, and we returned to
+	 the grand salon, to question I Am.
+		-Libak asked if there was some form of surveillance system in the manse, to which I Am
+		 replied that "a matrix of custodial dedication" existed.
+			-At that, I Am flickered, and apparently rebooted, introducing himself again.
+		-Libak then asked if I Am had access to the system, to which it admitted partial access, so
+		 Libak asked if it had seen whatever figure had been assailing us.
+			-"There are none living or operating in the manse aside from you six and myself."
+		-Further questions about the limits of the system earned the response that, "Discussions of
+		 weaknesses of the manse are limited to the hearthstone bearer."
+			-Who, Libak asked, was last attuned to the heathstone.
+			 "Ozandus Pal."
+			 "When was the connection broken?"
+			 "Unknown. Speculation: 700 years ago."
+			-I Am also seemed to doubt the possibility of any backdoor access to the system.
+				-Asked if any could have created such a thing, I Am said only those resident here
+				 could have. Beyond Kelbax, only Ozandus Pal, Cirinus Proles, Larquen Quen, and
+				 Maheren would have had the skill.
+				-After that, I Am again flickered and rebooted.
+	-After I Am's reboot, we heard an immense thump from the Southeast, shaking the building.
+		-We could hear many voices, some shouting words, other more. . . bestial.
+		-Hurrying up to the parlor, we used one of the mirrors behind the daises, and saw that the 
+		 demon horde had come, Kordal among them and U'awa directing them from a dias borne by
+		 ape-like demons. They were battering the walls of the manse, even using trebuchets of
+		 their typical salvage-built construction.
+			-Among them were also wasp-winged bird hybrids (!).
+				-"Beware the birds."
+		-Libak was intent on figuring out what triggered this assault, and I suggested that perhaps
+		 a charm of the voice could be used through one of the orbs, to communicate with them.
+			-Using a Performance excellency, Libak went (unexpectedly) fully iconic, and a great
+			 golden image of Libak suddenly stood before the manse, asking, "Why have you come to 
+			 interrupt our investigation?"
+			-Through the mirror, we could see U'awa shouting and gesturing, but heard no words. The
+			 trebuchet-flung rocks that followed immediately, suggested the words may not have been
+			 for our ears anyways.
+			-Blade tried Judge's Ear Technique through the orb, generating a similar golden figure
+			 of himself, but could hear only roaring and warcries.
+			-Resorting to a different tactic, he instead attempte Mob Dispersing Rebuke through an
+			 orb, causing many of the more. . . mixed breeds to flee, though The Founders, the
+			 more traditional looking demons, stood fast.
+			-He then _rallied_ the fleeing crossbreeds, with Fury Inciting Presence.
+				-"We are not your enemies, the ones who made you and prey on you! You have nothing
+				 to lose but your chains!"
+				-Some portion of them indeed attacked their kin, causing chaos, but still the
+				 trebuchets struck the building.
+		-I then tried my (clawed) hand at one of the orbs, falling into a martial arts form, and
+		 stepping towards the orb. I reached out to it and, touching it, imagined reaching _through_
+		 it, striking out at one of the trebuchets in the "mirror", using my Armor-Penetrating Fangs
+		 Strike.
+			-A golden avatar of myself indeed appeared, striking the trebuchet with a fist wreathed
+			 in in twining golden dragons, smashing both the trebuchet and the crew surrounding it
+			 with an immense fist.
+		-Libak then suddenly shouted, saying he knew where the tomb was, running off down the hall
+		 toward Bax's chambers.
+			-"It's under the model!"
+			-Blade and I both ran after him, I shouting cautions: "By all the gods, whatever you do,
+			 I _don't_ think we should be unleashing these demons on Creation!"
+			-At the model, he stopped to examine it, and I, warning Libak one more time that we
+			 probably should not give the demons what they want, then shouted to Blade: "Come! Let
+			 us finish those trebuchets!"
+		-Back at the orbs, Blade took his own swing(s) at the trebuchets, smashing the remaining
+		 three trebuchets.
+		-By that time, Libak had returned, bearing a golden book and _a rune inscribed stone tablet!_
+			-He rushed over, asking if for someone who could read Old Realm, and I stepped forward
+			 to take the tablet and book.
+			-The book's cover read, "Manse Construction, by Kalbax".
+			-The tablet's runes, meanwhile, read "Binding", "Command", and "Obedience".
+				-I fed it essence until it drank no more, 20 essence in total, and then seemed to
+				 radiate an aura of authority
+					-TODO: Are those motes _committed_? If merely spent, I how long doe the effect
+					 last? The circle seemed to notice the aura of authority.
+			-I suspected we now had in hand what we needed to address the demons.
+			-I instructed the circle to follow me downstairs, to the gate of the manse, and then
+			 walked down the stairs.
+			-Only at the gate did I turn around, to see that all of the circle had indeed followed,
+			 and told them to on their guard.
+			-With that, I drew a breath, and then pushed open the doors of the manse.
+			-At the sight of me, the demons fell to their knees (or whatever they might have to
+			 bend) in an expanding wave.
+			-"What is this treachery that brings howling you to the gates of the manse, in violation
+			 of our deal?"
+			-It was U'awa who replied, shouting that they didn't trust us to honor the deal, and
+			 that they had come to destroy the rune.
+			-"It is you who violated the deal! We stand absolved of the bargain!"
+				-Conveniently what Garn wanted.
+			-"Turn your backs to the manse, and stand guard! Raise the hue and cry if any save our
+			 circle and your host are seen!"
+			-At that, Kordal finally found her voice, releaseing a terrible, insectoid screech, but
+			 even her great bulk seemed unable to resist and, though she struggled, she turned.
+			-At that, I slammed the doors and, turning, leaned back against them and let out a,
+			 "Whew!"
+				-When I did, just momementarily, I saw the old Solars who first resided here, worn
+				 and out of breath themselves, presumably during their own retreat into the manse,
+				 before it faded back to my own circle.
+	-With the demons addressed for the moment, we went to check out this preserved room Libak spoke
+	 of.
+		-It lay through a door behind the now-shifted model, and seemed to be Bax's true bed chamber.
+		-It also looked to be unsacked, with many books and scrolls still lining the walls.
+		-A search of them revealed most or all to be manse blueprints, some of which we recognized.
+			-They described manses located in Nexus, Lookshy, being used as government buildings in
+			 various parts of The Riverlands, and _The Imperial War Manse, The Sword of Creation,
+			 the fucking Imperial Manse with which The Empress seized The Realm!_
+				-The ones for that last are partial, from an _upgrade_, not it's constuction, but
+				 include what are supposedly detailed maps of it's interior!
+				-Well holy fuck. Who wants to rule Creation?
+			-The rooms windows bricked up, and perhaps the model can even be shifted back,
+			 concealing it for as many more centuries as we might require, making it perhaps the
+			 manse's most defensible room. We can barricade it and rest inside.
+				-Garn did some reading of that golden book during that rest.
+					-It heavily discusses manse construction.
+					-It also includes two spells, a Celestial one and a Solar one:
+						-The Celestial spell is Raise the Puissant Sanctum (White Treatise pg. 79).
+						-The Solar spell works in the same way, but works instaneously, and costs
+						 20 more motes.
+					-In addition, it adds +5 auto successes to design rolls when constructing manses
+					 and allows for construction of manses with UNLIMITED manse creation points.
+				-You also had some time, during your guard shift, to play with new artifacts.
+					-Socketing your manse's hearthstone into the bracer with the prayer to Brigid 
+					 and attuning to it, you became aware of it's nature and powers.
+						-It is a Metasorcerous Phylactery. See Roll20.
+					-The amulet, then, proved to hold two more powers when fed essence.
+						-It is an Amulet of Shadow (rank 5 version, with all the powers). See Roll20.
+						-It's use fits your anima, as you alternate between hidden and shining.
+						-Holy shit, it allows you to interact with the incorpreal in Shadow Form!
+
+
 TODO:
-	-That prophecy about a battle and perhaps mastering a great evil?
-		-Does anything at the hidden manse count as "a great battle"?
-			-You're kind of paranoid since that encounter, and always looking for signs of it.
-		-Lore checks about demons? _Are_ these creatures likely to use their freedom to cause
-		 Creation ill, or otherwise so vile they deserve the the suffering inflicted on them?
-			-That _you_ sort of inflicted on them. . . You're trying to justify what sort-of-you
-			 did to them, and to maybe justify retaining a demonic construction crew.
-	-Do you know anything about Larquen Quin already? Make another Lore check?
-		-Lesley's answer: https://discord.com/channels/@me/772891797726822481/876862341491347476
-			"you dont know much about larquen quen, except what you have discovered at the previous manse. he knew when he died he would reincarnate, he also knew he would need time to train and a mentor to train him. he built a manse and had several people there to assist him with the training. he was considered a powerful and respected sorceror who knew how to use the spirits of creation to do his bidding.
-			the only thing you know from your manse is that he was developing a new kind of magic, something he discovered with his time amongst a group called "the black Nadir Concordant." whatever the magic was it was considered dangerous to even the first age solars and was made illegal
-			and, with what you have found from the pages of that book, maybe the masks have something to do with that"
-		-Totally plays into what I'm interested in exploring with Garn, as I discuss here, in
-		 response to the above: https://discord.com/channels/@me/772891797726822481/876865918146342963
+	-Figure out what's going on with that ghost/spirit/whatever that's fucking with us in the manse.
+	-Continue looking through the tombs.
+		-Notably including Atraxia's ring, still on a bone in her tomb.
 	-Downtime mask servant interactions:
 		-Ask them a lot about their subjective experience.
 			-"Do you. . . miss what you now lack?"
@@ -1092,19 +1383,27 @@ TODO:
 			 a terrible atrocity you/he committed. You're terribly tempted by this wonder, and want to
 			 believe it's a _gift_, one the your monks/family would be _glad_ to have. You're just also
 			 a bit horrified by the idea of _being_ such a being.
-		-Ask them about Larquen Quin?
+			-Did a little bit of this in session. Search "I asked him how he felt about that" above.
+		-Ask them about Larquen Quen?
 			-_Probably_ leaving out your connection to him, at least at first. If pressed as to the
-			 reason for your curiosity, you can volunteer an interest in sorcery.
+			 reason for your curiosity, you can volunteer an interest in sorcery, and his writings
+			 that you found.
 	-Figure out what to do with the artifact dagger, and those red jade blades and breastplate.
 		-The dagger: dagger, +1 acc, +2 dam, 3m attune, +1 acc every additional mote spent (max 5)
 		-I had been thinking the jade stuff may also be artifacts, but that seemed less likely,
 		 after the way Lesley revealed dagger stats more or less immediately upon examination.
 			-Ah, sounds like they are artifacts indeed.
 		-The "Slayer Katars" from Kotor Velos too.
+			-See Roll20 for stats.
 		-And whatever Libak was stabbed with, in the maze.
 			-Stats from Lesley: "pointy: speed 5, acc +1, dam +2Agg, def +0, Rate 3"
 	-Read some stuff via your Wooden Face.
-	-Investigate the "manual of sorcery by Larquen Quin".
+		-Search TODO above. At least two things exist.
+		-The letters_to_mithra.pdf as well.
+		-Oh! _Can_ you do this? Look at the spell description, if you can switch your perception
+		 back and forth or not.
+			-Yep!
+	-Investigate the "manual of sorcery by Larquen Quen".
 		-Search the quote for it in the notes.
 		-It was described as missing the back half of it's pages.
 		-Read what you can, and read it _to_ your monks for archiving.
@@ -1113,8 +1412,32 @@ TODO:
 				-The especially-relevant-to-the-book bit:
 					"the only thing you know from your manse is that he was developing a new kind of magic, something he discovered with his time amongst a group called "the black Nadir Concordant." whatever the magic was it was considered dangerous to even the first age solars and was made illegal
 					and, with what you have found from the pages of that book, maybe the masks have something to do with that"
+			-Lesley posted the bit that's readable in Roll20. READ IT!
 		-Then Incantation of Effective Restoration can probably restore it!
 			-"The sorcerer also needs more than half of the decayed item's remains to restore it."
 				-Pg. 50 of Books of Sorcery vol. 2
 			-Sounds like it passes muster. Roughly half the pages are missing, but I think the
 			 covers were mostly intact.
+				-Yep, Lesley confirmed it should work.
+	-Bring back Kalbax's architectural drawings, and go through them.
+		-Both the details of manse construction and blueprints for ancient buildings around Creation,
+		 Nexus included, seem useful.
+		-Oh! In his secret bed chamber, that gets turned up to 11!  Search "manse blueprints" above.
+
+
+TODONE:
+	-That prophecy about a battle and perhaps mastering a great evil?
+		-Does anything at the hidden manse count as "a great battle"?
+			-You're kind of paranoid since that encounter, and always looking for signs of it.
+		-Lore checks about demons? _Are_ these creatures likely to use their freedom to cause
+		 Creation ill, or otherwise so vile they deserve the the suffering inflicted on them?
+			-That _you_ sort of inflicted on them. . . You're trying to justify what sort-of-you
+			 did to them, and to maybe justify retaining a demonic construction crew.
+			-They are: https://discord.com/channels/@me/772891797726822481/876860647378411550
+	-Do you know anything about Larquen Quen already? Make another Lore check?
+		-Lesley's answer: https://discord.com/channels/@me/772891797726822481/876862341491347476
+			"you dont know much about larquen quen, except what you have discovered at the previous manse. he knew when he died he would reincarnate, he also knew he would need time to train and a mentor to train him. he built a manse and had several people there to assist him with the training. he was considered a powerful and respected sorceror who knew how to use the spirits of creation to do his bidding.
+			the only thing you know from your manse is that he was developing a new kind of magic, something he discovered with his time amongst a group called "the black Nadir Concordant." whatever the magic was it was considered dangerous to even the first age solars and was made illegal
+			and, with what you have found from the pages of that book, maybe the masks have something to do with that"
+		-Totally plays into what I'm interested in exploring with Garn, as I discuss here, in
+		 response to the above: https://discord.com/channels/@me/772891797726822481/876865918146342963
