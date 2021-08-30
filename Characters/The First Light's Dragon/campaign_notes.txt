@@ -1086,7 +1086,7 @@ TODO:
 		 splattered with what we presumed to be vengeful demon filth.
 		-It was also filled with the remains of documents, of which only clay tablets had survived
 		 the ages.
-			-They, though, depicted blue prints, for both this manse and many other buildings,
+			-They, though, depicted blueprints, for both this manse and many other buildings,
 			 including even some we recognized as First Age buildings in Nexus!
 				-The Nexus buildings interestingly showed extensive underground portions. . .
 				-All of that sounds potentially valuable, and certainly worth salvaging, though
@@ -1188,10 +1188,9 @@ TODO:
 	-The next door we checked led to a. . . servant's dormitory of a kind.
 		-It's walls were coverred in racks of masks, hundreds of them, perhaps a thousand.
 		-Some suggested clear roles, maid masks, cook masks, etc., but the vast majority were marked
-		 with and Old Realm symbol, which Blade called me over to tranlsate.
+		 with an Old Realm symbol, which Blade called me over to tranlsate.
 			-It was the mark of Rabszolga, god of slaves. . .
-			-This got the not unsuprisingly irked Golden Blade, who grabbed one, and fed essence
-			 into it.
+			-This not unsuprisingly irked Golden Blade, who grabbed one, and fed essence into it.
 			-A small, emaciated man appeared, to fill out the mask, and Blade asked him who he was,
 			 to which he received no response.
 			-Asked if he understood, the figure nodded, but did not seem able to speak.
@@ -1287,7 +1286,7 @@ TODO:
 			 orb, causing many of the more. . . mixed breeds to flee, though The Founders, the
 			 more traditional looking demons, stood fast.
 			-He then _rallied_ the fleeing crossbreeds, with Fury Inciting Presence.
-				-"We are not your enemies, the ones who made you and prey on you! You have nothing
+				-"We are not your enemies, the ones who made you and prey on you are! You have nothing
 				 to lose but your chains!"
 				-Some portion of them indeed attacked their kin, causing chaos, but still the
 				 trebuchets struck the building.
@@ -1315,7 +1314,7 @@ TODO:
 			-The tablet's runes, meanwhile, read "Binding", "Command", and "Obedience".
 				-I fed it essence until it drank no more, 20 essence in total, and then seemed to
 				 radiate an aura of authority
-					-TODO: Are those motes _committed_? If merely spent, I how long doe the effect
+					-TODO: Are those motes _committed_? If merely spent, I how long does the effect
 					 last? The circle seemed to notice the aura of authority.
 			-I suspected we now had in hand what we needed to address the demons.
 			-I instructed the circle to follow me downstairs, to the gate of the manse, and then
@@ -1342,7 +1341,7 @@ TODO:
 				 before it faded back to my own circle.
 	-With the demons addressed for the moment, we went to check out this preserved room Libak spoke
 	 of.
-		-It lay through a door behind the now-shifted model, and seemed to be Bax's true bed chamber.
+		-It lay through a door behind the now-shifted model, and seemed to be Bax's true bedchamber.
 		-It also looked to be unsacked, with many books and scrolls still lining the walls.
 		-A search of them revealed most or all to be manse blueprints, some of which we recognized.
 			-They described manses located in Nexus, Lookshy, being used as government buildings in
@@ -1351,7 +1350,7 @@ TODO:
 				-The ones for that last are partial, from an _upgrade_, not it's constuction, but
 				 include what are supposedly detailed maps of it's interior!
 				-Well holy fuck. Who wants to rule Creation?
-			-The rooms windows bricked up, and perhaps the model can even be shifted back,
+			-The rooms windows were bricked up, and perhaps the model can even be shifted back,
 			 concealing it for as many more centuries as we might require, making it perhaps the
 			 manse's most defensible room. We can barricade it and rest inside.
 				-Garn did some reading of that golden book during that rest.
@@ -1369,10 +1368,11 @@ TODO:
 					-The amulet, then, proved to hold two more powers when fed essence.
 						-It is an Amulet of Shadow (rank 5 version, with all the powers). See Roll20.
 						-It's use fits your anima, as you alternate between hidden and shining.
-						-Holy shit, it allows you to interact with the incorpreal in Shadow Form!
+						-Holy shit; it allows you to interact with the incorpreal in Shadow Form!
 
 
 TODO:
+	-That runestone TODO, above.
 	-Figure out what's going on with that ghost/spirit/whatever that's fucking with us in the manse.
 	-Continue looking through the tombs.
 		-Notably including Atraxia's ring, still on a bone in her tomb.
@@ -1414,7 +1414,7 @@ TODO:
 					and, with what you have found from the pages of that book, maybe the masks have something to do with that"
 			-Lesley posted the bit that's readable in Roll20. READ IT!
 				-It's entitled "Concerning Spirits".
-				-He. . . comes off as a colossal dick, in his own writings.
+				-He. . . comes off as a colossal dick, even in his own writings.
 					-A slaver and worse, sorcerously contorting the bodies of his victims, and
 					 eventually manipulating their very souls.
 				-The mask servants are now a kind of _god_, at the cost of their freewill, and thus
