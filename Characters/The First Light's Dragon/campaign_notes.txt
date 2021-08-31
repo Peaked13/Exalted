@@ -962,7 +962,7 @@ TODO:
 						 my vision.
 					-Avika _____, of the Zenith caste, helped Larquen summon the demons that created
 					 the fortress. She is depicted playing a flute.
-					-Maheren, of the Zenith caste, was depicted riding bareback through The Wyld, a
+					-Meherrin, of the Zenith caste, was depicted riding bareback through The Wyld, a
 					 horn at his lips, flaming spear at his side.
 						-Libak seemed to start at this one.
 					-Kotor Velos, of the Night caste, depicted as a contortionist, was the first to
@@ -970,11 +970,11 @@ TODO:
 						-He was described as being in a "Voldo-like" position.
 					-Daveg Cholurian, of the Night caste and depicted as a smith, constructed the
 					 automatons that server here.
-					-Vanzia, of the Night caste, was the one who scouted Malfeas for the demons that
-					 constructed it.
+					-Vaznia, of the Night caste, was the one who scouted Malfeas for the demons that
+					 constructed the manse.
 					-Aeo Orcas, of the Eclipse caste, bound the Solars here in oaths of fealty, that
 					 allowed them to exist here in peace, for a time.
-					-Atraxia ____, of the Eclipse caste, developed a method that let one weave stone
+					-Itraxian ____, of the Eclipse caste, developed a method that let one weave stone
 					 like silk.
 					-Surin of Justice, of the Eclipse caste, was spoken ill of by the others, but
 					 did what he could to earn his place here.
@@ -1217,7 +1217,7 @@ TODO:
 				 words: "I will return" (!!!)
 				-After Pip translated that, the rest of the circle hurridly closed the tomb again with
 				 it's slab.
-	-Atraxia the Weaver
+	-Itraxian the Weaver
 		-This tomb was already open, and there were ropes suspended from pulleys in the ceiling,
 		 seemingly used to lift the slab on top of it, such that we could simply peer in.
 		-It contained _three_ bodies. One nothing but bones, one cut in half, one mummified and pinned
@@ -1314,8 +1314,17 @@ TODO:
 			-The tablet's runes, meanwhile, read "Binding", "Command", and "Obedience".
 				-I fed it essence until it drank no more, 20 essence in total, and then seemed to
 				 radiate an aura of authority
-					-TODO: Are those motes _committed_? If merely spent, I how long does the effect
+					-Are those motes _committed_? If merely spent, I how long does the effect
 					 last? The circle seemed to notice the aura of authority.
+					-Talked with Lesley.
+						-To turn it on, you go iconic and it consumes all of one of your essence
+						 pools, typically personal.
+						-When attuned, for 1 mote, and you talk to a demon of Kordal's brood, it
+						 counts as unnatural mental influence and they must spend your essence in
+						 willpower to ignore your order.
+						-While holding it, you also get the benefits of Enemy Castigating Solar Judgement 
+							-You deal aggravated damage towards the brood, and also have some social
+							 combat benefits.
 			-I suspected we now had in hand what we needed to address the demons.
 			-I instructed the circle to follow me downstairs, to the gate of the manse, and then
 			 walked down the stairs.
@@ -1371,11 +1380,222 @@ TODO:
 						-Holy shit; it allows you to interact with the incorpreal in Shadow Form!
 
 
+8/30/21:
+	-In the run up to the session, Libak asked me what I knew of Meherrin, and I shared what I'd
+	 read in this place.
+		-He admitted to holding some of Meherrin's memories, and when I asked, said he did indeed
+		 suspect Meherrin was his past incarnation.
+	-We probably need to secure some food, as I, at least, could spend a century digesting this place.
+		-Eating demons is probably an option, but poses. . . ethical questions.
+		-The conjured food won't help us long term as, even with the cook pot, it offers no real
+		 sustenance.
+		-The masked servant in the dining room _was_ able to get a rock-hard chunk of black bread
+		 from the otherwise unopenable cabinet there, which the cookpot _could_ render edible.
+		-Stealthy supply runs may also be an option, once the blizzard dies down.
+	-We also discussed the subject of the tombs, and opted to seek them out again first.
+		-Libak now has the motes to put the occupents (more thoroughly) to rest.
+		-Pip was very intent on this, and, in so doing, kept speaking of "my" ring, in Itraxian's
+		 tomb.
+			-I questioned her and she did indeed believe Itraxian to have been here own past
+			 incarnation.
+		-We headed first back to Itraxian's again, to retrieve the ring.
+			-OOC, something I wasn't clearly aware of last time, the tomb is 30 ft. deep, posing
+			 something of a challenge.
+			-Rishi sent us off well equiped with rope, though, and, tying some to the rigging that
+			 had been used to lift the slab, Libak climbed down (he being the Zenith who could
+			 incinerate the corpses with sacred fire).
+			-Libak did his caste's thing, and retrieved the ring, climbing back up.
+				-He did report some strange gas or the like, bending his perceptions at the bottom,
+				 perhaps another trap.
+			-The ring possessed strange properties, including an arm that always pointed to our
+			 Southwest (from the room we're in, anyways).
+			-Libak handed it to Pip, who recalled that it was her _personal_ Resplendent Personal
+			 Assitant (see Roll20, but this one requires no mote committed).
+			-Pip then froze for a moment, only to shout "Cease!" at me, when she came to.
+			-Questioning her, she said she witnessed my past incarnation's work on the table above,
+			 at which I did have to admit I was Quen come again.
+		-We then went through the door from Itraxian's tomb that we'd not yet explored, to find yet
+		 another tomb.
+			-This one belonged to Vaznia, of the Night Caste.
+			-Silent Onyx spent a long time staring at the inscriptions on the walls. . .
+			-Turning a way from them, though, he quickly set to work on the tomb.
+				-Tomb raiding seemed to be a matter he was quite experienced with.
+				-He carefully disabled several traps, removing needles, fragile jars of who knows
+				 what, and under-tension razor wire.
+				-It too was 30' deep, the bottom smothered in shadows.
+				-He had our newly found Caul, though, and, blindfolding himself, could see the
+				 bottom.
+				-Within, a skeleton lay in a pile a junk, the bottom 6' or so covered in scratches.
+					-The skeleton's finger bones seemed correspondingly worn down. . .
+			-Libak again volunteered to descend into the tomb, to incinerate the corpse, and did so
+			 without incident.
+			-Searching through the junk down there, Libak found a strange mirror, wrapped in cloth.
+				-The mirror had something smeared over it, blacking it out entirely, and the cloth
+				 had writing in Old Realm, done in the same brown material as blocked the mirror.
+				-Retuning to the top, he showed it to me and, ugh, I reported that it said, "It's
+				 watching me, through the mirror."
+				-Onyx having admitted a connection to Vaznia, I asked him to take a look, but no
+				 recollection sprung to mind.
+		-From there, we continued to sweep the as of yet unexplored portions of the basement.
+			-We first came to a pantry, and, with a stroke of luck, 16 jars remained intact.
+			-Opening one of them, I found a number of biscuits, though the one I touched quickly
+			 crumbled.
+			-Pouring a jar into the cookpot gave us at least _some_ sustenance for the morning,
+			 though.
+				-Seems like each jar could sustain the lot of us for a day.
+		-Off the pantry, a metal door led to a room that was extremely cold, it's walls comprised
+		 of blocks of blue ice.
+			-Inside, a large, headless ape corpse was chained, though it's size and the huge bone
+			 spike jutting from it's shoulders suggest it was no _normal_ ape.
+		-Off the kitchen, we found another tomb, in what seemed to have once been a wine cellar.
+			-It was the tomb of Kotor Velos, as indicated by numerous images of him lining the walls.
+			-We set Onyx to work on the tomb, and he soon had it open, with no traps in evidence
+			 this time.
+			-The interior of the tomb, this time, was collapsed, the walls caved in and the shaft
+			 filled with debris.
+			-Not willing to leave a stone unturned if treasures may lie beneath, Onyx climbed down
+			 and began digging through the rubble.
+			-Sure enough, nearly four feet into the rubble, he found a black jade egg.
+			-Bringing it back up, he showed it to me, and I named a "Cache Egg", somehow able to
+			 take objects elsewhere, though I was unsure of it's operation.
+			-Libak knew it's operation and, instructing Onyx in it's operation, Onyx spent a mote
+			 and touched it, revealing a pair of silver and white jade axes, each with _three_
+			 hearthstone sockets.
+				-It's appearence suggested, in fact, a _level 4_ cache egg, able to hold up to 10
+				 cubic yards. It also has the ability to be banished Elsewhere, concealing the egg.
+				-See Roll20 for full details.
+				-This vastly improves our ability to make stealthy supply runs from here.
+		-Continuing to the East side of the basement, we found a room marked as the tomb of Kelbax.
+			-We already found his body above, though.
+			-I warned against a likely trap, and Onyx set to work.
+			-The tomb was indeed trapped and vacant, but also had seemingly fresher stonework at the
+			 bottom, forming the clear shape of a door in the wall.
+			-Onyx descended into the tomb, dodging a second trap in the process.
+			-Reaching the bottom, though, we heard a loud click and, below us, could see Onyx
+			 profusely sweating blood from his every pore.
+			-He slowly dragged himself back up the rope, asking if any of us were doctors, to which
+			 we all kind of shrugged.
+				-Golden Blade unhelpfully offered him a bottle of whiskey.
+			-Libak bravely volunteered, without a second's hesitation, to take a look down there
+			 next.
+				-Well. . . on second thought, he's still troubled by a stab wound. Perhaps it would
+				 be best to rest a bit before again trying our luck again here.
+	-We grabbed a couple of jars of biscuits, and headed back up to Kelbax's secret room to rest.
+		-Onyx and I both made a concerted effort to investigate the mechanism for closing and hiding
+		 the rooms door again. I had no real idea, but Onyx noticed an odd object that, moved on the
+		 shelf, revealed a control panel that allowed him to seal and hide the room again.
+		-While the others rested, Blade and I headed over to the dining room, to investigate the
+		 bread we'd been able to get there previousl.
+			-Activating the servant there and experimenting, it was willing to bring each of us that
+			 asked a loaf of bread three times a day.
+			-Over the next several days, we were able to retrieve some 6 days worth of loaves for
+			 us, though they eventually ran out.
+		-We also spent a lot of time debating options for leaving this place, with the blizzard
+		 being our biggest barrier.
+			-As such, we opted to ask I Am about the weather, and maybe even weather control, but
+			 with no real luck.
+	-In three days, Libak, at least, would be healed, and also able to learn a charm that would aid
+	 him in investigating the tomb, so we sealed ourselves in Bax's room.
+		-I set about dictating what I could, via my Wooden Face.
+			-I did Quen's manual of sorcery and the tablet with instructions for the rock weaving
+			 process, at least.
+		-On the second day, we heard the sounds of battle coming from outside the manse.
+		-Rushing to the defense stations, we could see a great battle taking place outside, between
+		 the demons and The Wyld Hunt.
+			-The battle was short and bloody, ultimately won by the demons, who played with and
+			 gradually ate the survivors.
+			-The demons took heavy losses themselves, though.
+			-As it ended, we heard the doors beneath us open, and then slam shut.
+		-Heading down to the vestibule, we found a trail of blood leading from the door, off through
+		 the dining room.
+			-Following it, we could hear a woman sobbing in the library.
+			-Entering it, we could see her, critcally wounded by grevious claw marks, leaning against
+			 a shelf.
+				-"Kill me if you want, anathema!"
+				-As we discussed her fate, she mentioned something about the storm extending all the
+				 way to Wangler's Knob, which doesn't sound good for us.
+				-It finally dawned on us, much to Onyx's frustration, that perhaps some of the
+				 servants knew something of medicine.
+					-I rushed off with Pip to the head servant's room, asking him if any of the
+					 servants were knowledgeable about medicine.
+					-He knodded, and led us down to the room full of masks, pulling down three of
+					 them. I thanked him and rushed back to the library.
+					-Asking if anyone had motes to spare, Libak volunteered to feed 5 motes into
+					 each of the masks.
+					-That yielded the forms of 3 women, with white smocks and leather gloves, who
+					 immediately set to work on the woman, pulling tools from ghostly bags and
+					 performing a field surgery sans anethesia.
+					-The removed the woman's. . . strange cloak, formed of two bolts of black cloth
+					 and bits of black metal we recognized as soulsteel, a thing we associated with
+					 _deathknights_.
+					-She also had a disk of orichalum, two boxes that crackled strangely when
+					 touched, and an orichalum chakra.
+						-Some rations as well, helpfully.
+					-Eventually, she seemed stable, and barely conscious.
+						-The servants then set to work on Onyx.
+				-She seemed shocked we'd let her live.
+					-She said that her life was a debt she could not easily repay, but did say she
+					 wished to offer _something_.
+					-As such, she told us of the artifacts she carried (Roll20 has them):
+						-The wings had a fivefold harmonic adapter attached, allowing her, and perhaps
+						 us, to use it as a deathknight would. They allowed the wearer to fly, and
+						 could also be used as daiklaives.
+							-The adapter itself is backed with soulsteel, limiting it's use to
+							 soulsteel artifacts.
+							-See Wings of the Raptor in Roll20.
+						-The buzzing boxes were Lightning boxes.
+						-The chakram then, was a "Sun's Fist Chakram", and was part of how they
+						 disrupted the storm.
+				-We stepped out of the room, to discuss her fate, leaving Pip to guard her.
+					-I was intent on what we could learn from her, Libak on mercy, and both Blade
+					 and Onyx on mercy.
+				-We suddenly heard a shout from Pip, yelling, "What the fuck was that?"
+					-Rushing into library, we saw Pip standing over the woman with her Rak staff,
+					 while she shouted, "I did not cast it!"
+					-Libak and Blade had already used their Judge's Ear Technique, and she did not
+					 seem to be lying.
+					-She claimed her cousin had cast a spell, the Infallible Messenger, attempting
+					 to find her, though it allowed no response.
+						-Again, no lies.
+					-Blade began to generally behave like a psycho, demanding that she agree to kill
+					 her family for some reason, a thing she said she did not _wish_ to do, insisting
+					 that he must kill her as a result.
+					-He drew his blade, while I moved to parry it and Libak and Pip sought to talk
+					 him down.
+					-They did seem to meet with some success, at least buying some time to craft an
+					 oath, without me having to catch blade with claw.
+	-We left off there, with a week of downtime, time for Pip and Libak to create their oath, Silent
+	 Onyx to heal, and perhaps some amount of advancement.
+
+
 TODO:
-	-That runestone TODO, above.
+	-Spend XP?
+		-That week of downtime is enough for a spell.
+			-The repair spell?
+				-Committing to it! XP spent, and Lesley will be giving you the rest of the book.
+				-TODO: Add it to your sheet.
+		-Or Occult charms? The charms and abilities both could be instant.
+			-Spirit-Detecting Glance is great now that you have an artifact that would let you
+			 attack them without another charm. It's a mere 8 XP.
+			-Still possible with the spell.
+			-13 more would then even get you Occult 4 and Ghost-Eating Technique. . .
+		-Only need to save 24 XP to go up in Essence when next you have 3 months.
+			-Not direly urgent, though.
+	-Suspend spells?
+		-The trigger function of the Metasorcerous Phylactery allows this.
+		-Do the hearthstone dots regenerate _even if the spell has not yet triggered_? If so, this
+		 is _crazy good for you.
+			-Lesley ruled that they do indeed! Asked about it here: https://discord.com/channels/785604556934742036/785604557518405654/882015425800585307
+
+
+TODO:
+	-Figure out a source of more food.
+		-Our limited stores are running low.
+		-Libak seems like he's getting charms to address that.
+		-Ritual of Elemental Empowerment could potentially help a little bit too, giving +3 dice to
+		 Resistance rolls vs. cold.
 	-Figure out what's going on with that ghost/spirit/whatever that's fucking with us in the manse.
 	-Continue looking through the tombs.
-		-Notably including Atraxia's ring, still on a bone in her tomb.
 	-Downtime mask servant interactions:
 		-Ask them a lot about their subjective experience.
 			-"Do you. . . miss what you now lack?"
@@ -1403,6 +1623,36 @@ TODO:
 		-Oh! _Can_ you do this? Look at the spell description, if you can switch your perception
 		 back and forth or not.
 			-Yep!
+		-Done:
+			-First half of Larquen's manual of sorcery.
+			-The tablet describing the operation of the rock weaving machine.
+	-Bring back Kalbax's architectural drawings, and go through them.
+		-Both the details of manse construction and blueprints for ancient buildings around Creation,
+		 Nexus included, seem useful.
+		-Oh! In his secret bed chamber, that gets turned up to 11!  Search "manse blueprints" above.
+	-Sources of spells:
+		-Manse
+		-Concerning Spirits part 2 (Roll20)
+			-Holy fuck. It "contain the methods of self initiation into sorcery up to Solar circle"!
+
+
+TODONE:
+	-That prophecy about a battle and perhaps mastering a great evil?
+		-Does anything at the hidden manse count as "a great battle"?
+			-You're kind of paranoid since that encounter, and always looking for signs of it.
+		-Lore checks about demons? _Are_ these creatures likely to use their freedom to cause
+		 Creation ill, or otherwise so vile they deserve the the suffering inflicted on them?
+			-That _you_ sort of inflicted on them. . . You're trying to justify what sort-of-you
+			 did to them, and to maybe justify retaining a demonic construction crew.
+			-They are: https://discord.com/channels/@me/772891797726822481/876860647378411550
+	-Do you know anything about Larquen Quen already? Make another Lore check?
+		-Lesley's answer: https://discord.com/channels/@me/772891797726822481/876862341491347476
+			"you dont know much about larquen quen, except what you have discovered at the previous manse. he knew when he died he would reincarnate, he also knew he would need time to train and a mentor to train him. he built a manse and had several people there to assist him with the training. he was considered a powerful and respected sorceror who knew how to use the spirits of creation to do his bidding.
+			the only thing you know from your manse is that he was developing a new kind of magic, something he discovered with his time amongst a group called "the black Nadir Concordant." whatever the magic was it was considered dangerous to even the first age solars and was made illegal
+			and, with what you have found from the pages of that book, maybe the masks have something to do with that"
+		-Totally plays into what I'm interested in exploring with Garn, as I discuss here, in
+		 response to the above: https://discord.com/channels/@me/772891797726822481/876865918146342963
+	-That runestone TODO, above.
 	-Investigate the "manual of sorcery by Larquen Quen".
 		-Search the quote for it in the notes.
 		-It was described as missing the back half of it's pages.
@@ -1430,25 +1680,4 @@ TODO:
 			-Sounds like it passes muster. Roughly half the pages are missing, but I think the
 			 covers were mostly intact.
 				-Yep, Lesley confirmed it should work.
-	-Bring back Kalbax's architectural drawings, and go through them.
-		-Both the details of manse construction and blueprints for ancient buildings around Creation,
-		 Nexus included, seem useful.
-		-Oh! In his secret bed chamber, that gets turned up to 11!  Search "manse blueprints" above.
-
-
-TODONE:
-	-That prophecy about a battle and perhaps mastering a great evil?
-		-Does anything at the hidden manse count as "a great battle"?
-			-You're kind of paranoid since that encounter, and always looking for signs of it.
-		-Lore checks about demons? _Are_ these creatures likely to use their freedom to cause
-		 Creation ill, or otherwise so vile they deserve the the suffering inflicted on them?
-			-That _you_ sort of inflicted on them. . . You're trying to justify what sort-of-you
-			 did to them, and to maybe justify retaining a demonic construction crew.
-			-They are: https://discord.com/channels/@me/772891797726822481/876860647378411550
-	-Do you know anything about Larquen Quen already? Make another Lore check?
-		-Lesley's answer: https://discord.com/channels/@me/772891797726822481/876862341491347476
-			"you dont know much about larquen quen, except what you have discovered at the previous manse. he knew when he died he would reincarnate, he also knew he would need time to train and a mentor to train him. he built a manse and had several people there to assist him with the training. he was considered a powerful and respected sorceror who knew how to use the spirits of creation to do his bidding.
-			the only thing you know from your manse is that he was developing a new kind of magic, something he discovered with his time amongst a group called "the black Nadir Concordant." whatever the magic was it was considered dangerous to even the first age solars and was made illegal
-			and, with what you have found from the pages of that book, maybe the masks have something to do with that"
-		-Totally plays into what I'm interested in exploring with Garn, as I discuss here, in
-		 response to the above: https://discord.com/channels/@me/772891797726822481/876865918146342963
+			-Yep, did it, and the second half is now in Roll20.
