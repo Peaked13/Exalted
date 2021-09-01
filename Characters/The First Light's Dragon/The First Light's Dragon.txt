@@ -110,7 +110,7 @@ Essence Pool:
 	Personal:	16 (Essence*3+Willpower)
 	Peripheral:	37 (Essence*7+Willpower+(sum of Virtues))
 	Attunments:
-		4m	Orichalum Hearthstone Bracers
+		4m	Orichalcum Hearthstone Bracers
 
 Movement:
 	

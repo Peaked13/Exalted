@@ -1655,7 +1655,7 @@ TODO:
 				The Spy Who Walks in Darkness (White Treatise pg. 62)
 		-Concerning Spirits part 2 (Roll20):
 			-Holy fuck. It "contain the methods of self initiation into sorcery up to Solar circle"!
-			-Terresterial circle:
+			-Terresterial Circle:
 				Demon of the First Circle (Core pg. 252)
 				Summon Elemental (Core pg. 254)
 				Curse of Slavish Humility (White Treatise pg. 42)
@@ -1669,7 +1669,7 @@ TODO:
 				X Spy who walks in darkness (White Treatise pg. 62)
 				Summoning the Lesser Minions of the Eyeless Face (White Treatise pg. 65)
 				Theft of Memory (White Treatise pg. 62)
-			-Celestial circle:
+			-Celestial Circle:
 				Demon of the Second Circle (Core pg. 255)
 				Sapphire Circle Banishment (White Treatise pg. 80)
 				Hidden Judges of the secret Flame (White Treatise pg. 72)
@@ -1679,17 +1679,25 @@ TODO:
 				Shadow Theft (White Treatise pg. 80)
 				Summoning the Greater Minions of the Eyeless Face (White Treatise pg. 83)
 				Threefold Binding of the Heart (White Treatise pg. 84)
-			-Solar circle:
-				summon 3rd circle demon, Adamant countermagic, Evocation from the Mirror, Invoking the Eyeless Face, Soul Seal, Unity of the Closed Fist
-			-Shadowlands circle Necromancy:
+			-Solar Circle:
+				Deomon of the Third Circle (Core pg. 255)
+				Adamant countermagic, Evocation from the Mirror, Invoking the Eyeless Face, Soul Seal, Unity of the Closed Fist
+			-Shadowlands Circle Necromancy:
 				Summon Ghost, Banish Ghost, Gathering a ghost's strings, Stones worn smooth, Without pity without scorn
-		-Kelbax manse construction book:
-			
+		-"Manse Construction, by Kalbax":
+			-Celestial Circle:
+				Raise the Puissant Sanctum (White Treatise pg. 79).
+			-Solar Circle:
+				The Solar spell works in the same way, but works instaneously, and costs 20 more motes.
+			-In addition, it adds +5 auto successes to design rolls when constructing manses
+			 and allows for construction of manses with UNLIMITED manse creation points.
 	-Use the phylactery to suspend even _wackier_ spells?
 		-Manifestation would allow, GM permitting, stuff like, say, _Fire_ Dragon's Claws.
 	-More Wooden Faces?
 		-Can you get a tree growing at The Invisible Manse? Maybe with the help of that wood spirit
 		 we briefly saw on the way up to the manse, or similar? Lore/Occult checks to figure that out?
+			-Yep, sounds like it: https://discord.com/channels/@me/772891797726822481/882494098081194006
+			-Wood elemental could soon be summonable by you.
 	-Justify the servitude of those demons by offering banishment, what they sought?
 
 
