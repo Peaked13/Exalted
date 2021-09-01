@@ -275,5 +275,18 @@ Advancement:
 		-Too much duplication of your spells.
 		-More Ox-Body _is_ straight great, though!
 	-(DONE!) Investigation 2 would only cost you one XP.
+	-Medicine?
+		-No one else is good at it, and, as in character reasons, you both saw it's need at The
+		 Invisible Manse, when your allies were injured, and saw Larquen had thought it worth his
+		 time (though, gods, the terrible ends he put that knowledge too. . .).
+		-The Charms are pretty solid too, though truely amazing stuff requires tax-y charms, multiple
+		 one in a combo, etc.
+			-Instant healing never quite happens, though.
+			-Temp health level for 10m committed per, for you or others, _does_ happen, though.
+	-Lore Charms?
+		-Essence-Lending Method is a strong argument for the circle giving you every hearthstone we
+		 find, would then be genuinely good, and is available to you now.
+		-Lore 5 plus an excellency or two allows genuinely rediculous stuff, line leadership-essence-pool
+		 and the (XP-less?) you-and-group training ones.
 	-Tentative schedule:
 		

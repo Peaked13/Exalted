@@ -1569,7 +1569,7 @@ TODO:
 
 
 TODO:
-	-Spend XP?
+	-Spend XP? 29 left after getting the repair spell.
 		-That week of downtime is enough for a spell.
 			-The repair spell?
 				-Committing to it! XP spent, and Lesley will be giving you the rest of the book.
@@ -1664,16 +1664,16 @@ TODO:
 				Mists of Eventide (White Treatise pg. 53)
 				Open the Spirit Door (White Treatise pg. 54)
 				Peacock Shadow Eyes (White Treatise pg. 55)
-				X Ritual of Elemental Empowerment (White Treatise pg. 57)
+				Ritual of Elemental Empowerment (White Treatise pg. 57)
 				Shadow Summons (White Treatise pg. 58)
-				Sorcerors irresistable puppetry (White Treatise pg. 60)
-				X Spy who walks in darkness (White Treatise pg. 62)
+				Sorcerors Irresistable Puppetry (White Treatise pg. 60)
+				Spy who walks in darkness (White Treatise pg. 62)
 				Summoning the Lesser Minions of the Eyeless Face (White Treatise pg. 65)
 				Theft of Memory (White Treatise pg. 62)
 			-Celestial Circle:
 				Demon of the Second Circle (Core pg. 255)
 				Sapphire Circle Banishment (White Treatise pg. 80)
-				Hidden Judges of the secret Flame (White Treatise pg. 72)
+				Hidden Judges of the Secret Flame (White Treatise pg. 72)
 				Imbue Amalgam (White Treatise pg. 74)
 				Insidious tendrils of hate (White Treatise pg. 76)
 				The Princes of the Fallen Tower (White Treatise pg. 78)
@@ -1688,7 +1688,11 @@ TODO:
 				Soul Seal (White Treatise pg. 96)
 				Unity of the Closed Fist (White Treatise pg. 98)
 			-Shadowlands Circle Necromancy:
-				Summon Ghost, Banish Ghost, Gathering a ghost's strings, Stones worn smooth, Without pity without scorn
+				Banish Ghost (Black Treatise PDF pg. 124)
+				Gathering a Ghost's Strings (Black Treatise PDF pg. 130)
+				Stones Worn Smooth (Black Treatise PDF pg. 135)
+				Summon Ghost (Black Treatise PDF pg. 135)
+				Without pity without scorn (Black Treatise PDF pg. 136)
 		-"Manse Construction, by Kalbax":
 			-Celestial Circle:
 				Raise the Puissant Sanctum (White Treatise pg. 79).
@@ -1704,6 +1708,7 @@ TODO:
 			-Yep, sounds like it: https://discord.com/channels/@me/772891797726822481/882494098081194006
 			-Wood elemental could soon be summonable by you.
 	-Justify the servitude of those demons by offering banishment, what they sought?
+	-Acquire more cultists.
 
 
 TODONE:
