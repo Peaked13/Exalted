@@ -717,7 +717,7 @@ TODO:
 			Waterproofing agent (1qt)
 		-We also considered hiring a guide, though I had my reservations about letting anyone else
 		 near the manse.
-			-It proved a moot point, though. This whole affair was born of Orichalum shards found in
+			-It proved a moot point, though. This whole affair was born of Orichalcum shards found in
 			 the area and, Rishi apparently not being the only one to know of that, the town is
 			 packed with treasure hunters. The only guide we found had body guards at the door turning
 			 away any that could not offer many talens of jade, a vastly inflated price.
@@ -1019,7 +1019,7 @@ TODO:
 				 the rest of the manse.
 					-TODO: read that, and give it the wooden face archiving too.
 		-West of there lay the conjuring room.
-			-It featured three summoning circles, inlaid in the floor with Orichalum. One for demons,
+			-It featured three summoning circles, inlaid in the floor with Orichalcum. One for demons,
 			 one for elementals, and one unlike anything I'd ever heard, but which yet felt familiar.
 			-Hopefully the tome sheds some light on the subject.
 		-The next room we found contained the _false_ garden.
@@ -1573,7 +1573,6 @@ TODO:
 		-That week of downtime is enough for a spell.
 			-The repair spell?
 				-Committing to it! XP spent, and Lesley will be giving you the rest of the book.
-				-TODO: Add it to your sheet.
 		-Or Occult charms? The charms and abilities both could be instant.
 			-Spirit-Detecting Glance is great now that you have an artifact that would let you
 			 attack them without another charm. It's a mere 8 XP.
@@ -1581,11 +1580,22 @@ TODO:
 			-13 more would then even get you Occult 4 and Ghost-Eating Technique. . .
 		-Only need to save 24 XP to go up in Essence when next you have 3 months.
 			-Not direly urgent, though.
+			-Maybe get Spirit-Detecting Glance, counting on the fact that you'll get at _least_ 3
+			 more XP before your next batch of downtime?
+				-Lets confirm the details of that Amulet of Shadow Walking and then do it.
+				-Ah, it lets you see them anyways!
 	-Suspend spells?
 		-The trigger function of the Metasorcerous Phylactery allows this.
 		-Do the hearthstone dots regenerate _even if the spell has not yet triggered_? If so, this
 		 is _crazy good for you.
 			-Lesley ruled that they do indeed! Asked about it here: https://discord.com/channels/785604556934742036/785604557518405654/882015425800585307
+			-Also confirmed spell cost motes regenerate: https://discord.com/channels/785604556934742036/785604557518405654/882375725099937824
+	-Description of how you spend that week: https://discord.com/channels/785604556934742036/785604557518405654/882383781439348756
+		.   Well, then, for the rest of the circle, Garn spends most of the week we're barricading ourselves in Bax's room sitting on the floor, legs crossed and eyes closed, apparently meditating.
+		.   At the beginning of the week, though, he pulls up his long sleeves, undoes the strips of white cloth wrapping something on his forearms, revealing them to be a pair of shining Orichalcum bracers. Slowly, he removes them both, and, from one of them, removes a lustrous orange gem stone (a hearthstone, to those who'd recognize it). He takes it, and inserts it into socket on another bracer, the ornate one found on the severed arm in the attic above, and places that artifact on his right arm.
+		.   He then immediately sets about casting three spells, to no apparent effect, only to then reverse the process with the bracers, stashing the new one back in his bag, and then going back to maybe-meditating on the floor.
+		.   Towards the end of the week, he again springs into strange action, this time pulling a damaged book from his backpack. It's one from the library in the manse, missing the back half of it's golden pages. He begins a casting ritual over it, though, and, a minute later, it's been restored to seemingly pristine condition, all pages intact. He then sits right back down on the floor and begins reading it, starting from the middle.
+		(He doesn't offer any explanations of what he's doing, though you're more than welcome to question him!)
 
 
 TODO:
@@ -1631,9 +1641,56 @@ TODO:
 		 Nexus included, seem useful.
 		-Oh! In his secret bed chamber, that gets turned up to 11!  Search "manse blueprints" above.
 	-Sources of spells:
-		-Manse
-		-Concerning Spirits part 2 (Roll20)
+		-Manse:
+			-Terrestrial Circle Spells:
+				X Emerald Countermagic
+				X Invulnerable Skin of Bronze
+				X Stormwind Rider
+				X Wood Dragon's Claw
+				Burning Eyes of the Offender (White Treatise pg. 39)
+				X Incantation of Effective Restoration (White Treatise pg. 49)
+				Personal Tempest (White Treatise pg. 55)?
+				Ritual of Elemental Empowerment (White Treatise pg. 57)
+				X Spoke the Wooden Face (White Treatise pg. 61)?
+				The Spy Who Walks in Darkness (White Treatise pg. 62)
+		-Concerning Spirits part 2 (Roll20):
 			-Holy fuck. It "contain the methods of self initiation into sorcery up to Solar circle"!
+			-Terresterial circle:
+				Demon of the First Circle (Core pg. 252)
+				Summon Elemental (Core pg. 254)
+				Curse of Slavish Humility (White Treatise pg. 42)
+				Emerald Circle Banishment (White Treatise pg. 44)
+				Mists of Eventide (White Treatise pg. 53)
+				Open the Spirit Door (White Treatise pg. 54)
+				Peacock Shadow Eyes (White Treatise pg. 55)
+				X Ritual of Elemental Empowerment (White Treatise pg. 57)
+				Shadow Summons (White Treatise pg. 58)
+				Sorcerors irresistable puppetry (White Treatise pg. 60)
+				X Spy who walks in darkness (White Treatise pg. 62)
+				Summoning the Lesser Minions of the Eyeless Face (White Treatise pg. 65)
+				Theft of Memory (White Treatise pg. 62)
+			-Celestial circle:
+				Demon of the Second Circle (Core pg. 255)
+				Sapphire Circle Banishment (White Treatise pg. 80)
+				Hidden Judges of the secret Flame (White Treatise pg. 72)
+				Imbue Amalgam (White Treatise pg. 74)
+				Insidious tendrils of hate (White Treatise pg. 76)
+				The Princes of the Fallen Tower (White Treatise pg. 78)
+				Shadow Theft (White Treatise pg. 80)
+				Summoning the Greater Minions of the Eyeless Face (White Treatise pg. 83)
+				Threefold Binding of the Heart (White Treatise pg. 84)
+			-Solar circle:
+				summon 3rd circle demon, Adamant countermagic, Evocation from the Mirror, Invoking the Eyeless Face, Soul Seal, Unity of the Closed Fist
+			-Shadowlands circle Necromancy:
+				Summon Ghost, Banish Ghost, Gathering a ghost's strings, Stones worn smooth, Without pity without scorn
+		-Kelbax manse construction book:
+			
+	-Use the phylactery to suspend even _wackier_ spells?
+		-Manifestation would allow, GM permitting, stuff like, say, _Fire_ Dragon's Claws.
+	-More Wooden Faces?
+		-Can you get a tree growing at The Invisible Manse? Maybe with the help of that wood spirit
+		 we briefly saw on the way up to the manse, or similar? Lore/Occult checks to figure that out?
+	-Justify the servitude of those demons by offering banishment, what they sought?
 
 
 TODONE:

@@ -15,8 +15,14 @@ Standard Claws (15 pts., Essence+Occult max each, can change reflexively at begi
 	Entered into character sheet.
 
 
-
-
+Suspended spells, by trigger:
+	"The dragon's claws are long and sharp."
+		Wood Dragon's Claw
+	"The dragon's scales turn blades."
+		Invulnerable Skin of Bronze
+	"The dragon takes wing."
+		Stormwind Rider
+Stuff previously suspended:
 
 
 
