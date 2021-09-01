@@ -1655,6 +1655,7 @@ TODO:
 				The Spy Who Walks in Darkness (White Treatise pg. 62)
 		-Concerning Spirits part 2 (Roll20):
 			-Holy fuck. It "contain the methods of self initiation into sorcery up to Solar circle"!
+				-Shadowlands Circle Necromancy too: https://discord.com/channels/@me/772891797726822481/882491716714774538
 			-Terresterial Circle:
 				Demon of the First Circle (Core pg. 252)
 				Summon Elemental (Core pg. 254)
@@ -1680,8 +1681,12 @@ TODO:
 				Summoning the Greater Minions of the Eyeless Face (White Treatise pg. 83)
 				Threefold Binding of the Heart (White Treatise pg. 84)
 			-Solar Circle:
+				Adamant countermagic (Core pg. 255)
 				Deomon of the Third Circle (Core pg. 255)
-				Adamant countermagic, Evocation from the Mirror, Invoking the Eyeless Face, Soul Seal, Unity of the Closed Fist
+				Evocation from the Mirror (White Treatise pg. 91)
+				Invoking the Eyeless Face (White Treatise pg. 92)
+				Soul Seal (White Treatise pg. 96)
+				Unity of the Closed Fist (White Treatise pg. 98)
 			-Shadowlands Circle Necromancy:
 				Summon Ghost, Banish Ghost, Gathering a ghost's strings, Stones worn smooth, Without pity without scorn
 		-"Manse Construction, by Kalbax":
