@@ -1711,13 +1711,19 @@ TODO:
 	-Acquire more cultists.
 	-Work with your allied (or "allied" exalts):
 		-The fey-bound deathknight
+			-Ask her if she knows Necromancy, now that you can self-initiate into it.
+				-Even if you don't want to learn something yourself right now, can she _write it
+				 down_?
 		-The Wild-Hunt-affiliiated Terrestrial
 			-Raised her oath again here: https://discord.com/channels/785604556934742036/785604557518405654/884538294606643210
+			-Ask her what she knows of deathknights, they being the thing she claimed to be truely
+			 concerned with?
 	-Perhaps pursue that Windigo?
 		-Might help ingratiate ourselves with that Wild-Hunt-affiliiated Terrestrial, who had been
 		 hunting it herself, or even help gain cultists, if we publicly claim credit for it.
 		-Raised it here: https://discord.com/channels/785604556934742036/785604557518405654/884559331570380840
 		-Do Lore checks and talk with the Terresterial to figure out if we can take it, though.
+			-Heard this from Lore/Occult, but doesn't give a clear idea if we can take it: https://discord.com/channels/785604556934742036/785604557518405654/884595066000269393
 
 
 TODONE:
