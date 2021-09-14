@@ -952,7 +952,7 @@ TODO:
 					 South.
 					-Crinis Proles, also of Twilight, was the one who painted these portraits, and
 					 many of the other works in the manse.
-					-The next portrait felt like looking in a mirror She said it was Larquen Quen,
+					-The next portrait felt like looking in a mirror. She said it was Larquen Quen,
 					 of Twilight, and the creator of these masks.
 						-Clearly, before me stands a portrait of one of my predecessors, The Last
 						 Light's Dragon.
@@ -1105,7 +1105,7 @@ TODO:
 			-It proved to be a "Shadowlight Caul", inverting darkness and light for the purposes of
 			 vision.
 			-It seemed of great use to Silent Onyx, who I offered it up to.
-		-The other was an amulet, of onyx, orichalum, and jade. Not to be shown up _twice_, Blade
+		-The other was an amulet, of onyx, orichalcum, and jade. Not to be shown up _twice_, Blade
 		 placed it around his neck. He was instantly wreathed in concealing shadows, and said it
 		 also tugged at his Essence, as if it could be fed Essence for some effect.
 			-This too we offered up to Silent Onyx, but he seemed uninterested, confident in his
@@ -1222,7 +1222,7 @@ TODO:
 		 seemingly used to lift the slab on top of it, such that we could simply peer in.
 		-It contained _three_ bodies. One nothing but bones, one cut in half, one mummified and pinned
 		 to the wall by a scythe blade, likely part of a sprung trap.
-			-The bones had a orichalum ring, set with a single jewel.
+			-The bones had a orichalcum ring, set with a single jewel.
 			-The trap-pinned mummy, on the other hand, bore the Mon of House Peleps, one of the
 			 twelve great houses of the Dragonborn. Perhaps we were not the first to find the
 			 manse in the last millenia. . .
@@ -1396,7 +1396,7 @@ TODO:
 		-Libak now has the motes to put the occupents (more thoroughly) to rest.
 		-Pip was very intent on this, and, in so doing, kept speaking of "my" ring, in Itraxian's
 		 tomb.
-			-I questioned her and she did indeed believe Itraxian to have been here own past
+			-I questioned her and she did indeed believe Itraxian to have been her own past
 			 incarnation.
 		-We headed first back to Itraxian's again, to retrieve the ring.
 			-OOC, something I wasn't clearly aware of last time, the tomb is 30 ft. deep, posing
@@ -1456,9 +1456,9 @@ TODO:
 			-Not willing to leave a stone unturned if treasures may lie beneath, Onyx climbed down
 			 and began digging through the rubble.
 			-Sure enough, nearly four feet into the rubble, he found a black jade egg.
-			-Bringing it back up, he showed it to me, and I named a "Cache Egg", somehow able to
+			-Bringing it back up, he showed it to me, and I named it a "Cache Egg", somehow able to
 			 take objects elsewhere, though I was unsure of it's operation.
-			-Libak knew it's operation and, instructing Onyx in it's operation, Onyx spent a mote
+			-Libak knew it's operation and, instructing Onyx in how to work it, Onyx spent a mote
 			 and touched it, revealing a pair of silver and white jade axes, each with _three_
 			 hearthstone sockets.
 				-It's appearence suggested, in fact, a _level 4_ cache egg, able to hold up to 10
@@ -1525,11 +1525,11 @@ TODO:
 					-That yielded the forms of 3 women, with white smocks and leather gloves, who
 					 immediately set to work on the woman, pulling tools from ghostly bags and
 					 performing a field surgery sans anethesia.
-					-The removed the woman's. . . strange cloak, formed of two bolts of black cloth
+					-They removed the woman's. . . strange cloak, formed of two bolts of black cloth
 					 and bits of black metal we recognized as soulsteel, a thing we associated with
 					 _deathknights_.
-					-She also had a disk of orichalum, two boxes that crackled strangely when
-					 touched, and an orichalum chakra.
+					-She also had a disk of orichalcum, two boxes that crackled strangely when
+					 touched, and an orichalcum chakra.
 						-Some rations as well, helpfully.
 					-Eventually, she seemed stable, and barely conscious.
 						-The servants then set to work on Onyx.
@@ -1546,9 +1546,11 @@ TODO:
 						-The buzzing boxes were Lightning boxes.
 						-The chakram then, was a "Sun's Fist Chakram", and was part of how they
 						 disrupted the storm.
+					-She also gave her name as Catala Gaman (in the Imperial style, Catala is the
+					 name of her House).
 				-We stepped out of the room, to discuss her fate, leaving Pip to guard her.
 					-I was intent on what we could learn from her, Libak on mercy, and both Blade
-					 and Onyx on mercy.
+					 and Onyx on her death.
 				-We suddenly heard a shout from Pip, yelling, "What the fuck was that?"
 					-Rushing into library, we saw Pip standing over the woman with her Rak staff,
 					 while she shouted, "I did not cast it!"
@@ -1596,14 +1598,231 @@ TODO:
 		.   He then immediately sets about casting three spells, to no apparent effect, only to then reverse the process with the bracers, stashing the new one back in his bag, and then going back to maybe-meditating on the floor.
 		.   Towards the end of the week, he again springs into strange action, this time pulling a damaged book from his backpack. It's one from the library in the manse, missing the back half of it's golden pages. He begins a casting ritual over it, though, and, a minute later, it's been restored to seemingly pristine condition, all pages intact. He then sits right back down on the floor and begins reading it, starting from the middle.
 		(He doesn't offer any explanations of what he's doing, though you're more than welcome to question him!)
+	-Return to the fresher stonework in Bax's tomb?
+		-Has the gas or whatever dissipated?
+
+
+9/13/21:
+	-Golden Blade seemed to have some visions during our week of rest, mentioning that his name was
+	 once "Morning Star", and that he had been betrayed by a member of his circle.
+	-Libak did indeed venture forth, in search of supplies.
+		-With him were a large wolf, a giant snake, and a person bisected down the middle, half
+		 male and half female, dressed in raven feathers.
+			-Silver Maw Bliss, the wolf, who was seeking the one known as "Morning Star", and who
+			 went straight up to Blade, smelling him.
+				-After smelling him, he shifted form, into a man's form.
+				-Blade seemed to recognize him, in this form. It would seem Silver Maw Bliss was
+				 acquainted with his last incarnation.
+					-Blade remarked that he'd been reborn too, only for Silver Maw to claim he'd
+					 never died.
+			-Blood Stained Wind was the serpent, who eventually shifted form into a woman.
+			-The last was introduced as Two-Faced Raven, who was once known as Raven Singer, until
+			 a Solar named Contentious Blade killed her.
+				-Blade also seemed to know her from his visions, saying he, "pitied her."
+		-Blade asked the trio how they shifted forms thusly, and they claimed to be the chosen of
+		 Luna.
+		-They also brought with them two deer they'd caught and killed, easing our supply concerns
+		 somewhat.
+	-We eventually headed upstairs, and, in debating that, mentioned something about our dragonborn
+	 prisoner.
+		-Silver Maw seemed alarmed that we had one of them here, but Blood Stained Wind approved,
+		 apparently on the same page as me, saying she could be a valuable source of information.
+	-After walking upstairs, the lunars spent some time examining the paintings in the parlor, while
+	 Libak, Blade, and I stepped aside to discuss how we should continue.
+		-Mostly, I was unsure if we should make introductions amongst the other Exalt-types without
+		 settling the matter of the oath.
+			-Ultimately, we decided the oath must first go forward.
+		-The subject of Larquen Quen also came up, with Blade asking if anyone knew who this was,
+		 he being that one that had betrayed his past incarnation. . .
+			-Blade had apparently missed Libak and my exchange on this subject before, so I was
+			 rather cagey and did not admit to being him reborn.
+			-Blade spoke at some length of the undying magnitude of Quen's sin, though some oblique
+			 cajoling on my part got him to admit that the combination of his and Quen's death both
+			 may have settled the matter.
+			-In the course of this, Pip also disclosed some knowledge of Quen, and a commitment to
+			 _not_ murdering him (a nice change!).
+	-With our plan settled, we left the lunars in the parlor, to go administer the oath.
+		-Gaman assented to the oath.
+	-With that done, Libak disclosed the news of our new shapeshifting visitors.
+		-Gaman's face showed alarm at the mention of the lunars, but she held her tongue.
+	-Returning to the parlor, Two-Faced Raven was staring at the image of Meherrin, while Blood
+	 Stained Wind pointedly looked everywhere _but_ the portrait of Quen.
+		-I preformed the introductions, and we set about dicussing our next course of action.
+		-In the course of this, Libak mentioned that the storm was now gone. Two-Faced Raven had
+		 apparently dispelled it, suggesting a sorcerous origin for it.
+			-That certainly increases our options.
+		-We also discussed the business that brought the lunars here.
+			-Silver Maw's was already fairly clear, and indeed he'd come seeking out "his" Morning
+			 Star.
+				-The discussion veered into some awkward and alarming sexual tension between the two
+				 of them for a bit.
+			-Two-Faced Raven also seemed to be here seeking Blade, saying, somewhat cryptically, that
+			 he was "weak", for seeking the trappings of this manse, claiming that they could show
+			 him he had no need for such things.
+			-Blood Stained Wind remained silent through this, and so I addressed her directly, asking
+			 what brought _her_ here.
+				-Me speaking to her seemed to cause her visible discomfort, but she kept glancing at
+				 Silent Onyx, eventually addressing him as "her Vaznia", and complaining that he'd
+				 given away her wedding gift, gesturing at the Amulet of Shadowwalking that Libak
+				 currently carried.
+				-Libak nervously returned the amulet to Onyx, saying something about having "just
+				 borrowed it."
+				-I think that gives us a strong sense of what her motivation is here, then.
+		-We decided to return to our exploration of the manse, as we still sought the hearthstone.
+			-Blood Stained Wind expressed some amusement at the thought of "Vaznia" robbing tombs,
+			 a thing she claimed Vaznia would once have thought beneath her.
+			-Two-Faced Raven said she'd remain and keep watch over "this thing", in reference to our
+			 dragonborn prisoner (ally?). Silver Maw also opted to remain, after a brief exchange
+			 with Golden Blade.
+	-We went back to the (false) tomb of Kelbax, to resume what we were working on when Silent Onyx
+	 was injured.
+		-After some hemming and hawing, Golden Blade volunteered to be our gas-canary, and we lowered
+		 him into the tomb, to see if the gas that had attacked Onyx's skin had dissipated.
+		-Blood Stained Wind also followed him in, after shifting into the form of a hummingbird,
+		 though one that retained distinctly snake-like scales around the eyes.
+		-They reported no sign of the gas below, so Silent Onyx slid down the rope to join them.
+		-Carefully examining the strangely fresh stonework he'd noticed earlier, Onyx found that,
+		 rather than stones, it was a grid of buttons.
+		-Following traces of repeated fingerprints on _some_ of the stones, Onyx was able to press
+		 the correct pattern, allowing the wall to swing inwards, revealing a passage.
+		-Inside, a long hallway, supported by pillars and decorated with glazed tiles of many colors,
+		 led to another doorway.
+		-Taking the lead, Onyx approached the door, only to hear a click as he stepped up to it.
+		-He thankfully managed to dodge what turned out to be a razor-thin wire of orichalcum, studded
+		 with blue crystals to form a sawblade-like texture.
+			-Perhaps a thing worth coming back to, given the valuable orichalcum.
+		-More carefully now, he examined the door before proceeding, then boldly tried the knob.
+		-Inside was a chamber containing nothing but another door, this time emblazoned with a golden
+		 sunburst.
+			-I recognized it as a common form of magical door, one the exalted often used for vaults
+			 and the like where they wished to keep mortals out. Most commonly, they simply required
+			 that essence be fed in to open.
+			-I indeed began to feed essence into it, mote by mote.
+			-Onyx, meanwhile, had his attention caught by a portion of the wall. Scraping away at it,
+			 he found the "stone" to be a facade, concealing a small door, just large enough for an
+			 adult to crawl through.
+			-I abandoned my attempts at what I now suspected was a mere distraction, as Blade crawled
+			 through the revealed door.
+		-It led to a pillared chamber, featuring two levers, one at the center of six sunbursts.
+			-I took a look inside myself, but neither of use could make much sense of what we saw,
+			 though something about the construction of the room felt. . . off to me.
+			-Blood Stained Wind confirmed my impression, suggesting that it was the pillars that
+			 were wrong, missing two in the center the pattern called for.
+			-Onyx found that the pillars were threaded through with fine wire, connected to the
+			 sunburst door in a way suggesting the room would collapse were it opened.
+			-The wires provided the crucial clue, though, as, tracing them, they carefully avoided
+			 one door-sized section of wall. Searching the area carefully, Onyx found a lever hidden
+			 near the base of the wall and, flipping it, indeed opened a hidden door there.
+		-That led to yet another hallway, terminating in a door inside an alcove.
+			-Onyx approached the door, only for the floor to again click at his step, leading to the
+			 floor falling away, and him with it.
+				-He was able to avoid rocks beneath or the debris falling with him, as he plunged
+				 into freezing water.
+				-Thankfully, he was able to climb out of the dunk shaft.
+			-I came to join him in the room above after his fall and shout, while he searched
+			 the room further, finding many more pit traps like the first.
+			-He also carefully examined the door, finding no traps, just a lock, and so picked
+			 the lock and went through.
+		-I followed him into the next room after hearing a voice call out in Old Realm, saying,
+		 "One of us speak the truth. The other only lies."
+			-Inside, there were three faces on the walls, one smiling, one neutral, and one
+			 frowning, it's mouth opening onto a stairway. As I entered, the neutral face
+			 repeated the statement, and again, when Pip joined us.
+			-Onyx asked aloud, "Which way to the hearthroom?"
+				-The smiling face responded, "This way!" opening it's mouth to reveal another
+				 stairway leading down.
+			-Pip asked the other, frowning face, "Is what your brother said true?"
+				-"Yes, it is."
+			-I then asked the central, neutral face, "What of you? Are you involved in the game
+			 or are you simply the referee, which only yielded a repeat of its message.
+			-Pip then asked, of both masks leading to passages, "Do you speak The rivertongue?"
+				-The both of them responded in the Rivertongue, the smiling one saying "No," and
+				 the frowning one saying, "Yes!"
+			-Shit, that's _both_ of them lying at one point or another.
+			-After a bit more back and forth, Pip asked them if they were _both_ liars, and they
+			 both responded, "No," both lying (speech in the Rivertongue now enabling the use of
+			 Judge's Ear by those who have it, as they do not speak Old Realm).
+			-It would seem both _can_ lie, and, thinking back, the riddle only specified that
+			 one always _lied_, and that the other _does_ speak the truth, and may not be
+			 _obligated_ to.
+			-With that realization, we quickly determined the one frowning always lied, and was
+			 thus, paradoxically, our best source of truth.
+			-We were then able to get it to quickly reveal to us, through lies, that it contained
+			 (what it considered, at least, to be) the correct passage, and we sent Silent Onyx
+			 down it.
+		-That led down to another door, opening into a chamber with five more doors.
+			-One door was open, leading to a room covered in scorch marks.
+				-Perhaps the triggered remains of yet another trap?
+			-While Onyx was off down that passage, Blood Stained Wind spoke up: "Do you remember
+			 the pact we made?"
+				-We were all once members of The Black Nadir Concordant. All save Silent Onyx. . .
+				-Blood Stained Wind found the mirror while we broke open the tombs of The Neverborn
+				 retrieving it from sunken Oceanus.
+				-Vaznia sought the mirror, meaning to prove our crimes against the Solar deliberative
+				 and we, sworn to keep each other's secrets, kept it from her.
+					-She was unaware, at very least, of Blood Stained Wind's membership in the
+					 Concordant.
+				-Blood Stained Wind recommended that we kill Silent Onyx, before he discovered the
+				 secret of her, and our, betrayal.
+				-"What, though, was the mirror?", we asked her. "Why did Vaznia want it?"
+					-"Larquen told me some things about it. He said it could twist the essence of a
+					 Solar that looked into it, and that such things would enable greater mastery of
+					 the dead."
+						-Hmm. . . that reminded me of the deathknights,  
+					-She also mentioned that the mirror was a shard of obsidian glass, and one that
+					 shed cold to the extent that she was forced to carry it wrapped in many layers
+					 of cloth.
+					-Well, that did not sound like the mirror we found, though I felt compelled to
+					 check, showing it to Blood Stained Wind.
+					-She confirmed that it was not the mirror she spoke of, but said that she _did_
+					 recognize it, and was surprised Vaznia had kept it.
+						-It was the work of mortal hands, but a sentimental object, the mirror
+						 through which Vaznia had once watched her as she brushed Vaznia's hair.
+				-We were less than enthused about murdering Onyx, and worked to talk Blood Stained
+				 Wind out of it.
+					-She eventually relented on this score, but still seemed uneasy, and asked that
+					 we keep her secret, and the secret of this mirror, from Onyx.
+					-On the latter, I had some concerns. What if he found, and _looked into_ the
+					 mirror?
+					-We decided it was best to at least inform him of the mirrors danger, though
+					 we could certainly keep silent about our part in it's presence here.
+		-We joined Silent Onyx in the chamber down the hallway.
+			-He said he believed he'd found the way forward, and we in turn warned him not to look
+			 into any cold obsidian mirrors, lest it "twist our essences".
+				-He was thankfully incurious about how we learned this.
+		-Following the path Onyx had found, we found a chamber containing a ramshackle door set into
+		 a marble archway and a strange white-jade plate, 10' across, and studded with runes and
+		 blue crystal spiked caltrop shapes.
+			-The door seemed constructed from debris from the manse above, and featured a keyhole.
+			-The plate, meanwhile, had a key and swordhilt with a shaft of bamboo growing from it,
+			 lying near the center of the plate.
+				-I recognized it as a species of magnet, but knew no more.
+				-Onyx claimed he could likely open the door without the key, but we wanted that
+				 sword. . .
+				-As such, Golden Blade stepped onto the plate, and all of us suddenly felt a tug
+				 towards it.
+				-Most of us managed to find a handhold to grab onto, but Libak was sucked towards the
+				 plate and it's caltrops.
+				-He was nearly impaled on one of the caltrops, but his anima flared as he used a
+				 charm, and the spike failed to pierce his now oak-hard skin.
+				-A moment later, the magnet's force reversed, and all of us were suddenly being
+				 pushed towards the ceiling.
+				-This time, though, all of us managed to hold on.
+				-Finally, magnet's force relaxed, Onyx opened the lock on the door, the rest of us
+				 quickly following him.
+					-Libak even managed to grab the bamboo-bladed sword.
+		-This chamber featured a large porcelain mask who, at our arrival opened it's eyes.
+			-"Halt!", it said, first in Old Realm and then repeating it in many languages. "Speak the
+			 password or die!", it continued, again repeating it in each language, then finally
+			 shouting in all at once, "You have 30 seconds!"
+			-After a stressful 28 seconds, Pip recovered a timely memory of her past incarnation,
+			 speaking the password and yielding a "Greetings, honored ones." from the mask, and an
+			 open door.
+			-We passed through it into the next door, and left off the session there.
 
 
 TODO:
-	-Figure out a source of more food.
-		-Our limited stores are running low.
-		-Libak seems like he's getting charms to address that.
-		-Ritual of Elemental Empowerment could potentially help a little bit too, giving +3 dice to
-		 Resistance rolls vs. cold.
+	-Examine the bamboo sword, from the 9/13/21 session.
 	-Figure out what's going on with that ghost/spirit/whatever that's fucking with us in the manse.
 	-Continue looking through the tombs.
 	-Downtime mask servant interactions:
@@ -1771,3 +1990,10 @@ TODONE:
 			 covers were mostly intact.
 				-Yep, Lesley confirmed it should work.
 			-Yep, did it, and the second half is now in Roll20.
+	-Figure out a source of more food.
+		-Our limited stores are running low.
+		-Libak seems like he's getting charms to address that.
+			-He made a trip and came back with two deer, three lunars, and even news that they'd
+			 counterspelled the blizzard!
+		-Ritual of Elemental Empowerment could potentially help a little bit too, giving +3 dice to
+		 Resistance rolls vs. cold.
