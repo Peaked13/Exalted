@@ -103,14 +103,24 @@ Intimacies: (equal to compassion, though you can defer the choice of some until 
 	-We also get a free one, to one of the two individuals everyone in the circle is loyal to.
 		-I picked: "Silver-Tongued Rishi is a comrade and has much to teach."
 
+
 Willpower: 7 (Sum of two highest virtues)
+	Recovery:
+		1 from Cult plus Conviction roll each morning
 
 Essence: 3 (2+1 for bonus points spent)
-Essence Pool:
-	Personal:	16 (Essence*3+Willpower)
-	Peripheral:	37 (Essence*7+Willpower+(sum of Virtues))
-	Attunments:
-		4m	Orichalcum Hearthstone Bracers
+	Essence Pool:
+		Personal:	16 (Essence*3+Willpower)
+		Peripheral:	37 (Essence*7+Willpower+(sum of Virtues))
+		Attunments:
+			4m	Orichalcum Hearthstone Bracers
+			1m  Orichalcum Hearthstone Amulet
+	Essence Recovery:
+		Base:
+			4m/hour when at ease
+			8m/hour when resting
+		9+?m/hour from hearthstones and amulet
+	
 
 Movement:
 	
@@ -286,7 +296,7 @@ Advancement:
 	-Lore Charms?
 		-Essence-Lending Method is a strong argument for the circle giving you every hearthstone we
 		 find, would then be genuinely good, and is available to you now.
-		-Lore 5 plus an excellency or two allows genuinely rediculous stuff, line leadership-essence-pool
+		-Lore 5 plus an excellency or two allows genuinely rediculous stuff, like leadership-essence-pool
 		 and the (XP-less?) you-and-group training ones.
 	-Tentative schedule:
 		

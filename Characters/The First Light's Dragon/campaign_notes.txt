@@ -1393,7 +1393,7 @@ TODO:
 		 from the otherwise unopenable cabinet there, which the cookpot _could_ render edible.
 		-Stealthy supply runs may also be an option, once the blizzard dies down.
 	-We also discussed the subject of the tombs, and opted to seek them out again first.
-		-Libak now has the motes to put the occupents (more thoroughly) to rest.
+		-Libak now has the motes to put the occupants (more thoroughly) to rest.
 		-Pip was very intent on this, and, in so doing, kept speaking of "my" ring, in Itraxian's
 		 tomb.
 			-I questioned her and she did indeed believe Itraxian to have been her own past
@@ -1821,8 +1821,233 @@ TODO:
 			-We passed through it into the next door, and left off the session there.
 
 
+9/27/21:
+	-That last door led to yet another hallway, with a door at the end.
+	-Bloodstained Wind and Silent Onyx scouted ahead, checking for more traps, and eventually opened
+	 the door.
+		-It led to an altar, a small golden dais, standing before a statue of The Unconquered Sun
+		 that was depicted holding up the ceiling.
+			-The plaque said, "Through me, you are exalted."
+			-I having approached close enough to read the plaque, the statue's eyes lit with golden
+			 solar essence, writhing like flames.
+			-As I stepped into the room, the writhing essence flared, and a bolt shot forward at me.
+			-I thankfully dodged it, in no small part because it shot at my hip, or seemingly at the
+			 paired jade blades hanging there.
+			-Well, this is a place of The Unconquered Sun, and those the tools of the Terrestrials.
+			-We decided to shed such items for the moment, stashing them in the cache egg.
+				-I kept, though, both my bracers and the phylactery. They being Orichalcum, I
+				 reasoned they may be allowed.
+			-Sure enough, stepping again, tentatively, into the room, I was spared another blast.
+		-We saw no exit from the room, though.
+			-A careful examination, though, revealed scratches along one wall.
+			-They looked like the marks of a bladed weapon, but went far to high on the wall for
+			 most to reach.
+			-We examined the ceiling above, and Silent Onyx was able to spot the outline of a
+			 tightly fitted trapdoor.
+	-I boosted Onyx up and he was easily able to push the door out of the way, leading to a narrow,
+	 roughly cut tunnel, which he climbed into.
+		-He eventually shouted that he'd reached a grid made of up of ominous looking beams of
+		 essence.
+		-I shouted up that the Amulet of Shadowwalking could likely take him past it, and indeed it
+		 seemed to.
+		-After most of an hour, without hearing from Silent Onyx, we heard a great crash, from
+		 somewhere else within the manse.
+		-At that, I had Blade boost me up, and I climbed down the tunnel.
+			-It was indeed as Onyx described it, the grid of beams still there.
+			-I saw no way to disable or bypass it myself, and told the others it looked as Onyx
+			 had said.
+			-Libak turned to Bloodstained Wind, and asked _her_ if she could perhaps make it through,
+			 shapeshifter that she is.
+			-She flew up to examine it with me. As she did so, her eyes changed, from lizard,
+			 to bird, to mammal.
+				-As she did so, her forehead began to glow with a silver-y light in the form of a
+				 crescent moon.
+			-After a moment, she said that she _could_ pass through the grid, but that we had missed
+			 something, and she began to scratch at the plaster of the nearby wall with her newly
+			 formed claws, slowly revealing a plastered over doorway.
+			-I called for the others, lowering a rope for them, and we passed through the doorway,
+			 down a tunnel that neatly circumvented the grid.
+			-From there, we seemingly followed in Onyx's footsteps, through a series of strange rooms,
+			 until we reached a section of hallway where the walls moved, slamming into each other
+			 and then retracting, again and again.
+			-I thought I could make it through, but was not sure we all could.
+			-Golden Blade volunteered his, well, blade, and jammed it into the mechanism behind one
+			 wall as it attempted to retract.
+				-Using the blade as a lever, and pulling with all his strength, he broke part of the
+				 wall free from the piston it connected too, releasing a great gout of steam.
+				-After that, the wall moved no more, and we were through.
+	-Just through there, we found Silent Onyx, himself having recently clawed his way through some
+	 fallen stone blocking his passage back.
+		-"Come," he said, "I've found more coffins to look."
+		-He led us to a set of four small coffins, that he began checking for traps.
+		-None found, we opened them, finding some empty, but in one we found a strange looking mask,
+		 double-faced and grisly, part of it broken.
+		-Golden Blade froze at the sight of the mask.
+			-When he finally spoke, he said that he had seen this mask before, worn by The Mask of
+			 Winter, as he conquered Thorns.
+		-I, too, recognized the mask: https://discord.com/channels/@me/772891797726822481/892218728081657866
+			-"you have a small memory of making this mask, using meherrin's skin... the last thing
+			 you made before being thrown into that hole by Ozandus Pal...
+			 not an artifact, just a grim trophy of your most savored kill"
+		-The chamber also held a mask on one wall, which now began to speak (seemingly on a timer).
+			-It named us trespassers, but said that the children of The Unconquered Sun were merciful
+			 (seemingly not recognizing us as among them) demanding we swear an oath to leave the
+			 manse and tell no one of it.
+			-Onyx, though, in breaking and clawing through the blockage in the passage behind us, had
+			 already removed it's leverage. . .
+		-Onyx also showed me a bit of Old Realm he'd recorded, scrawled in one of the earlier rooms.
+			-"He was too crazy. We had to kill him. I took that stupid mask he made, broke his legs,
+			 threw him in a hole, and covered him."
+			-I (unwisely?) read that aloud as I went. . .
+		-Given this grisly thing, what do we know about ghosts?
+			-They're attracted to the blood of the living, and are attached to things they were
+			 passionate about in life, including sometimes pieces of their bodies.
+			-Humans have two souls, the hun, the higher soul, and the po, the lower soul. The hun can
+			 become a ghost, while the po can rise as a "hungry ghost".
+			-In a Shadowland, ghosts are tangible and real, and can even have children, the "ghost
+			 blooded".
+				-Thorns is now one such, and Sijon a particularly famous one.
+	-Onyx was heavily taxed getting this far, and suggested we rest a bit, before continuing on.
+		-One of the rooms we had passed through featured beds, some bolt hole for the Solars of the
+		 manse.
+		-We agreed that would be wise, closed the rooms doors, and set a watch.
+		-My sleep, though, was troubled by dreams.
+			-As I slept, I felt cold and, waking, could not move (sleep paralysis).
+			-The mask we'd recently recovered tumbled around the bed, rising then into the air, the
+			 eyes like vortexes.
+			-It spoke: "I will find you. I will make you suffer."
+			-I awoke, but knew myself to still be dreaming. I was in one of the bedrooms above,
+			 emaciated, and began to crawl from bed, towards the door, only to be stopped by a man
+			 with a golden staff, shaped like a tree branch, who grabbed me and began to drag me.
+			-I tried to fight him, but could muster little strength, as he dragged me downstairs and
+			 threw me into my tomb. The last sight I saw was the slab closing off the light above,
+			 though the dream continued, through hours (days?) of scratching at the walls of the
+			 tomb. While I scratched, I began to hear voices, voices agreeing I'd been cheated,
+			 robbed of what should have been mine. Serve us, they called, and all of it would be
+			 mine. . .
+		-Libak, upon awakening, told me my First Age incarnation was a dick.
+			-I acknowledged that I had become conscious of the same, since arriving here.
+			-I asked him, though, why he said that now.
+			-It would seemed he dreamed too, of the origin of the mask. . .
+			-I acknowledged that I knew too, and offered a sheepish apology.
+				-He, thankfully, seemed confident those earlier incarnations were not _us_, and we
+				 had a good philosophical debate, confident in the end that we could succeed where
+				 they failed.
+			-In discussing the matter, a thought occurred to me. Larquen had been _jealous_ of
+			 Meherrin, jealous that he had achieved _The Second Circle of Necromancy_. The price
+			 The Primordials had demanded of Larquen was service, a price he was unwilling to pay.
+				-Did _Meherrin_ pay the same? Does that have something to do with why The Mask of
+				 Winters wears _this_ mask? 
+	-We then resumed where we left off, sweeping the room with the coffins, and finding another
+	 plastered-over door.
+		-It was thoroughly locked, like a vault, but, with Onyx's help, we eventually had it open.
+		-It led to another hallway, and then eventually to a room with four more doors.
+		-We opted to first backtrack to the T-intersection, and check those other two doors,
+		 before continuing down this lengthy branch.
+	-The first door there we opted to open was marked with an air symbol.
+		-Onyx checked the door for traps and, finding none, opened it onto a swirling vortex of blue
+		 energy, and a freezing wind.
+			-His thin form is not suited to such things and, slamming the door, he came away freezing.
+			-Libak was feeling bold, though, and had recently learned Charms to deal with very much
+			 this sort of thing, and opted to open the door again himself, as we took shelter around
+			 the corner.
+			-He could weather it no better, though.
+		-That sent us back upstairs, to warm the pair of them in the tubs above.
+			-While they soaked, though, I, and Bloodstained Wind to stave off any further attacks,
+			 went to go let the Lunars and Terresterial know we were still alive.
+				-They seemed fine, if bored, reporting no attacks or the like.
+				-The Terresterial Dynast requested something to read, and I said I'd see what I could
+				 do, though warned her most of the books in the manse had been destroyed.
+					-I debated the matter with the others, once back below, but we had nothing that
+					 wasn't full of terrible secrets, or just terribly priceless.
+	-It took the pair of them several hours to recover, but we eventually returned to the maze,
+	 heading back to the T-intersection.
+		-We were a bit reluctant to try the remaining door, but Golden Blade was characteristically
+		 bold, and reached for the the knob on the door marked with the water symbol.
+		-The door would not budge, but he began to cough up sea water, then bits of kelp, and even
+		 a fish.
+		-Thankfully, and not coincidentally, he's also the one of us best equipped to bull his way
+		 through the effects of an attempted drowning, and he survived it without ill-effect.
+	-From there, we returned to the five doors in the room in the South.
+		-Silent Onyx now did a thorough check of the room, wary as we were of the many "obvious"
+		 doors in earlier rooms that proved to be traps.
+		-No other doors, or traps, were found, but two of the five doors here showed signs of
+		 having been opened. One had bits of stone debris in front of it, while the other had
+		 scrapes before it, like things had been dragged into it.
+		-Trying the door something had been dragged into, I found a treasure trove.
+			-It contained (all in Roll20):
+				-A pair of Orichalcum and moonsilver torcs 
+				-An instrument
+				-A jagged shard of black jade, with a handle wrapped in dingy leather
+				-A plain Orichalcum mask.
+				-A breastplate.
+				-A hookah.
+				-A wujong blade, or so I thought. When I looked away, and back, it was now a cutlass.
+					-This sounds familiar to me.
+					-Yep, it's The Forgotten Blade in Roll20, though, strangely, I seem to be the
+					 only one who can consistently recognize it without being attuned to it.
+				-A pair of orichalcum hearthstone bracers.
+			-They all were arranged, like a ritual altar, around a flat object wrapped in white cloth.
+				-Silent Onyx, quite sure what it was, grabbed it, and wrapped it tighter.
+				-Libak asked if Onyx thought that was a mirror and, at Onyx's nod, offered his
+				 jacket to wrap it further.
+					-Onyx mentioned "not being sure how I feel about the memories of my last
+					 incarnation", but felt strongly that this was a thing to take great care with.
+					-This was all rather out of character for him.
+				-Bloodstained Wind, at the sight of it, looked panicked, and looking from Onyx to
+				 rest of us and back, she turned into a snake and fled.
+					-We made no attempt to stop her or follow, with several of the others convinced
+					 she'd soon return with the other Lunars, though I'm less sure of that.
+				-We decided the safest place for such a thing would be our Cache egg. We'd trust it
+				 to no hands but our own, but also keep it safely (?) Elsewhere.
+	-After examining the treasures for a bit, Onyx went to mark the other _used_ door.
+		-He sooned called out to me, as the inside was covered in Old Realm writing.
+		-It was a messy scrawl, much of it gibberish, but a few repeating lines formed a coherent
+		 theme: "I did it! I killed him, but now the voices in the mirror call to me. The only place
+		 I'm safe is here!"
+		-Venturing further into the twisting, rough-carved room, following the writing, I came to a
+		 desicated corpse. It lay beside a long staff, clearly an artifact, and had around it's_
+		 neck a hearthstone socketed in an amulet.
+		-Clearly, I've found Osandus Pal.
+		-As I approached to retrieve the hearthstone, the corpse sat up suddenly, shouting, "No, not
+		 you! Anyone but you!", only to tumble to dust afterward, followed by what seemed to be a
+		 wind that swept past us, out the way we'd came.
+	-Pal's preferences aside, I grabbed the hearthstone, and the amulet it was in, and, with our
+	 major goal in hand, immediately set about attuning to it.
+		-I can now see through any mirror in the manse.
+		-I can also see that the manse's essence flows are being forced into a disharmonic state,
+		 causing the level of the hearthstone to fluctuate. This appears to be due to the fact that
+		 something has crashed the barriers preventing I Am from accessing every portion of the manse.
+		-In fact, from what I can now tell, and despite what it said, I Am seems to very much be
+		 fully functional. . .
+		-As if in response to this probing of the manse's systems, a voice, seemingly coming from
+		 everywhere, began to shout, "No!!! It's mine!"
+
+
 TODO:
-	-Examine the bamboo sword, from the 9/13/21 session.
+	-Put artifacts in a spreadsheet. You offered in Discord already.
+		https://discord.com/channels/785604556934742036/785604557518405654/892499305317941269
+
+
+TODO:
+	-Claim more artifacts?
+		-The Audient Brush is up your alley.
+			-Asked here: https://discord.com/channels/785604556934742036/785604557518405654/892279585163587585
+		-Did anyone else claim the Torcs of Unified Action? I think I heard some discussion.
+			-Asked here: https://discord.com/channels/785604556934742036/785604557518405654/892278593135194183
+			-If not, it would add an interesting communication link to the network you're beginning
+			 with your wooden faces.
+			-Onyx would be a good candidate for the other.
+			-It shares _a lot_, though. . .
+		-No need to really _claim_ it, but, even without Medicine, you might be decent at researching
+		 the herb combos required.
+	-Dispose of that grisly mask?
+		-Or keep it, for whatever significance it may hold to The Mask of Winters?
+			-Now kind of getting the impression _Larquen_ may be The Mask, rather than Meherrin,
+			 which would now make it no longer a body part, but maybe still a thing of significance.
+				-Looking at notes above, it doesn't sound like you incinerated Larquen's body yet. . .
+				-Gathering a Ghost's Strings, a Necromancy spell from Larquen's journal, could
+				 identify fetters and such, _if I can see the ghost when I cast it_.
 	-Figure out what's going on with that ghost/spirit/whatever that's fucking with us in the manse.
 	-Continue looking through the tombs.
 	-Downtime mask servant interactions:
@@ -1912,7 +2137,7 @@ TODO:
 				Stones Worn Smooth (Black Treatise PDF pg. 135)
 				Summon Ghost (Black Treatise PDF pg. 135)
 				Without pity without scorn (Black Treatise PDF pg. 136)
-		-"Manse Construction, by Kalbax":
+		-"Manse Construction, by Kelbax":
 			-Celestial Circle:
 				Raise the Puissant Sanctum (White Treatise pg. 79).
 			-Solar Circle:
@@ -1997,3 +2222,5 @@ TODONE:
 			 counterspelled the blizzard!
 		-Ritual of Elemental Empowerment could potentially help a little bit too, giving +3 dice to
 		 Resistance rolls vs. cold.
+	-Examine the bamboo sword, from the 9/13/21 session.
+		-See The Greenwood Blade in Roll20.

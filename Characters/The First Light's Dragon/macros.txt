@@ -1,7 +1,7 @@
 DV: 8
 	-Sheet calculates and displays this, but doesn't let you enter +1/2 for specialty, +3 for
 	 bracers, or -1 for armor mobility.
-	-(4+3+1+3)/2+3-1=7.5
+	-(4+3+1+3+3)/2-1=6
 
 Soak with Invulnerable Skin of Bronze: 20B/12L/4A (and hardness 12B/6L)
 
