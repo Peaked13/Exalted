@@ -34,7 +34,50 @@ Stuff previously suspended:
 
 
 
+
+
+
+
+
+
+
 Martial Arts attack without Claws:
 	Attack: /r {(4+5+1+4)d10}>7
 	Damage: /r {(4+2+)d10}>7
 	Eh, entered this into character sheet. Use that.
+
+
+
+
+
+
+
+Larquen Notes:
+	Health Levels Damaged: 4 temp
+	Motes:
+		Personal:	2/34
+		Peripheral:	0/80
+		Recovery:
+			10/hr from Gem of Perfect Mobility socketed into Metasorcerous Phylactory
+			6/hr from Cult
+	Willpower:	6/10
+		Recovery:
+			1/6hr from Cult
+	
+	Active effects:
+		8 extra -1 health levels for Anointment of Miraculous Health
+	
+	Temp effects:
+		8m, 1wp on Infinite Dodge Mastery and 12m, 1 wp for Infinite Martial Arts Mastery.
+		Demesne Emulation Practice
+		Snake Form
+		Essence Fangs and Scales Technique
+		Wood Dragon's Claw
+		Invulnerable Skin of Bronze
+	
+	Claws (15 pts., Essence+Occult max each, can change reflexively at begining of each action):
+		Accuracy: 14
+		Defense: 0
+		Damage: 0
+		Rate: 1
+		Always Speed 5

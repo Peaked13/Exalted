@@ -298,5 +298,11 @@ Advancement:
 		 find, would then be genuinely good, and is available to you now.
 		-Lore 5 plus an excellency or two allows genuinely rediculous stuff, like leadership-essence-pool
 		 and the (XP-less?) you-and-group training ones.
+	-With Essence 4, Martial Arts Essence Flow becomes possible, perhaps making getting that and
+	 another Martial Arts Excellency tempting.
+		-It makes the other Excellency innate, allowing you to use it with other charms without
+		 combos.
+		-As other Abilities reach 5, similar pairs for those abilities may be attractive.
+			-Dodge, in particular.
 	-Tentative schedule:
 		
