@@ -304,5 +304,11 @@ Advancement:
 		 combos.
 		-As other Abilities reach 5, similar pairs for those abilities may be attractive.
 			-Dodge, in particular.
+	-Lore training charms are available now that you have Lore 5.
+		-Not free XP as it turns out, at least for players, but can reduce training time.
+		-For _NPCs_, though, it's straight free skills.
+	-Celestial Sorcery is now possible, but a whole narrative thing you'll need to
+	 work on with Lesley.
+	-All the cool Sorcery charms are now available, with Occult 5 and Essence 4.
 	-Tentative schedule:
 		
