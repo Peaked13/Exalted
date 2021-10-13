@@ -2290,7 +2290,8 @@ TODO:
 		-To move to the hearthroom, I imagined myself aided by a golden dragon, my anima banner,
 		 and, indeed, then was. I rode the creature off to the heartstone room.
 		-The hearthstone room was also transfromed.
-			-The statues of solars were replaced by ones of strange cherub-people, mangling their own faces or tearing out their inards.
+			-The statues of solars were replaced by ones of strange cherub-people, mangling their
+			 own faces or tearing out their inards.
 			-The paintings of the Unconquered Sun were replaced by black, sucking voids.
 			-The dais and orichalcum circuitry normally at the center of the room was replaced by
 			 a huge, pulsating brain, surrounded by tumerous growths.
@@ -2313,7 +2314,8 @@ TODO:
 		-Pip then arrived.
 		-I AM was clearly hostile now, turning to Onyx and striding towards him.
 		-I then joined him in this, with a flying dragon kick, as again my anima appeared, soaring
-		 over me and pulling 
+		 over me and pulling me free from the blood as it did. I then soared with it, food forward,
+		 slamming into the brain.
 		-In response, the room changed again, the blood now flying, swirling into the air, while the
 		 golden figure of I AM fell to his knees clutching his head.
 		-I, fast as a snake, now acted again, at the same time as Golden Blade. We both tried to
@@ -2335,22 +2337,30 @@ TODO:
 				-Most of us managed to dart between it's fingers, but Pip was hit, and was now
 				 staggered and bleeding.
 		-Libak then leaped into the air with new, golden wings, flying up high and then dropping
-		 down onto the brain, looking to shatter it, and the dream with it.
-		- onyx attack, explode, white, 4 lethal
+		 down onto the brain, looking to shatter it, and the dream with it, dealing it another
+		 grevious blow.
+		-Next, Silent Onyx renewed his attack with his blade. This proved the final blow, as the
+		 brain exploded in a blast of white light, wounding all of us (though my anima flared and
+		 absorbed most of it).
 		-At the center of the room, there was a now a broken column, surrounded by shattered bits of
 		 glass and Orichalcum, and an Orichalcum orb with Onyx's blade embedded in it.
 			-I could also feel the hearthstone then pulse once more, and then go steady, stabilizing
 			 as a normal level 5 hearthstone.
 	-At that point, we also became aware of the a great clamor: wolf howls, and shouted questions.
 		-In short order, the Lunars entered the room, Two-Faced Raven carrying the dynast.
-		- wolf to 
-		- hearthstone
-			- small prison cell with a set of manacles (The Manacles of Night) made from a mix of Orichalcum and Soul Steel.
+		-Silver Maw Bliss went immediately to Golden Blade, shoving his lupine nose towards Blade's
+		 wounds, smelling them.
+		-Through the access to the manse  the hearthstone granted me, and with out I AM impeding me
+		 any longer, I was free to observer the whole of the place.
+			-I could see a small prison cell with a set of manacles (The Manacles of Night) made
+			 from a mix of Orichalcum and Soul Steel, which we retrieved
 			-The manse also featured a chapel we'd not yet visited, though, looking over it, nothing
 			 much caught my eye.
-			-And a sculpture studio, which contained a set of "Wound Mending Needles".
-			- two sets of bracers, one pair of Orichalcum, and the other of green jade.
-				- Perfected Kata Bracers
+			-And a sculpture studio, which contained a set of "Wound Mending Needles" that Golden
+			 Blade has since claimed.
+			-Another room also held two sets of bracers, one pair of Orichalcum, and the other of
+			 green jade.
+				-The first are The Perfected Kata Bracers.
 				-The latter seemed to be covered in jade circuitry, connecting crystals.
 					-I recognized them as Bracers of Universal Crafting, which must be surgically
 					 implanted.
@@ -2361,8 +2371,10 @@ TODO:
 			-They met a chorus of no's, though, to which they responded, "Fine. Keep your toys. You
 			 will need them if we meet again."
 			-Bloodstained Wind, meanwhile, said, "My sister is brash. If we meet on the battlefield,
-			 I won't look for you."
-			- wolf "I won't lose you again. In time, you will see the wisdom of Two-Faced Raven's offer. I will watch over you, and if you need me, you need only call out my name and I will be there."
+			 I won't look for you." She then departed as well.
+			-Silver Maw Bliss, with eyes only for Golden Blade, said to him, "I won't lose you again.
+			 In time, you will see the wisdom of Two-Faced Raven's offer. I will watch over you, and
+			 if you need me, you need only call out my name and I will be there."
 	-Well, what next?
 		-Rishi and Hawk presumably still wait for us.
 			-Do we want to turn any of this over to them?
@@ -2382,7 +2394,7 @@ TODO:
 		-Lesley said you can purchase anything from your First Age sheet, or from Favor and Caste
 		 charms from the Core book, or even teach eachother known charms.
 		-Essence 4 will consume all of your training time, but otherwise you effectively have more
-		 than enough to do whatever (don't bother tracking, Lesley said).
+		 than enough to do whatever (don't bother tracking, Lesley said, save for Essence boosts).
 		-Proposal: 98 to spend
 			24	Essence 4
 			5	Occult 4
@@ -2404,9 +2416,15 @@ TODO:
 			-All the cool Sorcery charms are now available, at least with Occult 5.
 	-Each night, while we trained, we felt ourselves drawn to the black mirror.
 		-Only Onyx did not feel it's call, at least while it remained in his possession.
-		-Eventually, Libak was finally the one to retrieve it from the cache egg TODO
-		- carelessness, we all see it at some point or another, save Onyx.
-		- gain dot of whispers
+		-Eventually, Libak was finally the one to retrieve it from the cache egg, doing so while
+		 Onyx was gone.
+		-Through his carelessness, we all end up seeing it at some point or another, save Onyx, who
+		 we kept this from.
+			-The experience was deeply strange, and more than a little horrifying.
+			-Your essence inverted, and you felt you could channel it into strange new patterns.
+			-Your motivations, though, also felt strange. Your most fervent dreams felt unimportant
+			 and things once abhorrent failed now to shock, even holding some attraction. . .
+			-As a result of this, all of us by Silent Onyx gain dot of Whispers.
 	-After the thaw, we ventured back from the manse to Wangler's Knob.
 		-The journey was not easy, but now possible.
 		-I commanded the demons to remain, and to continue construction on both the manse and the
@@ -2453,9 +2471,10 @@ TODO:
 	-As we arrived at Nexus, Hawke got a report from his men there.
 		-The city certainly is in turmoil, it's underworld in chaos, with factions warring on one
 		 another.
-		-Apparently there have been kidnappings, targetting the friends and family of the leadership
+		-Apparently there have been kidnappings, targeting the friends and family of the leadership
 		 of different underworld factions.
-		-Onyx suggested this sounded 
+		-Onyx suggested this sounded like the work of a deathknight, and so I suggested we consult
+		 our captive one. We woke her with her stolen heart, and asked her if she thought the same.
 			-"There are a few," she said, "that I suspect it could be. Disciple of the Seven Forbidden
 			 Wisdoms, or The Wink of the Storm's Eye would be capable of this."
 				-Blade actually recognized the latter, and he has another name: Typhon.
@@ -2483,8 +2502,8 @@ TODO:
 					-Pip recognized the name, she being a native of Nexus. They're a Deathlord.
 						-And, then, is her First Age self The Silver Prince?
 					-Libak also got a look of disgust on his face, apparently connecting some dots,
-					 and spoke, ". . . I think Meherrin be The Walker in Darkness. I remember making
-					 a deal. . ."
+					 and spoke, ". . . I think Meherrin may be The Walker in Darkness. I remember
+					 making a deal. . ."
 					-I then confessed that I suspect Larquen Quen became The Mask of Winters.
 					-The deathknight looked shocked, but then asked us if we knew the tale of
 					 Princess Magnificent.
@@ -2507,7 +2526,7 @@ TODO:
 	-The kidnappings continued, now including nobles, merchant families, and other centers of power.
 		-The strange thing, though, that has really riled people up, is the fact that The Emissary
 		 has not acted against a single person. . .
-		-A group called the Tsang Tsin was at war with another, The Black Syndicate, along with a
+		-A group called the Tang Zen was at war with another, The Black Syndicate, along with a
 		 child gang ("The Crows") and a new-formed gang of Terrestrials ("The Triple Threats").
 			-All sorts of trouble is being caused by that, but still The Emissary does not act.
 		-Pip's mother also came to see her, thankful for her return.
@@ -2539,29 +2558,77 @@ TODO:
 			-"Why would he sign such a thing?" I asked.
 			 "They forced him to!"
 			-"Who is this Ophilis Ses?" I asked, "A member of the gangs?"
-				-Libak told us he is said to be the leader of the Tsang Tsin. He's rumored to be a
+				-Libak told us he is said to be the leader of the Tang Zen. He's rumored to be a
 				 snakeman, and his organization is said to have taken control of the local snakemen
 				 cartels.
 
-
+129
 TODO:
 	-Talk with Lesley about whether the monastery journey should happen in session or between.
 		-Sounds like he's flexible! Could do a special session if I'm going by myself, or could bring
 		 the rest of the circle in session.
+		-Sounds like we're going for the solo option.
+			-Use those rings, to communicate while gone? Look at the description again.
+				-OK, yeah, sounds like your location is mostly safe:
+					https://discord.com/channels/785604556934742036/785604557518405654/897592696540123226
+				-Jake is on board:
+					https://discord.com/channels/785604556934742036/785604557518405654/897595539716202526
+				-Applied the Willpower spend and committed motes
+					-Add it to the character sheet's artifact list.
+			-Also, maybe do some shopping?
+				-Proposed a trip with Libak and Blade before I head out:
+					https://discord.com/channels/785604556934742036/785604557518405654/897591662010851409
+				-Figure out equipment quality stuff, though, to find what you actually want.
 	-Sort that training:
 		-Proposal:
 			8	1 week	Ritual of Elemental Empowerment
+				-Depends a lot on what armor you eventually buy, I guess, since you may not need
+				 it's most desirable benefit after all.
+				-Would be better if you could summon elementals.
+				-It _does_ neatly happen in a portion of the day demon summoning can't, leaving
+				 just enough time for you to rest in the afternoon. . .
 			8	1 week	Demon of the First Circle
 				-Lesley said I should pick five types I know names to summon.
-					Demjen (Compass of Malfeas pg. 143)
-				-What was the other book he suggested for that? Didn't see it on eye, and now can't
-				 remember the name.
-			8	5 days	Second Lore Excellency
+					-Agatae (Books of Sorcery V pg. 69)?
+						-Flying steed.
+					-Blood Ape (Core pg. 310)?
+						-Easy and common combat summon.
+					-Demjen (Compass of Malfeas pg. 143)
+						-Mining and stonework, maybe some combat.
+					-Heranhal (Compass of Malfeas pg. 146)?
+						-Excellent Fire crafter.
+						-But, ugh, do I have to ensure it gets laid?!?
+					-Luminata, the Deer That Hunt Men (Books of Sorcery V pg. 80)?
+						-Does what it says on the label.
+					-Marottes (Books of Sorcery V pg. 82)?
+						-Excellent Earth/Wood crafters.
+					-Sesseljae (Books of Sorcery V pg. 86)
+						-Doctors. "The Stomach Bottle Bugs".
+				-Pg. 29 of Books of Sorcery Vol. V has a box giving odds of success for a given
+				 demon and set of abilities.
+				-Ability to do something about rogue demons might become critical. . .
+			8	1 day Second Lore Excellency
+				-Wait, that's just 1 day. Could maybe do more training.
 		-Apply it!
 	-Get ritual implements and such for summoning.
 		-Your new jade should serve well here.
+		-Pg. 28 of Books of Sorcery Vol. V has more details.
+			-Resources 2 _building_, and Resources 1 expendable stuff per demon.
+			-Or spend more, for bonuses.
 	-Oh, look for other items to spend that jade on!
 		-May obviate Ritual of Elemental Empowerment?
+			-Ah, there's always extra soak from the Earth Benediction.
+		-Armor is probably most attractive.
+			-Lesley on what's available:
+				Light and medium armor of any quality can be found, but exceptional or perfect armor will require a week or a month to allow for fittings and adjustments to be made for your particullar frame
+			-Perfect Lamellar would reduce your temp Resources (who cares), but you can get it down
+			 to no Mobility or Fatigue penalties without Empowerment, and with the +1 to both soaks.
+		-Plates from The Abiscissic Guide?
+			-See pg. 31 of Books of Sorcery Vol. V.
+			-Ah, or, the next page says my dots in Occult should mean I know it already, unless _not_
+			 knowing it is a plot point.
+			-The Hunter certainly sounds useful to you.
+				-Ah, virtues that matter are the _demon's_, though.
 
 
 TODO:
@@ -2598,6 +2665,7 @@ TODO:
 		-Eventually implant The Bracers of Universal Crafting.
 			-You can wear other bracers over them!
 			-Obviously for once you have crafting Abilities.
+	-Explore the 
 	-Dispose of that grisly mask?
 		-Or keep it, for whatever significance it may hold to The Mask of Winters?
 			-Now kind of getting the impression _Larquen_ may be The Mask, rather than Meherrin,
@@ -2606,29 +2674,6 @@ TODO:
 				-Gathering a Ghost's Strings, a Necromancy spell from Larquen's journal, could
 				 identify fetters and such, _if I can see the ghost when I cast it_.
 				-Ah, Meherrin, though, may be another Deathlord!
-	-Figure out what's going on with that ghost/spirit/whatever that's fucking with us in the manse.
-	-Continue looking through the tombs.
-	-Downtime mask servant interactions:
-		-Ask them a lot about their subjective experience.
-			-"Do you. . . miss what you now lack?"
-			-You're a bit unsure what you think if this was a great blessing sort-of-you gave them, or
-			 a terrible atrocity you/he committed. You're terribly tempted by this wonder, and want to
-			 believe it's a _gift_, one the your monks/family would be _glad_ to have. You're just also
-			 a bit horrified by the idea of _being_ such a being.
-			-Did a little bit of this in session. Search "I asked him how he felt about that" above.
-		-Ask them about Larquen Quen?
-			-_Probably_ leaving out your connection to him, at least at first. If pressed as to the
-			 reason for your curiosity, you can volunteer an interest in sorcery, and his writings
-			 that you found.
-	-Figure out what to do with the artifact dagger, and those red jade blades and breastplate.
-		-The dagger: dagger, +1 acc, +2 dam, 3m attune, +1 acc every additional mote spent (max 5)
-		-I had been thinking the jade stuff may also be artifacts, but that seemed less likely,
-		 after the way Lesley revealed dagger stats more or less immediately upon examination.
-			-Ah, sounds like they are artifacts indeed.
-		-The "Slayer Katars" from Kotor Velos too.
-			-See Roll20 for stats.
-		-And whatever Libak was stabbed with, in the maze.
-			-Stats from Lesley: "pointy: speed 5, acc +1, dam +2Agg, def +0, Rate 3"
 	-Read some stuff via your Wooden Face.
 		-Search TODO above. At least two things exist.
 		-The letters_to_mithra.pdf as well.
@@ -2702,8 +2747,10 @@ TODO:
 				The Solar spell works in the same way, but works instaneously, and costs 20 more motes.
 			-In addition, it adds +5 auto successes to design rolls when constructing manses
 			 and allows for construction of manses with UNLIMITED manse creation points.
-	-Use the phylactery to suspend even _wackier_ spells?
+	-Use the phylactery more.
+		-Suspend even _wackier_ spells?
 		-Manifestation would allow, GM permitting, stuff like, say, _Fire_ Dragon's Claws.
+			-What can it do with summoning spells? Summon something _else_?
 	-More Wooden Faces?
 		-Can you get a tree growing at The Invisible Manse? Maybe with the help of that wood spirit
 		 we briefly saw on the way up to the manse, or similar? Lore/Occult checks to figure that out?
@@ -2716,10 +2763,12 @@ TODO:
 			-Ask her if she knows Necromancy, now that you can self-initiate into it.
 				-Even if you don't want to learn something yourself right now, can she _write it
 				 down_?
+			-What happens if _she_ is shown the mirror?
 		-The Wild-Hunt-affiliiated Terrestrial
 			-Raised her oath again here: https://discord.com/channels/785604556934742036/785604557518405654/884538294606643210
 			-Ask her what she knows of deathknights, they being the thing she claimed to be truely
 			 concerned with?
+				-Introduce her to our captive one?
 	-Perhaps pursue that Windigo?
 		-Might help ingratiate ourselves with that Wild-Hunt-affiliiated Terrestrial, who had been
 		 hunting it herself, or even help gain cultists, if we publicly claim credit for it.
@@ -2729,6 +2778,29 @@ TODO:
 
 
 TODONE:
+	-Figure out what's going on with that ghost/spirit/whatever that's fucking with us in the manse.
+	-Continue looking through the tombs.
+	-Downtime mask servant interactions:
+		-Ask them a lot about their subjective experience.
+			-"Do you. . . miss what you now lack?"
+			-You're a bit unsure what you think if this was a great blessing sort-of-you gave them, or
+			 a terrible atrocity you/he committed. You're terribly tempted by this wonder, and want to
+			 believe it's a _gift_, one the your monks/family would be _glad_ to have. You're just also
+			 a bit horrified by the idea of _being_ such a being.
+			-Did a little bit of this in session. Search "I asked him how he felt about that" above.
+		-Ask them about Larquen Quen?
+			-_Probably_ leaving out your connection to him, at least at first. If pressed as to the
+			 reason for your curiosity, you can volunteer an interest in sorcery, and his writings
+			 that you found.
+	-Figure out what to do with the artifact dagger, and those red jade blades and breastplate.
+		-The dagger: dagger, +1 acc, +2 dam, 3m attune, +1 acc every additional mote spent (max 5)
+		-I had been thinking the jade stuff may also be artifacts, but that seemed less likely,
+		 after the way Lesley revealed dagger stats more or less immediately upon examination.
+			-Ah, sounds like they are artifacts indeed.
+		-The "Slayer Katars" from Kotor Velos too.
+			-See Roll20 for stats.
+		-And whatever Libak was stabbed with, in the maze.
+			-Stats from Lesley: "pointy: speed 5, acc +1, dam +2Agg, def +0, Rate 3"
 	-That prophecy about a battle and perhaps mastering a great evil?
 		-Does anything at the hidden manse count as "a great battle"?
 			-You're kind of paranoid since that encounter, and always looking for signs of it.
