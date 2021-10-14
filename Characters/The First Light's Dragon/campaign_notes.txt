@@ -2562,7 +2562,7 @@ TODO:
 				 snakeman, and his organization is said to have taken control of the local snakemen
 				 cartels.
 
-129
+
 TODO:
 	-Talk with Lesley about whether the monastery journey should happen in session or between.
 		-Sounds like he's flexible! Could do a special session if I'm going by myself, or could bring
@@ -2579,14 +2579,8 @@ TODO:
 				-Proposed a trip with Libak and Blade before I head out:
 					https://discord.com/channels/785604556934742036/785604557518405654/897591662010851409
 				-Figure out equipment quality stuff, though, to find what you actually want.
-	-Sort that training:
+	-Sort that 3 weeks of training:
 		-Proposal:
-			8	1 week	Ritual of Elemental Empowerment
-				-Depends a lot on what armor you eventually buy, I guess, since you may not need
-				 it's most desirable benefit after all.
-				-Would be better if you could summon elementals.
-				-It _does_ neatly happen in a portion of the day demon summoning can't, leaving
-				 just enough time for you to rest in the afternoon. . .
 			8	1 week	Demon of the First Circle
 				-Lesley said I should pick five types I know names to summon.
 					-Agatae (Books of Sorcery V pg. 69)?
@@ -2607,32 +2601,64 @@ TODO:
 				-Pg. 29 of Books of Sorcery Vol. V has a box giving odds of success for a given
 				 demon and set of abilities.
 				-Ability to do something about rogue demons might become critical. . .
-			8	1 day Second Lore Excellency
-				-Wait, that's just 1 day. Could maybe do more training.
+			8	2 days	Spirit-Detecting Glance
+			8	2 days	Spirit-Cutting Attack
+			8	1 day	Second Lore Excellency
 		-Apply it!
+		-Stuff rejected:
+			8	1 week	Ritual of Elemental Empowerment
+				-Depends a lot on what armor you eventually buy, I guess, since you may not need
+				 it's most desirable benefit after all.
+					-No luck finding Exalted armor weights, but found other references.
+						-_GURPS_ weights for Lamellar: http://www.sjgames.com/pyramid/sample.html?id=2565
+						-Post by some random reenactment guy suggesting plate was rarely more than
+						 50 lbs.: https://forums.taleworlds.com/index.php?threads/armour-weight.211974/post-5052283
+							-Indeed, D&D 3.5 lists full plate at 50 lbs.
+				-Would be better if you could summon elementals.
+				-It _does_ neatly happen in a portion of the day demon summoning can't, leaving
+				 just enough time for you to rest in the afternoon. . .
+			8	1 day Third Lore Excellency
+				Followed by Harmonious
 	-Get ritual implements and such for summoning.
 		-Your new jade should serve well here.
 		-Pg. 28 of Books of Sorcery Vol. V has more details.
 			-Resources 2 _building_, and Resources 1 expendable stuff per demon.
 			-Or spend more, for bonuses.
-	-Oh, look for other items to spend that jade on!
-		-May obviate Ritual of Elemental Empowerment?
-			-Ah, there's always extra soak from the Earth Benediction.
+	-Look for other items to spend that jade on!
+	-Get ritual implements and such for summoning.
+		-Your new jade should serve well here.
+		-Pg. 28 of Books of Sorcery Vol. V has more details.
+			-Resources 2 _building_, and Resources 1 expendable stuff per demon.
+			-Or spend more, for bonuses.
 		-Armor is probably most attractive.
 			-Lesley on what's available:
 				Light and medium armor of any quality can be found, but exceptional or perfect armor will require a week or a month to allow for fittings and adjustments to be made for your particullar frame
 			-Perfect Lamellar would reduce your temp Resources (who cares), but you can get it down
 			 to no Mobility or Fatigue penalties without Empowerment, and with the +1 to both soaks.
+			-May obviate Ritual of Elemental Empowerment?
+				-Ah, there's always extra soak from the Earth Benediction.
 		-Plates from The Abiscissic Guide?
 			-See pg. 31 of Books of Sorcery Vol. V.
 			-Ah, or, the next page says my dots in Occult should mean I know it already, unless _not_
 			 knowing it is a plot point.
 			-The Hunter certainly sounds useful to you.
 				-Ah, virtues that matter are the _demon's_, though.
+		-Proposed shopping list:
+			Resources 5		Perfect Lamellar Armor (Order to be ready in a month)
+				-Soak: +7L/9B, Mobility: -0, Fatigue: 0
+			Resources 3		Materials for an elaborate demon summoning cage (Two sets?)
+				-Pg. 28 of Books of Sorcery Vol. V for this and the next thing.
+				-Is this portable, at least before final assembly?
+				-One to bring to the monastery and one to store in Nexus is my ideal.
+					-Could demons summoned at the monastery then identify it's location?
+				-What will people in Nexus think of someone gathering these things?
+			Resources 2		Rarified demon summoning components (Many sets? 10?)
 
 
 TODO:
-	-Do some Elemental Empowerment.
+	-Recruit. Cultists and followers both.
+		-Ask your monks to step up efforts on that front?
+			-The manse can support many more people.
 	-Write up your usual monk check-in protocol.
 		-Avoid further surpises, like at the return to Nexus.
 		-Blow essence each night before sleeping?

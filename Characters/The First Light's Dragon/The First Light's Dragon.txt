@@ -218,7 +218,7 @@ Manse Design (see Oadenol's pg. 66):
 		-Greater Veil of Shadows (4):
 			-Even beyond the manse's remote location, it is hidden from prying eyes through clever
 			 geomantic means. The eye simply refuses to notice it's valley until one is within it,
-			 at which point th manse's traps take care of the rest (Oadenol's pg. 76).
+			 at which point the manse's traps take care of the rest (Oadenol's pg. 76).
 		-Provider (3):
 			-The manse automatically provides air, water, and food enough to sustain a group with
 			 Magnitude equal to it's level + 1.
@@ -266,8 +266,8 @@ Manse Design (see Oadenol's pg. 66):
 
 Advancement:
 	-Specialties look like a good deal at 3 XP each.
-		-The XP chart claims you can "purchase the same specialty multiple times", which sure sounds
-		 like to get +3 dice to Martial Arts unarmed.
+		-The XP chart claims you can "purchase the same specialty multiple times", which indicates
+		 you can get +3 dice to Martial Arts unarmed.
 			-More of your Dodge specialty is way cheaper than just advancing it.
 		-First Age Lore would be a very flavorful _and_ useful one for you.
 	-More Snake Style!
@@ -296,17 +296,18 @@ Advancement:
 	-Lore Charms?
 		-Essence-Lending Method is a strong argument for the circle giving you every hearthstone we
 		 find, would then be genuinely good, and is available to you now.
-		-Lore 5 plus an excellency or two allows genuinely rediculous stuff, like leadership-essence-pool
+		-Lore 5 plus an excellency or two allows genuinely ridiculous stuff, like leadership-essence-pool
 		 and the (XP-less?) you-and-group training ones.
+			-Ah, PCs pay XP, but XP isn't tracked for NPCs. . .
+			-Still tends to lead to _faster_ training times for PCs too.
+		-The Wyld stuff is pretty cool too.
+			-Forge a demesne in Nexus?!?
 	-With Essence 4, Martial Arts Essence Flow becomes possible, perhaps making getting that and
 	 another Martial Arts Excellency tempting.
 		-It makes the other Excellency innate, allowing you to use it with other charms without
 		 combos.
 		-As other Abilities reach 5, similar pairs for those abilities may be attractive.
 			-Dodge, in particular.
-	-Lore training charms are available now that you have Lore 5.
-		-Not free XP as it turns out, at least for players, but can reduce training time.
-		-For _NPCs_, though, it's straight free skills.
 	-Celestial Sorcery is now possible, but a whole narrative thing you'll need to
 	 work on with Lesley.
 	-All the cool Sorcery charms are now available, with Occult 5 and Essence 4.
