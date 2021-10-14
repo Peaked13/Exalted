@@ -2619,17 +2619,12 @@ TODO:
 				 just enough time for you to rest in the afternoon. . .
 			8	1 day Third Lore Excellency
 				Followed by Harmonious
-	-Get ritual implements and such for summoning.
-		-Your new jade should serve well here.
-		-Pg. 28 of Books of Sorcery Vol. V has more details.
-			-Resources 2 _building_, and Resources 1 expendable stuff per demon.
-			-Or spend more, for bonuses.
 	-Look for other items to spend that jade on!
-	-Get ritual implements and such for summoning.
-		-Your new jade should serve well here.
-		-Pg. 28 of Books of Sorcery Vol. V has more details.
-			-Resources 2 _building_, and Resources 1 expendable stuff per demon.
-			-Or spend more, for bonuses.
+		-Get ritual implements and such for summoning.
+			-Your new jade should serve well here.
+			-Pg. 28 of Books of Sorcery Vol. V has more details.
+				-Resources 2 _building_, and Resources 1 expendable stuff per demon.
+				-Or spend more, for bonuses.
 		-Armor is probably most attractive.
 			-Lesley on what's available:
 				Light and medium armor of any quality can be found, but exceptional or perfect armor will require a week or a month to allow for fittings and adjustments to be made for your particullar frame
