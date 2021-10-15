@@ -2583,20 +2583,20 @@ TODO:
 		-Proposal:
 			8	1 week	Demon of the First Circle
 				-Lesley said I should pick five types I know names to summon.
-					-Agatae (Books of Sorcery V pg. 69)?
+					-Agatae, The Beauteous Wasps (Books of Sorcery V pg. 69)?
 						-Flying steed.
-					-Blood Ape (Core pg. 310)?
+					-Erymanthoi, The Blood Apes (Core pg. 310)?
 						-Easy and common combat summon.
-					-Demjen (Compass of Malfeas pg. 143)
+					-Demjen, The Quickeners of Ores (Compass of Malfeas pg. 143)?
 						-Mining and stonework, maybe some combat.
-					-Heranhal (Compass of Malfeas pg. 146)?
+					-Heranhal, The Fervid Smiths (Compass of Malfeas pg. 146)?
 						-Excellent Fire crafter.
 						-But, ugh, do I have to ensure it gets laid?!?
 					-Luminata, the Deer That Hunt Men (Books of Sorcery V pg. 80)?
 						-Does what it says on the label.
-					-Marottes (Books of Sorcery V pg. 82)?
+					-Marottes, The Hopping Puppeteers (Books of Sorcery V pg. 82)
 						-Excellent Earth/Wood crafters.
-					-Sesseljae (Books of Sorcery V pg. 86)
+					-Sesseljae, The Stomach Bottle Bugs (Books of Sorcery V pg. 86)
 						-Doctors. "The Stomach Bottle Bugs".
 				-Pg. 29 of Books of Sorcery Vol. V has a box giving odds of success for a given
 				 demon and set of abilities.
@@ -2605,6 +2605,7 @@ TODO:
 			8	2 days	Spirit-Cutting Attack
 			8	1 day	Second Lore Excellency
 		-Apply it!
+			-Applied!
 		-Stuff rejected:
 			8	1 week	Ritual of Elemental Empowerment
 				-Depends a lot on what armor you eventually buy, I guess, since you may not need
