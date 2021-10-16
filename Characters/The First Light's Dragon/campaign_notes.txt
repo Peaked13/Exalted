@@ -2681,8 +2681,8 @@ TODO:
 		-No herdsmen with their sheep, even few natural sounds. . .
 		-At the manse itself, I could not hear the usual sound of prayers.
 		-The place was quiet, save the occasional shout, in unison, of training monks.
-		-As I walked up to the entrance to the monastery, I saw one of my monks, Lian, standing guard
-		 at the door.
+		-As I walked up to the entrance to the monastery, I saw one of my monks, Sister Lian,
+		 standing guard at the door.
 			-As I approached, she said, "Thank the gods you're here! He showed up, and he's let us
 			 do nothing else since."
 			 "Who is he?"
@@ -2792,17 +2792,19 @@ TODO:
 				 "Really? Then none can stand in our way!"
 				 "There are the Dragon-blooded, who purged the Solars."
 				 "Dragon-blooded?!? Purging Solars? Hmm. . .
-				  We should wake the others.
+				  We should wake the others."
 				 "First. . . what are you? What am I dealing with?"
 				 "Put simply, I am a clone, a bio-$something replicant. Something failed. . . I
 				  didn't capture the Exaltation. . .
 				  I've retained access to my knowledge, though, my martial arts and basic spells."
 				 "Could you make more such creations?
-				 "I could make more, but no sample from Quen would still be good, unless Quen's body could be found."
+				 "I could make more, but no sample from Quen would still be good, unless Quen's body
+				  could be found."
 				 "You could make these from anyone?"
-				 "Yes. I could make copies of you, or others.
+				 "Yes. I could make copies of you, or others. It. . . comforts me that you would
+				  not be able to do so without me.
 				  But, without. . . certain surgical procedures, they would be blanks. Still useful, if you can train them, though.
-				  With materials, I could also form more of these chao-morphic symbiots."
+				  With materials, I could also form more of these chao-morphic symbiotes."
 				 "I had wondered what that was. It is not a thing I remember Larquen using."
 				 "It is not a thing we were meant to use long."
 				-He then walked over to another door, off the great room, opening it to reveal a
@@ -2810,7 +2812,7 @@ TODO:
 					-Including some grisly, preserved organs.
 					-And some equally grisly books, judging from the titles and diagrams on those I
 					 glanced at.
-					-"Lacking materials for further symbiots," he went on, "Perhaps we should focus
+					-"Lacking materials for further symbiotes," he went on, "Perhaps we should focus
 					  first on new clones. Do you have a circle?"
 					 "Yes, I do."
 					 "Get the Dawn Caste's DNA. We will use it to make warriors. I regret to inform
@@ -2836,134 +2838,210 @@ TODO:
 		-The approaching clone addressed the one I'd me, saying, "Number 1, who is this?"
 		 "I am The First Light's Dragon." I confidently asserted.
 		 He looked at me with surpise, saying, "You're the one. Interesting.
-		-The woman looked at me, smiled, and then said, "I've heard of you. . . A very strange tale indeed."
-			-"I heard you were responsible for attacking Lord Hilo's domain, in search of another of my kind. Did you rescue her from the fey?"
-			 not quite, fey bonds, who are you
-			 what would you call me
-			 name you deathknight
-			 that's what you would call me
-			 would call what you are called
-			 The Maiden of the Mirthless Smile
-			 "And I see one of the clones has brough you here." Looking to them, "Why was that?"
-			 "She seemed to know much of the area, and to understand. Number One would wish to talk with her."
-			 #1 "She did not attack you?"
-			 "She tried. I see you faced trouble of your own." To me, "You are mighty to have landed such a blow."
-			-"Well then, what have you come to tell us?"
-			 " what you would tell me, where my sister is
-			 so dear to you?
-			 No. I would slit her throat if you have not done it for me. But, if she lives, our master wishes her return.
-			 who do you serve
-			 mask
-			 
-			 goes to leave
-			 hold, this is a secret place
-			 I will tell no one. On my honor.
-			 Even your master?
-			 I will tell him nothing he does not already know. . .
-			 What does that mean?
-			 smirks
-			 takes off running
-	-Garn gave chase
-		- Dawn caste mark, dripping black, red blur behind her
-		- stormwind
-		-That one me only a horrible laugh, as she still put on speed and grew the gap
-		- down a cliff and away
-	-Shouting behind me, a clone caught up.
-		- dismissed the spell, rage
-		- she only brought knowledge of Necromancy
-		 and if she returns with an army
-		 one here
-		 they're weak
-		 all the more reason to awaken the others
-		- said something about what here master already knew, do you know what she was talking about
-		 yes, assisted her in summoning a ghost, sent word to her master, could not summon her master
-		 I would not worry; she was could not overcome you, and ran
-		-"What was this equipment she wore?
-		 "She called it soulsteel, taken from the Labyrinth
-		 "Meherrin was right, then, and it has it's own material. . . I wonder what it's properties were."
-		 "She was generous, and gave me this." holding a torq "She said her master would not miss it."
-		 " unique property" put it on; punch; horrible wail
-		 "Fascinating. Can I see it?"
+		-The woman then looked to me, smiled, and said, "I've heard of you. . . A very strange tale
+		 indeed. I heard you were responsible for attacking Lord Hilo's domain, in search of another
+		 of my kind. Did you rescue her from the fey?"
+		 "Not quite. . . Vestiges of the fey's bonds remain. . . Who, though, are you?"
+		 "I have no name. What would you call me?"
+		 "I name you deathknight."
+		 "That's what you would call me?"
+		 "I would call you what you are called."
+		 "Then know me as The Maiden of the Mirthless Smile."
+		 "And I see one of the clones has brough you here." Looking to them, "Why was that?"
+		 The new arrival, who'd brought her, then said, "She seemed to know much of the area, and
+		 to understand. Number One would wish to talk with her."
+		 #1: "She did not attack you?"
+		 #3: "She tried. I see you faced trouble of your own." To me, "You are mighty to have landed
+			  such a blow."
+		 "Well then," I said, turning to the deathknight, "What have you come to tell us?"
+		 "I am more concern with what you would tell me, of where my sister is."
+		 "Is she so dear to you?"
+		 "No. I would slit her throat if you have not done it for me. But, if she lives, our master
+		  wishes her return."
+		 "Who do you serve?"
+		 "The Mask of Winters."
+		-Seeing a grimace on my face, in response to that, and then silence, she turned, and made as
+		 if to leave.
+		-"Hold!" I shouted, "This is a secret place."
+		 "I will tell no one. On my honor."
+		 "Even your master?"
+		 "I will tell him nothing he does not already know. . ."
+		 "What does that mean?"
+		-At that, she only smirked, and took off running.
+	-Garn gave chase.
+		-Turning to look at me over her shoulder, I could now see a Dawn caste mark on her forehead,
+		 though one seeping a black. . . vapor, rather than shining.
+		-She then _vastly_ increased her speed, leaving a red blur behind her.
+		-In response, I spoke, saying, "The dragon takes wing." And with that, my suspended casting
+		 of Stormwind Rider was made manifest, and I was swept up into a racing whirlwind, still in
+		 giving chase.
+		-That netted me only a horrible laugh, though, as she _still_ put on speed, and grew the gap.
+		-Eventually, she raced _down a cliff_ and away, shaking my pursuit.
+	-Shouting behind me, a clone caught up, now only a short distance behind me.
+		-I whirled around and back towards him and, dismissing the spell, dropped to the earth, my
+		 rage plain on my face.
+		-"How could you expose this place so?!?"
+		 "I defeated her. She is weak, and she brought only knowledge of Necromancy."
+		 "And if she returns with an army?"
+		 "There is one here."
+		 "You had called them weak. . ."
+		 "All the more reason to awaken the others."
+		 ". . . She said something about what her master already knew. Do you know what she was
+		  talking about?"
+		 "Yes. I assisted her in summoning a ghost, through which we sent word to her master. I
+		  could not summon her master, though. . .
+		  I would not worry. She could not overcome you, and ran."
+		-I returned with (apparently) clone #3 to the door of the monastery, where #1 waited for us.
+		-As we approached, he began to question #3, asking, "What was this equipment she wore? The
+		  strange metal?"
+		 "She called it Soulsteel, taken from the Labyrinth."
+		 "Meherrin was right, then, and it has it's own material. . . I wonder what it's properties
+		  are."
+		 "She was generous, and gave me this," #3 said, holding up a black torc. "She said her
+		  master would not miss it. It has aunique property."
+			-Putting it on his arm, he threw a punch at the air. As he did so, the torc let out a
+			 horrible, cacophonous wail.
+		-"Fascinating," the first clones stated, "Can I see it?"
 		 "There is no need. You can see it from there."
 		 "I am the first, your master."
 		 "You are not my master. . ."
-			-Fight ensues
-				- mundane snake style, combined with symbiot stuff
-				-"Respect me!" "I am the greater! My own master!"
-				-In the course of it, clone #3 lost the torq.
-				-Eventually, one fell to his knees, with the other tearing him apart with his claws, and then _eating_ him, with his symbiot maw.
-				-He then grabbed the torq, mumbling, "Mine. . ."
-				-I'm fairly sure #1 survived, but it's hard to tell.
-		- a powerful enemy, invited here!
-		 "All the more reason we should awaken the others. If you would listen to me. . . We should gather the required materials."
-		-"I. . . would know more of this proces. What is this material you speak of?"
-		 "We need vitriol from Malfeas."
-		 "Something a summoned demon could provide?"
-		 "No, they cannot carry it with them. You must enter Malfeas, exalted won't die
-		 "I would need a way. How does one enter Malfeas?"
-		 "I know a ritual. It is already prepared."
-		 "I would know more of this ritual. One should not jump headlong into hell. If I could bring my circle. . ."
-		-Led inside, disembowled friend, babbling about 10 days walk, but instant here
-			- rage, attack
-			- despite my stomping, so proud of his ritual and peoccupied, he remained oblivious until claw caught him
-			- grabbed him around his thoat, claws pushing through his throat, continuing until I ripped his head off
-			- symbiot shrieked, fell away, and then slithered over the disembowled monk
-				- screaming, intestines slithering back in
-				- 
-				- grabs, hugs me
-		- got him help, gold melting into him
-			- two led him off
-			- warned a senior thaumaturge to watch him, exposed to something unknown, of the first age
-		- gathered the rest
-			- I'm here now
-			- are there really only 3?
-				- best anyone can tell, yeah
-			-what were those?
-				- remnants of the first age, another backup project, failed
-				-brought outsider here, grave danger
-			- senior offered wards against undead
-				-yes, make it so
-			- two more things
-				- tell me if you see more
-				- don't go in closet
-			- you seem troubled, are we really in that much danger
-				-
-				- flee if we must, to Nexus
-					- find me
-				-We have remained hidden so long, but I have met others, who could be of help.
-					- 5 promises, first age would fall, but gods would still send champions, shining ones
-					- illuminated ones, some in Nexus, compatible doctrine
-						-I've heard some word of such a cult, popular with the street people of Nexus, and strong in the Firewander district.
-					- wisdom in that
-						-When last in Nexus, I met a man named Joseph One-Shoe. He had nothing, but helped me when I dropped my things, returning my things and coins to me. He stood with me while I gathered my things, and then took me to get some tea. I found him in The Little Market of The Nexus District. Perhaps he is the one you should seek.
-						-I shall, allies are needed, I have met some I trust, but more will be needed with the magnitude of the task before us.
-							-We should step up our recruitment, and the time may soon come when we will need to proselytize further.
-	-The thaumaturges among the monks then began work on a ward against the undead, surrounding the manse.
-	-Stayed for a couple more days, for my comfort and theirs.
-		-One scare when a common hungry ghost passed through the wards, triggering alarms, but it was successfully destroyed by the inner ward.
+	-A fight ensued between them.
+		-They both employed Snake Style, in combination with weird, shapeshifting strikes,
+		 enabled by their symbiotes.
+		-#1: "Respect me!"
+		 #3: "I am the greater! My own master!"
+		-I was quite content to look on. One of these clones is nearly as useful to me as two,
+		 and far less dangerous.
+		-In the course of it, clone #3 lost the torc, it flying to the side.
+		-Eventually, one fell to his knees, with the other tearing him apart with his claws,
+		 and then _eating_ him, with his symbiote maw.
+		-He then grabbed the torc, mumbling, "Mine. . ."
+		-I'm fairly sure #1 survived, but it's hard to tell.
+			-That _may_ be the neck wound I dealt him, but many other gashes have joined it.
+	-I was still enraged, shouting at the wounded survivor,"A powerful enemy, invited here!
+	 "All the more reason we should awaken the others. If you would listen to me. . . We
+	  should gather the required materials."
+	 "I. . . would know more of this proces. What is this material you speak of?"
+	 "We need vitriol from Malfeas."
+	 "Something a summoned demon could provide?"
+	 "No, they cannot carry it with them. You must enter Malfeas. I am now mortal, and would
+	  not survive, but your Exaltation would preserve you."
+	 "I would need a way. How does one enter Malfeas?"
+	 "I know a ritual." he said, striding off. "It is already prepared."
+	 "I would know more of this ritual. One should not jump headlong into hell. If I could bring my
+	  circle. . ."
+	-He led me inside the monastery's grounds as we spoke, and then into one of the buildings.
+		-There, in a room within, the clone gestured to a disembowled, but still living, monk, his
+		 entrails strewn in about the room in what looked like careful lines and patterns.
+		-It was Brother Huan, a friend. Close in age, we'd trained together many times.
+		-The clone simply walked past him, to a table, and began sorting through papers and grisly
+		 instruments, babbling about how it would be a five day walk, to Malfeas and back, for me,
+		 but that time passes differently there, and that the ritual would ensure my return mere
+		 minutes after my departure.
+		-In my rage, I barely heard him, and I strode towards his turned back.
+		-Despite my stomping, he was so proud of his ritual and preoccupied that he remained
+		 oblivious until my clawed hand caught him around his neck.
+		-I squeezed, and pushed the claws into his throat, continuing until I had ripped his head
+		 off.
+		-In response, the symbiote shrieked, fell away, and then slithered over the disembowled
+		 form of Brother Huan.
+			-He began screaming as the thing covered him, his intestines slithering back in.
+			-Eventually, his form entirely covered in the golden mass, he stood.
+			-Stepping toward me, the symbiote retreated from his face, as he grabbed me and hugged
+			 me, saying, "It. . . I don't know how. . . it has healed me?"
+	-I led him out the door of the building, calling over two of the more junior monks to help him.
+		-As I did, the gold slowly melted _into_ him, until it was no longer in evidence.
+		-The two monks I'd called over led him off, to get some rest, at very least.
+		-As they stepped away, I gestured to another monk, a senior thaumaturge, calling him over
+		 to me.
+			-"Keep watch over Brother Huan," I said. "He has been exposed to something unknown, of
+			 The First Age, that golden thing our. . . late visitor wielded. Let me know if there is
+			 any change or development in his condition. I will be checking in regularly, even once
+			 I leave here again."
+	-I then gathered the rest of the monks in the courtyard to me.
+		-"I'm here now. That. . . thing is gone.
+		  It claimed, though, to have awaken three more of it's kind. Were there really only four
+		  of them?"
+			-A couple of monks spoke up, and, yes, as best any could tell, no more than that were
+			 seen.
+		-"What were those?" one among the crowd shouted to me.
+		 "They are remnants of The First Age, another backup project in case The Last Light's Dragon
+		  were to be destroyed. The project would seem to have failed, though. . .
+		  They brought an outsider here, though. We are all in grave danger. She was a minion of The
+		  Mask of Winters."
+		-In response, another of the senior thaumaturges offered to surround the manse in wards
+		 against the undead.
+			-"Yes, make it so."
+		-Addressing again the whole of the crowd, said, "Two more things! Tell me, by the fastest
+		 means available if you see more of the clones. I will be checking in more regularly, via
+		 the tree. And, don't go in that closet, or the passages beyond."
+		-"You seem troubled," one of the monks called out. "Are we really in that much danger?"
+		 "Yes. Very much so."
+		 "We'll protect the manse. . . but we'll flee if we must, taking all the knowledge we can.
+		  We can go to Nexus. It's where you'll be?"
+		 "Yes. If you must flee, find me. As you know, you should be able to reach me, either at
+		  the compound of Hawke's Chargers, or at Silver-Tongued Rishi's estate."
+		-Another monk then called out, one who was trusted to travel outside the manse. He said,
+		 "We have remained hidden so long, but I have met others, who could be of help."
+			-He spoke of a cult of "illuminated ones", some of whome are in Nexus, and who seemed
+			 to have a. . . compatible doctrine.
+			-I've heard some word of such a cult, popular with the street people of Nexus, and
+			 strong in the Firewander district.
+			-Their beliefs, he told me, involved 5 promises, including that The First Age would fall,
+			 but that the gods would still send champions, their shining ones. "Are you not one such?"
+			 he asked me.
+			-"There is wisdom in that suggestion," I told him.
+			-He then instructed me as to how to find them, saying, "When last in Nexus, I met a man
+			 named Joseph One-Shoe. He had nothing, but helped me when I dropped my things, returning
+			 my things and coins to me. He stood with me while I gathered my things, and then took
+			 me to get some tea. I found him in The Little Market of The Nexus District. Perhaps he
+			 is the one you should seek."
+			 "I shall. Allies are needed. I have met some I trust, but more will be needed with the
+			  magnitude of the task before us.
+			  We should also step up our recruitment, and the time may soon come when we will need to proselytize further."
+	-The monk who suggested it then began work on wards against the undead, surrounding the manse.
+		-It took him more than and a day, pinning up paper strips with Old Realm sutras and
+		 sprinkling powders in ritual patterns around the entire perimeter of the manse.
+		-He was exhausted by the end of it, saying only, "It is done," and then collapsing where he
+		 stood.
+			-I asked a couple of the monks to carry him to his bed.
+	-I stayed at the monastery for a couple more days, for my comfort and theirs.
+		-There was one scare when a common hungry ghost passed through the wards, triggering alarms,
+		 but it was successfully destroyed by the inner ward, happily confirming their efficacy.
 
 
 TODO:
 	-Summon demons.
 		-Bottle bugs?
+			-Help Lian with this? Maybe even examine the symbiote guy?
 		-Agatae?
+			-Lesley suggested this as a good option for getting between the monastery and the
+			 river, at very least.
 			-Not _totally_ remarkable that sorcerers exist. Not clearly an anathema.
 			-Mortal sorcerers, in fact, exist, and this is a little more common to them than Stormwind Rider.
 				-Nexus, in particular, is _mostly_ accepting.
 		-Deer?
 			-There are options for keeping summoning it, to keep it quiet.
 			-Can mark and track!
+			-Track the deathnight? You have her torc.
+			-Track the remaining Larquen-clone?
 		-Lesley said don't worry about rolls for this first batch.
 			-Basically certain, given that you can spend motes, willpower, etc.
-	-What is that torq?
+	-What is that torc?
 		-Examining it, it does nothing, and is simply made of Soulsteel. Looking closely, though,
 		 it's covered in faces, the source of that screaming when it's moved.
-		-Send a deer after the lady?
 	-Seal that hole in the closet.
 		-Weight on it?
 		-Ward?
 		-Alarms? Bells on it or some such?
 		-Still haven't explored the stair up in there.
+	-How long since these clones were loosed?
+	-Send a message to Golden Blade?
+		-Given what the torc shares, he clearly knows something is up.
+	-Address the monks further.
+		-No more exploration.
+		-Pep talk: "You support me, sustain me, and are the only family I have."
+	-Research "chao-morphic symbiotes", or set the monks to doing so?
 
 
 TODO:
