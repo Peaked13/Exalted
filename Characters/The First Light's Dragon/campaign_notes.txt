@@ -2846,8 +2846,10 @@ TODO:
 		 "I name you deathknight."
 		 "That's what you would call me?"
 		 "I would call you what you are called."
-		 "Then know me as The Maiden of the Mirthless Smile."
-		 "And I see one of the clones has brough you here." Looking to them, "Why was that?"
+		 "Then know me as The Maiden of the Mirthless Smile. I led the vanguard at Thorns."
+		 "I see. I know someone who would very much like to meet you." I said, earning me the
+		 aforementioned smile. "And I see one of the clones has brough you here." Looking to them,
+		 I asked, "Why was that?"
 		 The new arrival, who'd brought her, then said, "She seemed to know much of the area, and
 		 to understand. Number One would wish to talk with her."
 		 #1: "She did not attack you?"
@@ -3038,6 +3040,7 @@ TODO:
 	-How long since these clones were loosed?
 	-Send a message to Golden Blade?
 		-Given what the torc shares, he clearly knows something is up.
+		-Ah, and, actually reading the Torc's description again, it shares a ton, so he probably gets a very good sense of what went on.
 	-Address the monks further.
 		-No more exploration.
 		-Pep talk: "You support me, sustain me, and are the only family I have."
@@ -3045,9 +3048,19 @@ TODO:
 
 
 TODO:
-	-Recruit. Cultists and followers both.
+	-Recruit. Cultists, followers, and allies all.
 		-Ask your monks to step up efforts on that front?
 			-The manse can support many more people.
+		-Make a true Ally of Rishi?
+			-Offer him Sorcery?
+				-"I not eager to advertise it, or how easily I picked it up. It marks me as. . .
+				  something other than a normal human."
+					-An angle he should be sympathetic to, and also why he himself my have a higher
+					 than normal Essence.
+			-One way or another, you'd probably like to eventually bring him into the circle's
+			 secret.
+				-You might also need to explain that there was more in the NE than you admitted, and
+				 the bigger secret is the (hopefully understandable?) reason why.
 	-Write up your usual monk check-in protocol.
 		-Avoid further surpises, like at the return to Nexus.
 		-Blow essence each night before sleeping?
