@@ -6,13 +6,12 @@ DV: 8
 Soak with Invulnerable Skin of Bronze: 20B/12L/4A (and hardness 12B/6L)
 
 
-Standard Claws (15 pts., Essence+Occult max each, can change reflexively at begining of each action):
-	Accuracy: 9
+Current Claws (15 pts., Essence+Occult max each, can change reflexively at begining of each action):
+	Accuracy: 5
 	Defense: 0
 	Damage: 5
-	Rate: 1
+	Rate: 5
 	Always Speed 5
-	Entered into character sheet.
 
 
 Suspended spells, by trigger:
@@ -23,7 +22,7 @@ Suspended spells, by trigger:
 	"The dragon takes wing."
 		Stormwind Rider
 Stuff previously suspended:
-
+	
 
 
 Motes Committed:
@@ -34,11 +33,75 @@ Mundane Possessions:
 	-Fine Buff Jacket
 		-Soak of 4L/5B as a result of Fine.
 	-A hooded cloak
-		-It is usually wise to hide the sorcerous transformation of your body.
+		-It is usually wise to hide the sorcerous transformation of your body. Hides Lamellar too.
 	-Leather and cloth wrappings, concealing the bracer's you wear and are very seldom without.
 	-A wrought iron ring.
 	-A hooded lantern and some fuel.
+	-ON ORDER IN NEXUS: Mostly-Perfect Lamellar Armor
+		-Soak: +7L/9B, Mobility: -0, Fatigue: 0
+		-Made without you present, so, if something botches, something could go wrong with the armor.
+		-Yep, ordered this. Ready in a month. Would normally require you to be there, though,
+		 so things may go a bit wrong.
+	-2x Rarified demon summoning components
+		- +1 die to binding rolls when summoning. Resource 2 for more, or 1 for regular components.
 
+Stuff Left At Monastery Manse:
+	-An elaborate demon summoning cage
+		-Pg. 28 of Books of Sorcery Vol. V
+		- +1 die to binding rolls when summoning.
+
+Stuff Left At Rishi's Estate:
+	-Materials for an elaborate demon summoning cage
+		-Pg. 28 of Books of Sorcery Vol. V
+		- +1 die to binding rolls when summoning.
+
+
+Demons Active:
+	-Sesseljae, The Stomach Bottle Bugs (Books of Sorcery V pg. 86)
+		-Summoned: During your solo session. TODO: Get the actual date.
+		-Kept in your stomach until needed, with instructions to stay there.
+		-Periodically rewarded with booze.
+	-Agatae, The Beauteous Wasps (Books of Sorcery V pg. 69)
+		-Summoned: During your solo session. TODO: Get the actual date.
+		-Was summoned at your monastery, so Hurry Home (5m, BoS IV pg. 142) allows it, and even a
+		 Magnitude 1 group, to return there.
+		-Was instructed to wait at the monastery for word from you via the tree, and to obey the
+		 instructions of a list of trusted senior monks.
+			-The monks, meanwhile, were all instructed that they may converse with the beautiful
+			 philosopher-steed, and that trusted list was told they may make cautious use of the
+			 creature in emergencies, like speedily reaching me in Nexus.
+	-Luminata, the Deer That Hunt Men (Books of Sorcery V pg. 80)
+		-Summoned: During your solo session. TODO: Get the actual date.
+		-
+
+Demons You Know How to Summon:
+	First Circle:
+		-Agatae, The Beauteous Wasps (Books of Sorcery V pg. 69)
+			-Flying steed.
+		-Erymanthoi, The Blood Apes (Core pg. 310)
+			-Easy and common combat summon.
+		-Demjen, The Quickeners of Ores (Compass of Malfeas pg. 143)
+			-Mining and stonework, maybe some combat.
+		-Heranhal, The Fervid Smiths (Compass of Malfeas pg. 146)?
+			-Excellent Fire crafter. But, ugh, do I have to ensure it gets laid?!?
+		-Luminata, the Deer That Hunt Men (Books of Sorcery V pg. 80)
+			-Does what it says on the label.
+		-Marottes, The Hopping Puppeteers (Books of Sorcery V pg. 82)
+			-Excellent Earth/Wood crafters.
+		-Sesseljae, The Stomach Bottle Bugs (Books of Sorcery V pg. 86)
+			-Doctors.
+
+
+
+
+
+
+Standard Claws (15 pts., Essence+Occult max each, can change reflexively at begining of each action):
+	Accuracy: 9
+	Defense: 0
+	Damage: 5
+	Rate: 1
+	Always Speed 5
 
 
 
@@ -53,6 +116,13 @@ Martial Arts attack without Claws:
 	Attack: /r {(4+5+1+4)d10}>7
 	Damage: /r {(4+2+)d10}>7
 	Eh, entered this into character sheet. Use that.
+
+
+
+
+
+
+
 
 
 

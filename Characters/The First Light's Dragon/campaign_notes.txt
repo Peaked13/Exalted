@@ -3029,18 +3029,33 @@ TODO:
 			-Track the remaining Larquen-clone?
 		-Lesley said don't worry about rolls for this first batch.
 			-Basically certain, given that you can spend motes, willpower, etc.
+		-Added them to the temp notes, with detailed instructions.
+		-Send Lesley stuff about the immediate uses you put them to.
+			-Healing Sister Lian's knee.
+			-Riding the Agatae to speed the trip back to Nexus.
+			-The deer?
+				-Tracking charm won't help until it has committed essence effecting the target.
 	-What is that torc?
 		-Examining it, it does nothing, and is simply made of Soulsteel. Looking closely, though,
 		 it's covered in faces, the source of that screaming when it's moved.
+		-Turn it over to the monks for examination and research? Many among them are skilled
+		 thaumaturges, and they have access to a library specializing in that too.
+			-TODO: Tell Lesley about this.
 	-Seal that hole in the closet.
 		-Weight on it?
 		-Ward?
 		-Alarms? Bells on it or some such?
 		-Still haven't explored the stair up in there.
+		-TODO!
 	-How long since these clones were loosed?
 	-Send a message to Golden Blade?
 		-Given what the torc shares, he clearly knows something is up.
-		-Ah, and, actually reading the Torc's description again, it shares a ton, so he probably gets a very good sense of what went on.
+		-Ah, and, actually reading the Torc's description again, it shares a ton, so he probably
+		 gets a very good sense of what went on.
+		-Sent him a description of what comes through _automatically_ here: https://github.com/Peaked13/Exalted/blob/main/Characters/The%20First%20Light's%20Dragon/campaign_notes.txt#L2849
+		-In the way of reaching out to him, however conversation happens, I think it's time to admit
+		 the existance of my manse to the circle, and to ask for help. It's in danger from powerful,
+		 and somewhat shared, enemies, and you could use allies coming to it's defense.
 	-Address the monks further.
 		-No more exploration.
 		-Pep talk: "You support me, sustain me, and are the only family I have."
