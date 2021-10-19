@@ -3030,11 +3030,13 @@ TODO:
 		-Lesley said don't worry about rolls for this first batch.
 			-Basically certain, given that you can spend motes, willpower, etc.
 		-Added them to the temp notes, with detailed instructions.
+		-They required three nights at the monastery to summon.
 		-Send Lesley stuff about the immediate uses you put them to.
 			-Healing Sister Lian's knee.
 			-Riding the Agatae to speed the trip back to Nexus.
 			-The deer?
 				-Tracking charm won't help until it has committed essence effecting the target.
+		-Figure out the Abiscissic Bindings.
 	-What is that torc?
 		-Examining it, it does nothing, and is simply made of Soulsteel. Looking closely, though,
 		 it's covered in faces, the source of that screaming when it's moved.
@@ -3059,6 +3061,7 @@ TODO:
 	-Address the monks further.
 		-No more exploration.
 		-Pep talk: "You support me, sustain me, and are the only family I have."
+			-Maybe make a Charisma+Presence check?
 	-Research "chao-morphic symbiotes", or set the monks to doing so?
 
 

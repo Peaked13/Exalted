@@ -72,7 +72,12 @@ Demons Active:
 			 creature in emergencies, like speedily reaching me in Nexus.
 	-Luminata, the Deer That Hunt Men (Books of Sorcery V pg. 80)
 		-Summoned: During your solo session. TODO: Get the actual date.
-		-
+		-The Luminata has been instructed to guard the approaches to the monastery, and to check in
+		 with the monks whenever intruders are sighted, with them having say over who it hunts.
+			-In particular, it was warned about two very dangerous quarries, the Larquen clones,
+			 that I'm also very interested in. It was given samples of Larquen clone flesh, and
+			 warned to face them only with the full force of monks too, as they're perfectly
+			 capable of banishing it from Creation and ending it's hunt (it's motivation).
 
 Demons You Know How to Summon:
 	First Circle:
