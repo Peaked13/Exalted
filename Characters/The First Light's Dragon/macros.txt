@@ -58,11 +58,11 @@ Stuff Left At Rishi's Estate:
 
 Demons Active:
 	-Sesseljae, The Stomach Bottle Bugs (Books of Sorcery V pg. 86)
-		-Summoned: During your solo session. TODO: Get the actual date.
+		-Summoned: 10th day of Ascending Wood(Spring Time)
 		-Kept in your stomach until needed, with instructions to stay there.
 		-Periodically rewarded with booze.
 	-Agatae, The Beauteous Wasps (Books of Sorcery V pg. 69)
-		-Summoned: During your solo session. TODO: Get the actual date.
+		-Summoned: 10th day of Ascending Wood(Spring Time)
 		-Was summoned at your monastery, so Hurry Home (5m, BoS IV pg. 142) allows it, and even a
 		 Magnitude 1 group, to return there.
 		-Was instructed to wait at the monastery for word from you via the tree, and to obey the
@@ -71,7 +71,7 @@ Demons Active:
 			 philosopher-steed, and that trusted list was told they may make cautious use of the
 			 creature in emergencies, like speedily reaching me in Nexus.
 	-Luminata, the Deer That Hunt Men (Books of Sorcery V pg. 80)
-		-Summoned: During your solo session. TODO: Get the actual date.
+		-Summoned: 10th day of Ascending Wood(Spring Time)
 		-The Luminata has been instructed to guard the approaches to the monastery, and to check in
 		 with the monks whenever intruders are sighted, with them having say over who it hunts.
 			-In particular, it was warned about two very dangerous quarries, the Larquen clones,
