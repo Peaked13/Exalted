@@ -3055,23 +3055,6 @@ TODO:
 			-Wrote those down in macros.
 			-Now assign bindings to the demon's you've summoned.
 				-Done!
-	-What is that torc?
-		-Examining it, it does nothing, and is simply made of Soulsteel. Looking closely, though,
-		 it's covered in faces, the source of that screaming when it's moved.
-		-Turn it over to the monks for examination and research? Many among them are skilled
-		 thaumaturges, and they have access to a library specializing in that too.
-			-TODO: Tell Lesley about this.
-	-Seal that hole in the closet.
-		-Still haven't explored the stair up in there.
-			-Do this before leaving.
-		-Sealing it:
-			-I'm going to physically seal the entrance to this area by having the agatae and the
-			 monks work together to move a bolder over it, ruling out any further lone explorers,
-			 at least. Then, I'll have several of the thaumaturges among the monks layer some alarm
-			 wards on the area, to alert them to any further attempts at getting in or out.
-		-TODO!
-	-How long since these clones were loosed?
-		-Ask the monks.
 	-Send a message to Golden Blade?
 		-Given what the torc shares, he clearly knows something is up.
 		-Ah, and, actually reading the Torc's description again, it shares a ton, so he probably
@@ -3080,6 +3063,21 @@ TODO:
 		-In the way of reaching out to him, however conversation happens, I think it's time to admit
 		 the existance of my manse to the circle, and to ask for help. It's in danger from powerful,
 		 and somewhat shared, enemies, and you could use allies coming to it's defense.
+	-What is that torc?
+		-Examining it, it does nothing, and is simply made of Soulsteel. Looking closely, though,
+		 it's covered in faces, the source of that screaming when it's moved.
+		-Turn it over to the monks for examination and research? Many among them are skilled
+		 thaumaturges, and they have access to a library specializing in that too.
+	-Seal that hole in the closet.
+		-Still haven't explored the stair up in there.
+			-Do this before leaving.
+		-Sealing it:
+			-I'm going to physically seal the entrance to this area by having the agatae and the
+			 monks work together to move a bolder over it, ruling out any further lone explorers,
+			 at least. Then, I'll have several of the thaumaturges among the monks layer some alarm
+			 wards on the area, to alert them to any further attempts at getting in or out.
+	-How long since these clones were loosed?
+		-Ask the monks.
 	-Address the monks further.
 		-No more exploration. If such discoveries are made, let me know, and await instructions.
 		-Pep talk:
@@ -3091,6 +3089,10 @@ TODO:
 		-"I will be checking in with you nearly nightly, via the carved face."
 			-TODO: mention the procedure to Lesley.
 	-Research "chao-morphic symbiotes", or set the monks to doing so?
+
+
+10/25/21:
+	-
 
 
 TODO:
