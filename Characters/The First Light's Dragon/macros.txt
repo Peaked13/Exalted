@@ -2,9 +2,7 @@ DV: 8
 	-Sheet calculates and displays this, but doesn't let you enter +1/2 for specialty, +3 for
 	 bracers, or -1 for armor mobility.
 	-(4+5+1+4+3)/2-1=7.5
-
 Soak with Invulnerable Skin of Bronze: 20B/12L/4A (and hardness 12B/6L)
-
 
 Current Claws (15 pts., Essence+Occult max each, can change reflexively at begining of each action):
 	Accuracy: 5
@@ -12,7 +10,6 @@ Current Claws (15 pts., Essence+Occult max each, can change reflexively at begin
 	Damage: 5
 	Rate: 5
 	Always Speed 5
-
 
 Suspended spells, by trigger:
 	"The dragon's claws are long and sharp."
@@ -24,10 +21,8 @@ Suspended spells, by trigger:
 Stuff previously suspended:
 	
 
-
 Motes Committed:
 	TODO
-
 
 Mundane Possessions:
 	-Fine Buff Jacket
@@ -44,25 +39,19 @@ Mundane Possessions:
 		 so things may go a bit wrong.
 	-2x Rarified demon summoning components
 		- +1 die to binding rolls when summoning. Resource 2 for more, or 1 for regular components.
-
 Stuff Left At Monastery Manse:
 	-An elaborate demon summoning cage
 		-Pg. 28 of Books of Sorcery Vol. V
 		- +1 die to binding rolls when summoning.
-
 Stuff Left At Rishi's Estate:
 	-Materials for an elaborate demon summoning cage
 		-Pg. 28 of Books of Sorcery Vol. V
 		- +1 die to binding rolls when summoning.
 
-
 Demons Active:
-	-Sesseljae, The Stomach Bottle Bugs (Books of Sorcery V pg. 86)
-		-Summoned: 10th day of Ascending Wood(Spring Time)
-		-Kept in your stomach until needed, with instructions to stay there.
-		-Periodically rewarded with booze.
 	-Agatae, The Beauteous Wasps (Books of Sorcery V pg. 69)
-		-Summoned: 10th day of Ascending Wood(Spring Time)
+		-Summoned: 12th day of Ascending Wood(Spring Time)
+		-Abscissic Binding: The Ecstatic (Compassion)
 		-Was summoned at your monastery, so Hurry Home (5m, BoS IV pg. 142) allows it, and even a
 		 Magnitude 1 group, to return there.
 		-Was instructed to wait at the monastery for word from you via the tree, and to obey the
@@ -71,14 +60,21 @@ Demons Active:
 			 philosopher-steed, and that trusted list was told they may make cautious use of the
 			 creature in emergencies, like speedily reaching me in Nexus.
 	-Luminata, the Deer That Hunt Men (Books of Sorcery V pg. 80)
-		-Summoned: 10th day of Ascending Wood(Spring Time)
+		-Summoned: 11th day of Ascending Wood(Spring Time)
+		-Abscissic Binding: The Hunter (Conviction) (Books of Sorcery V pg. 35)
 		-The Luminata has been instructed to guard the approaches to the monastery, and to check in
 		 with the monks whenever intruders are sighted, with them having say over who it hunts.
 			-In particular, it was warned about two very dangerous quarries, the Larquen clones,
 			 that I'm also very interested in. It was given samples of Larquen clone flesh, and
 			 warned to face them only with the full force of monks too, as they're perfectly
 			 capable of banishing it from Creation and ending it's hunt (it's motivation).
-
+	-Sesseljae, The Stomach Bottle Bugs (Books of Sorcery V pg. 86)
+		-Summoned: 10th day of Ascending Wood(Spring Time)
+		-Abscissic Binding: The Ecstatic (Compassion) (Books of Sorcery V pg. 33)
+		-Kept in your stomach until needed, with instructions to stay there.
+		-Periodically rewarded with booze. Also forms a sort of Ulysses Pact, limiting Garn's
+		 drinking (a function of his low Temperance), which he has to admit slowed his return to
+		 the monastery when the Larquen clones there first awoke.
 Demons You Know How to Summon:
 	First Circle:
 		-Agatae, The Beauteous Wasps (Books of Sorcery V pg. 69)
@@ -95,18 +91,27 @@ Demons You Know How to Summon:
 			-Excellent Earth/Wood crafters.
 		-Sesseljae, The Stomach Bottle Bugs (Books of Sorcery V pg. 86)
 			-Doctors.
+Abscissic Bindings Known:
+		-The Ecstatic (Compassion) (Books of Sorcery V pg. 33):
+			-Solid for the bottle bugs.
+		-The Hunter (Conviction) (Books of Sorcery V pg. 35):
+			-Solid for the deer, Demjen, Heranhal, and blood-apes.
+		-The Slave (Temperance) (Books of Sorcery V pg. 37):
+			-Probably the more dangerous of the two temperance ones, but very Larquen, and
+			 thus what you'd likely have been exposed to.
+		-The Warden (Valor) (Books of Sorcery V pg. 38):
+			-Good valor option.
+	
+Nightly Rituals:
+	-Each night that I'd otherwise rest with maximum or one less than maximum Willpower, I use the
+	 Wooden Face at my monastery, to check in with my monks, tending to the needs of the community.
 
 
 
 
 
 
-Standard Claws (15 pts., Essence+Occult max each, can change reflexively at begining of each action):
-	Accuracy: 9
-	Defense: 0
-	Damage: 5
-	Rate: 1
-	Always Speed 5
+
 
 
 

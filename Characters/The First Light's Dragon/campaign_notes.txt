@@ -809,7 +809,7 @@ TODO:
 	 place, likely free of _mortal_ witnesses at least.
 	-After walking 20 minutes or so in, we came upon a strange structure made of lashed bones,
 	 some marker. It was being clawed at by horrific beings, in between fighting among themselves.
-	-Onyx and I noticed the wasp-winged creatures resembled demons we'd heard of, Agata.
+	-Onyx and I noticed the wasp-winged creatures resembled demons we'd heard of, Agatae.
 		-Normally just beautiful wasps, these seemed a horrifying cross between that and a cat.
 	-We approached them and Blade attempted to disperse them with charmed threats.
 	-He met apparent success, the creatures fleeing immediately.
@@ -1117,7 +1117,7 @@ TODO:
 		-Feeding it 5 motes of essence, I awoke what turned out to be the head servant.
 		-He was very helpful, mentioning:
 			-That tombs for each of the solars once residing here had been constructed, in advance
-			 of their need, in the cellar. Only Kelbax had been laid to rest when last the valet
+			 of their need, in the cellar. Only Kal Bax had been laid to rest when last the valet
 			 was awake.
 				-Ask by Blade what he may have been buried with, the valet was unsure, but speculated
 				 that his white robe and rune stone (!) may still lie with him.
@@ -1261,7 +1261,7 @@ TODO:
 			 "Unknown. Speculation: 700 years ago."
 			-I Am also seemed to doubt the possibility of any backdoor access to the system.
 				-Asked if any could have created such a thing, I Am said only those resident here
-				 could have. Beyond Kelbax, only Ozandus Pal, Cirinus Proles, Larquen Quen, and
+				 could have. Beyond Kal Bax, only Ozandus Pal, Cirinus Proles, Larquen Quen, and
 				 Maheren would have had the skill.
 				-After that, I Am again flickered and rebooted.
 	-After I Am's reboot, we heard an immense thump from the Southeast, shaking the building.
@@ -1465,7 +1465,7 @@ TODO:
 				 cubic yards. It also has the ability to be banished Elsewhere, concealing the egg.
 				-See Roll20 for full details.
 				-This vastly improves our ability to make stealthy supply runs from here.
-		-Continuing to the East side of the basement, we found a room marked as the tomb of Kelbax.
+		-Continuing to the East side of the basement, we found a room marked as the tomb of Kal Bax.
 			-We already found his body above, though.
 			-I warned against a likely trap, and Onyx set to work.
 			-The tomb was indeed trapped and vacant, but also had seemingly fresher stonework at the
@@ -1480,7 +1480,7 @@ TODO:
 			 next.
 				-Well. . . on second thought, he's still troubled by a stab wound. Perhaps it would
 				 be best to rest a bit before again trying our luck again here.
-	-We grabbed a couple of jars of biscuits, and headed back up to Kelbax's secret room to rest.
+	-We grabbed a couple of jars of biscuits, and headed back up to Kal Bax's secret room to rest.
 		-Onyx and I both made a concerted effort to investigate the mechanism for closing and hiding
 		 the rooms door again. I had no real idea, but Onyx noticed an odd object that, moved on the
 		 shelf, revealed a control panel that allowed him to seal and hide the room again.
@@ -1674,7 +1674,7 @@ TODO:
 			-Two-Faced Raven said she'd remain and keep watch over "this thing", in reference to our
 			 dragonborn prisoner (ally?). Silver Maw also opted to remain, after a brief exchange
 			 with Golden Blade.
-	-We went back to the (false) tomb of Kelbax, to resume what we were working on when Silent Onyx
+	-We went back to the (false) tomb of Kal Bax, to resume what we were working on when Silent Onyx
 	 was injured.
 		-After some hemming and hawing, Golden Blade volunteered to be our gas-canary, and we lowered
 		 him into the tomb, to see if the gas that had attacked Onyx's skin had dissipated.
@@ -2039,7 +2039,7 @@ TODO:
 	-After that, we met in Denandsor, The Empty City.
 		-The city is a showpiece of the Twilight caste, a display of their crafting prowess.
 		-Meherrin, Aure Orchester joined us there also.
-		-There too were Kel Bax, his apprentice Osandus Pol, Daveg, and Atraxia.
+		-There too were Kal Bax, his apprentice Osandus Pol, Daveg, and Atraxia.
 			-The four of them help rule the city.
 			-Bax was the one who called us there.
 			-He named the other four of us as ones who'd taken the forbidden journey to The
@@ -2176,7 +2176,7 @@ TODO:
 					 And now I understand."
 						-A price worth paying in my eyes. A price Garn later _would_ pay.
 					-He did claim to know what he came to learn, and we then took our leave.
-	-Kel Bax used the puzzle box to take us back to Creation.
+	-Kal Bax used the puzzle box to take us back to Creation.
 		-A fascinating device. Though I was not going to admit it, when it worked correctly, it was
 		 a far easier journey to and from the Tombs than my first trip.
 			-"I would love to study your creation, 
@@ -2243,12 +2243,12 @@ TODO:
 			 Morning Star: "Your usefulness is fading as your memory does. You should try to remember."
 			 "Kill me if you must. Before you do, know that this may be happening to others."
 			 "What have you heard?" I asked.
-			 "Rumors. An attack in Denandsor. Kel Bax has been named a heretic, the rest of his circle
+			 "Rumors. An attack in Denandsor. Kal Bax has been named a heretic, the rest of his circle
 			 with him. The Dragon-blooded are rising up, attacking us."
 			-With that, his usefulness, all that was staying Morning Stars hand, was at an end.
 				-I simply left the room to go get another sandwich.
 	-From there, we went South, towards Denandsor, to see about the truth of these heresy rumors.
-		-Kel Bax spotted us on the way, from his pleasure yacht, and picked us up.
+		-Kal Bax spotted us on the way, from his pleasure yacht, and picked us up.
 		-He said he'd tried to travel, via the Auspicious Gate and through Heaven, but that only
 		 brought more of them, their pursuers.
 		-Their eyes settled on Morning Star. "You killed the only means we had of seeking aid."
@@ -3035,7 +3035,26 @@ TODO:
 			-Healing Sister Lian's knee.
 			-Riding the Agatae to speed the trip back to Nexus.
 			-Posted that here: https://discord.com/channels/@me/772891797726822481/899853594042445854
-		-Figure out the Abiscissic Bindings.
+		-Figure out the Abscissic Bindings.
+			-See pg. 31 of BoS vol. V.
+			-Lesley's info about how many you know:
+				-Pick plates you remember up to your Essence, and can of course track down and buy
+				 more.
+			-Compasssion, Conviction, and Valor all show up among your first three demons' high
+			 virtues.
+			-Attractive sounding plates:
+				-The Ecstatic (Compassion):
+					-Solid for the bottle bugs.
+				-The Hunter (Conviction):
+					-Solid for the deer, Demjen, Heranhal, and blood-apes.
+				-The Slave (Temperance):
+					-Probably the more dangerous of the two temperance ones, but very Larquen, and
+					 thus what you'd likely have been exposed to.
+				-The Warden (Valor):
+					-Good valor option.
+			-Wrote those down in macros.
+			-Now assign bindings to the demon's you've summoned.
+				-Done!
 	-What is that torc?
 		-Examining it, it does nothing, and is simply made of Soulsteel. Looking closely, though,
 		 it's covered in faces, the source of that screaming when it's moved.
@@ -3043,12 +3062,16 @@ TODO:
 		 thaumaturges, and they have access to a library specializing in that too.
 			-TODO: Tell Lesley about this.
 	-Seal that hole in the closet.
-		-Weight on it?
-		-Ward?
-		-Alarms? Bells on it or some such?
 		-Still haven't explored the stair up in there.
+			-Do this before leaving.
+		-Sealing it:
+			-I'm going to physically seal the entrance to this area by having the agatae and the
+			 monks work together to move a bolder over it, ruling out any further lone explorers,
+			 at least. Then, I'll have several of the thaumaturges among the monks layer some alarm
+			 wards on the area, to alert them to any further attempts at getting in or out.
 		-TODO!
 	-How long since these clones were loosed?
+		-Ask the monks.
 	-Send a message to Golden Blade?
 		-Given what the torc shares, he clearly knows something is up.
 		-Ah, and, actually reading the Torc's description again, it shares a ton, so he probably
@@ -3058,9 +3081,15 @@ TODO:
 		 the existance of my manse to the circle, and to ask for help. It's in danger from powerful,
 		 and somewhat shared, enemies, and you could use allies coming to it's defense.
 	-Address the monks further.
-		-No more exploration.
-		-Pep talk: "You support me, sustain me, and are the only family I have."
+		-No more exploration. If such discoveries are made, let me know, and await instructions.
+		-Pep talk:
+			-"You support me, sustain me, and are the only family I have.
+			  Our great work is now beginning, and soon every one of us will be needed, to bring
+			  about a glorious new age. _Creation_ needs each and every one of you, every bit as
+			  much as I do."
 			-Maybe make a Charisma+Presence check?
+		-"I will be checking in with you nearly nightly, via the carved face."
+			-TODO: mention the procedure to Lesley.
 	-Research "chao-morphic symbiotes", or set the monks to doing so?
 
 
@@ -3078,22 +3107,25 @@ TODO:
 			 secret.
 				-You might also need to explain that there was more in the NE than you admitted, and
 				 the bigger secret is the (hopefully understandable?) reason why.
-	-Write up your usual monk check-in protocol.
-		-Avoid further surpises, like at the return to Nexus.
-		-Blow essence each night before sleeping?
-	-Look into Craft(Magitech) in Oadenel's and Scroll of Errata.
+	-Look into Craft(Magitech) in Oadenol's and Scroll of Errata.
 		-You need other Crafts before you can take it, though.
+		-Yeah, definitely seems like a direction you eventually want to go in.
 	-The Inivisible Manse's hearthstone is amazing.
 		-See Hearthstone_of_the_invisible_fortress.odt
 		-Add your extra health levels in Roll20.
+			-Done!
 		-Begin exploiting those stored rolls.
 			-Existing banked stuff of interest:
 				-Recognizing the old Solars of the manse perfectly could be used on each other
 				 or The Mask of Winters to interesting effect.
 				-"the ability to lie to other solars and maintain a ruse as a perfect effect" is
 				 crazy powerful and useful.
+			-Can you bank demon binding rolls?
+				-What are the implications given that it's a _repeated_ roll?
 		-"master bax' escape ship"?!?
+			-Eh, sounds like we'll have to follow up on that when we return to the manse.
 	-Downtime demons.
+		-Got a start on that, following your solo adventure, but do more!
 	-Claim more artifacts?
 		-The Audient Brush is up your alley.
 			-Asked here: https://discord.com/channels/785604556934742036/785604557518405654/892279585163587585
@@ -3110,7 +3142,6 @@ TODO:
 		-Eventually implant The Bracers of Universal Crafting.
 			-You can wear other bracers over them!
 			-Obviously for once you have crafting Abilities.
-	-Explore the 
 	-Dispose of that grisly mask?
 		-Or keep it, for whatever significance it may hold to The Mask of Winters?
 			-Now kind of getting the impression _Larquen_ may be The Mask, rather than Meherrin,
@@ -3185,7 +3216,7 @@ TODO:
 				Stones Worn Smooth (Black Treatise PDF pg. 135)
 				Summon Ghost (Black Treatise PDF pg. 135)
 				Without pity without scorn (Black Treatise PDF pg. 136)
-		-"Manse Construction, by Kelbax":
+		-"Manse Construction, by Kal Bax":
 			-Celestial Circle:
 				Raise the Puissant Sanctum (White Treatise pg. 79).
 			-Solar Circle:
@@ -3220,6 +3251,9 @@ TODO:
 		-Raised it here: https://discord.com/channels/785604556934742036/785604557518405654/884559331570380840
 		-Do Lore checks and talk with the Terresterial to figure out if we can take it, though.
 			-Heard this from Lore/Occult, but doesn't give a clear idea if we can take it: https://discord.com/channels/785604556934742036/785604557518405654/884595066000269393
+	-Create a factory-cathedral. Kal Bax's writings brings this into the realm of eventually possible
+	 for you, and would certainly help restore the glories of The First Age.
+		-See Oadenol's pg. 78 for more info on the subject.
 
 
 TODONE:
@@ -3299,3 +3333,6 @@ TODONE:
 		 Resistance rolls vs. cold.
 	-Examine the bamboo sword, from the 9/13/21 session.
 		-See The Greenwood Blade in Roll20.
+	-Write up your usual monk check-in protocol.
+		-Avoid further surpises, like at the return to Nexus.
+		-Blow essence each night before sleeping?
