@@ -302,6 +302,7 @@ Advancement:
 			-Still tends to lead to _faster_ training times for PCs too.
 		-The Wyld stuff is pretty cool too.
 			-Forge a demesne in Nexus?!?
+			-
 	-With Essence 4, Martial Arts Essence Flow becomes possible, perhaps making getting that and
 	 another Martial Arts Excellency tempting.
 		-It makes the other Excellency innate, allowing you to use it with other charms without

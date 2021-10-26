@@ -21,8 +21,10 @@ Suspended spells, by trigger:
 Stuff previously suspended:
 	
 
-Motes Committed:
-	TODO
+Motes Committed: 8
+	4	Orichalcum Hearthstone Bracers
+	1	Orchalcum Hearthstone Amulet
+	3	Torc of Unified Action (linked with Golden Blade's)
 
 Mundane Possessions:
 	-Fine Buff Jacket
@@ -106,8 +108,9 @@ Nightly Rituals:
 	-Each night that I'd otherwise rest with maximum or one less than maximum Willpower, I use the
 	 Wooden Face at my monastery, to check in with my monks, tending to the needs of the community.
 
-
-
+Eclipse Oaths:
+	-The entire circle swore not to reveal that Itraxian the Weaver is The Emissary of Nexus
+	 (Essence 8).
 
 
 

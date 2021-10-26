@@ -2039,7 +2039,7 @@ TODO:
 	-After that, we met in Denandsor, The Empty City.
 		-The city is a showpiece of the Twilight caste, a display of their crafting prowess.
 		-Meherrin, Aure Orchester joined us there also.
-		-There too were Kal Bax, his apprentice Osandus Pol, Daveg, and Atraxia.
+		-There too were Kal Bax, his apprentice Osandus Pol, Daveg, and Itraxian.
 			-The four of them help rule the city.
 			-Bax was the one who called us there.
 			-He named the other four of us as ones who'd taken the forbidden journey to The
@@ -2426,7 +2426,7 @@ TODO:
 			 and things once abhorrent failed now to shock, even holding some attraction. . .
 			-As a result of this, all of us by Silent Onyx gain dot of Whispers.
 	-After the thaw, we ventured back from the manse to Wangler's Knob.
-		-The journey was not easy, but now possible.
+		-The journey was not easy, but was now _possible_.
 		-I commanded the demons to remain, and to continue construction on both the manse and the
 		 town of Gateway.
 			-While they cleared new land for wood, they found small wonders for sale or delivery
@@ -2443,13 +2443,13 @@ TODO:
 			-This town is doomed, he said, with reinforcements from The Realm arriving daily.
 			-He'd managed a treaty allowing Hawke's Chargers to safely retreat, and wanted out of
 			 there as soon as possible.
-	-The journey back from Nexus took 3 weeks.
+	-The journey back to Nexus took 3 weeks.
 		-Our dynast and deathknight joined us.
 			-Rishi, asked about the latter, said he'd offered her many foods, but she accepted
 			 nothing. He _did_, though, catch her grabbing and devouring a rat that strayed near
 			 her.
 		-During the journey, I trained, the details of which will be just below this session's notes.
-		-During that time, we also handed over the Wyld-iron, the topazs.
+		-During that time, we also handed over the Wyld-iron, and the topazs.
 		-Rishi pressed us for any information we'd divulge, but we were tight-lipped.
 		-Hawke was largely incurious, but did ask us to confirm that a force of the dynasts had
 		 been killed by demons. We confirmed it.
@@ -2459,7 +2459,7 @@ TODO:
 		-In the ports we stopped back on the way home, we heard rumors that The Realm and Lookshy
 		 were gearing up for war.
 			-There were rumors of blockades by The Realm of Lookshy trade, and other boats stopping
-			 all commers, demanding a tax (basically pirates).
+			 all comers, demanding a tax (basically pirates).
 			-The Marukani, long allies of Lookshy, were dealing with their own attackers, to the
 			 South, from minions of The Mask of Winters.
 				-The Seventh Legion is said to be refusing to help them.
@@ -2531,14 +2531,16 @@ TODO:
 			-All sorts of trouble is being caused by that, but still The Emissary does not act.
 		-Pip's mother also came to see her, thankful for her return.
 			-Apparently she'd been barely able to eat, owing to what she has had to pay in protection
-			 money to the "snake men" gang.
+			 money to a snakemen gang.
 			-Pip is enraged, and intent on doing something about that.
 		-I did some drinking with Blade and Hawke's men, to celebrate our success (again, if they
 		 knew. . .).
 			-The chaos of the city was well evident while we were out.
 			-We also heard rumors of the disappearance of the very poor in Nexus too.
 				-The guards have been writing it off, but the working class is worried.
-				-Some body parts have been found in the water near the docks, and in other waters throughout the city. Could be the work of animals, but rumors abound about some kind of monster.
+				-Some body parts have been found in the water near the docks, and in other waters
+				 throughout the city. Could be the work of animals, but rumors abound about some
+				 kind of monster.
 					-Sightings were rumored in the Firewander district, at night. A big silver mass
 					 seen moving across the rooftops, and supposedly in and out of the Wyld-zone
 					 there.
@@ -2561,6 +2563,9 @@ TODO:
 				-Libak told us he is said to be the leader of the Tang Zen. He's rumored to be a
 				 snakeman, and his organization is said to have taken control of the local snakemen
 				 cartels.
+			-I informed them I had a. . . family matter of my own to deal with, but (somewhat slyly)
+			 suggested that Blade would of course wish to remain, the contract being tantamount to
+			 slavery.
 
 
 TODO:
@@ -2633,6 +2638,8 @@ TODO:
 			 to no Mobility or Fatigue penalties without Empowerment, and with the +1 to both soaks.
 			-May obviate Ritual of Elemental Empowerment?
 				-Ah, there's always extra soak from the Earth Benediction.
+				-Exalted doesn't address it but light internet research suggests lamellar armor
+				 should fall within your weight limit.
 		-Plates from The Abiscissic Guide?
 			-See pg. 31 of Books of Sorcery Vol. V.
 			-Ah, or, the next page says my dots in Occult should mean I know it already, unless _not_
@@ -2670,7 +2677,6 @@ TODO:
 10/14/21: A Solo Adventure
 	-On the way out of Nexus, you ordered your armor and bought demon summoning equipment, leaving
 	 one cage setup stored at Rishi's.
-		-TODO: copy that stuff, above, into your gear list in macros.txt
 	-For the trip, I again headed to Nexus's docks, and found a ship going West down the Yanaze.
 		-My pockets a bit heavier right now, I booked a room on a luxurious yacht going that way.
 		-Powered by magical contrivances, this boat was quite quick, and I disbarked only a day
@@ -2732,7 +2738,7 @@ TODO:
 				  North."
 				 "I saw his last moments. You seek to repeat the same mistakes."
 				 "We can bring a new age. We can rebuild, and we wouldn't be alone. Come."
-				-I had strode twoards him, over the course of our conversation. Now, he led me into
+				-I had strode towards him, over the course of our conversation. Now, he led me into
 				 the room he'd been standing before.
 					-It contained dozens and dozens of golden tanks, each containing a humanoid figure,
 					 and a swirling golden mass.
@@ -2743,18 +2749,18 @@ TODO:
 				 "Why conquest, though? So many just need aid, guidance."
 				 "It is necessary. It will show them their place."
 				 "The world cries out for a savior, not another conquerer."
-				 "it will show them we are above them. They _will_ know their savior."
+				 "It will show them we are above them. They _will_ know their savior."
 				 ". . . I think you are intent on making the same mistakes. There is so much to
 				  learn, but I do not think you want to."
 				-He then tried what I recognized as Peacock Shadow Eyes on me, to no effect."
-				-"Recognizing it, I fell into Snake Style, to a look of astonishment on his face.
-				  It seemed he could not believe I'd defy him."
+				-Recognizing it, I fell into Snake Style, to a look of astonishment on his face. It
+				 seemed he could not believe I'd defy him.
 					-He dodged several attacks, with a surprisingly malleable form, bending inhumanly,
 					 then collapsing into a puddle to dodge by swipes, before forming into a great,
 					 fanged maw and trying to bite me.
 					-As I dodged the maw, a single claw swipe in passing finally connected, dealing
 					 it a small wound.
-					-Suprisingly, that led to it yielding.
+					-Suprisingly, that led to him yielding.
 				-"Wait, we need not fight!" he said. "I see that you are the stronger. We can still
 				  work together."
 				 "Is that so? To what end?"
@@ -2783,7 +2789,7 @@ TODO:
 				 "If you wish to learn Necromancy, go there."
 				 "Not the easiest thing to do. I have heard fearsome things of it's ruler."
 				 "What Solar rules there?"
-				 "No solar. A servant of the neverborn, perhaps a ghost."
+				 "No Solar. A servant of the neverborn, perhaps a ghost."
 				 "What is a ghost to us?"
 				 "I have known exalts that walk in fear of it. I would not discount it out of hand."
 				 "Where do Solars rule? What of the Solar deliberative? That trouble in the South
@@ -2803,7 +2809,8 @@ TODO:
 				 "You could make these from anyone?"
 				 "Yes. I could make copies of you, or others. It. . . comforts me that you would
 				  not be able to do so without me.
-				  But, without. . . certain surgical procedures, they would be blanks. Still useful, if you can train them, though.
+				  But, without. . . certain surgical procedures, they would be blanks. Still useful,
+				  if you can train them, though.
 				  With materials, I could also form more of these chao-morphic symbiotes."
 				 "I had wondered what that was. It is not a thing I remember Larquen using."
 				 "It is not a thing we were meant to use long."
@@ -2832,12 +2839,12 @@ TODO:
 		-I went to Lian, and called two monks over to help her.
 		-I told them there is much to learn here, but also much danger, and followed him out the door.
 	-Outside, another Larquen-clone was walking up, with a woman, quite clearly a deathknight.
-		-Much of her black wardrobe was seemingly corsetted with bones, and across her back she wore
-		 a wicked looking daiklaive.
+		-Much of her black wardrobe was seemingly corsetted with bones and studded with strange black
+		 metal. Across her back she wore a wicked looking daiklaive.
 			-Image of her: https://discord.com/channels/@me/772891797726822481/898398879735746600
 		-The approaching clone addressed the one I'd me, saying, "Number 1, who is this?"
 		 "I am The First Light's Dragon." I confidently asserted.
-		 He looked at me with surpise, saying, "You're the one. Interesting.
+		 He looked at me with surpise, saying, "You're the one. Interesting."
 		-The woman then looked to me, smiled, and said, "I've heard of you. . . A very strange tale
 		 indeed. I heard you were responsible for attacking Lord Hilo's domain, in search of another
 		 of my kind. Did you rescue her from the fey?"
@@ -2875,7 +2882,7 @@ TODO:
 		 though one seeping a black. . . vapor, rather than shining.
 		-She then _vastly_ increased her speed, leaving a red blur behind her.
 		-In response, I spoke, saying, "The dragon takes wing." And with that, my suspended casting
-		 of Stormwind Rider was made manifest, and I was swept up into a racing whirlwind, still in
+		 of Stormwind Rider was made manifest, and I was swept up into a racing whirlwind, still
 		 giving chase.
 		-That netted me only a horrible laugh, though, as she _still_ put on speed, and grew the gap.
 		-Eventually, she raced _down a cliff_ and away, shaking my pursuit.
@@ -2920,7 +2927,7 @@ TODO:
 		-He then grabbed the torc, mumbling, "Mine. . ."
 		-I'm fairly sure #1 survived, but it's hard to tell.
 			-That _may_ be the neck wound I dealt him, but many other gashes have joined it.
-	-I was still enraged, shouting at the wounded survivor,"A powerful enemy, invited here!
+	-I was still enraged, shouting at the wounded survivor, "A powerful enemy, invited here!"
 	 "All the more reason we should awaken the others. If you would listen to me. . . We
 	  should gather the required materials."
 	 "I. . . would know more of this proces. What is this material you speak of?"
@@ -2935,16 +2942,15 @@ TODO:
 	-He led me inside the monastery's grounds as we spoke, and then into one of the buildings.
 		-There, in a room within, the clone gestured to a disembowled, but still living, monk, his
 		 entrails strewn in about the room in what looked like careful lines and patterns.
-		-It was Brother Huan, a friend. Close in age, we'd trained together many times.
+		-It was Brother Huan, a friend. Close in age, we'd trained together for many years.
 		-The clone simply walked past him, to a table, and began sorting through papers and grisly
 		 instruments, babbling about how it would be a five day walk, to Malfeas and back, for me,
 		 but that time passes differently there, and that the ritual would ensure my return mere
 		 minutes after my departure.
 		-In my rage, I barely heard him, and I strode towards his turned back.
-		-Despite my stomping, he was so proud of his ritual and preoccupied that he remained
-		 oblivious until my clawed hand caught him around his neck.
-		-I squeezed, and pushed the claws into his throat, continuing until I had ripped his head
-		 off.
+		-Despite my stomping, he was so proud of his ritual and preoccupied with it that he remained
+		 oblivious pushing the claws into his throat and tearing, continuing until I had ripped his
+		 head off.
 		-In response, the symbiote shrieked, fell away, and then slithered over the disembowled
 		 form of Brother Huan.
 			-He began screaming as the thing covered him, his intestines slithering back in.
@@ -3002,7 +3008,7 @@ TODO:
 			  magnitude of the task before us.
 			  We should also step up our recruitment, and the time may soon come when we will need to proselytize further."
 	-The monk who suggested it then began work on wards against the undead, surrounding the manse.
-		-It took him more than and a day, pinning up paper strips with Old Realm sutras and
+		-It took him more than a day, pinning up paper strips with Old Realm sutras and
 		 sprinkling powders in ritual patterns around the entire perimeter of the manse.
 		-He was exhausted by the end of it, saying only, "It is done," and then collapsing where he
 		 stood.
@@ -3063,11 +3069,15 @@ TODO:
 		-In the way of reaching out to him, however conversation happens, I think it's time to admit
 		 the existance of my manse to the circle, and to ask for help. It's in danger from powerful,
 		 and somewhat shared, enemies, and you could use allies coming to it's defense.
+		-Yep, I talked to him in the next session, and asked for help, admitting the existence of the
+		 monks, and saying that they're threatened by The Mask of Winters.
 	-What is that torc?
 		-Examining it, it does nothing, and is simply made of Soulsteel. Looking closely, though,
 		 it's covered in faces, the source of that screaming when it's moved.
 		-Turn it over to the monks for examination and research? Many among them are skilled
 		 thaumaturges, and they have access to a library specializing in that too.
+		-I know Soulsteel to involve combining ore from the Labyrinth with the higher, hun soul of
+		 a ghost.
 	-Seal that hole in the closet.
 		-Still haven't explored the stair up in there.
 			-Do this before leaving.
@@ -3078,6 +3088,8 @@ TODO:
 			 wards on the area, to alert them to any further attempts at getting in or out.
 	-How long since these clones were loosed?
 		-Ask the monks.
+			-The first clone awoke 3 _months_ before I arrived. The others have only been awakened
+			 a month.
 	-Address the monks further.
 		-No more exploration. If such discoveries are made, let me know, and await instructions.
 		-Pep talk:
@@ -3087,12 +3099,203 @@ TODO:
 			  much as I do."
 			-Maybe make a Charisma+Presence check?
 		-"I will be checking in with you nearly nightly, via the carved face."
-			-TODO: mention the procedure to Lesley.
+			-Mentioned the procedure to Lesley.
 	-Research "chao-morphic symbiotes", or set the monks to doing so?
+		-Ah, actually, there were some notes concerning them in the hole.
+		-Looking into it, it's a result of Craft(Genesis), and is a kind of living superweapon.
+			-It is an intelligent thing that can mimic the forms of Wyld mutations.
+	-Sent Lesley the above five things here: https://discord.com/channels/@me/772891797726822481/902032340312809482
 
 
 10/25/21:
-	-
+	-As I made my way back to Nexus, the others reunited at Hawke's compound, a week after we'd
+	 returned to Nexus.
+		-Silent Onyx had been looking into the silver monster, which turned out to be some strange
+		 blob of liquid silver, emerging from the Wyld zone and doing various things. Following
+		 people, absorbing them, sneaking around, etc.
+		-I also heard what happened with Golden Blade, as it happened.
+			-He killed a sewer monster that had been abducting children, likely the source of the body
+			 parts in the water. Some mustached figure fled from the scene, though, so perhaps there
+			 still exist conspirators.
+			-In the course of that, he also acquired a follower, Sparrow, a young boy with a shaved head.
+			-He was also jumped, in revenge for our assault on Lord Hilo, though dealt with them easily.
+		-Pip had also found an ally, at some place called "The Tomb of the Night", but was unwilling
+		 to say more where others might hear.
+			-It _does_ sound like she may have again revealed her Solar nature, to an even bigger
+			 crowd.
+			-The others went with her to this place, finding it beneath a bridge she led them to.
+			-They were greated there by a strange, green-ish woman, speaking in pidgen.
+			-Pip indicated to her these were friends she had brought, to the delight of the woman.
+			-She insisted on touching each of them. As she did so, a caste mark on her forhead flared,
+			 a simple golden circle, like Silent Onyx's.
+			-It was she that noticed the child, Blade's follower, who remarked at her caste mark,
+			 with wide eyes, saying, "She's _another_ illuminated?!?"
+			-Blade tried to dismiss the child, sending him back to Hawke's compound, but the strange
+			 woman insisted he stay, saying the area is dangerous.
+			-She led them into a dark passage. Soon, an _impossibly_ dark passage. Something was
+			 strange there.
+			-Eventually, she led them to a small, dimly lit room, with several doors opening onto
+			 it. In fact, _strangely_ lit, seemingly black and white, leeched of all color. Perhaps
+			 the result of warped essence flows?
+			-Is this one of the six Solar tombs of Nexus? "The Tomb of Night" is one such, and it's
+			 said to swallow whole those who step into it's darkness.
+				-Pip confirmed it was indeed the tomb.
+				-It appears to be a manse as well. Perhaps this Night Caste woman is attuned to it.
+			-In any event, the strange woman indicated the palce was safe, and introduced herslef as
+			 Hyula.
+			-Pip then began to speak of Ophilis Ses, saying he'd gained control over all of Nexus's
+			 gangs, and had killed Hyula's lover. This is the source of their alliance, as
+			 Hyula desires revenge.
+			-Pip also said she met one Silver Wind, an anathema hunter. Uh oh.
+			-Thankfully, Pip had learned many things of the snakemen gang, learning the location of
+			 many snakeman hideouts in the Firewander district, and that some of them were keeping
+			 profits for Ses, a potential wedge to use.
+			-Unfortunately, she and her mother are also now homeless, their home having been burned
+			 by the snakemen.
+			-Golden Blade then reached out to me, checking on my ETA.
+				-Reaching the river by Agatae, I had found a fishing boat to ride back into Nexus
+				 on, and was only a few hours away. I arranged to meet them soon.
+			-The room was also filled with paper covered in crude writing, but detailed maps,
+			 apparently Hyula's investigations into Ses.
+				-They ran through the locations of Tang Zen hideouts that Pip and Hyula knew.
+				-One of which was curiously right on top of the sewer where Blade fought his monster.
+			-They discussed how best to get to Ophilis Ses, and Hyula volunteered that he had a
+			 boyfriend, somewhere outside Nexus, and a son, who is currently missing.
+			-I arrived around that time, and Blade, Libak, and Hyula went out to fetch me.
+			-As she led all of us back into the tomb, I asked her how she and Pip had met. She
+			 pointed to her caste mark and then to me. "Yes," I responded, our kind does indeed seem
+			 to be drawn together.
+			-All of us reunited, Hyula then spoke of what went on at several of the Tan Zen sites.
+				-Their armory held many weapons, bearing a finely wrought pattern, some kind of set.
+				-At their "factories", one near the sewer with Blade's monster, they _make_ monsters.
+					-Golden Blade described a thing made from stitched together corpses.
+			-I also asked Pip for some details of this anathema hunter, and what people saw of her.
+				-She indicated 200 plus people may have seen something they shouldn' have.
+				-She did not know if this hunter was of the Wild Hunt, but did not think so.
+	-In our pursuit of Ophilis Ses, we decided to raid the site the Tang Zen were keeping slaves,
+	 an issue of personal concern to Libak and Blade both.
+		-As we traveled, the city was clearly troubled. The homeless, in particular, bore improvised
+		 arms, guarding barricades built of trash.
+		-The Tang Zen site was in The Brood Market, a slave market in the city.
+		-Stepping into this place of suffering, though, Libak flew into a rage.
+		-He strode towards one of the slavers, taking bids, and punched him straight in the face,
+		 scattering the coins on his table.
+		-Golden Blade also looked queasy at the sight of the market and, when Libak flew into his
+		 rage, Blade held back for a moment, then shrugged, and joined in.
+		-He ran to the slaves at the auction block, and began striking of their chains.
+		-Libak continued his rampage while Golden Blade employed charms to both rally the freed
+		 slaves into a unit and to disperse a group of mercenaries that was pushing towards us
+		 through the crowd.
+		-Well, this was neither what I signed up for nor what I expected binding myself closer to
+		 the circle would mean, but they still _are_ my best allies in the face of the deathlord
+		 that now threatens my home. I fell into Snake Style, and activated my Essence Fangs and
+		 Scales Technique.
+		-Pip, though, tried to tackle Libak, seemingly hoping to stop the rage.
+		-While they brawled, I saw Silent Onyx slipping off. Running up to him, I asked him where
+		 he was going.
+		 "To complete our mission," he said.
+		 "I'm with you, then."
+	-Onyx and I found ourselves at the warehouse in question, marked with the their sign, three red
+	 triangles.
+		-I asked Onyx how he wanted to do with this and he simply said, "Silently."
+		-I nodded, and said, "I'll be on those crates," pointing to some across the alley down the
+		 street, "Just give me the sign." I continued on down the alley, sat on one of the crates,
+		 and pulled a book out of my bag. I could see the warehouse's front door and a side door
+		 from there.
+		-Onyx inspected the building. It lacked windows, and the roof was strangely prepared, covered
+		 in herbs and charcoal. Nearing the building, that seemed to be covering a smell, as it stank
+		 of rotting meat.
+		-Onyx relayed as much to me, and then crept in through the front door.
+		-He returned a few minutes later, to report what he'd seen, and avoid someone moving about.
+		-Inside were several zombies, packing boxes.
+			-They were placing pouches of some liquid into the boxes, and then covering that with
+			 other goods, concealing it.
+			-Onyx retrieved one of them, giving it to me. I tucked it behind the crates I was sitting
+			 on.
+		-In another room, he also heard someone talking.
+			-A man's voice, he mentioned a scalpel, sewing, and later something about finding the
+			 children again, they being "the only thing I can work with." A muffled response, from a
+			 woman, followed by movement, is what sent him out the door.
+		-He returned inside, and looked further, attempting to sneak into the room the voices were
+		 coming from.
+			-He was overcome by the stench, though, and stumbled, attracting their attention.
+			-Before he fled out the door, he saw a mustached man, bent over a small corpse with it's
+			 lungs removed and splayed out around it. He was accompanied by another man, one with
+			 a satchel of herbs and charcoal over his mouth and nose.
+		-This relayed to me, we discussed our next move, settling on the other door.
+			-With charms, Onyx slipped past the man working there, and listened at the metal slatted
+			 rollup door there.
+		-Uh oh. While this is going on, I got some sense that Golden Blade had revealed himself in
+		 some manner, his anima flaring.
+			-Shit. An immaculate monk soon showed up. Though one who lacks the House mark you'd
+			 expect. . .
+			-We rushed to them. It would take us two rounds to reach them.
+			-Orrr. . . not? Silent Onyx and I arrived at the market, but could only remember what I
+			 had felt through the Torc if I really concentrated. Here at the market, it was as if
+			 it had never happened. And yet I was still there, for some reason?
+				-I could feel similar confusion, through the Torc, from Golden Blade.
+				-I vaguely recall Golden Blade dealing the monk a grevious blow. Perhaps this was
+				 some power or ploy to escape? If so, it's. . . reach is, at least, somehow limited.
+	-In any event, Blade and Libak continued beating the guard officer, that they had / had not
+	 been interrupted in doing by that strange monk.
+		-Once he dropped, Blade led the freed slaves to the Grand Canal.
+		-Golden Blade shouted to them that they were now free, free to do as they will.
+		-Libak added that, if they sought jobs, the Suli family could help. Golden Blade spoke up
+		 again, shouting that work could be found for warriors at Hawke's compound.
+		-Here I spoke up, saying that I don't think it would be wise to lead a crowd back to Hawke's
+		 compound. "What happened here is likely to be a big problem for us, and I don't think
+		 they'll want that falling on their heads too."
+		-They heeded my advice, dispersing the slaves into groups and, and instructing those
+		 interested in work with our suggestions to trickle in over time.
+	-We then made our own way back to Hawke's compound, only to find the streets nearby deserted,
+	 and our way blocked by a figure in a silver mask and white robes, The Emissary.
+		-"You are wanted in my city by the armies of Heaven. For this I have cast out others. But I
+		  can use you. I have need of you. Come with me."
+		-It walked over to the nearest door, and opened it. Inside was not the shop exterior one
+		 would expect, but rather an ornate, marble-clad room.
+		-We followed, and, inside, the emmissary removed it's mask, revealing the face of Itraxian,
+		 The Weaver.
+		-She seemed to know who we were, or were in The First Age, anyways.
+		-She asked us for aid in ridding Nexus of the deathknights infesting it.
+		-In particular, she asked if we knew of Ophilis Ses, claiming he is somehow the reincarnation
+		 of Surin of Justice, another Eclipse Caste from The Invisible Manse.
+		-Turning to me, she also said that, "He is working with the ghost of Larquen Quen, that
+		 thing that calls itself The Mask of Winters."
+		-"I swore long ago that I would not act, except to protect my city and it's ideals. My hand
+		  has been forced.
+		  I have never been one to employ violence to achieve my ends. I find myself unprepared for the organized force I now face."
+		-She looked desperate, and tired.
+		-"We can come to an accord," I said, "I am also troubled by The Mask, by the simple fact of
+		  his existance, and in more concrete ways.
+		-"First," she said, "You must swear an oath, not to reveal who I am."
+		-"But how is it that you come to be here?" I asked. "When the others were trapped at The
+		  Invisible Manse."
+		 "Trapped? We weren't trapped. We were arrogant, too arrogant to admit we feared to leave.
+		  After Larquen did that to Meherrin, I could not stay."
+		-I was the first to assent to her oath, and each of the others swore it in turn.
+		-I asked her then if she had a plan, to eliminate the deathknights in the city.
+			-She told us of a Guild factor named Kan Dans, and where to find him.
+			-He is a leader among a group known as The Cult of the Illuminated, who believe us to be
+			 saviors sent by the gods.
+			-The cult is a front. They help Solar Exalts, and eventually smuggle them out of the
+			 city, most North, some South. Kan Dans and others in the cult, though, are actually
+			 disguised Sidereals.
+		-Silent Onyx then spoke up, volunteering that he knew where two Abyssals were, relaying
+		 what we saw at the warehouse.
+			-"Strange," Itraxian said, after a moment's concentration, "I can barely see this
+			  building. . ."
+		-Itraxian offered that she could protect us from the Wild Hunt. She will issue a proclamation
+		 forbidding them and their agents from the city.
+			-"It may damage the markets, and the damage could be irreparable if the matter isn't
+			  resolved within a couple of days. I don't see any other way, though. . ."
+
+
+TODO:
+	-Go back and grab that box.
+	-Maybe bait the remaining deathknights with our captive one.
+	-In general, do deathknight research and investigation.
+		-Speake with "our" deathknight.
+		-Enlist "our" dynast, she being already very interested in the subject.
 
 
 TODO:
