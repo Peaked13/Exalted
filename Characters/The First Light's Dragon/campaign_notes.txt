@@ -3079,8 +3079,10 @@ TODO:
 		-I know Soulsteel to involve combining ore from the Labyrinth with the higher, hun soul of
 		 a ghost.
 	-Seal that hole in the closet.
-		-Still haven't explored the stair up in there.
+		-(DONE!) Still haven't explored the stair up in there.
 			-Do this before leaving.
+			-It led to another room containing further notes and lab equipment. This time, the notes
+			 concerned the creation of the symbiotes.
 		-Sealing it:
 			-I'm going to physically seal the entrance to this area by having the agatae and the
 			 monks work together to move a bolder over it, ruling out any further lone explorers,
@@ -3124,7 +3126,7 @@ TODO:
 			-It _does_ sound like she may have again revealed her Solar nature, to an even bigger
 			 crowd.
 			-The others went with her to this place, finding it beneath a bridge she led them to.
-			-They were greated there by a strange, green-ish woman, speaking in pidgen.
+			-They were greeted there by a strange, green-ish woman, speaking in pidgen.
 			-Pip indicated to her these were friends she had brought, to the delight of the woman.
 			-She insisted on touching each of them. As she did so, a caste mark on her forhead flared,
 			 a simple golden circle, like Silent Onyx's.
@@ -3141,7 +3143,7 @@ TODO:
 			 said to swallow whole those who step into it's darkness.
 				-Pip confirmed it was indeed the tomb.
 				-It appears to be a manse as well. Perhaps this Night Caste woman is attuned to it.
-			-In any event, the strange woman indicated the palce was safe, and introduced herslef as
+			-In any event, the strange woman indicated the place was safe, and introduced herslef as
 			 Hyula.
 			-Pip then began to speak of Ophilis Ses, saying he'd gained control over all of Nexus's
 			 gangs, and had killed Hyula's lover. This is the source of their alliance, as
@@ -3170,8 +3172,8 @@ TODO:
 				-At their "factories", one near the sewer with Blade's monster, they _make_ monsters.
 					-Golden Blade described a thing made from stitched together corpses.
 			-I also asked Pip for some details of this anathema hunter, and what people saw of her.
-				-She indicated 200 plus people may have seen something they shouldn' have.
-				-She did not know if this hunter was of the Wild Hunt, but did not think so.
+				-She indicated 200 plus people may have seen something they shouldn't have.
+				-She did not know if this hunter was of the Wyld Hunt, but did not think so.
 	-In our pursuit of Ophilis Ses, we decided to raid the site the Tang Zen were keeping slaves,
 	 an issue of personal concern to Libak and Blade both.
 		-As we traveled, the city was clearly troubled. The homeless, in particular, bore improvised
@@ -3182,7 +3184,7 @@ TODO:
 		 scattering the coins on his table.
 		-Golden Blade also looked queasy at the sight of the market and, when Libak flew into his
 		 rage, Blade held back for a moment, then shrugged, and joined in.
-		-He ran to the slaves at the auction block, and began striking of their chains.
+		-He ran to the slaves at the auction block, and began striking off their chains.
 		-Libak continued his rampage while Golden Blade employed charms to both rally the freed
 		 slaves into a unit and to disperse a group of mercenaries that was pushing towards us
 		 through the crowd.
@@ -3251,8 +3253,9 @@ TODO:
 	 and our way blocked by a figure in a silver mask and white robes, The Emissary.
 		-"You are wanted in my city by the armies of Heaven. For this I have cast out others. But I
 		  can use you. I have need of you. Come with me."
-		-It walked over to the nearest door, and opened it. Inside was not the shop exterior one
-		 would expect, but rather an ornate, marble-clad room.
+		-It walked over to the nearest door, and opened it. Inside was not the shop interior one
+		 would expect from the exterior, but rather an ornate, marble-clad room, far larger than the
+		 building we had walked into.
 		-We followed, and, inside, the emmissary removed it's mask, revealing the face of Itraxian,
 		 The Weaver.
 		-She seemed to know who we were, or were in The First Age, anyways.
@@ -3284,7 +3287,7 @@ TODO:
 		 what we saw at the warehouse.
 			-"Strange," Itraxian said, after a moment's concentration, "I can barely see this
 			  building. . ."
-		-Itraxian offered that she could protect us from the Wild Hunt. She will issue a proclamation
+		-Itraxian offered that she could protect us from the Wyld Hunt. She will issue a proclamation
 		 forbidding them and their agents from the city.
 			-"It may damage the markets, and the damage could be irreparable if the matter isn't
 			  resolved within a couple of days. I don't see any other way, though. . ."
@@ -3292,13 +3295,410 @@ TODO:
 
 TODO:
 	-Go back and grab that box.
+		-From Lesley: "The box, upon checking, had 2 water skins filled with blood in them."
 	-Maybe bait the remaining deathknights with our captive one.
 	-In general, do deathknight research and investigation.
-		-Speake with "our" deathknight.
+		-Speak with "our" deathknight.
 		-Enlist "our" dynast, she being already very interested in the subject.
+	-Got some answers to a couple of follow up questions: https://discord.com/channels/785604556934742036/785604557518405654/902616110845820948
+		"In character, you know next to nothing about sidereal exalted
+		 The hearthstone recognized itraxian AFTER the mask came off.
+		 Each member of the circle is instantly recognizable"
+	-Agenda:
+		-Learn about Sidereals, starting with asking Itraxian.
+		-Learn about Deathknights.
+			-Question ours and enlist our Dragonblood.
+		-Reach out to the Illuminated, depending on Sidereal answers.
+
+
+11/8/21:
+	-Libak and Pip went to delicately explain our natures to Rishi & Hawke.
+		-(They had to miss tonight's session, and are best skilled at social delicacy.)
+		-What we're saying:
+			-We're Solars.
+			-We found a bit more than we admitted at the manse, pieces of our past. . .
+			-We're going to be hunting Deathknights on behalf of The Emissary, but the deathknights
+			 are also hunting for the one we captured.
+	-Meanwhile, we asked further questions of The Emissary / Itraxian.
+		-"As we look into the deathkinigths, how do we reach you?" Golden Blade asked.
+		 "If you call for me under the light of the sun, I will seek you."
+		-What are these Sidereals you mentioned?
+			-"They are the Chosen of Fate, and the architects of our betrayal.
+			  Some among them, though, now work to aid Solars. They do not seek the Deliberative
+			  restored, but to shape governance themselves.
+			  They do not remember, remember how dangerous we can be. Only the eldest among them
+			  could, and I only know of one such."
+			 "Oh? And who is that?"
+			 "I cannot say."
+			 "You are sworn not to?"
+			 "No. To say their name is to call the eyes of Heaven.
+			  Every time your anima flares, the Sidereals have an opportunity to find you. In Heaven,
+			  there is a great loom, woven by spiders. When your anima flares, they can spot you in
+			  this web.
+			  The cult _does_ help, though. Most solars are taken out of the city, but some are taken
+			  beneath. To deep places my eyes cannot see. I've seen nearly a dozen young Solars taken
+			  down there, but none have returned to the surface.
+			  I have heard that members of this cult have defeated deathknights, in the North, and
+			  have attacked The Realm's holdings in The Threshold. They were accompanied by shining
+			  warriors in golden armor."
+			-"Anything else you would warn us of?" Golden Blade asked her.
+			 Her eyes glowed gold, briefly, and then she said, "I see people moving, from the armory
+			 in The Little Market. They are moving boxes large enough to store a body in. . . "
+			-"Before we go," I said, "you should know of another danger. Are you aware that one of
+			  the fae dwells within the Firewander's Wyld Zone."
+			 "I am."
+			 "It speaks of it's minions eventually sweeping forth, rampaging across the surrouding area."
+			 "No, I don't think it will be that dangerous soon, with the chimera chasing them."
+			 "The chimera?"
+			 "It's strange, it feels like Mithra, but looks nothing like them, and I sensed none of
+			  the thoughts I'd associate with them. I have encountered Lunars known to be before,
+			  and recognized them, but this, it felt. . . detached. Wild.
+			  It has been hunting the fae and it's minions, though it does worry me when it leaves
+			  the zone. It sometimes goes to the Nighthammer pool at night, absorbing people. Randomly,
+			  from what I can tell."
+			  sworn
+			 "Ah, you're the one feeding it?"
+			 "_Feeding_ it?"
+			 "Yes. Each time it faces your oposition, it grows stronger."
+			 "Stronger how?" Golden Blade asked.
+			 "As you think of it, those thoughts creep into your dreams. In your dreams, a substance
+			  called Gossamer forms, and it is harvesting it."
+			 "How do we fight such a thing, then?" Golden Blade asked.
+			 "With cold iron weapons. You slay it, as we did the Raksha of old."
+			 "Good," I responded, "My plan remains unchanged."
+	-We then opted to hustle over to the armory we'd heard of. It sounds like something is currently
+	 under way there.
+	-We took a trolley line, and, while on it, listened to word on the street.
+		-No mention of the fight in the slave market.
+		-Instead, everyone seemed to be talking about the explosions in The Firewander District.
+			-There was mention of a glowing girl, battling a silver-clad ninja in a warehous and
+			 spilling out onto the street.
+			-Well, more or less the same problem. . . 
+	-We passed through The Little Market on the way, and Golden Blade suggested looking into cold
+	 iron weapons.
+		-Golden Blade located a wholesaler of iron ore who was willing to sell small portions, from
+		 which we could at least have cold iron weapons _made_.
+		-Asking that merchant, he learned that smiths could be found in the market around us that
+		 could handle that forging.
+		-After Blade arranged the purchase, Onyx got our attention.
+			-"Don't turn around. We're being watched."
+			 "The Sidereals?" Blade asked.
+			 "No. They're not very subtle."
+			-We tried to duck out of sight, weaving between the merchant stalls and darting down
+			 alleyways.
+			-In the course of it, Blade and I lost sight of Onyx in the course of this, but we
+			 could see we'd not shaken our pursuers.
+			-They wore silver turbans, and silver sashes, both around their waste and across their
+			 faces.
+			-There was a crash behind us, and then, suddenly, Blade's friend Sparrow was at his side.
+			 "Sparrow!" Blade shouted, "I thought I told you to stay safe!"
+			 "I am safe! My friend is here, but says it _is_ very dangeous out on the street today."
+				-Onyx later told us he'd seen someone come to our aid, stabbing upwards at what
+				 appeared to be the leader of our pursuers as they ran across the clothes roofing
+				 the market, presumably this "friend".
+	-We followed Sparrow, who led us to a nearby street that had collapsed into the sewers below.
+		-Going to a ladder placed there, he led us into the sewers, which strangely grew _cleaner_
+		 as we went deeper.
+		-As we went, we saw copies of a flyer scattered about, and, grabbing a largely intact
+		 copy, I read through it.
+			-See "Hand Written Flyer" in Roll20.
+			-Those promises are awfully promising (heh).
+		-Eventually, we came to an underground tram station, being used as a kind of homeless
+		 camp.
+			-Sparrow led us to a kid sitting between kegs of a black powder, firedust. He was
+			 pouring it by the handful into smaller jars.
+			-"You don't have any fire, do you?" he asked, to which we shook our heads.
+			-Sparrow introduced us to the child as "more illuminated ones", which got a wide-eyed
+			 response from the kid.
+			-"Have you heard the promises of Shen Aru?" the new kid asked. "They speak of the
+			  shining ones, come to save us, but who will be weak from the long journey from
+			  Heaven, and in need of our help.
+			  That's why I'm making bombs.
+			  Don't worry. You're safe down here now."
+			 "maybe not," Blade said, "Given what hunts us."
+			 "I know what hunts you. I've been hunted too. . ."
+		-An adult then approached, and introduced himself as Joseph One-Shoe."
+			-"I have watched you for some time," he said. Turning to me, "You were the
+			  hardest, always traveling back and forth to that manse of yours. There are
+			  better ways to do so, you know."
+			 "I'm all ears," I responded, "Though I know of some better ways, better is
+			  often. . . flashier, and it's not wise to attract too much attention."
+			 "That is exactly why I did not reach out, fearing to draw the attention of 
+			  watchful eyes. Looks like that attention came to us anyways," he said, looking
+			  hard at Sparrow.
+			-"Where is the one called Pip?" he then asked.
+			 "With a friend of ours," Golden Blade responded.
+			-"That. . . thing that has hunted you has proved more effective at the task
+			  than I. Stargazer is with it now." Turning to Golden Blade, "You would like
+			  her."
+			 "What is that thing?" Blade asked.
+			 "I do not know. For a long time, I thought it was one of the Sidereals, but it
+			  does not seem to be. It is. . . outside Fate. A mystery. You do seem to
+			  accumulate those."
+			-"You should train with us," he continued. "You could learn, learn to hide from
+			  the eyes of Heaven."
+			 "Though you seem to have heard much of us," I said, "But we've heard but little
+			  of you. Tell us more, about yourselves and your organization."
+			 "Walk with me," he responded.
+		-We walked some 15 minutes, through various corridors, until we came to a great
+		 flowing river of raw sewage.
+			-"You must first demonstrate your humility," he said, and then leaped into the
+			 river of shit.
+			-Wading out towards the center of it, he dove, and then did not surface.
+			-Silent Onyx was pretty firm about it now being time to go home, but Golden
+			 Blade claimed he'd smelled worse on the battlefield.
+			 "After you, then," I said.
+			-Blade indeed climbed in. I removed my buff jacket, leaving it folded in the
+			 corridor, and waded in after, finally followed by a still protesting Onyx.
+			-I will refrain from describing this in the detail that Lesley did.
+			-Out towards the center of the flow, we could indeed feel an opening, with a
+			 slight suction.
+			-Diving down, it led to a lower chamber, draining through a grate there.
+			-That chamber featured a great, circular door, and many corpses apparently mauled
+			 by some kind of beast.
+			-Joseph too stood there, and he was casting a spell, which I recognized as Open
+			 the Spirit Door.
+		-The passage open, we went inside, finding a place far different from the sewers
+		 surrounding it. Inside was a building, surrounded by greenery, though with
+		 pipes meeting above, forming a ceiling.
+			-At the doorway to the building stood a lion, far larger than a natural one and
+			 apparently made of gold.
+				-Onyx volunteered that he had heard tales of celestial lions that guarded
+				 the gates of Yu-Shan.
+			-Joseph walked up to it and knelt, head bowed.
+			-Golden Blade walked up to the door, but the lion moved to block his path.
+			-Joseph then spoke up. "I suggest you sit, and meditate on your day. We weill
+			 not be allowed to enter until night fall."
+			-I shrugged, and sat, cross-legged, on the ground beside him.
+			-With plenty of time (and thus mote regeneration) on hand, I took a moment to
+			 look around with Spirit-Detecting Glance, this being a spirit's sanctum and all.
+				-We were indeed surround by dematerialized spirits, _stray cat_ spirits,
+				 and, in fact, now that you looked close, several actual stray cats, lounging
+				 in the area.
+		-After some time there, others emerged from the portal behind us, first another child, then
+		 "our" deathknight, garbed as one of Rishi's servants, Libak, and Pip.
+			-We greeted the others, asking how they came to be here, while the child simply went
+			 up to where Joseph was and knelt beside him.
+			-Libak simply said, "We were attacked by deathknights. She has her heart back. The
+			 Mask of Winters is on his way." (!!!)
+			 "What?!?" I asked, "What happened?"
+			 "Rishi was having a party. Talking with him, it seemed he already knew what we were.
+			  You received the same invitation as us, and were then led down here, through a river
+			  of shit?"
+			 "Our invitation came with enemies on our heels," I replied. "The shit was the same,
+			  though."
+		-We had no further time for discussion, though, as the door opened, and the lion moved aside.
+			-Joseph and the latest child immediately walked forward, into a courtyard, and began 
+			 washing in a fountain there.
+			-I hurried forward to join them in it.
+			-My face at least clean, a moment later, I finally looked up, to see us surrounded by
+			 many more cats, spirits and mortal, and two other dematerialized spirits, a great gorilla
+			 seemingly made of stone and covered in street-filth, and a demon, a nude figure with
+			 rusty iron needles emerging from it's back.
+			-After we all finished washing, the spirit then materialized.
+			-Joseph approached it, and said, "Honored sewer lord, I have brought new initiates."
+			 "Are you sure? They seem headstrong."
+			 "I'm sure, I'm sure."
+			 "I'll leave the decision to my wife."
+			 A large cat spirit then appeared, walking up to us and sniffing each in turn. After the
+			 last of us, she walked off again.
+			 "Excellent. It's decided. Welcome to the underground sanctuary!"
+			 "Is there another way here," Libak asked, "Other than through the shit?"
+			 "Through the shit, every time," Joseph responded.
+			 "What is this place?" Libak then asked.
+			 "It is a place of training," Joseph replied. "Come! Follow me. You must be famished."
+		-Well, maybe not hungry, but we followed him nonetheless. He led us into a room off the
+		 courtyard, where several people sat drinking sake around a couple of tables.
+			-Joseph called over to a man serving as bartender, calling for drinks for all of us.
+				-I mumbled, "Yes, yes," to my stirring bottle bug, and then said louder, "Yes,
+				 I'll have one."
+			-The man brought over several chiped and worn cups, with more of the sake.
+			-We toasted, "To new friends."
+			-The sake was thick, and bad, but burned like strong booze.
+			-After a couple of sips, Joseph spoke again, saying, "So, tell us about yourselves."
+			-Blade and I both talked over each other, saying much the same thing, that we had followed
+			 him down here after asking _him_ about _himself_.
+			 "Ah. Yes, very well. I am the leader of this sanctuary. I helped build it, and wish to
+			  help welcome you to it."
+			 "You look so young," Golden Blade commented.
+			 "Thank you. You flatter a man."
+			 "What's you're secret?"
+			-At that, his eyes flashed, briefly, with yellow stars, and he smiled.
+				-He reminded me of a man in red I once met, though the memory now seemed strangely
+				 faint, for something that happened less than a year ago.
+			-A man at the table we sat at, blond and dressed in rags, also flashed an Eclipse caste
+			 mark. A woman, then, flashed a Twilight mark, and the other man at the table, a Night
+			 Caste mark.
+				-After a moments hesitation, we all responded in kind.
+				-"Our" deathknight then too showed a caste mark, a suddenly bleeding gash, in the
+				 shape of a Dawn Caste mark, to looks of shock from the cultists.
+				-The blonde man, then, introduced himself as Nissen. "These are my fellows, Aslag
+				 and The Heartless," he said, gesturing first to the woman and then to the man.
+				-Joseph mentioned that Aslag knew quite a bit about artifacts and their creation.
+				-"What brought you here?" Libak asked them.
+				 Nissen spoke, saying, "We, like you, are illuminated. Joseph found me first.
+				  I oversee things here, look after everyone."
+				 Joseph: "Speaking of, where's Nylia? She's supposed to be here."
+				 Nissen: "I told her. But she must still be with the others."
+				-Joseph, looking to us: "These are the ones who have remembered traces of their
+				  past lives."
+				 Nissen: "You too remember fragments?"
+				 I acknowledged that we do.
+				 Heartless: "I remember my death. There was a great dinner, and then great
+				              explosions."
+				 Aslag: "I remember my child screaming. They killed her first, and then me. . ."
+				 Nissen: "I heard word of the attacks. I hid, and helped them kill the rest of my
+				          circle, sending the betrayers their way, in a vain attempt to save myself."
+				 Joseph: "Before I reincarnated, I believed wrongly. I helped them in their usurpation,
+						  and killed several Solars.
+						  We are here, working together, to build a better world."
+				 I: ". . . I do wish for the same. We have lost so much."
+				 Joseph: "You should stay with us, learn here. There is much we can teach you."
+				-He was pressing the issue quite hard, seemingly leaning especially hard on the
+				 _staying here_ part.
+				-There was much there that was attractive to me, the knowledge and allies we could
+				 gain, but. . . we cannot _always_ remain here. We all have responsibilities outside
+				 this sanctuary, ones which face dire threats..
+				-I voiced those concerns, saying, "But how long can we safely stay here? Grave forces
+				  on the move above, and not just us but many innocents are in great danger."
+				 Libak: "Yes, we have responsibilities, families."
+				 Joseph: "No one said forever. Your families, though, are in more danger with you
+				          present. Pip's mother has just lost her home, and you all draw the threats
+						  down on those you seek to protect.
+				 Libak: "We also have artifacts. . . Ones dangerous to investigate with so many Solars
+						 around.
+				-I wish he was sitting close enough I could kick him.
+				 Joseph: "Oh? What do you mean?"
+				 Libak: ". . . it's a long story. We. . . it can. . ."
+				-Golden Blade broke in, asking, "How big is this place?"
+				 Joseph: "It is quite vast, and we also control the sewer system.
+				 Golden Blade: "What do you mean, stay here? In. . ."
+				 Joseph: ". . .Sanctuary."
+				 Onyx: "We've got shit to do! We can't stay here."
+				 Joseph: "What is it you need to do?"
+				 Onyx: "None of your business!"
+				 Heartless: "You shouldn't be so rude. Perhaps we can help? What have you been up to?"
+				-At that, Onyx squirmed, and eventually said, "There's a bunch of deathknights above."
+				 Heartless: "Deathknights we can certainly help with."
+				 Joseph: "Let us prove ourselves to you. We can make a deal. We'll help you with
+				          this, and you'll train with us."
+				 I: "That would be a great good, helping us and countless more."
+			    -After this, another woman walked into the room. Joseph asked her where she had been,
+				 and she said that, "I was with the new recruits. I had to teach them something about
+				  demons. They thought they could be friends. . .
+			      Ah, but so many new faces. I am Nylia."
+			    -We each introduced ourselves.
+				-She recognized Golden Blade's name, and asked him if it was true he'd fought a
+				 deathknight at Thorns, to which he nodded.
+				 "You were young to have done such a thing. I'm impressed.
+				  Well, I imagine they've been beating you all over the heads with this? They have no subtlety
+				  You may relax. Your outside concerns need not worry you here.
+				  We have been helping you somewhat already, watching over Pip's mom, and, Libak, we were sorry to hear about your brother. We have been looking for him."
+				-In a quick back and forth, she also said something to Onyx about how they'd been
+				 "writing to his family for him," after he made an allusion to what his family thinks
+				 of him. She said that they think he's up to something respectable, and even are
+				 quite proud of him.
+					-Well that's all kinds of creepy.
+				-The deathknight then spoke up, saying, "What about me?"
+				 Libak: "We can help with your blood thing. If you want. You don't have to. Of
+				         course, there are also the other deathknights, looking for you.
+				 "_Other_ deathknights?" Nylia chimed in, stepping towards The Mistress.
+				 Nylia: "I sense in you the soul of an Illuminated one, can offer you protection here."
+				-Her words rang with great passion. She _really_ believed in this.
+				-Joseph: "We will not force you to remain here. We can make a deal. We will help you,
+						  you will see us for who we are, and you will come train here."
+				-That was met with fists pounding the table from his fellows, and calls for another
+				 round from Joseph.
+				 I: "I can agree, to round and help both. There's so much we can help one another
+				     with, so much we can do for all of Creation. . ."
+				-Heartless, getting up to leave: "I will alert the Shi-Tai."
+				 Joseph: "The Shi-Tai will be able to help you. They fight our enemies.
+						 "You have already met their leader, Black Powder Jack. He makes bombs for us."
+				 Blade: "I remember. Bit unnerving seeing a child making bombs."
+				 Joseph: "Don't let his age fool you. There's no better bombmaker. Though, like all
+				          kids, he sometimes has questionable judgment. . ."
+				-Nylia then got up, and said, "Come. You should meet the others."
+				-I downed my glass and followed.
+				-We walked out into the courtyard, and she called out, "Everyone! Come meet the new
+				 ones!"
+				-A large crowd quickly gathered, from various doors.
+					-Most looked like vagrants.
+				-A woman also came from the direction of the entrance, soon washing herself in the
+				 fountain. She was walking with a limp, and the water in the fountain was soon bloody.
+				-Libak seeing this, called out, "Does anyone here know medicine?"
+				-Aslag called out that she was a doctor, so he asked that she, the injured woman, and
+				 me (?) to come over to the room with the table.
+					-There, he retrieved the Wound-Mending Needles from the Cache Egg, handing them
+					 to Aslag and instructing her in their use.
+					-While she was busy with that, Libak pulled me aside, asked about asking Aslag
+					 for help with mirror, Joseph having mentioned her facility with artifacts, but
+					 I advised caution. We did not yet know these people.
+					-The artifact did wonders for the woman, who we learned was indeed Stargazer.
+				-Meanwhile, we began to see tracers. Colors seemed brighter, and sound clearer.
+				-Returning to the courtyard, the crowd had begun scattering seeds and powders in one
+				 portion of it, which they then set on fire.
+				-Nylia: "We have new friends, and their need is great. We will help them!"
+				-While I was in the room, Jack had joined us, and, stepping away from the fountain, 
+				 he spoke to us, saying, "As leader of the Shi-Tai, I pledge you our protection."
+					-As he spoke, a Twilight Caste mark shown forth from his forehead.
+				- woman walk forward, night caste mark, I am , of the , Many call me wise. will ensure you are fed, clothed
+					lesley (DM) — Today at 10:35 PM
+					Jasara the wise leader of the Kyodai of the underground sanctuary
+				  I know we have not yet met, but I feel a kinship with you. You came from low places, and are meant for great things."
+				- I am called Stargazer. I have sacrificed my honor, because I never had any. No I need none, for I have them. I do what their precious hands cannot, strike down those who would harm us.
+				  They are my family, and they have accepted you. I will protect you."
+				-A young girl then walked out, looking at each of us at turn, and finally at Onyx. She spoke to him, saying, "I don't think you remember me, but I will forgive you for leaving me there."
+				 She then looked down, suppressed a sniffle, and walked away.
+				-As they were talking, the tracers began to intensify. As incense burned around us,
+				 Nylia said a prayer to The Unconquered Sun, and spoke of how we were his chosen. It
+				 was an impressive and moving performance.
+				-It got pretty intense, with some of the. . . heartier adults of the crowd began to
+				 scourge themselves with lengths of beaded and braided hair, as Nylia said, "Cleanse
+				 your flesh of your sins, that your spirit may be free."
+				-As she spoke, the crowd repeated it, amplifying her voice.
+		-After the ceremony, the crowd more or less all headed towards the bar.
+			-Onyx, no more,
+			 N: Bright Morning
+			-I quite enthusiastically joined in.
+				- drinking without drunk, stomach ache, actually no one seems very drunk, but do seem to be feeling _something_
+				- talking about theology
+					-Most of their beliefs are derived from the promises.
+					-They also a concept of "personal illumination"
+						-Pressed on it, they described taking _immense_ quantities of Bright Morning, as Shen Aru had done (not strictly necessary, but the most common option, as it's traditional), while self-flagellating and otherwise self-depriving. They then write down what they see, sharing it with others of the cult and trying to repeat various methods.
+			-Much of the cult seemed to have been rather down-and-out before they Exalted.
+			-Through out all of this, they have been painfully frank and honest about themselves,
+			 and other hard subjects.
+				-TODO, judge's ear
+			-A common thread in their beliefs is that the system isn't working, and that the
+			 Illuminated are here to cast it down and rebuild it.
+			-They don't seem to be in full agreement about what to rebuild, ranging from anarchists,
+			 to technocrats, some believing in the supremacy of the Illuminated, or others in that
+			 they are here to serve and protect humanity.
+			-They do, though, all seem united in the belief that it was through _humanity_, not the
+			 Terrestrial Exalted, that Creation has endured through this Age of Sorrows.
+			-To Golden Blade's especial delight, they're definitely against slavery.
 
 
 TODO:
+	-Speak more with our _now released_ deathknight, ideally out of earshot from the cult.
+	-Ask Joseph to tell me what he knows of my home, my manse.
+		-"Ever truth you speak unbinds my tongue in turn. I'm sure you understand what it is to have
+		  necessary secrets."
+
+
+TODO:
+	-Turn that iron ore into cold iron weapons.
+		-You could have hook swords or a seven-section staff made for yourself, since they would be
+		 usable with your Martial Arts score (instead of Melee) and your Snake Style charms.
+		-A pair of hook swords seems like the preferable option, but both have pluses and minuses.
+			-Easier to say they're all made of iron, though.
+	-Summon a Hopping Puppeteer?
+		-Kind of seems like you can shrink them down to something portable.
+			-Limit triggers might be a problem, though.
+		-Having access to Measure the Wind as needed is crazy useful by itself.
+			-Can find Exalts and the like by their essence!
+	-Pick up that ordered armor.
+		-You returned to Nexus roughly a week after ordering it, so need to wait three more weeks.
 	-Recruit. Cultists, followers, and allies all.
 		-Ask your monks to step up efforts on that front?
 			-The manse can support many more people.
@@ -3445,13 +3845,13 @@ TODO:
 				-Even if you don't want to learn something yourself right now, can she _write it
 				 down_?
 			-What happens if _she_ is shown the mirror?
-		-The Wild-Hunt-affiliiated Terrestrial
+		-The Wyld-Hunt-affiliiated Terrestrial
 			-Raised her oath again here: https://discord.com/channels/785604556934742036/785604557518405654/884538294606643210
 			-Ask her what she knows of deathknights, they being the thing she claimed to be truely
 			 concerned with?
 				-Introduce her to our captive one?
 	-Perhaps pursue that Windigo?
-		-Might help ingratiate ourselves with that Wild-Hunt-affiliiated Terrestrial, who had been
+		-Might help ingratiate ourselves with that Wyld-Hunt-affiliiated Terrestrial, who had been
 		 hunting it herself, or even help gain cultists, if we publicly claim credit for it.
 		-Raised it here: https://discord.com/channels/785604556934742036/785604557518405654/884559331570380840
 		-Do Lore checks and talk with the Terresterial to figure out if we can take it, though.

@@ -268,18 +268,22 @@ Advancement:
 	-Specialties look like a good deal at 3 XP each.
 		-The XP chart claims you can "purchase the same specialty multiple times", which indicates
 		 you can get +3 dice to Martial Arts unarmed.
-			-More of your Dodge specialty is way cheaper than just advancing it.
+			-More of your Dodge specialty is way cheaper than just advancing it (but training time!).
 		-First Age Lore would be a very flavorful _and_ useful one for you.
 	-More Snake Style!
 		-Starting the other branch, beginning with Snake Strikes the Heel, looks more attractive
 		 than Armor-Pentrating Fang Strike, since latter is expensive, because the cheaper Essence
 		 Fangs and Scales you already have does half of it already, and because it's a dead end
 		 until you complete the other branch anyways.
+		-The extra action charm, of that other branch, is amazing.
 	-More spells, starting with the stuff in your archive.
 		-The Spy is amazing!
 		-(DONE!) Spoke the Wooden Face might give you easy access to all the rest.
 			-"Hold the book up to the tree!"
 		-Ritual of Elemental Empowerment will make you friends.
+		-Burning Eyes of the Offender is another substantial bump to your defenses.
+		-Mists of Eventide puts people to sleep, an interesting attack.
+		-Peacock Shadow Eyes. Mind control. Dark, but useful.
 	-Dodge Charms, especially Reflex Sidestep Technique are fairly attractive.
 	-More Ox-Body is the only Resistance one that looks especially useful to you.
 		-Too much duplication of your spells.
@@ -302,15 +306,51 @@ Advancement:
 			-Still tends to lead to _faster_ training times for PCs too.
 		-The Wyld stuff is pretty cool too.
 			-Forge a demesne in Nexus?!?
-			-
+			-Or make crazy mutants? Applying Wyld Mutations seems amazing.
+				-See Craft(Genesis) below for where these are found.
+				-Compass - The Wyld pg. 150 details the limits of what can be applied and still
+				 survive in Creation.
+			-Usefulness will depend on what kind of Wyld the zone in Nexus counts as, and on your
+			 ability to add Int+Lore successes to the very difficult Charm roll.
 	-With Essence 4, Martial Arts Essence Flow becomes possible, perhaps making getting that and
 	 another Martial Arts Excellency tempting.
 		-It makes the other Excellency innate, allowing you to use it with other charms without
 		 combos.
 		-As other Abilities reach 5, similar pairs for those abilities may be attractive.
 			-Dodge, in particular.
+		-Hmm. . . those excellencies are pretty good on their own, and with the Infinite one too.
 	-Celestial Sorcery is now possible, but a whole narrative thing you'll need to
 	 work on with Lesley.
+		-Second Circle Demons are awesome.
+		-Imbue Amalgam is a route to similar stuff to as Wyld shaping. Cheaper to access, but a
+		 more than a bit slave-y.
+		-Threefold Binding of the Heart is even more powerful mind control.
+	-Necromancy may also be an appealing direction, as the Neverborn's minions are proving a problem
+	 for us. Larquen's spell manual has great stuff for fighting ghosts.
 	-All the cool Sorcery charms are now available, with Occult 5 and Essence 4.
+	-First Age Crafts (BoS I pg. 8)?
+		-Craft(Magitech) is a ways off, because you need Crafts Fire and Air at 2, and another at 1.
+			-Does cool stuff, though, and could help you make a Factory-Cathedral.
+		-Craft(Genesis) _is_ easily accessed, now just needing Medicine up to whatever rank you want
+		 it at.
+			-Thematic, and very Larquen. It even seems like he left you some amount of laboratory
+			 beneath the manse, and some details about these "chao-morphic symbiotes".
+			-Where I find info on Wyld mutations, something the symbiotes and this in general can
+			 duplicate?
+				-Ah, a different book contained a summary, for a charm:
+					Core pg. 288 
+					Manual of Exalted Power - Lunars pg. 206
+					Compass, Vol. II - The Wyld pg. 144
+				-Yeah, these are great. A good argument for both this skill (and thus symbiotes)
+				 and for Wyld Cualdron Technique.
+					-Amazing stuff:
+						4	Enlightened Essence (Compass pg. 148)
+						4	Lidless Demon Eye (knock of Sorcerer Sight) (Lunars pg. 208
+						6	Wings (Core pg. 290)
+						1	Large (and progressively bigger in later for 2, 4, etc.) (Compass pg. 144)
+						1	Longevity (Compass pg. 144)
+				-Pg. 144 of Compass - The Wyld assigns the point values for the different classes of
+				 mutation, while pg. 150 discusses the details of what happens when that sum starts
+				 to exceed the Willpower of those so inflicted.
 	-Tentative schedule:
 		

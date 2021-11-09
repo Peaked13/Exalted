@@ -21,10 +21,9 @@ Suspended spells, by trigger:
 Stuff previously suspended:
 	
 
-Motes Committed: 8
+Motes Committed: 5
 	4	Orichalcum Hearthstone Bracers
 	1	Orchalcum Hearthstone Amulet
-	3	Torc of Unified Action (linked with Golden Blade's)
 
 Mundane Possessions:
 	-Fine Buff Jacket
