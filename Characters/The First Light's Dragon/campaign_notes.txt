@@ -3594,6 +3594,7 @@ TODO:
 				  Well, I imagine they've been beating you all over the heads with this? They have no subtlety
 				  You may relax. Your outside concerns need not worry you here.
 				  We have been helping you somewhat already, watching over Pip's mom, and, Libak, we were sorry to hear about your brother. We have been looking for him."
+				-She also said to Libak that his cheekbones indeed marked him as a Suli.
 				-In a quick back and forth, she also said something to Onyx about how they'd been
 				 "writing to his family for him," after he made an allusion to what his family thinks
 				 of him. She said that they think he's up to something respectable, and even are
@@ -3641,14 +3642,22 @@ TODO:
 				-While I was in the room, Jack had joined us, and, stepping away from the fountain, 
 				 he spoke to us, saying, "As leader of the Shi-Tai, I pledge you our protection."
 					-As he spoke, a Twilight Caste mark shown forth from his forehead.
-				- woman walk forward, night caste mark, I am , of the , Many call me wise. will ensure you are fed, clothed
-					lesley (DM) — Today at 10:35 PM
-					Jasara the wise leader of the Kyodai of the underground sanctuary
-				  I know we have not yet met, but I feel a kinship with you. You came from low places, and are meant for great things."
-				- I am called Stargazer. I have sacrificed my honor, because I never had any. No I need none, for I have them. I do what their precious hands cannot, strike down those who would harm us.
+				-Another woman walk forward, illuminating a Night Caste mark as she did, saying,
+				 "I am Jasara, leader of the Kyodai of The Underground Sanctuary. Many call me wise.
+				  I will ensure you are fed and clothed.
+				  I know we have not yet met, but I feel a kinship with you. You came from low
+				  places, and are meant for great things."
+				-Stargazer too now came forward, formallying introducing herself. She said, "I am
+				  called Stargazer. I have sacrificed my honor, because I never had any. No I need
+				  none, for I have them. I do what their precious hands cannot, strike down those
+				  who would harm us.
 				  They are my family, and they have accepted you. I will protect you."
-				-A young girl then walked out, looking at each of us at turn, and finally at Onyx. She spoke to him, saying, "I don't think you remember me, but I will forgive you for leaving me there."
-				 She then looked down, suppressed a sniffle, and walked away.
+				-A young girl then walked out, looking at each of us at turn, and finally at Onyx.
+				 She spoke to him, saying, "I don't think you remember me, but I forgive you for
+				  leaving me there."
+					-Onyx looked thoughtful, and then a bit shocked, muttering something about Hilo's
+					 Keep. . .
+				-She then looked down, suppressed a sniffle, and walked away.
 				-As they were talking, the tracers began to intensify. As incense burned around us,
 				 Nylia said a prayer to The Unconquered Sun, and spoke of how we were his chosen. It
 				 was an impressive and moving performance.
@@ -3657,20 +3666,31 @@ TODO:
 				 your flesh of your sins, that your spirit may be free."
 				-As she spoke, the crowd repeated it, amplifying her voice.
 		-After the ceremony, the crowd more or less all headed towards the bar.
-			-Onyx, no more,
-			 N: Bright Morning
-			-I quite enthusiastically joined in.
-				- drinking without drunk, stomach ache, actually no one seems very drunk, but do seem to be feeling _something_
-				- talking about theology
-					-Most of their beliefs are derived from the promises.
-					-They also a concept of "personal illumination"
-						-Pressed on it, they described taking _immense_ quantities of Bright Morning, as Shen Aru had done (not strictly necessary, but the most common option, as it's traditional), while self-flagellating and otherwise self-depriving. They then write down what they see, sharing it with others of the cult and trying to repeat various methods.
+			-Silent Onyx, in response to entreaties to, "Come! Have another drink!" refused said,
+			 "No. No more. You drugged us."
+			-Nylia interjected, naming it, "Bright Morning", a part of their rituals.
+				-I indeed knew it and similar hullucinagenic drugs were a common component of
+				 sorcerous initiations and many shamanic rituals.
+			-I quite enthusiastically joined in, at a table inside the bar.
+				-Though I was drinking without getting drunk. I eventually did get a bit of a stomach
+				 ache, as the bug began to stir more.
+				-Actually, no one in the crowd seemed very drunk, but they do seem to be feeling
+				 _something_.
+				-I spent quite a bit of time talking with them about their theology.
+					-Most of their beliefs are derived from The Promises.
+					-They also a concept of "personal illumination".
+						-Pressed on it, they described taking _immense_ quantities of Bright
+						 Morning, as Shen Aru had done (not strictly necessary, but the most common
+						 option, as it's traditional), while self-flagellating and otherwise self-
+						 depriving. They then write down what they see, sharing it with others of
+						 the cult, and try to repeat various methods reputed to yield good results.
 			-Much of the cult seemed to have been rather down-and-out before they Exalted.
 			-Through out all of this, they have been painfully frank and honest about themselves,
 			 and other hard subjects.
-				-TODO, judge's ear
-			-A common thread in their beliefs is that the system isn't working, and that the
-			 Illuminated are here to cast it down and rebuild it.
+				-I knew many of my circle could identify lies with Charms, and from their quite
+				 evident skepticism, I imagine they tried, but no one ever reported anything.
+			-A common thread in their beliefs is that the current system isn't working, and that
+			 The Illuminated are here to cast it down and rebuild it.
 			-They don't seem to be in full agreement about what to rebuild, ranging from anarchists,
 			 to technocrats, some believing in the supremacy of the Illuminated, or others in that
 			 they are here to serve and protect humanity.
@@ -3682,8 +3702,10 @@ TODO:
 TODO:
 	-Speak more with our _now released_ deathknight, ideally out of earshot from the cult.
 	-Ask Joseph to tell me what he knows of my home, my manse.
-		-"Ever truth you speak unbinds my tongue in turn. I'm sure you understand what it is to have
-		  necessary secrets."
+		-"Ever truth you speak unbinds my tongue in turn. I'm sure you understand what it is to
+		  have necessary secrets."
+		-Making introductions between them and your monks could benefit both groups, allowing them
+		 to exchange knowledge, even while you're busy.
 
 
 TODO:
