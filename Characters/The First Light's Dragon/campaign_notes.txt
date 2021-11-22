@@ -3702,7 +3702,7 @@ TODO:
 TODO:
 	-Speak more with our _now released_ deathknight, ideally out of earshot from the cult.
 	-Ask Joseph to tell me what he knows of my home, my manse.
-		-"Ever truth you speak unbinds my tongue in turn. I'm sure you understand what it is to
+		-"Every truth you speak unbinds my tongue in turn. I'm sure you understand what it is to
 		  have necessary secrets."
 		-Making introductions between them and your monks could benefit both groups, allowing them
 		 to exchange knowledge, even while you're busy.
