@@ -342,10 +342,10 @@ Advancement:
 					Manual of Exalted Power - Lunars pg. 206
 					Compass, Vol. II - The Wyld pg. 144
 				-Yeah, these are great. A good argument for both this skill (and thus symbiotes)
-				 and for Wyld Cualdron Technique.
+				 and for Wyld Cauldron Technique.
 					-Amazing stuff:
 						4	Enlightened Essence (Compass pg. 148)
-						4	Lidless Demon Eye (knock of Sorcerer Sight) (Lunars pg. 208
+						4	Lidless Demon Eye (knock off Sorcerer Sight) (Lunars pg. 208)
 						6	Wings (Core pg. 290)
 						1	Large (and progressively bigger in later for 2, 4, etc.) (Compass pg. 144)
 						1	Longevity (Compass pg. 144)

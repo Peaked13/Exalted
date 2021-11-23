@@ -3106,6 +3106,7 @@ TODO:
 		-Ah, actually, there were some notes concerning them in the hole.
 		-Looking into it, it's a result of Craft(Genesis), and is a kind of living superweapon.
 			-It is an intelligent thing that can mimic the forms of Wyld mutations.
+		-See "chromatic symbiote" in Roll20 for how it works.
 	-Sent Lesley the above five things here: https://discord.com/channels/@me/772891797726822481/902032340312809482
 
 
@@ -3311,7 +3312,7 @@ TODO:
 		-Reach out to the Illuminated, depending on Sidereal answers.
 
 
-11/8/21:
+11/8/21: We meet The Cult of the Illuminated
 	-Libak and Pip went to delicately explain our natures to Rishi & Hawke.
 		-(They had to miss tonight's session, and are best skilled at social delicacy.)
 		-What we're saying:
@@ -3320,7 +3321,7 @@ TODO:
 			-We're going to be hunting Deathknights on behalf of The Emissary, but the deathknights
 			 are also hunting for the one we captured.
 	-Meanwhile, we asked further questions of The Emissary / Itraxian.
-		-"As we look into the deathkinigths, how do we reach you?" Golden Blade asked.
+		-"As we look into the deathknigths, how do we reach you?" Golden Blade asked.
 		 "If you call for me under the light of the sun, I will seek you."
 		-What are these Sidereals you mentioned?
 			-"They are the Chosen of Fate, and the architects of our betrayal.
@@ -3351,21 +3352,21 @@ TODO:
 			 "No, I don't think it will be that dangerous soon, with the chimera chasing them."
 			 "The chimera?"
 			 "It's strange, it feels like Mithra, but looks nothing like them, and I sensed none of
-			  the thoughts I'd associate with them. I have encountered Lunars known to be before,
+			  the thoughts I'd associate with them. I have encountered Lunars known to me before,
 			  and recognized them, but this, it felt. . . detached. Wild.
 			  It has been hunting the fae and it's minions, though it does worry me when it leaves
 			  the zone. It sometimes goes to the Nighthammer pool at night, absorbing people. Randomly,
 			  from what I can tell."
-			  sworn
+			 "I have sworn myself it's enemy. I mean to see it dealt with."
 			 "Ah, you're the one feeding it?"
 			 "_Feeding_ it?"
-			 "Yes. Each time it faces your oposition, it grows stronger."
+			 "Yes. Each time it faces your opposition, it grows stronger."
 			 "Stronger how?" Golden Blade asked.
 			 "As you think of it, those thoughts creep into your dreams. In your dreams, a substance
 			  called Gossamer forms, and it is harvesting it."
 			 "How do we fight such a thing, then?" Golden Blade asked.
 			 "With cold iron weapons. You slay it, as we did the Raksha of old."
-			 "Good," I responded, "My plan remains unchanged."
+			 "Good," I responded, "My plan remains unchanged, then."
 	-We then opted to hustle over to the armory we'd heard of. It sounds like something is currently
 	 under way there.
 	-We took a trolley line, and, while on it, listened to word on the street.
@@ -3386,8 +3387,8 @@ TODO:
 			 "No. They're not very subtle."
 			-We tried to duck out of sight, weaving between the merchant stalls and darting down
 			 alleyways.
-			-In the course of it, Blade and I lost sight of Onyx in the course of this, but we
-			 could see we'd not shaken our pursuers.
+			-In the course of it, Blade and I lost sight of Onyx, but we could see we'd not shaken
+			 our pursuers.
 			-They wore silver turbans, and silver sashes, both around their waste and across their
 			 faces.
 			-There was a crash behind us, and then, suddenly, Blade's friend Sparrow was at his side.
@@ -3415,7 +3416,7 @@ TODO:
 			  Heaven, and in need of our help.
 			  That's why I'm making bombs.
 			  Don't worry. You're safe down here now."
-			 "maybe not," Blade said, "Given what hunts us."
+			 "Maybe not," Blade said, "Given what hunts us."
 			 "I know what hunts you. I've been hunted too. . ."
 		-An adult then approached, and introduced himself as Joseph One-Shoe."
 			-"I have watched you for some time," he said. Turning to me, "You were the
@@ -3437,8 +3438,8 @@ TODO:
 			  accumulate those."
 			-"You should train with us," he continued. "You could learn, learn to hide from
 			  the eyes of Heaven."
-			 "Though you seem to have heard much of us," I said, "But we've heard but little
-			  of you. Tell us more, about yourselves and your organization."
+			 "Though you seem to have heard much of us," I said, "We've heard but little of you.
+			  Tell us more, about yourselves and your organization."
 			 "Walk with me," he responded.
 		-We walked some 15 minutes, through various corridors, until we came to a great
 		 flowing river of raw sewage.
@@ -3467,7 +3468,7 @@ TODO:
 				 the gates of Yu-Shan.
 			-Joseph walked up to it and knelt, head bowed.
 			-Golden Blade walked up to the door, but the lion moved to block his path.
-			-Joseph then spoke up. "I suggest you sit, and meditate on your day. We weill
+			-Joseph then spoke up. "I suggest you sit, and meditate on your day. We will
 			 not be allowed to enter until night fall."
 			-I shrugged, and sat, cross-legged, on the ground beside him.
 			-With plenty of time (and thus mote regeneration) on hand, I took a moment to
@@ -3525,7 +3526,7 @@ TODO:
 			 "What's you're secret?"
 			-At that, his eyes flashed, briefly, with yellow stars, and he smiled.
 				-He reminded me of a man in red I once met, though the memory now seemed strangely
-				 faint, for something that happened less than a year ago.
+				 faint, for something that happened less than a year ago, if I have the details right.
 			-A man at the table we sat at, blond and dressed in rags, also flashed an Eclipse caste
 			 mark. A woman, then, flashed a Twilight mark, and the other man at the table, a Night
 			 Caste mark.
@@ -3546,6 +3547,7 @@ TODO:
 				 I acknowledged that we do.
 				 Heartless: "I remember my death. There was a great dinner, and then great
 				              explosions."
+					-Golden Blade seemed to start at this.
 				 Aslag: "I remember my child screaming. They killed her first, and then me. . ."
 				 Nissen: "I heard word of the attacks. I hid, and helped them kill the rest of my
 				          circle, sending the betrayers their way, in a vain attempt to save myself."
@@ -3591,7 +3593,8 @@ TODO:
 				-She recognized Golden Blade's name, and asked him if it was true he'd fought a
 				 deathknight at Thorns, to which he nodded.
 				 "You were young to have done such a thing. I'm impressed.
-				  Well, I imagine they've been beating you all over the heads with this? They have no subtlety
+				  Well, I imagine they've been beating you all over the heads with this? They have
+				  no subtlety. . .
 				  You may relax. Your outside concerns need not worry you here.
 				  We have been helping you somewhat already, watching over Pip's mom, and, Libak, we were sorry to hear about your brother. We have been looking for him."
 				-She also said to Libak that his cheekbones indeed marked him as a Suli.
@@ -3604,7 +3607,8 @@ TODO:
 				 Libak: "We can help with your blood thing. If you want. You don't have to. Of
 				         course, there are also the other deathknights, looking for you.
 				 "_Other_ deathknights?" Nylia chimed in, stepping towards The Mistress.
-				 Nylia: "I sense in you the soul of an Illuminated one, can offer you protection here."
+				 Nylia: "I sense in you the soul of an Illuminated one. We can offer you protection
+				         here."
 				-Her words rang with great passion. She _really_ believed in this.
 				-Joseph: "We will not force you to remain here. We can make a deal. We will help you,
 						  you will see us for who we are, and you will come train here."
@@ -3648,7 +3652,7 @@ TODO:
 				  I know we have not yet met, but I feel a kinship with you. You came from low
 				  places, and are meant for great things."
 				-Stargazer too now came forward, formallying introducing herself. She said, "I am
-				  called Stargazer. I have sacrificed my honor, because I never had any. No I need
+				  called Stargazer. I have sacrificed my honor, because I never had any. Now I need
 				  none, for I have them. I do what their precious hands cannot, strike down those
 				  who would harm us.
 				  They are my family, and they have accepted you. I will protect you."
@@ -3661,7 +3665,7 @@ TODO:
 				-As they were talking, the tracers began to intensify. As incense burned around us,
 				 Nylia said a prayer to The Unconquered Sun, and spoke of how we were his chosen. It
 				 was an impressive and moving performance.
-				-It got pretty intense, with some of the. . . heartier adults of the crowd began to
+				-It got pretty intense, and some of the. . . heartier adults of the crowd began to
 				 scourge themselves with lengths of beaded and braided hair, as Nylia said, "Cleanse
 				 your flesh of your sins, that your spirit may be free."
 				-As she spoke, the crowd repeated it, amplifying her voice.
@@ -3669,7 +3673,7 @@ TODO:
 			-Silent Onyx, in response to entreaties to, "Come! Have another drink!" refused said,
 			 "No. No more. You drugged us."
 			-Nylia interjected, naming it, "Bright Morning", a part of their rituals.
-				-I indeed knew it and similar hullucinagenic drugs were a common component of
+				-I indeed knew it, and similar hullucinagenic drugs are a common component of
 				 sorcerous initiations and many shamanic rituals.
 			-I quite enthusiastically joined in, at a table inside the bar.
 				-Though I was drinking without getting drunk. I eventually did get a bit of a stomach
@@ -3706,6 +3710,353 @@ TODO:
 		  have necessary secrets."
 		-Making introductions between them and your monks could benefit both groups, allowing them
 		 to exchange knowledge, even while you're busy.
+		-Posted about it and got a response here: https://discord.com/channels/@me/772891797726822481/912146162373509141
+			-He knows the monastery exists, and it's _general_ location, enough to enable some
+			 collaboration, since the existance of your followers has already been revealed to him.
+	-Rereading the above notes, Joseph had offered to help us "learn to hide from the eyes of Heaven".
+		-_That_ would be quite the prize, if what Itraxian told us is true. Might explain why they're
+		 so intent on keeping us down there too. Makes his offer more attractive.
+
+
+11/22/21:
+	-I had my discussion with Joseph One-Shoe, from the TODO above, while we drank after the
+	 ceremony.
+	-We also found a moment to corner Libak and Pip, and learned a bit more about The Mistress of
+	 Pacts Sealed in Blood's new freedom.
+		-Libak, apparently, was unable to bear watching her suffer, enslaved, any longer, and
+		 released her himself.
+		-Thankfully, he wasn't _completely_ idiotic about it.
+			-He extracted promises of no retaliation, sanctified by Pip's Eclipse caste ability.
+			-She, meanwhile, claims to be intent on escaping The Mask of Winters, and wishes to
+			 somehow undo what was done to her, her twisted Exaltation.
+				-Well, that's eminently compatible with what you, and the rest of the circle, seek.
+				-If we can indeed trust her, we still may have an ally here.
+				-I owe her an apology, I think. Though, with my compassion vs. conviction, it's
+				 probably going to be one tainted with rationalization and justifications.
+	-Nissen, Black Powder Jack, and Jasara the Wise are the ones among the cult who champion most
+	 strongly the three broad strains of New Age the various members seek.
+		-Nissen envisions an age of anarchy, where all are equal.
+		-Jasara is essentially an anarcho-capitalist, though she believes it will somehow be filled
+		 with individual operators, and has various ideas how to prevent guilds from dominating.
+		-Black Powder Jack is more or less an anarcho-communist, with some vague, hand-wavy notions
+		 as to how they'll maintain important freedoms.
+		-All, though, believe that the Solars are not meant to _lead_, but to enact the will of
+		 humanity.
+	-Another circle of Solars among the cult seemed very interested
+		-Aslag, who we met earlier, seeks to eliminate resource scarcity in Creation, and has ideas
+		 as to how.
+		-Kismet, an Eclipse Caste artificer, is interested in AI, and who seeks to rebuild the
+		 (instant) messaging system of The Old realm.
+		-Kouf Thengi, of the Dawn Caste, seeks new defensive grid or access to the Realm's.
+	-In talking with that circle, I mentioned that I did indeed remember some of the created
+	 intelligences of The First Age.
+		-The whole crowd reacted to that with silence, shocked looks on their faces.
+			-Those we'd just been introduced to as one's who remembered portions of their past lives
+			 feigned shock too! Hmm. . .
+		-Joseph then stepped in, saying, "Our friend must be confused. I'm sure you all remember the
+		 first time you had Bright Morning. . ."
+		-Rylea, too, spoke to the crowd, and seemed to be doing something with essence as she did,
+		 calming the onlookers as she said, "Yes, you all know how the Bright Morning affects you."
+		-Golden Blade, despite me quickly kicking him as he spoke up, insisted she was lying, that
+		 these _were_ memories.
+		-Joseph then stepped back in, acknowledging that, "Yes. It's true. I have heard that some
+		 remember. Remember a better world, better with you in it. One where the Solars brought about
+		 wonders."
+			-With the last, he looked at me, and I responded, "That's so. We've lost so much. It's
+			 restoration is my fondest dream."
+			-After I spoke, though, one of the children seemed to get angrier and angrier, eventually
+			 storming off, red-faced.
+				-Golden Blade asked Sparrow about him, but he didn't know what the deal was.
+				-Rylea chimed in, though saying, "He has had. . . dreams. He believes he did
+				 terrible things, committed atrocities."
+				-Golden Blade: "I remember instead terrible things done _to_ me. We're not judged
+								for the sins of past lives. There's no sense in it!"
+				-Me: "We are given great power. But that does not mean we cannot fail. . ."
+				-Joseph then spoke up, saying, "I would not have gathered you all here if I thought
+				  you were monsters."
+					-Of course, but Golden Blade frowned at this, and asked what he meant.
+					 Joseph: "I do not think you are the monster the Immaculate Faith claims you
+					          are."
+					 Golden Blade: "Obviously not. But, some we call monsters, they simply hunt.
+									Could we not easily be counted among such forces of nature?"
+					 Joseph: "I have met demons, it's true. But I have not met one of your kind who
+							  behaved like one."
+					-At this, Blade frowned further.
+				-Rylea, filled with faith, joined in, saying, "We are Illuminated. We cannot do evil."
+					-Pip said that, "I certainly know that is not true."
+					-The more effective retort, though, was The Mistress's, as she began to laugh,
+					 and all eyes turned towards her.
+					 "I've known a Solar worse than The Mask of Winters," she said, "Havesh, called
+					  The Vanisher. He will kill people, and then take their form, and their lives,
+					  for a week or two. Drinking their wine, fucking their wives, all while disposing
+					  of their bodies, piece by piece, around the area.
+					 Golden Blade: "That's still not a page on The Mask of Winters."
+					 Mistress: "The Mask does what he does beceause he believes he must, that it is
+					            the only way to restore order to this world, before it falls into
+								oblivion.
+								Havesh does what he does because he enjoys it."
+					 Blade: "But none among us here is like that."
+					-Stargazer reacted to that last a bit, looking away.
+						-Never one to resist butting in, Blade asked her why she had that look on her face.
+						-"Why are you acting the inquisition here?" she retorted. "You ask to many questions."
+						 Blade: "You ask too few! Why are you so willing to accept us as gods?"
+						 Stargazer: "Gods?!? You're barely Exalted! I don't know why we're wasting our time on such trash."
+						 Blade: "Barely Exalted?!? Care to test that?"
+						-Heartless stepped in here, before they came to blows, saying, "That's an 
+						  interesting idea. But I don't think we should be fighting one another.
+						  Perhaps another test. A hunt. . .
+						  You wish to rid the city of deathknights? Well, we do too."
+						-Here, he glared at The Mistress.
+						-Heartless: "I have been working with my agents, and have identified the
+						             location of two deathknights in the city, and we, or Joseph,
+									 at least, wish for you to train here."
+									 I propose a contest, the first to return with one of their heads
+									 will have proven themselves. If Stargazer is first, you'll train
+									 with us."
+						-The Mistress here spoke up, saying "I also have a question. Would you count
+						  me among their circle?"
+						 Turning to us, she asked, "Would _you_?"
+							-Golden Blade: "How could we possibly trust you?"
+							-Me: "I suppose I owe you an apology, for contuing your captivity, and
+							      for not investigating as quickly as I might have whether it could
+								  be ended. Perhaps I owe you this olive branch. . ."
+							-Mistress: "I'll be honest. Had you freed me when you first claimed my
+									    heart, I would have tried to kill you.
+										It is only after the chance to reflect that my captivity gave,
+										a time that was perhaps the greatest kindness done to me in
+										my life, that I could see another path. I'd seen another life,
+										one better than any I'd had."
+							-Turning then to Libak, she said, "And one of you gave me a chance. . ."
+							 Her face turning red, she continued, "And you may be the closest thing
+							  to friends I've ever had
+							-That. . . does not say good things about her life thus far, if that's
+							 her opinion of treatment even _I_ feel a bit bad about.
+							-Blade turned to the rest of the circle, saying, "Well, what do the rest
+							  of you think?"
+							 Onyx: "I still think the best thing to do would be to sell her."
+							 Mistress, to Onyx: "I admit I'm still struggling with the not wanting
+							                     to kill _you_."
+						-Blade then raised the matter at hand, the matter of his pride, saying,
+						 "Well, why not have a competition?"
+						 Me: "It's foolish, to risk, in haste, botching such a dangerous hunt."
+						 Stargazer: "You sound like a bitch. That sounds like fear."
+						-Heartless stepped in, saying, "Forgive her, she. . ."
+						-Stargazer cut him off, though, with, "Forgive this!" and a gesture.
+						-Rylea: "Please, this is senseless."
+						 Stargazer: "You sound like a bitch too."
+						-At this point, Blade, Pip, and I were all stepping towards her, raising
+						 fists, while one of Stargazer's circlemates tried to talk her down, shrugging
+						 at the lack of success.
+						-The Mistress apparently borrowed Blade's cloak, as he doffed it, and she
+						 did. . . something, some necromantic spell. Her caste mark glowed red, and
+						 she seemed to instantly attune to the cloak.
+						-After only a second or two of trying the cloak-now-bat-wings's motions, she
+						 then lunged at Stargazer, and battle was joined.
+						-Their fight was brutal, and escalatingly lethal, until The Mistress
+						 ultimately triumphed, dumping a bitten-by-a-charm-enhanced-maw Stargazer at
+						 Aslag's feet, saying, "This trash needs patching up. I don't care about your
+						  bet, but if she talks to us like that again, all of you are next."
+				-My ire was spent, having witnessed the savage beating of it's target, so I went to
+				 Libak, suggesting he again provide Aslag with the needles..
+				-Presenting them to her, Libak also apologized to Joseph for the mess.
+				-"No," Joseph said, "All need humbling at times. Your pride can be your undoing."
+				-Joseph then turned to the crowd, announcing, "The deathknights are now our first
+				 priority. Lets get to work."
+				-Turning to us, he said, "You have not trained with us, and do not know our ways. We
+				  usually send circles as strike teams, or send Heartless if stealth is needed.
+				  I ask two things of you: don't reveal yourselves and, whenever possible, work through mortals."
+				-I agreed that was wisdom.
+	-We discussed our mortal ties, who we could work through.
+		-Joseph reminded us of our ties to Hawke's mercenaries.
+		-He then pulled out a sheet of paper and a brush, and then, so quickly it was clearly charm-
+		 enhanced, he drew up a contract, addressed to Hawke, promising three silver talons for the
+		 destruction of one of the deathknights' factories.
+		-The mark on the contract, though, was The Emissary's.
+			-We glanced at each other, and shrugged. The Emissary won't likely mind a forged note
+			 advancing her business anyways.
+			-Joseph misinterpretted our looks, and said, "It's best for the city that an existing
+			  source of stability is reinforced."
+	-"OK!" Joseph called out to the others, "We've trained for this! We're at war."
+		-The various groups then hurried off, mobilizing.
+	-Black Powder Jack ran up to us, offering Blade an iron sphere two hands across, saying, "Here,
+	 use this if you get into trouble!"
+		-Pip: "What's in this?"
+		 Jack: "Enough steel and powder to level a large building."
+	-We then wound our way back up the labyrinthine path to the surface, and made our way back to
+	 Hawke's.
+		-During the trip back, The Mistress seemed to shy away from the sun, flinching at it's touch.
+		-I asked her about this, saying, "Are you all right?"
+		 Mistress: "It burns me, the light."
+		 I: "Has this always been so? Since your. . . Exaltation?"
+		 Mistress: "No, it has never been this bad."
+		 I: "Well, lets hurry, then, and get you inside."
+		-Once back at the compound, Hawke's troops allowed us back inside.
+		-As we walked down a hallway, though, The Mistress suddenly pounced like a cat, on something
+		 in the corner.
+			-Standing back up, her mouth was bloody, and she clutched half a rat in hand.
+			-She quickly devoured the other half, and looked relieved, saying, "I have not tasted
+			 blood in a long time. When I bit into that bitch, it awoke something in me. . ."
+			-Turning, we saw one of Hawke's men, looking on in horror.
+			-"It's my ghost-blooded ancestory," The Mistress lied.
+			-I shoved Libak towards the man, to smooth things over, and pushed the rest down the hall.
+		-We got to Hawke's office, finding him there, asleep on his couch, while Talsin, his
+		 Lieutenant, did paperwork at the desk.
+			-We told Talsin we brought business, new work in the city.
+			-"You know," he said, "The Emissary will not allow us to move an army through the city."
+			 "But this work is _for_ The Emissary," Blade too enthusiastically volunteered, offering
+			 up the contract..
+				-He also slipped, and referred to her as _her_, a point Hawke questioned, but Blade
+				 mumbled something about ships and cities always being women.
+			-Talsin's eyes widened, and she said, "Let me see that."
+			-After reading it, and carefully examining the seal, she walked over to the couch and
+			 kicked Hawke in the ribs, yelling, "Wake up you drunken fool! We've got work."
+			-Looking over the contract, and then nodding, Hawke set Talsin to work, and then,
+			 looking to us, said, "This is cause for celebration. Have a drink with me."
+			-Hawke asked us to close the door. When Pip did so, he was suddenly more serious, saying,
+			 "Once we move troops through Nexus, without The Emissary stopping us, this city will
+			  plunge into chaos.
+			  But, we all must die one day! And there _is_ much opportunity here."
+			-"Have you read the contract?" Hawke then asked, "It instructs us to raze a large area
+			  of the city, near the docks, and offers us control over any portion of that area that
+			  we then rebuild."
+				-Looking at it, the area in question is that factory and it's surroundings.
+				-That. . . does not exactly match what Joseph told us. . .
+			-Hawke was game, though, and began to see to preparations.
+				-He kept a drink clutched in one hand, though we now rarely saw him drink from it.
+		-When we got a moment alone, there was much finger pointing.
+			-I, and Onyx too, were none too happy about Blade's willingness to claim to Hawke that
+			 this was indeed The Emissary's work, and to plow on once Hawke pointed out the contents.
+			-He, meanwhile, asked where these objections were beforehand, with me then yelling about
+			 him leaving no time for such before he opened his mouth and put his foot in it.
+			-Amidst this, though, we resolved to at least share events with The Emissary while we
+			 still had a bit of daylight left.
+				-We found a secluded spot in the courtyard, and Pip held the contract to the sky,
+				 calling to The Emissary, and mumbling through an explanation.
+				-Our response was cryptic, more than a bit ominous, but not a firm no.
+					-A snake skin grew from the contract, containing a perfect replica of it, and
+					 the contract itself then turned into a snake, attempting to bite Pip until she
+					 cast it away.
+	-As night fell, the city burned.
+		-We could see fires springing up in various areas, mostly in the Nexus Pool district.
+		-As we moved through the city, towards the factory, we could see gangs moving through the
+		 city.
+			-Many were led by what Pip named members of the "hatchet gang" that had harassed her
+			 mother.
+			-Others were led by snakemen, but all groups were seen looting and burning.
+			-As we moved into the Nexus Pool district, we began to see knots of resistance, led by
+			 martial artists dressed as monks, protecting various buildings.
+				-I think I saw some like them among the cultists?
+		-Along our path, rising above the building, we saw the flare of some dark anima.
+			-Rounding a corner, I saw a familiar face, the deathknight who had visited my manse with
+			 one of the Larquen clones.
+			-I mumbled through a mantra, the activation phrases for my suspended spells, my skin
+			 turning to brass and my hands twisting into claws.
+			-I called, then, to my comrades, saying, "Careful! This one is quick!" and then ran at
+			 the woman, swiping at her with one of my clawed hands.
+			-The claw scraped across her armor, but found at least one chink, as blood began to drip.
+			-"We meet again!" I called to her. "You left too soon, last time. . ."
+			-Any response she might have had was cut off as Pip hurled a ball of fire at the wall of
+			 the dead end at her back.
+				-It exploded in a burst of flame, burning the woman and knocking her down.
+				-Asking her later what that was, she said she'd loosed a spell from her cord, Flight
+				 of the Brilliant Raptor.
+			-Onyx then joined the fight, leaping towards a wall and then pushing back off it towards
+			 her, blade first.
+			-His strike was then compounded by unlooked for help, a molotov cocktail hurled from the
+			 a roof above, splashing the deathknight with flaming liquid.
+			-Our own deathknight was not to be out done. Taking wing with the cloak, she soared up,
+			 then flew back down at her erstwhile comrade, slashing at her with the razor-tipped wings.
+			-Armored Golden Blade rushed forward, but was slow to reach her.
+			-We could here the shouting voices of a crowd, somewhere South of us. Voices raised in
+			 anger, perhaps another of the mobs of looters.
+			-She, though greviously wounded, seemed to very much be enjoying this, and lunged towards
+			 me with an obviously charm-enhanced flurry of blows.
+				-The force of them would have sufficed to slay even great warriors, even me with my
+				 bronze skin, were it not for the Invisble Manse's hearthstone.
+			-Thankfully, before she could add to those, Onyx struck again, severing her head from
+			 her neck.
+			-I then took stock of the situation, looking for both escape and the mob we'd heard.
+			-Instead, noise on the roof above called my eyes upward, and there I saw a dreadful sight.
+			 There stood another of the Larquen clones, holding a cage of Soulsteel nearly large
+			 enough for a person, within which there was a roiling ball of some black essence.
+			-I called out that there was another foe above, and then ran up a convenient series of
+			 crates nearby, taking myself up and over the roofs, towards the Larquen clone.
+			-It looked down at us, as golden metal flowed over it. Another of the symbiotes. 
+			-As she looked up to the figure on the roof, a look of fear crossed her face, swiftly
+			 turning to rage. She flew up, and attempted to strike the clone. Before her wings could
+			 cut him, quick as a snake, he counterattacked with his blade, and she fell, crumpling at
+			 his feet, unmoving and bleeding. . .
+			-Onyx rushed up to the roofs himself, also attempting to strike the clone, but again the
+			 clone struck him quicker. This time, though, it merely shoved Onyx back, saying, "Stand
+			  back, boy. I have no quarrel with you."
+			 "You called me boy. We do have a quarrel."
+			 "Then die."
+			-Pip then called out, saying, "Wait! I've got a plan, a spell! It requires your
+			 cooperation!" She then untied a knot in her spell-cord, releasing. . . something.
+			 Golden Blade and I were then drawn towards her, _merging_ with her. Silent Onyx,
+			 though, apparently resisted.
+			-The resulting being stood nearly ten feet tall, and was ferociously powerful.
+			-I (we?) willed it forward, running a few strides and then leaping up onto the rooftop,
+			 beside the clone. Strong with the power of our various charms, artifacts, and techniques,
+			 I/we dismembered the clone, slashing at it with our blade ten times in the blink of an
+			 eye.
+				-One more clone left, then.
+			-As the adrenaline of battle slowly faded, so too did all three of us walk forth from
+			 the composite that we had been.
+			-I immediately ran the fallen Mistress, and began to open the front of my buff jacket,
+			 mumbling. That earned me several quizzical looks, looks that soon turned to horror as
+			 I bared the skin of my stomach and the bottlebug crawled forth from it.
+				-It skittered across the roof to The Mistress, diving into her, and setting about
+				 mending her wounds, visible then only when it peeked out, or when its legs reached
+				 out around a wound, to pull it closed.
+				-This required a fair bit of explaining to my companions, that no, we don't need to
+				 kill it, and that it's under my control and healing her.
+					-All managed without mentioning the word demon too.
+			-Silent Onyx wasn't paying much attention to that, though, as, with the clone's death,
+			 its symbiote was now pursuing a distressed, but much faster, Onyx.
+				-I set about offering what quick explanations I could, getting across that it was a
+				 thing of value, a weapon, but that it also possessed it's hazards.
+				-We tried to work out some way of containing it, with it punching it's way through
+				 a crate we tried, ultimately settling on the cache egg.
+					-That may complicate retrieving things from there in the future, but not in an
+					 _especially_ dangerous way.
+	-That battle marked the most dangerous part of the night. The rest of the evening, we helped
+	 Hawke's men clear the rest of the area.
+		-The chaos was great, with fires and marauding gangs tearing through the district.
+		-Zombies were also seen throughout the area.
+		-Hawke's men had aid, though. Many times, we rushed to an area, only to find the problem
+		 already solved by groups of cultists working with Hawke's soldiers.
+			-In private moments of conversation with them, they chastized us for the flared
+			 combo-anima that had been visible over the city, but you could still tell they were
+			 also impressed.
+			-Jack, though, is wowed. He has studied magic, and seen it done, but has _never_ seen
+			 anything like what Pip did.
+		-As things calmed, Hawke's men demolished a few damaged building, and secured several
+		 important areas of the waterfront there, settling in.
+		-The cult too took the opportunity to go on the offensive. If Hawke now controls the portion
+		 of the district we'd attacked, the cult now controls the rest of the Nexus Pool district.
+		-The Emissary was also seen above the city, flitting two and fro in the blink of an eye.
+		 Where ever she (it!) paused, the fires below ceased, or gangs and rioters were swept up,
+		 seemingly as if by wind, and dumped into the canals.
+		-Towards the end of the night, runners brough a message to each of us, bearing The Emissary's
+		 seal, saying simply, "Two more days."
+	-The Mistress made it, thankfully, and when she awoke, she was even able to tell us something
+	 about the Soulsteel cage we'd claimed.
+		-She said it is a Celestial Monstrance, containing one or more Abyssal Exaltations (!).
+		-The Neverborn and their servants, she said, hold a lot more control over where the
+		 Exaltations go than is the case for other kinds.
+	-As dawn broke, the city was calmer, if scarred.
+		-Hawke sent a runner to bring us to him, and we came upon him and Rishi drinking wine in a
+		 cleared lot, workmen already raising a foundation.
+		-All felt the night had gone well, with congratulations due all around.
+	-That morning, though, the first signs of sickness began to show.
+		-People fell ill, turning green as bulbous growths grew about their necks.
+		-All of us recognized the signs: The Great Contagion.
+		-As Hawke turned to give an order, 
+
+
+TODO:
+	-Do you need healing?
 
 
 TODO:
@@ -3734,9 +4085,12 @@ TODO:
 			 secret.
 				-You might also need to explain that there was more in the NE than you admitted, and
 				 the bigger secret is the (hopefully understandable?) reason why.
-	-Look into Craft(Magitech) in Oadenol's and Scroll of Errata.
-		-You need other Crafts before you can take it, though.
-		-Yeah, definitely seems like a direction you eventually want to go in.
+				-Done! Mostly went well, I think? Libak handled it while I was busy.
+		-You'd love to talk to that Illuminated kid who believes he did bad stuff in The First Age.
+			-Search: "terrible things, committed atrocities"
+			-You can definitely sympathize. It touches on a fear of your own, though one which you
+			 couch in terms of failure, rather than moral wrongs.
+			-Perhaps you can bond with him over this, promise to help watch each other, keep honest.
 	-The Inivisible Manse's hearthstone is amazing.
 		-See Hearthstone_of_the_invisible_fortress.odt
 		-Add your extra health levels in Roll20.

@@ -5,10 +5,10 @@ DV: 8
 Soak with Invulnerable Skin of Bronze: 20B/12L/4A (and hardness 12B/6L)
 
 Current Claws (15 pts., Essence+Occult max each, can change reflexively at begining of each action):
-	Accuracy: 5
+	Accuracy: 9
 	Defense: 0
 	Damage: 5
-	Rate: 5
+	Rate: 1
 	Always Speed 5
 
 Suspended spells, by trigger:
