@@ -112,14 +112,6 @@ Essence: 3 (2+1 for bonus points spent)
 	Essence Pool:
 		Personal:	16 (Essence*3+Willpower)
 		Peripheral:	37 (Essence*7+Willpower+(sum of Virtues))
-		Attunments:
-			4m	Orichalcum Hearthstone Bracers
-			1m  Orichalcum Hearthstone Amulet
-	Essence Recovery:
-		Base:
-			4m/hour when at ease
-			8m/hour when resting
-		9+?m/hour from hearthstones and amulet
 	
 
 Movement:

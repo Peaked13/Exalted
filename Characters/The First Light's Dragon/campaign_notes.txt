@@ -3747,7 +3747,7 @@ TODO:
 		 as to how.
 		-Kismet, an Eclipse Caste artificer, is interested in AI, and who seeks to rebuild the
 		 (instant) messaging system of The Old realm.
-		-Kouf Thengi, of the Dawn Caste, seeks new defensive grid or access to the Realm's.
+		-Kouf Thengi, of the Dawn Caste, seeks a new defensive grid, or access to the Realm's.
 	-In talking with that circle, I mentioned that I did indeed remember some of the created
 	 intelligences of The First Age.
 		-The whole crowd reacted to that with silence, shocked looks on their faces.
@@ -3905,8 +3905,8 @@ TODO:
 			-"You know," he said, "The Emissary will not allow us to move an army through the city."
 			 "But this work is _for_ The Emissary," Blade too enthusiastically volunteered, offering
 			 up the contract..
-				-He also slipped, and referred to her as _her_, a point Hawke questioned, but Blade
-				 mumbled something about ships and cities always being women.
+				-He also slipped, and referred to her as _her_, a point Hawke later questioned, but
+				 Blade mumbled something about ships and cities always being women.
 			-Talsin's eyes widened, and she said, "Let me see that."
 			-After reading it, and carefully examining the seal, she walked over to the couch and
 			 kicked Hawke in the ribs, yelling, "Wake up you drunken fool! We've got work."
@@ -4003,7 +4003,7 @@ TODO:
 				-One more clone left, then.
 			-As the adrenaline of battle slowly faded, so too did all three of us walk forth from
 			 the composite that we had been.
-			-I immediately ran the fallen Mistress, and began to open the front of my buff jacket,
+			-I immediately ran to the fallen Mistress, and began to open the front of my buff jacket,
 			 mumbling. That earned me several quizzical looks, looks that soon turned to horror as
 			 I bared the skin of my stomach and the bottlebug crawled forth from it.
 				-It skittered across the roof to The Mistress, diving into her, and setting about
@@ -4052,11 +4052,221 @@ TODO:
 	-That morning, though, the first signs of sickness began to show.
 		-People fell ill, turning green as bulbous growths grew about their necks.
 		-All of us recognized the signs: The Great Contagion.
-		-As Hawke turned to give an order, 
+		-As Hawke turned to give an order, we could see buboes on his neck too. . .
 
 
 TODO:
 	-Do you need healing?
+		-Yeah, but the wound mending needles should sort it quickly.
+
+
+12/6/21:
+	-While we were waiting to get started, I learned a bit more from Lesley about the laboratory in
+	 the monastery's basement.
+		-There are 500 clone tanks, 150 of which remain occupied.
+		-_Each_ tank had a symbiote, so you retain 497.
+	-We began the session back at Hawke's compound.
+		-Scouts were still steadily reporting back in.
+		-All of our target areas appear to have been hit, by Hawke's men or the cultists.
+		-Most of the fighting ended up limited to the Nexus district, with some happening
+		 around the Nighthammer district's arsenal as well.
+		-We also heard more signs of The Great Contagion, not seen since the dawning of The Age of
+		 Sorrows.
+			-Also some weirdness that _may_ just be that, around the Nexus coliseum.
+				-Reports talked of monsters as well as illness, though the former may simply be
+				 fever dreams.
+	-We adjourned for a bit back to Golden Blade's room, to use the Wound-Mending Needles to heal
+	 (most of) my wounds.
+	-Golden Blade suggested isolating Hawke, to prevent the spread of sickness.
+		-As he stepped out into hall, though, there was already a runner lying, feverish, on the
+		 floor of the hallways.
+		-We dragged those we found, Hawke included, to a room, isolating them a bit.
+	-We resolved to see to matters at the coliseum, as monsters may be a direly urgent matter, and
+	 then to see what we could do about the disease outbreak.
+		-Our Panacea Pipe has great promise, but we need to learn more to use it.
+		-Pip (not here for the session) volunteered to stay behind and tend to the ill among the
+		 mercenaries.
+	-As we stepped out of the compound, there was some faint. . . noise, in the air.
+		-Listening closely, it sounded like discordant piping, and whisper. Whispers like we've
+		 heard since our exposure to the black mirror. . .
+		-It came from the direction of the coliseum. I guess our course was clear.
+	-We comandeered an empty canal boat, though Golden Blade promptly smashed it into another.
+	-Comandeering a unsmashed third, we lifted it's unconscious and shivering owner from it, Blade
+	 tucking some money into the man's pocket.
+	-This time, Blade had more success poling it along.
+	-Soon, as we passed beneath a bridge, we saw a still running trolly going overhead. Knowing it
+	 ran towards the coliseum, we all lept up to the bridge above, and climbed aboard it.
+		-It was still full of passengers, all unconscious and feverish. This works quick. . .
+		-As the automated cable car made it's stops, we unloaded them, reasoning we did not need to
+		 bring them closer to harm.
+		-Indeed, as we got closer to the arena, not only did the sound grow louder, but people on the
+		 street seemed to be sicker, many now lying clearly dead.
+	-As we got off the trolly at it it's terminous, the cacaphony had grown loud, and even rats
+	 seemed to have fallen sick the moment they crawled up onto the street.
+		-This close, I could also no longer feel the prayers of my cult, drowned out in the noise.
+	-The arena's gates were clogged with bodies, what seemed to be the remnants of a crowd trying
+	 to escape.
+		-It would prove necessary to climb the coliseum's walls to enter.
+		-Blade and I powered up, while Onyx scouted ahead, scaling the walls.
+		-He was soon back, reporting what he saw.
+			-Inside the arena, there was a pack of zombie-looking dogs, and some horrible,
+			 stitched-corpse giant, standing 20' high.
+			-The sound seemed to come from beneath the fighting pit's flooring, clamorously loud.
+		-Silent Onyx wisely recommended avoiding that mess, if possible.
+		-We searcehd the outside of the arena, and Blade spotted a grate covering a large sewer
+		 pipe running into the arena.
+			-Presumably used when flooding the arena for the naval battles they occasionally host.
+		-Golden Blade quickly ripped the grate from the stonework, and we entered the sewer.
+	-The sewer indeed led into the coliseum. A short way in, we took a stair up, and found ourselves
+	 in a corpse-choked hallway.
+		-The corpses soon began to stir, though, rising as undead, and battle was joined.
+		-Onyx cut down a few and then, adjusting my claws, I stepped into the fray and became a
+		 blender. Mere seconds later, I stood panting, covered in blood and surounded by severed
+		 body parts.
+		-Blade then stepped over the corpses and, walking into the room they'd emerged from, his
+		 glowing caste mark illuminated the source of the noise.
+		-There before him stood an abomination, nearly a dozen children stitched together, their
+		 lungs pulled from their backs and stitched into a slowly pulsating nightmare-organ, the
+		 source of the noise.
+		-From behind it too, a red light began to glow, revealing another deathknight, the mustached
+		 "physician" Onyx and I had encountered before, and undoubtedly the creator of these
+		 abominations.
+		-The bastard that made this thing being too far for me to reach immediately, I ran at his
+		 abominable creation, attempting to rend it apart. It proved surprisingly tough and dense,
+		 though, with only one swipe from my claws doing any apparent damage, tearing some of it's
+		 stiches.
+		-Onyx joined me in that experiencing similarly limited success, though the thing was
+		 starting to show it's wear.
+		-The horror on hand apparently not being enough, the deathknight opened his mouth and
+		 shoved a meathook down his throat, then pulled it back out, drawing forth a swarm of ghosts
+		 with it.
+		-Blade joined us in wailing on the noise machine, finally silencing, though perhaps not
+		 destroying, it.
+		-That sorted for the moment, at least, I lept over it and the ghosts, using a pillar to
+		 redirect myself at the deathknight, plunging my claws into his chest.
+			-As my right hand struck home, the wound quickly dissolved into liquid gore, forcing
+			 the claw back out and reforming, healed.
+			-The second, though, plunged in deep, and, though a similar thing began to occur, he
+			 seemed unable to reform, instead collapsing into a pool of gore.
+			-As that happened, the ghosts turned back to him, falling on the corpse link hungry
+			 dogs, dragging his body off with them into the darkness.
+		-Onyx and Blade then finished off the cacaphony abomination.
+	-With the thing quieted, we could now here the sounds of people on the street above, sounding
+	 like some life returning to the city.
+	-The area down here had been turned into some kind of necromantic amplification chamber, and I
+	 was interested in studying the works of our enemies. As such, we sent Onyx above, to see both
+	 what happened to the undead titan above and to see if the destruction of _this_ abomination had
+	 solved the illness.
+	-Onyx came back a short while later, reporting that, indeed, the city's health seemed to be
+	 restored, and, though it did not fall with it's creator, The Emissary had arrived and dealt
+	 with the titan above (seeming a bit pissed, he said, that we'd left it to her).
+	-We then sent him back out again, back to Hawke's compound, to retrieve squad of Hawke's men to
+	 secure this area.
+		-While waiting on their return, I had some time to go through what was here.
+		-There were many texts covering surgery, and other, more gruesome topics, diagrams for
+		 strange, necromantic weapons. I gathered up what I could.
+		-It appeared hastily set up, rather than something that had been here long.
+	-It was Nissen who found us first, though. He was happy to report the deaths of a further three
+	 deathknights, all the cult knew of in the city.
+		-He also asked that, seeing as The Illuminated had fulfilled their end of the bargain, were
+		 we ready to go train with them?
+		-I cautioned him that we wished to check in with our allies and. . . one other, but said that
+		 then, yes, we'd be willing to join them for the training.
+		-He nodded and said that he'd work on burning the bodies above, then, so that ghosts do not
+		 rise, while we waited for Hawke's men.
+		-I bundled up the necromancer's writings that I found in a scrap of cloth, and then went to
+		 help him in that. As they arrived and saw us, Hawke's men wordlessly joined in.
+	-During that, Blade pulled me aside for a bit. We found a secluded spot and called out to The
+	 Emissary, beneath the light of the sun. We reported that all deathknights we'd learned of were
+	 now dead, and asking if she knew of any more.
+		-By way of response, images of The Emissary appeared all around the city, on street corners
+		 and rooftops. She/it announced that a new law was being made for Nexus: The Wyld Hunt and
+		 The Immaculate Order are henceforth banned from the city of Nexus, and Solars are welcome
+		 and to be given sanctuary. (!!!)
+	-That done, we assented to the cultist's training, and we were given a week to settle our affairs.
+		-At their suggestion, we let Hawke know we were going to be with the cult, so he could contact
+		 us in an emergency.
+		-To me, they mentioned they'd send a circle to watch over my monastery, and to inform the
+		 monks where I was. I told them I'd speak with them myself, but, upon using my wooden face,
+		 I could see that Aslag, Kismet, and Kouf, Solar's we'd met among the cultists, were already
+		 there.
+	-With matters settled, we traveled beneath the city, and began our training.
+		-On the first day, they shaved our heads (those that had not already, anyways) and eyebrows.
+		 They also announced that our diets would be restricted to rice and tubers.
+		-Kicked awake the next morning, we were dragged out for prayer. We were instructed to hold
+		 martial arts stances throughout the prayers, hit with sticks when we faltered.
+			-Just like childhood thus far!
+			-During this, we were provided nothing but water with an oily sheen on it, and we quickly
+			 began to hullucinate.
+			-The prayers were over _us_, praying to heaven to guide us on our paths.
+			-We were to remain until every mortal left.
+		-The remainder of that day, and the latter half of many days that followed, consisted of a
+		 tour of the sewers, each location requiring us to do something disgusting, much like wading
+		 in shit to get to the sanctuary in the first place.
+		-We trained for _three years_.
+		-We saw parts of the sewers we'd never would have suspected existed. Archery ranges, combat
+		 dojos, and obstacle courses.
+		-A major focus of the training was on how to destabilize areas, rally followers, and spread
+		 their brand of revolution.
+		-For the first year, we were woken up before anyone else, and sent to scavenge for scraps of
+		 garbage, to feed us and the rest of the cult.
+		-As our training progressed, each of us had many mortal cultists tell us a personal secret
+		 and pledge loyalty to us. That bond was then tested, and we were trained in the skills we'd
+		 need to manage these groups of followers.
+			-We're all going to be gaining some dots in the Followers background.
+		-For the second year, we were each made to pick a "calling" with in the cult to train further
+		 with. They are:
+				Oyabun: The leaders of the underground Sanctuary who live on the streets among creations lowest, witnessing firsthand the struggles of creations denizens and working to help the people who need it most. They are trained to be social engineers, capable of helping creation to a better tomorrow, where everybody is equal.
+
+				Kyodai: The street Messiahs of the sanctuary who feed the homeless and run a series of soup kitchens to feed and assist the most vulnerable of creation. They give vocational training to people and help them to organize. Their training focuses on self sustainability and the creation of  localized renewable systems from farms to power grids. 
+
+				Shatei: The Warriors of the sanctuary, effectively protest organizers and organized resistance recruiters, they have the ability to take an unorganized mob and turn them into guerrillas capable of bringing down governments from within. These revolutionaries speak of a better tomorrow, and how creation will be better for it, but to make that tomorrow a reality they must be willing to fight for their ideals and stand against the tyrants who would take advantage of the people!
+		-I chose TODO: make that choice, Lesley recommended Kyodai for you.
+		-We now also were sent out, to explore various parts of the sewers with our followers,
+		 securing new areas, converting or driving off any existing denizens and claiming the areas
+		 for the cult.
+			-Along the way, the tasks emphasized the use of our followers, and that we could not do
+			 it alone
+		-For the third year, they had us track dangerous foes, monsters, Immaculate monks, and the
+		 like.
+			-The tests in this year required several times the sacrifice of things that were dear,
+			 mimicing the sorcery trials.
+		-By the end of this, we'd acquired:
+			-Abilities:
+				Larceny 3, war 2, socialize 1, melee or martial arts 1, presence 1, resistance 1,
+				survival 1
+				(If something would push you past five, it's a free dot in any other ability, including
+				 choosing martial arts "6" even though you could get melee.)
+			-Charms: Ox Body + Second Larceny Excellency
+			-Pick one of these pairs:
+				flawlessly impenetrable disguise, body mending meditation
+				second presence excellency + Enemy castigating solar judgement
+				Mob dispersing rebuke + mastery of small manners
+			-You also get new favored ("calling") abilities, based on the calling you pick:
+				Oyabun
+					larceny, lore, presence, survival War
+				Kyodai
+					Awareness Bureaucracy Medicine, Socialize, Larceny
+				Shatei
+					Athletics, larceny, Melee, Resistance War
+				(If you already favor one you're getting again, it doubles the impact, adjusting
+				 XP costs and training time by twice as much.)
+			-Backgrounds: Illumination 3 (see cult's source book), Henchmen 1
+				-I lose my Cult, though, as they convert to The Cult of the Illuminated (sounds like
+				 it was quite easy).
+				-Give Lesley some info about your Henchman, their name and what they can do (or go
+				 so far as to create a character for them).
+			-You also have plenty of time to spend your (now massive) pile of XP, as well as plenty
+			 access to training in essentially everything here.
+				-In fact, the trainers reduce the XP cost of everything by 2 XP, to a minimum of 1 XP.
+				-They very much encouraged you and Jake to pursue your training charms (not at all
+				 a bad idea).
+				-Even initiation into Celestial was possible, with guidance from a woman named Aiysha.
+		-All this training was also interwoven with _intense_ indoctrination.
+			-Among other things, they're _very_ against letting others realize you're Solars.
+			-Libak, though, took time to help all of us push back a bit against the indoctrination
+			 (avoiding the weird limit break stuff that the cult membership would otherwise inflict
+			 on us.)
 
 
 TODO:

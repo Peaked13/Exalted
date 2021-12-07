@@ -5,10 +5,10 @@ DV: 8
 Soak with Invulnerable Skin of Bronze: 20B/12L/4A (and hardness 12B/6L)
 
 Current Claws (15 pts., Essence+Occult max each, can change reflexively at begining of each action):
-	Accuracy: 9
+	Accuracy: 8
 	Defense: 0
-	Damage: 5
-	Rate: 1
+	Damage: 6
+	Rate: 2
 	Always Speed 5
 
 Suspended spells, by trigger:
@@ -24,6 +24,11 @@ Stuff previously suspended:
 Motes Committed: 5
 	4	Orichalcum Hearthstone Bracers
 	1	Orchalcum Hearthstone Amulet
+Essence Recovery:
+	Base:
+		4m/hour when at ease
+		8m/hour when resting
+	10m/hour from hearthstones and amulet
 
 Mundane Possessions:
 	-Fine Buff Jacket
