@@ -4256,17 +4256,71 @@ TODO:
 				 it was quite easy).
 				-Give Lesley some info about your Henchman, their name and what they can do (or go
 				 so far as to create a character for them).
+					-Lesley said they should be a Heroic Mortal.
+						-Rules on pg. 81 of Core.
 			-You also have plenty of time to spend your (now massive) pile of XP, as well as plenty
 			 access to training in essentially everything here.
 				-In fact, the trainers reduce the XP cost of everything by 2 XP, to a minimum of 1 XP.
 				-They very much encouraged you and Jake to pursue your training charms (not at all
 				 a bad idea).
-				-Even initiation into Celestial was possible, with guidance from a woman named Aiysha.
+				-Even initiation into Celestial was possible, with guidance from a woman named Ayesha.
 		-All this training was also interwoven with _intense_ indoctrination.
 			-Among other things, they're _very_ against letting others realize you're Solars.
 			-Libak, though, took time to help all of us push back a bit against the indoctrination
 			 (avoiding the weird limit break stuff that the cult membership would otherwise inflict
 			 on us.)
+
+
+TODO:
+	-Do free updates.
+		-DONE with free abilities
+			-I put the dot that would have been Martial Arts 6 in Resistance 5
+		-Pick a Calling. Might depend a lot on what you spend XP on.
+		-DONE with free no-choice charms.
+		-DONE with free choice of charm pair.
+			-Chose Flawlessly Impenetrable Disguise + Body Mending Meditation
+		-DONE with Background updates.
+		-Flesh out your Henchman.
+	-Spend XP.
+		-Possibilities:
+			-Essence 5: 30 XP
+				-Lots of stuff is keyed off it (hearthstone health levels, charms, motes, etc.)
+			-Celestial Circle Sorcery: 6 XP (!)
+				-What spells?
+					-Second Circle Demons are awesome.
+					-Imbue Amalgam is a route to similar stuff to as Wyld shaping. Cheaper to access, but a
+					 more than a bit slave-y.
+					-Threefold Binding of the Heart is even more powerful mind control.
+					-Raise the Puissant Sanctum (White Treatise pg. 79) for manse construction.
+				-_Solar_ Circle would also be cheap then, if you have Essence 5!
+			-Lore charms can be as cheap as 4XP!
+				-Another Excellency.
+				-Both training charms, after another Excellency.
+				-Wyld charms, after another Excellency.
+					-3 deep for Cauldron (third shaping charm needs prohibitive Essence 7).
+			-More Snake Style: 6 XP each
+				-3 Charms would get you to Striking Serpent Speed, and some half-decent stuff along
+				 the way. Probably not worth it if you don't go that deep, but does also argue for
+				 more essence.
+			-Willpower 8: 12 XP
+				-Better reading of invisible manse hearthstone would benefit from it, as would spells.
+			-Specialties: 1 XP each (!)
+				-Unarmed Dodge and Martial Arts are attractive ones.
+			-Medicine and Genesis?
+			-Necromancy?
+				-Pretty specialized, but in something we care about. What does the cult think?
+	-Flesh out downtime more.
+		-Garn's reaction to training/indoctrination?
+		-Talk with kid who fled? Involve Libak? Build a bit of a powerbase.
+		-What about our allied Exalts?
+			-Did The Mistress join the cult with us?
+			-What's our dynast friend up to?
+				-Perhaps leave a parting message with her, asking her to both keep an eye out for
+				 more deathknights and to use the cities considerable stores of knowledge to learn
+				 more about what the hell they are. Tell her to keep in contact with us if need be
+				 through Hawke and Rishi.
+	-Take another look at Hearthstone_of_the_invisible_fortress.odt. For better and worse, you've
+	 been forgetting some of the wacky things it does.
 
 
 TODO:

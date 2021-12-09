@@ -2,6 +2,7 @@ DV: 8
 	-Sheet calculates and displays this, but doesn't let you enter +1/2 for specialty, +3 for
 	 bracers, or -1 for armor mobility.
 	-(4+5+1+4+3)/2-1=7.5
+Hardness: 4B/4L (from Invisible Fortress Hearthstone; equal to Permanent Essence)
 Soak with Invulnerable Skin of Bronze: 20B/12L/4A (and hardness 12B/6L)
 
 Current Claws (15 pts., Essence+Occult max each, can change reflexively at begining of each action):

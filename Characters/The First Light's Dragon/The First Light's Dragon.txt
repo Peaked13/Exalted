@@ -319,7 +319,7 @@ Advancement:
 		-Threefold Binding of the Heart is even more powerful mind control.
 	-Necromancy may also be an appealing direction, as the Neverborn's minions are proving a problem
 	 for us. Larquen's spell manual has great stuff for fighting ghosts.
-	-All the cool Sorcery charms are now available, with Occult 5 and Essence 4.
+	-All the cool Occult charms are now available, with Occult 5 and Essence 4.
 	-First Age Crafts (BoS I pg. 8)?
 		-Craft(Magitech) is a ways off, because you need Crafts Fire and Air at 2, and another at 1.
 			-Does cool stuff, though, and could help you make a Factory-Cathedral.
