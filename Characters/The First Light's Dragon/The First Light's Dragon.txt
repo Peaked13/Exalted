@@ -256,6 +256,11 @@ Manse Design (see Oadenol's pg. 66):
 				 only them, and they hear a similar chime every hour until dusk while they remain
 				 within the grounds of the manse.
 
+
+Your Calling abilities (treat as favored, or double the bonus from something already favored):
+	Oyabun:	Larceny, Lore, Presence, Survival, War
+
+
 Advancement:
 	-Specialties look like a good deal at 3 XP each.
 		-The XP chart claims you can "purchase the same specialty multiple times", which indicates
@@ -304,6 +309,9 @@ Advancement:
 				 survive in Creation.
 			-Usefulness will depend on what kind of Wyld the zone in Nexus counts as, and on your
 			 ability to add Int+Lore successes to the very difficult Charm roll.
+				-Talked with Lesley. Mostly 10, small, difficult to reach area of 5.
+				-Artifacts can help too. Dreams of the First Age has Hand of the Great Maker which
+				 would help a great deal.
 	-With Essence 4, Martial Arts Essence Flow becomes possible, perhaps making getting that and
 	 another Martial Arts Excellency tempting.
 		-It makes the other Excellency innate, allowing you to use it with other charms without
@@ -337,7 +345,7 @@ Advancement:
 				 and for Wyld Cauldron Technique.
 					-Amazing stuff:
 						4	Enlightened Essence (Compass pg. 148)
-						4	Lidless Demon Eye (knock off Sorcerer Sight) (Lunars pg. 208)
+						4	Lidless Demon Eye (knock-off Sorcerer Sight) (Lunars pg. 208)
 						6	Wings (Core pg. 290)
 						1	Large (and progressively bigger in later for 2, 4, etc.) (Compass pg. 144)
 						1	Longevity (Compass pg. 144)

@@ -13,7 +13,7 @@ Current Claws (15 pts., Essence+Occult max each, can change reflexively at begin
 	Always Speed 5
 
 Suspended spells, by trigger:
-	"The dragon's claws are long and sharp."
+	"The dragon's claws are long."
 		Wood Dragon's Claw
 	"The dragon's scales turn blades."
 		Invulnerable Skin of Bronze

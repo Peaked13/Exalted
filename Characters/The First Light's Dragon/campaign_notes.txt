@@ -2088,7 +2088,7 @@ TODO:
 				-I, though, surged forward, muttering command phrases that turned my skin to
 				 bronze and hands to claws, and, with the aid of Supreme Perfection of Martial Arts,
 				 ripped it's chest open, to examine it's insides.
-				-As I did so, I also employed Ghost Eating Techinique, sucking, Marceline's-Dad-like,
+				-As I did so, I also employed Ghost Eating Technique, sucking, Marceline's-Dad-like,
 				 it's very essence from it.
 					-_That_ seemed to put some fear into it's eye-holes.
 				-Morning Star then finished it off with her blade, with some sadness from me, denied
@@ -4274,56 +4274,115 @@ TODO:
 TODO:
 	-Do free updates.
 		-DONE with free abilities
-			-I put the dot that would have been Martial Arts 6 in Resistance 5
-		-Pick a Calling. Might depend a lot on what you spend XP on.
+			-I put the dot that would have been Martial Arts 6 in Integrity 4
+		-DONE Pick a Calling. Might depend a lot on what you spend XP on.
+			-You're going with the Oyabun Calling.
 		-DONE with free no-choice charms.
 		-DONE with free choice of charm pair.
 			-Chose Flawlessly Impenetrable Disguise + Body Mending Meditation
 		-DONE with Background updates.
 		-Flesh out your Henchman.
+			-Scroll of Heroes has the rules for Heroic Mortals.
 	-Spend XP.
 		-Possibilities:
 			-Essence 5: 30 XP
-				-Lots of stuff is keyed off it (hearthstone health levels, charms, motes, etc.)
+				-Lots of stuff is keyed off it: hearthstone health levels, Essence pool (10 more),
+				 Caste anima ability, minimum damage, Snake Form
 			-Celestial Circle Sorcery: 6 XP (!)
 				-What spells?
-					-Second Circle Demons are awesome.
+					-Second Circle Demons are awesome. Ah, maybe too awesome to control?
 					-Imbue Amalgam is a route to similar stuff to as Wyld shaping. Cheaper to access, but a
 					 more than a bit slave-y.
 					-Threefold Binding of the Heart is even more powerful mind control.
 					-Raise the Puissant Sanctum (White Treatise pg. 79) for manse construction.
+					-Cloud Trapeze (White Treatise pg. 70) is a slight improvement on Sormwind.
+					-The Faithful Ally (White Treatise pg. 71) is solid.
+					-Unity of Dreams (White Treatise pg. 85) would be uncomfortably intimate, but
+					 would provide a months long buff to the circle, and provides limited teleport.
+					-Whirlwind of Fate (White Treatise pg. 86) is decent with good planning.
 				-_Solar_ Circle would also be cheap then, if you have Essence 5!
+			-More Terresterial spells?
+				-Infallible Messenger is taught by the cult.
+				-Unbreakable Bones of Stone (White Treatise pg. 66) is Essence to Str & Sta, and
+				 halved-round-down wound penalties. Probably better than Burning Eyes.
+				-So are the blasting spells, Butterflies and Flight of the Brilliant Raptor.
+					-Oh! 3+ others too.
+				-Peacock Shadow Eyes (White Treatise pg. 55) is _cheaper_ mind control.
+				-Ritual of Elemental Empowerment (White Treatise pg. 57)?
+				-Unconquerable Self (White Treatise pg. 66) is a 2 XP suicide tooth.
 			-Lore charms can be as cheap as 4XP!
 				-Another Excellency.
 				-Both training charms, after another Excellency.
 				-Wyld charms, after another Excellency.
 					-3 deep for Cauldron (third shaping charm needs prohibitive Essence 7).
+			-Specialties: 1 XP each (!)
+				-Unarmed Dodge and Martial Arts are attractive ones.
+			-Occult Charms?
 			-More Snake Style: 6 XP each
 				-3 Charms would get you to Striking Serpent Speed, and some half-decent stuff along
 				 the way. Probably not worth it if you don't go that deep, but does also argue for
 				 more essence.
 			-Willpower 8: 12 XP
 				-Better reading of invisible manse hearthstone would benefit from it, as would spells.
-			-Specialties: 1 XP each (!)
-				-Unarmed Dodge and Martial Arts are attractive ones.
 			-Medicine and Genesis?
 			-Necromancy?
 				-Pretty specialized, but in something we care about. What does the cult think?
+		-Proposal:
+			12	Third Lore Excellency and the first two Lore training charms
+			4	2 more dots of Unarmed Dodge & Martial Arts specialties (DO MACRO UPDATES!)
+			6	Celestial Sorcery (WHAT DO YOU SACRIFICE?)
+			18	3 more spells:
+					Imbue Amalgam
+					Unity of Dreams
+					Unbreakable Bones of Stone (DO MACRO UPDATES!)
+			6	Ghost-Eating Technique
+			1	Craft(Air) 1
+			1	Craft(Fire) 1
+			1	Craft(Water) 1
+			1	Medicine 1
+			1	Stealth 1
+			1	Temperance 2
+				or
+			30	Essence 5?
+				or
+			12	3 Wyld Lore charms?
 	-Flesh out downtime more.
 		-Garn's reaction to training/indoctrination?
+		-How your monks integrate?
+			-The various cells of the cult already have widely varying doctrines.
 		-Talk with kid who fled? Involve Libak? Build a bit of a powerbase.
+			-Talked with Lesley about it.
+			-Named Black Sheep. Dawn Caste with anger issues. Murdered his family in a rage when he
+			 exalted.
+			-Had a conversation with him and Libak, sharing what I'm trying so hard to convince
+			 myself of. We're The Chosen of the Sun, but that doesn't mean we cannot fail. We need
+			 to guard against that, and watch ourselves, because Creation _needs_ us not to fail.
 		-What about our allied Exalts?
 			-Did The Mistress join the cult with us?
+				-Yep!
+				-In fact, the Cult has another Abyssal among them, Waters the Fields with Blood,
+				 and had been studying him for some time.
 			-What's our dynast friend up to?
 				-Perhaps leave a parting message with her, asking her to both keep an eye out for
 				 more deathknights and to use the cities considerable stores of knowledge to learn
 				 more about what the hell they are. Tell her to keep in contact with us if need be
 				 through Hawke and Rishi.
+				-Talking with Lesley, she's been doing exactly that. In particular, she's been
+				 studying the Monstrance of Celestial Portion.
+					-She believes it contains two Abyssal Exaltations.
+					-The Mistress claims it's not only able to make Abyssal Exalts but that, with
+					 sufficient Necromancy, could even make a Solar Exaltation into an Abyssal one,
+					 that being how some of her former circlemates were made.
 	-Take another look at Hearthstone_of_the_invisible_fortress.odt. For better and worse, you've
 	 been forgetting some of the wacky things it does.
-
+	-Pick up that armor you commissioned?
+	-Wooden Face for The Cult?
 
 TODO:
+	-Sewer expansion?
+		-You can summon suitable demons.
+		-underground_sanctuary.pdf mentioned the old Nexus subway, and that only some of the
+		 terminal's still exist. Could others be restored?
 	-Turn that iron ore into cold iron weapons.
 		-You could have hook swords or a seven-section staff made for yourself, since they would be
 		 usable with your Martial Arts score (instead of Melee) and your Snake Style charms.
@@ -4418,7 +4477,7 @@ TODO:
 				Burning Eyes of the Offender (White Treatise pg. 39)
 				X Incantation of Effective Restoration (White Treatise pg. 49)
 				Personal Tempest (White Treatise pg. 55)?
-				x Ritual of Elemental Empowerment (White Treatise pg. 57)
+				Ritual of Elemental Empowerment (White Treatise pg. 57)
 				X Spoke the Wooden Face (White Treatise pg. 61)?
 				The Spy Who Walks in Darkness (White Treatise pg. 62)
 		-Concerning Spirits part 2 (Roll20):
@@ -4468,6 +4527,8 @@ TODO:
 				The Solar spell works in the same way, but works instaneously, and costs 20 more motes.
 			-In addition, it adds +5 auto successes to design rolls when constructing manses
 			 and allows for construction of manses with UNLIMITED manse creation points.
+		-The Cult of Illuminated can teach spells on pg. 99 of the book of the same name. It's a 1E
+		 book, though, so some of the spell smay no longer exist, and the book names are wrong.
 	-Use the phylactery more.
 		-Suspend even _wackier_ spells?
 		-Manifestation would allow, GM permitting, stuff like, say, _Fire_ Dragon's Claws.
@@ -4477,6 +4538,7 @@ TODO:
 		 we briefly saw on the way up to the manse, or similar? Lore/Occult checks to figure that out?
 			-Yep, sounds like it: https://discord.com/channels/@me/772891797726822481/882494098081194006
 			-Wood elemental could soon be summonable by you.
+		-What about a sewer tree, or tree in the Underground Sanctuary?
 	-Justify the servitude of those demons by offering banishment, what they sought?
 	-Acquire more cultists.
 	-Work with your allied (or "allied" exalts):
@@ -4490,12 +4552,6 @@ TODO:
 			-Ask her what she knows of deathknights, they being the thing she claimed to be truely
 			 concerned with?
 				-Introduce her to our captive one?
-	-Perhaps pursue that Windigo?
-		-Might help ingratiate ourselves with that Wyld-Hunt-affiliiated Terrestrial, who had been
-		 hunting it herself, or even help gain cultists, if we publicly claim credit for it.
-		-Raised it here: https://discord.com/channels/785604556934742036/785604557518405654/884559331570380840
-		-Do Lore checks and talk with the Terresterial to figure out if we can take it, though.
-			-Heard this from Lore/Occult, but doesn't give a clear idea if we can take it: https://discord.com/channels/785604556934742036/785604557518405654/884595066000269393
 	-Create a factory-cathedral. Kal Bax's writings brings this into the realm of eventually possible
 	 for you, and would certainly help restore the glories of The First Age.
 		-See Oadenol's pg. 78 for more info on the subject.
@@ -4581,3 +4637,11 @@ TODONE:
 	-Write up your usual monk check-in protocol.
 		-Avoid further surpises, like at the return to Nexus.
 		-Blow essence each night before sleeping?
+
+TODON'T:
+	-Perhaps pursue that Windigo?
+		-Might help ingratiate ourselves with that Wyld-Hunt-affiliiated Terrestrial, who had been
+		 hunting it herself, or even help gain cultists, if we publicly claim credit for it.
+		-Raised it here: https://discord.com/channels/785604556934742036/785604557518405654/884559331570380840
+		-Do Lore checks and talk with the Terresterial to figure out if we can take it, though.
+			-Heard this from Lore/Occult, but doesn't give a clear idea if we can take it: https://discord.com/channels/785604556934742036/785604557518405654/884595066000269393
