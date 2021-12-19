@@ -1,0 +1,127 @@
+Name: 
+Archetype: Savant
+Profession: Thaumaturge
+Motivation: 
+
+Attributes: (6/4/3 above base of 1 in each)
+	Physical: (3)
+		Strength: 1 (-1 for Experienced)
+		Dexterity: 2
+		Stamina: 2
+	Social: (4)
+		Charisma: 2
+		Manipulation: 3
+		Appearance: 1 (-1 for Experienced)
+	Mental: (6)
+		Perception: 2
+		Intelligence: 4
+		Wits: 2
+
+Abilities: (25 dots, none above 3, plus 1 more free in 3 different Profession Abilities, and 10 more from Experienced)
+	Dawn:
+		Martial Arts: 1
+	Zenith:
+		Integrity: 4
+		Performance: 1
+		Presence: 4
+		Resistance: 1
+	Twilight:
+		Craft (Water): 3
+		Investigation: 3
+		Lore: 5
+		Medicine: 3
+		Occult (F): 5
+			Specialty: 2 x Thaumaturgy
+	Night:
+		Athletics: 
+		Awareness: 
+		Dodge: 1
+		Larceny: 
+		Stealth: 
+	Eclipse:
+		Bureaucracy: 4
+		Linguistics: 1
+			-Old Realm
+		Socialize: 2
+		
+
+Backgrounds: (5, none above 3)
+	Backing? Illimination?
+		-Which ever, and how much, of the two are appropriate for a Cult of the Illuminated Priest.
+	Contacts? Spies? Representing Cult connections.
+		-Contacts are probably a better fit than Spies. Cult is shady, but the background beyond 1
+		 mostly spreads out over an area, which the cell-structured Cult doesn't really fit.
+	Influence? With The Cult.
+	Followers or Retainers? Allies? Again, all in The Cult.
+	Resources?
+		-Probably not appropriate if supported by some mix of Cult and Garn.
+		-Though it seems like the Cult encourages bringing in money if you can? He's had time to
+		 establish himself in Nexus.
+	
+
+Thaumaturgical Rituals:
+	-
+
+Virtues: (5 above 1 in each, none above 4)
+	Compassion: 1
+	Conviction: 4
+	Temperance: 2
+	Valor:		2
+
+Intimacies: (equal to compassion, though you can defer the choice of some until play)
+	-
+
+
+Willpower: 7 (Sum of two highest virtues, plus one for bonus points spent)
+	Recovery:
+		Conviction roll each morning
+
+Essence: 1
+	
+
+Movement:
+	
+
+Merits & Flaws:
+	Experienced (2 pt. Merit, Scroll of Heroes pg. 53)
+		-One less Strength and Appearance for 10 ability dots, representing a 62-year-old man.
+
+
+Bonus points (21 - 2 for Merits)
+	12	1st, 2nd, and 3rd Degrees of the Thaumaturgical Art of Alchemy
+	4	1st Degree of the Thaumaturgical Art of Warding and Exorcism
+	1	Thaumaturgy Occult Specialties (2 for 1, due to Favored)
+	2	Willpower 7
+			Swap this for more backgrounds?
+
+
+Flavor stuff:
+	
+
+
+Initial planning:
+	-Attractive professions:
+		-Monk, of course.
+		-Scholar or Thaumaturge?
+			-More likely the latter. Read up on Thaumaturgy again.
+	-Potential flavor stuff:
+		-Not in cult (saw Garn's flaws), but enthusiastic convert of Cult (which provided
+		 major confirmation and broader target of worship), only to find that Garn _did_
+		 stand out from even the Shining pack.
+			-Sidereal opinion of this? Sidereal _influence_, showing Garn The Cult can
+			 convert his old, scornful teacher?
+	-Potential Merits and Flaws:
+		-Eidetic Memory (3 pt. Merit, Scroll of Heroes pg. 52)
+		-Experienced (1-3 pt. Merit, Scroll of Heroes pg. 53)
+			-Trades one bonus point and one attribute point for five ability dots.
+			-Attribute dots are 4 bonus points, and Abilities 1 or 2 each, depending on Favored.
+			-With Amalgam, Attributes are 2 motes and Abilities 1.
+		-Diminished Attributes (3 pt. per attribute Flaw, Scroll of Heroes pg. 66)
+		-Oathbound (variable Flaw, Scroll of Heroes pg. 72)
+			-Super appropriate, but maybe cheat-y.
+	-Thaumaturgy? See pg. 138 of Core for rules.
+		-Each degree is 10 XP or 5 bonus points, or 8 XP and 4 bonus if Occult is Favored.
+		-Consumed Resource cost of rituals is 0 for 0, 0-1 for 1st degree, 2-3 for 2nd, and 4 to 5 for Master.
+			-Also needs laboratory of cost Resources 1 for 0, 2 for 1st degree, 3 for 2nd, and 4 for Master.
+		-Alchemy, Geomancy, Enchantment, and Warding all bear promise. Alchemy and Warding are 
+		 probably the top candidates, for the wide array of useful stuff they provide.

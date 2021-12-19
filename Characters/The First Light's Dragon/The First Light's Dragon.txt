@@ -73,18 +73,17 @@ Charms: (5 Caste & Favored, 5 any)
 			Wood Dragon's Claw
 
 
-Thaumaturgical Rituals;
-	-Known:
-		The Art of Geomancy (Core pg. 139):
-			Essence Sense (0, Perception, 1, one minute)
-				-Perceive the presence of Essence on or in a being or thing.
-		The Art of Enchantment (Oadenol's pg. 137):
-			Analyze Talisman (0, Perception, 1, five minutes)
-				-Shows if the item is enchanted or not.
-		The Art of Warding and Exorcism (Oadenol's pg. 141):
-			Sensing the Barrier (0, Perception, 3, one minute)
-				-Reveals the presence, but no other details, of every mystic barrier within sight,
-				 even if it would not affect the thaumaturge.
+Thaumaturgical Rituals Known:
+	The Art of Geomancy (Core pg. 139):
+		Essence Sense (0, Perception, 1, one minute)
+			-Perceive the presence of Essence on or in a being or thing.
+	The Art of Enchantment (Oadenol's pg. 137):
+		Analyze Talisman (0, Perception, 1, five minutes)
+			-Shows if the item is enchanted or not.
+	The Art of Warding and Exorcism (Oadenol's pg. 141):
+		Sensing the Barrier (0, Perception, 3, one minute)
+			-Reveals the presence, but no other details, of every mystic barrier within sight,
+			 even if it would not affect the thaumaturge.
 
 
 Virtues: (5 above 1 in each, none above 4)
@@ -352,5 +351,7 @@ Advancement:
 				-Pg. 144 of Compass - The Wyld assigns the point values for the different classes of
 				 mutation, while pg. 150 discusses the details of what happens when that sum starts
 				 to exceed the Willpower of those so inflicted.
+	-Learning Summon Ghost _Thaumaturgy_ would be interesting, given your Occult charms.
+		-Not clear how you do, but may require _no_ XP, it being Rank 0.
 	-Tentative schedule:
 		

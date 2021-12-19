@@ -1,9 +1,10 @@
-DV: 8
-	-Sheet calculates and displays this, but doesn't let you enter +1/2 for specialty, +3 for
-	 bracers, or -1 for armor mobility.
-	-(4+5+1+4+3)/2-1=7.5
+Dodge DV: 10
+	-Sheet calculates and displays this, but doesn't let you enter everything that applies.
+	-Equal to (Dexterity + Dodge + Specialties + Essence + Bracers)/2 - Armor Mobility Penalty
+	-(4+5+3+4+3)/2-0 = 10
 Hardness: 4B/4L (from Invisible Fortress Hearthstone; equal to Permanent Essence)
-Soak with Invulnerable Skin of Bronze: 20B/12L/4A (and hardness 12B/6L)
+Soak with Invulnerable Skin of Bronze & Unbreakable Bones of Stone:
+	28B/16L/4A (and hardness 12B/6L)
 
 Current Claws (15 pts., Essence+Occult max each, can change reflexively at begining of each action):
 	Accuracy: 8
@@ -12,11 +13,21 @@ Current Claws (15 pts., Essence+Occult max each, can change reflexively at begin
 	Rate: 2
 	Always Speed 5
 
+Attack with Wood Dragon's Claws:
+	-Equal to Dexterity + Martial Arts + Specialties + Dragon Hearthtone + Claw Accuracy
+	-4+5+3+4+variable = 16 + Claw Accuracy
+Damage with Invulnerable Skin of Bronze, Wood Dragon's Claws, & Unbreakable Bones of Stone:
+	-Equal to Strength + Bracers + Bronze Bonus + Claw Damage + Successes over DV
+	-8+2+2+variables = 12 + Claw Damage + Successes over DV
+TODO: What exactly does Unity of Dreams affect here? Just attack? Attack and damage both?
+
 Suspended spells, by trigger:
 	"The dragon's claws are long."
-		Wood Dragon's Claw
+		Wood Dragon's Claws
 	"The dragon's scales turn blades."
 		Invulnerable Skin of Bronze
+	"The dragon's might is great."
+		Unbreakable Bones of Stone
 	"The dragon takes wing."
 		Stormwind Rider
 Stuff previously suspended:
@@ -32,18 +43,17 @@ Essence Recovery:
 	10m/hour from hearthstones and amulet
 
 Mundane Possessions:
-	-Fine Buff Jacket
-		-Soak of 4L/5B as a result of Fine.
+	-Mostly-Perfect Lamellar Armor
+		-Soak: +7L/9B, Mobility: -0, Fatigue: 0
+		-Made without you present, so, if something botches, something could go wrong with the armor.
 	-A hooded cloak
 		-It is usually wise to hide the sorcerous transformation of your body. Hides Lamellar too.
 	-Leather and cloth wrappings, concealing the bracer's you wear and are very seldom without.
 	-A wrought iron ring.
 	-A hooded lantern and some fuel.
-	-ON ORDER IN NEXUS: Mostly-Perfect Lamellar Armor
-		-Soak: +7L/9B, Mobility: -0, Fatigue: 0
-		-Made without you present, so, if something botches, something could go wrong with the armor.
-		-Yep, ordered this. Ready in a month. Would normally require you to be there, though,
-		 so things may go a bit wrong.
+	-Fine Buff Jacket
+		-Soak of 4L/5B as a result of Fine.
+		-Not worn, in favor of the lamellar.
 	-2x Rarified demon summoning components
 		- +1 die to binding rolls when summoning. Resource 2 for more, or 1 for regular components.
 Stuff Left At Monastery Manse:

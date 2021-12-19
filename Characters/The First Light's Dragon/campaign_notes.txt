@@ -4283,6 +4283,7 @@ TODO:
 		-DONE with Background updates.
 		-Flesh out your Henchman.
 			-Scroll of Heroes has the rules for Heroic Mortals.
+			-Created henchman.txt for this purpose.
 	-Spend XP.
 		-Possibilities:
 			-Essence 5: 30 XP
@@ -4328,6 +4329,7 @@ TODO:
 			-Necromancy?
 				-Pretty specialized, but in something we care about. What does the cult think?
 		-Proposal:
+			XP:	Spent On:
 			12	Third Lore Excellency and the first two Lore training charms
 			4	2 more dots of Unarmed Dodge & Martial Arts specialties (DO MACRO UPDATES!)
 			6	Celestial Sorcery (WHAT DO YOU SACRIFICE?)
@@ -4342,6 +4344,8 @@ TODO:
 			1	Medicine 1
 			1	Stealth 1
 			1	Temperance 2
+			--
+			52
 				or
 			30	Essence 5?
 				or
