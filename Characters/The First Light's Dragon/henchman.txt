@@ -53,6 +53,7 @@ Backgrounds: (5, none above 3)
 		-Within The Cult of the Illuminated around Nexus he's recognized for his devotion and
 		 wisdom, and many mortal cultists look to him for guidance in interpreting their visions
 		 and in serving The Shining Ones.
+		-TODO: general populace, charitable works
 	"Inheritance" 2
 		-12 extra bonus points.
 		-Lesley suggested something neither of us can quite find: https://discord.com/channels/@me/772891797726822481/922561734605160518
@@ -66,6 +67,7 @@ Backgrounds: (5, none above 3)
 		 to engage in his most complicated rituals.
 		-TODO: How do we handle lab access for Thaumaturgy, then? I think there was a background
 		 somewhere for having one item more expensive than your resources suggest?
+			-Can't find it. So maybe bump resources?
 	
 
 Thaumaturgical Rituals:
@@ -165,6 +167,7 @@ Bonus points (21 - 2 for Merits + 12 for "Inheritance")
 
 
 Flavor stuff:
+	
 
 Planning:
 	-Eventual amalgamation:
