@@ -1,4 +1,4 @@
-Name: 
+Name: (Yflea Gophuc, as Roll20 auto-generated?)
 Archetype: Savant
 Profession: Thaumaturge
 Motivation: 
@@ -41,26 +41,93 @@ Abilities: (25 dots, none above 3, plus 1 more free in 3 different Profession Ab
 	Eclipse:
 		Bureaucracy: 4
 		Linguistics: 1
+			-Native: Rivertongue
 			-Old Realm
 		Socialize: 2
 		
 
 Backgrounds: (5, none above 3)
-	Backing? Illimination?
-		-Which ever, and how much, of the two are appropriate for a Cult of the Illuminated Priest.
-	Contacts? Spies? Representing Cult connections.
-		-Contacts are probably a better fit than Spies. Cult is shady, but the background beyond 1
-		 mostly spreads out over an area, which the cell-structured Cult doesn't really fit.
-	Influence? With The Cult.
-	Followers or Retainers? Allies? Again, all in The Cult.
-	Resources?
-		-Probably not appropriate if supported by some mix of Cult and Garn.
-		-Though it seems like the Cult encourages bringing in money if you can? He's had time to
-		 establish himself in Nexus.
+	Illimination 1
+		-He's a Cult of the Illuminated priest, since not long after his conversion.
+	Influence 1
+		-Within The Cult of the Illuminated around Nexus he's recognized for his devotion and
+		 wisdom, and many mortal cultists look to him for guidance in interpreting their visions
+		 and in serving The Shining Ones.
+	"Inheritance" 2
+		-12 extra bonus points.
+		-Lesley suggested something neither of us can quite find: https://discord.com/channels/@me/772891797726822481/922561734605160518
+			-He suggested the Inheritance background is similar, in SoH pg. 127
+			-Yeah, we'll just use that as a guideline unless we can find the other.
+				-Probably limit yourself to the one or two dots Lesley suggested.
+	Resources 1
+		-The Cult helped him get set up in Nexus, supporting himself by providing Thaumaturgical
+		 services to the general public. Most of his time is spent on Cult projects, though,
+		 limiting his personal wealth and meaning he needs other resources (usually from the Cult)
+		 to engage in his most complicated rituals.
+		-TODO: How do we handle lab access for Thaumaturgy, then? I think there was a background
+		 somewhere for having one item more expensive than your resources suggest?
 	
 
 Thaumaturgical Rituals:
-	-
+	Alchemy (3rd Degree):
+		Blood-Staunching Compress (1, Intelligence, 3, one hour) (Oadenol's pg. 130):
+			-
+		Final Vengeance (2, Wits, 3, one hour) (Oadenol's pg. 131):
+			-
+		Philtre of Desire (2, Intelligence, 2, one hour) (Oadenol's pg. 131):
+			-
+		Seven Bounties Paste (3, Intelligence, 4, one hour) (Oadenol's pg. 132):
+			-
+		Wind-Fire Potion (3, Wits, 4, one hour) (Oadenol's pg. 132):
+			-
+	Astrology (1st Degree):
+		Compile Chart (0, Wits, 2, one hour) (Core pg. 138):
+			-Using a start chart (Resources 2) and personal information, create the astrological
+			 profile necessary for other astrology rituals.
+		Lesser Divination (1, Intelligence, 4, three hours) (Core pg. 138):
+			-Using a start chart (Resources 2) and the target's astrological profile, make a
+			 prediction about the subject's future. Split successes between duration (1 = one month,
+			 2+ = one season) and accuracy (1 = extremely vague, 2+ = vague).
+		Predetermined Attributes (1, Intelligence, 4, one hour) (Oadenol's pg. 132):
+			-
+		Reactive Planning (1, Wits, 5, one hour) (Oadenol's pg. 132):
+			-After successful Lesser+ Divination, compile factors and omens that, once in the near
+			 future, allow the target to reduce the difficulty of a single roll by 1.
+		Reverse Birth Engineering (1, Intelligence, 4, one day) (Oadenol's pg. 132):
+			-
+	Geomancy (1st Degree):
+		Alloyed Essence Indicator (0, Intelligence, 5, five minutes) (Oadenol's pg. 138):
+			-
+		Dragon Line Compass (0, Perception, 1, five minutes) (Oadenol's pg. 137):
+			-
+		Dragon Nest Compass (1, Perception, 2, five minutes) (Oadenol's pg. 138):
+			-
+		Essence Sense (0, Perception, 1, one minute) (Core pg. 139):
+			-Perceive the presence of Essence on or in a being or thing.
+		Ritual of Dedicated Purification (1, Perception, 2, one hour) (Oadenol's pg. 138):
+			-
+	Warding & Exorcism (2nd Degree):
+		Alarm Ward Against (Creature) (1, Perception, 1, one hour) (Oadenol's pg. 141):
+			-
+		Alarm Ward Maintenance (2, Perception 3, five minutes) (Oadenol's pg. 141):
+			-
+		Lesser Ward Against Creature () (Oadenol's pg. 141):
+			-
+		Lesser Ward Maintenance (2, Perception 3, one day) (Oadenol's pg. 142):
+			-
+		Sensing the Barrier (0, Perception, 3, one minute) (Oadenol's pg. 141):
+			-Reveals the presence, but no other details, of every mystic barrier within sight,
+			 even if it would not affect the thaumaturge.
+	-Talked to Lesley:
+		-Occult in free rituals per Art when you purchase Degrees at character.
+			-Ward Against (Creature) is one ritual, while the *sights are seperate ones. Basically,
+			 how the book prints it.
+			-What about 0-level rituals in other Arts? _Another_ 5 of those, similar to what Garn did?
+				-If so, Summon Ghost from Art of the Dead?
+				-Oh! If you still get rituals per Occult dot _on top_ of what any degrees in an Art
+				 provide, can that be applied to the Arts you do have degrees in? There were a
+				 couple of other interesting-but-minor Alchemy rituals, and good Warding stuff too.
+		-1 Bonus per recipe beyond
 
 Virtues: (5 above 1 in each, none above 4)
 	Compassion: 1
@@ -87,19 +154,22 @@ Merits & Flaws:
 		-One less Strength and Appearance for 10 ability dots, representing a 62-year-old man.
 
 
-Bonus points (21 - 2 for Merits)
+Bonus points (21 - 2 for Merits + 12 for "Inheritance")
 	12	1st, 2nd, and 3rd Degrees of the Thaumaturgical Art of Alchemy
-	4	1st Degree of the Thaumaturgical Art of Warding and Exorcism
+	4	1st Degree of the Thaumaturgical Art of Astrology
+	4	1st Degree of the Thaumaturgical Art of Geomancy
+	8	1st and 2nd Degrees of the Thaumaturgical Art of Warding and Exorcism
 	1	Thaumaturgy Occult Specialties (2 for 1, due to Favored)
 	2	Willpower 7
-			Swap this for more backgrounds?
+			Swap this for something?
 
 
 Flavor stuff:
-	
 
-
-Initial planning:
+Planning:
+	-Eventual amalgamation:
+		-Sorcery?
+		-Occult Excellency, to help the Thaumaturgy?
 	-Attractive professions:
 		-Monk, of course.
 		-Scholar or Thaumaturge?
@@ -125,3 +195,14 @@ Initial planning:
 			-Also needs laboratory of cost Resources 1 for 0, 2 for 1st degree, 3 for 2nd, and 4 for Master.
 		-Alchemy, Geomancy, Enchantment, and Warding all bear promise. Alchemy and Warding are 
 		 probably the top candidates, for the wide array of useful stuff they provide.
+	-I wrote up a lot about the general concept for Lesley here: 
+		I threw together a possible henchman: https://discord.com/channels/@me/772891797726822481/922266724760420402
+		https://github.com/Peaked13/Exalted/blob/main/Characters/The%20First%20Light's%20Dragon/henchman.txt
+		Take a look when you've got a chance, and then I've also got some questions about what you'd recommend for backgrounds and how you want to do Thaumaturgy rituals for someone with degrees.
+
+		The general concept I was going for was one of Garn's monks, but one who was _not_ a member of Garn's cult (my Followers and Cult backgrounds suggested more followers than I had worshipers). I'm picturing a former teacher who was all too acquainted with Garn's faults, and who thus had a fair bit of trouble accepting him as the messiah they'd been waiting for. On the other hand, I'm imagining the henchman _did_ really take to The Cult of the Illuminated, since it was more or less compatible with the beliefs of the monks _without_ requiring that he believe the little shit who wouldn't pay attention in Thaumaturgy class (or Potions class, lol; viewing this as an extended Harry Potter allusion is only occurring to me now) is the _sole_ messiah, at least. It also look a little less self-serving than what Garn's past incarnation set up.
+
+		By the time  he's _again_ pledging himself to Garn, though, he's much more the true believer, The Cult having sold him, and Garn's different too: he's a first rate Occultist, a bit less intemperate, and someone who really _does_ stand out from the other (NPC) Solars of The Cult. He's now a lot more dedicated to Garn then he ever was before. I also wouldn't be surprised if his conversion may have had something to do with the mind-control-y charms that the Inner Circle of The Cult seems to use liberally, or if that conversion is something of a message to Garn: "Look, through us, even the teacher that hated you is now bowing at your feet."
+
+		I'm looking to use the henchman to both play around with Thaumaturgy (which I could never quite justify using Garn's XP on) and to play with Garn's relationship with The Cult. I gave the henchman some social skills, but I'm looking for some backgrounds that would be a good fit for and up-and-coming priest in The Cult, with some influence over the other mortals. Someone who would be good for creating some tension between whether The Cult is proving the value of Garn aligning with it or whether Garn is building a personal powerbase within The Cult. I also have an eye towards eventual amalgamation. Between his age/infirmity and the impact of awakened Essence on his art of Thaumaturgy, I can imagine this guy being ecstatic about that "blessing", and thrilled to preach that he's a living example of how The Shining Ones will lift up their faithful servants.
+	-Oh! Ask about character sheet in Roll20 for this guy.

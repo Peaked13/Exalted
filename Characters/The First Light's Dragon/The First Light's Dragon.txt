@@ -74,14 +74,14 @@ Charms: (5 Caste & Favored, 5 any)
 
 
 Thaumaturgical Rituals Known:
-	The Art of Geomancy (Core pg. 139):
-		Essence Sense (0, Perception, 1, one minute)
+	The Art of Geomancy:
+		Essence Sense (0, Perception, 1, one minute) (Core pg. 139)
 			-Perceive the presence of Essence on or in a being or thing.
-	The Art of Enchantment (Oadenol's pg. 137):
-		Analyze Talisman (0, Perception, 1, five minutes)
+	The Art of Enchantment:
+		Analyze Talisman (0, Perception, 1, five minutes) (Oadenol's pg. 137)
 			-Shows if the item is enchanted or not.
-	The Art of Warding and Exorcism (Oadenol's pg. 141):
-		Sensing the Barrier (0, Perception, 3, one minute)
+	The Art of Warding and Exorcism:
+		Sensing the Barrier (0, Perception, 3, one minute) (Oadenol's pg. 141)
 			-Reveals the presence, but no other details, of every mystic barrier within sight,
 			 even if it would not affect the thaumaturge.
 
