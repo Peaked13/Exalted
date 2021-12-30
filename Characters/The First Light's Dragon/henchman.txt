@@ -1,7 +1,7 @@
-Name: (Yflea Gophuc, as Roll20 auto-generated?)
+Name: Yflea Gophuc
 Archetype: Savant
 Profession: Thaumaturge
-Motivation: 
+Motivation: Aid in the ascencion of The Shining Ones to their rightful place in Creation.
 
 Attributes: (6/4/3 above base of 1 in each)
 	Physical: (3)
@@ -47,34 +47,43 @@ Abilities: (25 dots, none above 3, plus 1 more free in 3 different Profession Ab
 		
 
 Backgrounds: (5, none above 3)
-	Illimination 1
-		-He's a Cult of the Illuminated priest, since not long after his conversion.
-	Influence 1
-		-Within The Cult of the Illuminated around Nexus he's recognized for his devotion and
+	Illimination: 1
+		-He's a Cult of the Illuminated priest, since not long after his conversion, having shown
+		 obvious potential, and useful prior training.
+	Influence: 1
+		-Within The Cult of the Illuminated around Nexus Yflea is recognized for his devotion and
 		 wisdom, and many mortal cultists look to him for guidance in interpreting their visions
 		 and in serving The Shining Ones.
-		-TODO: general populace, charitable works
-	"Inheritance" 2
+		-Some of the general populace, particularly among the low, recognize him for his charitable
+		 works, healing the sick and injured.
+		-Yflea is also known among the thaumaturgical colleges of Nexus, as a skilled thaumaturge
+		 and learned sage.
+	"Inheritance": 2
 		-12 extra bonus points.
 		-Lesley suggested something neither of us can quite find: https://discord.com/channels/@me/772891797726822481/922561734605160518
 			-He suggested the Inheritance background is similar, in SoH pg. 127
 			-Yeah, we'll just use that as a guideline unless we can find the other.
 				-Probably limit yourself to the one or two dots Lesley suggested.
-	Resources 1
-		-The Cult helped him get set up in Nexus, supporting himself by providing Thaumaturgical
+	Resources: 1
+		-The Cult helped him get set up in Nexus, supporting himself by providing thaumaturgical
 		 services to the general public. Most of his time is spent on Cult projects, though,
 		 limiting his personal wealth and meaning he needs other resources (usually from the Cult)
 		 to engage in his most complicated rituals.
-		-TODO: How do we handle lab access for Thaumaturgy, then? I think there was a background
-		 somewhere for having one item more expensive than your resources suggest?
-			-Can't find it. So maybe bump resources?
+		-Lesley suggested having him work at one the thaumaturgical schools in Nexus, which also helps
+		 his workings, providing lab access, and an agent of The Cult in a useful place.
 	
 
 Thaumaturgical Rituals:
 	Alchemy (3rd Degree):
-		Blood-Staunching Compress (1, Intelligence, 3, one hour) (Oadenol's pg. 130):
+		Age-Staving Cordial (2, Intelligence, 3, one hour) (Oadenol's pg. 131):
 			-
+		Alchemical Touchstone (0, Perception, 1, one action) (Oadenol's pg. 130):
+			-
+		8-Scream Devil Powder (3, Intelligence, 4, one hour) (Oadenol's pg. 131):
+			-Brew a dose (see Wonders of the Lost Age pg. 74).
 		Final Vengeance (2, Wits, 3, one hour) (Oadenol's pg. 131):
+			-
+		Hero's Recovery (1, Intelligence, 3, one hour) (Oadenol's pg. 130):
 			-
 		Philtre of Desire (2, Intelligence, 2, one hour) (Oadenol's pg. 131):
 			-
@@ -84,10 +93,10 @@ Thaumaturgical Rituals:
 			-
 	Astrology (1st Degree):
 		Compile Chart (0, Wits, 2, one hour) (Core pg. 138):
-			-Using a start chart (Resources 2) and personal information, create the astrological
+			-Using a star chart (Resources 2) and personal information, create the astrological
 			 profile necessary for other astrology rituals.
 		Lesser Divination (1, Intelligence, 4, three hours) (Core pg. 138):
-			-Using a start chart (Resources 2) and the target's astrological profile, make a
+			-Using a star chart (Resources 2) and the target's astrological profile, make a
 			 prediction about the subject's future. Split successes between duration (1 = one month,
 			 2+ = one season) and accuracy (1 = extremely vague, 2+ = vague).
 		Predetermined Attributes (1, Intelligence, 4, one hour) (Oadenol's pg. 132):
@@ -96,6 +105,9 @@ Thaumaturgical Rituals:
 			-After successful Lesser+ Divination, compile factors and omens that, once in the near
 			 future, allow the target to reduce the difficulty of a single roll by 1.
 		Reverse Birth Engineering (1, Intelligence, 4, one day) (Oadenol's pg. 132):
+			-
+	Dead (No Degree):
+		Summon Ghost (0, Charisma, 2, 15 minutes) (Oadenol's pg. 133):
 			-
 	Geomancy (1st Degree):
 		Alloyed Essence Indicator (0, Intelligence, 5, five minutes) (Oadenol's pg. 138):
@@ -120,16 +132,11 @@ Thaumaturgical Rituals:
 		Sensing the Barrier (0, Perception, 3, one minute) (Oadenol's pg. 141):
 			-Reveals the presence, but no other details, of every mystic barrier within sight,
 			 even if it would not affect the thaumaturge.
-	-Talked to Lesley:
-		-Occult in free rituals per Art when you purchase Degrees at character.
-			-Ward Against (Creature) is one ritual, while the *sights are seperate ones. Basically,
-			 how the book prints it.
-			-What about 0-level rituals in other Arts? _Another_ 5 of those, similar to what Garn did?
-				-If so, Summon Ghost from Art of the Dead?
-				-Oh! If you still get rituals per Occult dot _on top_ of what any degrees in an Art
-				 provide, can that be applied to the Arts you do have degrees in? There were a
-				 couple of other interesting-but-minor Alchemy rituals, and good Warding stuff too.
-		-1 Bonus per recipe beyond
+	Weather Working (No Degree):
+		Foretell Weather (0, Perception, 2, one minute) (Oadenol's pg. 144):
+			-	
+	-Consumed Resource cost of rituals is 0 for 0, 0-1 for 1st degree, 2-3 for 2nd, and 4 to 5 for Master.
+		-Also needs laboratory of cost Resources 1 for 0, 2 for 1st degree, 3 for 2nd, and 4 for Master.
 
 Virtues: (5 above 1 in each, none above 4)
 	Compassion: 1
@@ -167,22 +174,30 @@ Bonus points (21 - 2 for Merits + 12 for "Inheritance")
 
 
 Flavor stuff:
+	-Yflea in Garn's cult, having been all to familiar with the young man's flaws.
+		-Garn was a poor student, especially after his Exaltation, more focused on martial arts
+		 than the thaumaturgy Yflea prided himself in.
+	-He was an enthusiastic convert of The Cult of the Illuminated, though.
+		-It provided major confirmation of some of the same concepts Garn's monks had held true,
+		 and broader target of worship than his flawed pupil.
+		-Seeing a bit of the training camp, and of a changed Garn, Yflea ultimately found that Garn
+		 _did_ stand out from even the Shining pack, and found himself again swearing himself to
+		 Garn personally.
+			-There may have been some Inner Circle/Sidereal influence setting this up, as a lesson
+			 showing Garn that The Cult can convert even his old, scornful teacher to outright
+			 worship. If so, it's a dangerous gambit that could easily backfire.
 	
 
 Planning:
 	-Eventual amalgamation:
 		-Sorcery?
 		-Occult Excellency, to help the Thaumaturgy?
+		-Get Garn Immanent Solar Glory before doing this? More motes to spend on the casting, and
+		 can even give this to Yflea.
 	-Attractive professions:
 		-Monk, of course.
 		-Scholar or Thaumaturge?
 			-More likely the latter. Read up on Thaumaturgy again.
-	-Potential flavor stuff:
-		-Not in cult (saw Garn's flaws), but enthusiastic convert of Cult (which provided
-		 major confirmation and broader target of worship), only to find that Garn _did_
-		 stand out from even the Shining pack.
-			-Sidereal opinion of this? Sidereal _influence_, showing Garn The Cult can
-			 convert his old, scornful teacher?
 	-Potential Merits and Flaws:
 		-Eidetic Memory (3 pt. Merit, Scroll of Heroes pg. 52)
 		-Experienced (1-3 pt. Merit, Scroll of Heroes pg. 53)
@@ -198,6 +213,16 @@ Planning:
 			-Also needs laboratory of cost Resources 1 for 0, 2 for 1st degree, 3 for 2nd, and 4 for Master.
 		-Alchemy, Geomancy, Enchantment, and Warding all bear promise. Alchemy and Warding are 
 		 probably the top candidates, for the wide array of useful stuff they provide.
+		-Talked to Lesley:
+			-Occult in free rituals per Art when you purchase Degrees at character.
+				-Ward Against (Creature) is one ritual, while the *sights are seperate ones. Basically,
+				 how the book prints it.
+				-What about 0-level rituals in other Arts? _Another_ 5 of those, similar to what Garn did?
+					-Oh! If you still get rituals per Occult dot _on top_ of what any degrees in an Art
+					 provide, can that be applied to the Arts you do have degrees in? There were a
+					 couple of other interesting-but-minor Alchemy rituals, and good Warding stuff too.
+					-Yep, you get them: https://discord.com/channels/@me/772891797726822481/925523406634483723
+			-1 Bonus per recipe beyond
 	-I wrote up a lot about the general concept for Lesley here: 
 		I threw together a possible henchman: https://discord.com/channels/@me/772891797726822481/922266724760420402
 		https://github.com/Peaked13/Exalted/blob/main/Characters/The%20First%20Light's%20Dragon/henchman.txt

@@ -260,6 +260,11 @@ Your Calling abilities (treat as favored, or double the bonus from something alr
 	Oyabun:	Larceny, Lore, Presence, Survival, War
 
 
+Followers:
+	-Tidal Force, the mute "war master" in charge of martial arts trainging: https://discord.com/channels/@me/772891797726822481/925537310265733120
+	-TODO: add the rest of the named monks here.
+
+
 Advancement:
 	-Specialties look like a good deal at 3 XP each.
 		-The XP chart claims you can "purchase the same specialty multiple times", which indicates

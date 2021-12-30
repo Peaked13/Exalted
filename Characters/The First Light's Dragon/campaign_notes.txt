@@ -4381,6 +4381,8 @@ TODO:
 	 been forgetting some of the wacky things it does.
 	-Pick up that armor you commissioned?
 	-Wooden Face for The Cult?
+	-Record Garn learning the 0-level Thaumaturgy rituals that his henchman can teach him, now that
+	 he's paying attention.
 
 TODO:
 	-Sewer expansion?
