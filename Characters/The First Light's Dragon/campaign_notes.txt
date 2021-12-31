@@ -4405,8 +4405,6 @@ TODO:
 	-Did anyone implant the Bracers of Universal Crafting? If not, it's getting to the point you could
 	 make decent use of them.
 	-Was it Tidal Force you were fighting when you exalted?
-	-Active thaumaturgical effects?
-		-At least Reactive Plannning.
 
 
 TODO:

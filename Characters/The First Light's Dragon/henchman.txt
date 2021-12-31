@@ -171,6 +171,11 @@ Bonus points (21 - 2 for Merits + 12 for "Inheritance")
 			Swap this for something?
 
 
+Mundane possessions:
+	-Astrological profile of yourself.
+	-Astrological profile of The First Light's Dragon.
+
+
 Flavor stuff:
 	-Yflea in Garn's cult, having been all to familiar with the young man's flaws.
 		-Garn was a poor student, especially after his Exaltation, more focused on martial arts
