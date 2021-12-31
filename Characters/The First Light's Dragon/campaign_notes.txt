@@ -4331,12 +4331,12 @@ TODO:
 		-Proposal:
 			XP:	Spent On:
 			12	Third Lore Excellency and the first two Lore training charms
-			4	2 more dots of Unarmed Dodge & Martial Arts specialties (DO MACRO UPDATES!)
-			6	Celestial Sorcery (WHAT DO YOU SACRIFICE?)
+			4	2 more dots of Unarmed Dodge & Martial Arts specialties (DID MACRO UPDATES!)
+			6	Celestial Sorcery (WHAT DO YOU SACRIFICE? Your name.)
 			18	3 more spells:
 					Imbue Amalgam
 					Unity of Dreams
-					Unbreakable Bones of Stone (DO MACRO UPDATES!)
+					Unbreakable Bones of Stone (DID MACRO UPDATES!)
 			6	Ghost-Eating Technique
 			1	Craft(Air) 1
 			1	Craft(Fire) 1
@@ -4380,9 +4380,34 @@ TODO:
 	-Take another look at Hearthstone_of_the_invisible_fortress.odt. For better and worse, you've
 	 been forgetting some of the wacky things it does.
 	-Pick up that armor you commissioned?
+		-Done!
 	-Wooden Face for The Cult?
+		-Asked about this and the above here: https://discord.com/channels/@me/772891797726822481/926239488957636678
+		-Done!
 	-Record Garn learning the 0-level Thaumaturgy rituals that his henchman can teach him, now that
 	 he's paying attention.
+		-Oh, wait, these probably require an XP spend, so you won't likely bother.
+	-You sacrificed the name "Garn", for knowledge of The Celestial Circle of Sorcery.
+		-It is no longer "you",  spiritually and mystically, and many who know that name find it hard
+		 to remember.
+		-You had an extensive discussion with Lesley about it here: https://discord.com/channels/@me/772891797726822481/926186066422145034
+		-What form did The Five Ordeals take under Ayesha?
+			-Humility is already well emphasized by the training camp, and _all_ of the circle
+			 underwent many such suitable trials.
+			-Tutelage involved watching, shadowing, and studying the many and complicated ebbs and
+			 flows among Nexus's teeming masses, how the flowing essence of so many people in motion
+			 created patterns far weaker than the dragon lines spanning Creation, but _infintely
+			 more complex.
+				-The monastery-raised First Light's Dragon had previously been blinder than most to
+				 such things, but The Cult takes humanity _seriously_. 
+				-Fits the Socialize dot The Cult has now granted you, and maybe an eventual foray
+				 into the Bureaucracy stuff you still delegate to others.
+	-Did anyone implant the Bracers of Universal Crafting? If not, it's getting to the point you could
+	 make decent use of them.
+	-Was it Tidal Force you were fighting when you exalted?
+	-Active thaumaturgical effects?
+		-At least Reactive Plannning.
+
 
 TODO:
 	-Sewer expansion?

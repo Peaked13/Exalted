@@ -21,6 +21,8 @@ Damage with Invulnerable Skin of Bronze, Wood Dragon's Claws, & Unbreakable Bone
 	-8+2+2+variables = 12 + Claw Damage + Successes over DV
 TODO: What exactly does Unity of Dreams affect here? Just attack? Attack and damage both?
 
+Always active spells and thaumaturgy:
+	-Unity of Dreams (White Treatise pg. 85) with the rest of the Circle.
 Suspended spells, by trigger:
 	"The dragon's claws are long."
 		Wood Dragon's Claws
@@ -64,6 +66,10 @@ Stuff Left At Rishi's Estate:
 	-Materials for an elaborate demon summoning cage
 		-Pg. 28 of Books of Sorcery Vol. V
 		- +1 die to binding rolls when summoning.
+
+Wooden Faces (White Treatise pg. 61):
+	-At The Monastery of the Dragon Over the Horizon, monitored day and night by one of your monks.
+	-In Nexus, in a place controlled and monitored by The Cult of the Illuminated.
 
 Demons Active:
 	-Agatae, The Beauteous Wasps (Books of Sorcery V pg. 69)

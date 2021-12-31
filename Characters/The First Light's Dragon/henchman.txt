@@ -32,12 +32,8 @@ Abilities: (25 dots, none above 3, plus 1 more free in 3 different Profession Ab
 		Medicine: 3
 		Occult (F): 5
 			Specialty: 2 x Thaumaturgy
-	Night:
-		Athletics: 
-		Awareness: 
+	Night: 
 		Dodge: 1
-		Larceny: 
-		Stealth: 
 	Eclipse:
 		Bureaucracy: 4
 		Linguistics: 1
@@ -47,7 +43,7 @@ Abilities: (25 dots, none above 3, plus 1 more free in 3 different Profession Ab
 		
 
 Backgrounds: (5, none above 3)
-	Illimination: 1
+	Illumination: 1
 		-He's a Cult of the Illuminated priest, since not long after his conversion, having shown
 		 obvious potential, and useful prior training.
 	Influence: 1
@@ -145,7 +141,9 @@ Virtues: (5 above 1 in each, none above 4)
 	Valor:		2
 
 Intimacies: (equal to compassion, though you can defer the choice of some until play)
-	-
+	-The Cult of the Illuminated's work is important, no less than the salvation of Creation.
+	-The First Light's Dragon and his order must be aided and guided, that they may fulfill their
+	 destiny to bring a new age.
 
 
 Willpower: 7 (Sum of two highest virtues, plus one for bonus points spent)
