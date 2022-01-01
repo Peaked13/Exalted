@@ -71,22 +71,36 @@ Backgrounds: (5, none above 3)
 
 Thaumaturgical Rituals:
 	Alchemy (3rd Degree):
-		Age-Staving Cordial (2, Intelligence, 3, one hour) (Oadenol's pg. 131):
-			-
 		Alchemical Touchstone (0, Perception, 1, one action) (Oadenol's pg. 130):
-			-
+			-Each touchstone identifies one material it's rubbed against. May require advanced prep,
+			 but is then quick to use for the season it lasts.
+		Blood-Staunching Compress (1, Intelligence, 3, one hour) (Oadenol's pg. 130):
+			-Treated bandages automatically stop bleeding, and wound does not reopen with out combat
+			 or Athletics botch. Retain potency for a year.
 		8-Scream Devil Powder (3, Intelligence, 4, one hour) (Oadenol's pg. 131):
-			-Brew a dose (see Wonders of the Lost Age pg. 74).
+			-Thrown weapon that inflicts -4 wound penalty on hit target until scrubbed from skin
+			 (see Wonders of the Lost Age pg. 74).
 		Final Vengeance (2, Wits, 3, one hour) (Oadenol's pg. 131):
-			-
+			-For one scene, imbiber ignores wound penalties and auto-succeeds Valor checks. After
+			 effects end, Stamina becomes 1, recovering 1 per day of rest, halving healing until
+			 Stamina recovers.
 		Hero's Recovery (1, Intelligence, 3, one hour) (Oadenol's pg. 130):
-			-
+			-Imbiber heals as an Exalt does for 1/2 day per Stamina. Stamina does in a row double
+			 healing time instead.
 		Philtre of Desire (2, Intelligence, 2, one hour) (Oadenol's pg. 131):
-			-
+			-Version 1: Imbiber gets +2 dice to Performance, Presence, and Socialize against target
+			chosen when made, requiring an arcane link.
+			-Version 2: Reduces imbiber's MDV by 2. Victim chosen when made, requiring an arcane link.
+			-For +1 difficulty, can ignore above arcane link requirements.
+			-Version 3: For +2 difficulty, gives imbiber +2 dice to Social attacks against any target.
+			-All versions increase severity of botches, and retain potency for one month.
 		Seven Bounties Paste (3, Intelligence, 4, one hour) (Oadenol's pg. 132):
-			-
+			-Stamina + Resistance, difficulty 1, for imbiber to heal any disease but leprosy or
+			 The Great Contagion.
 		Wind-Fire Potion (3, Wits, 4, one hour) (Oadenol's pg. 132):
-			-
+			-+1 die to Physical Attributes, Wits, and Valor, but -1 to Compassion, Temperance,
+			 and Intelligence. No longer count as an extra (Heroic Mortals get two -4 HLs). Lasts
+			 one scene, and addictive if used > 1/month (difficulty doses during month + 2).
 	Astrology (1st Degree):
 		Compile Chart (0, Wits, 2, one hour) (Core pg. 138):
 			-Using a star chart (Resources 2) and personal information, create the astrological
@@ -174,6 +188,8 @@ Bonus points (21 - 2 for Merits + 12 for "Inheritance")
 Mundane possessions:
 	-Astrological profile of yourself.
 	-Astrological profile of The First Light's Dragon.
+	-3x Potion of Hero's Recovery (Oadenol's pg. 130)
+	-5x Blood-Staunching Compress (Oadenol's pg. 130)
 
 
 Flavor stuff:
