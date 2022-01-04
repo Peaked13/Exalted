@@ -4221,7 +4221,7 @@ TODO:
 				Kyodai: The street Messiahs of the sanctuary who feed the homeless and run a series of soup kitchens to feed and assist the most vulnerable of creation. They give vocational training to people and help them to organize. Their training focuses on self sustainability and the creation of  localized renewable systems from farms to power grids. 
 
 				Shatei: The Warriors of the sanctuary, effectively protest organizers and organized resistance recruiters, they have the ability to take an unorganized mob and turn them into guerrillas capable of bringing down governments from within. These revolutionaries speak of a better tomorrow, and how creation will be better for it, but to make that tomorrow a reality they must be willing to fight for their ideals and stand against the tyrants who would take advantage of the people!
-		-I chose TODO: make that choice, Lesley recommended Kyodai for you.
+		-I chose Oyabun.
 		-We now also were sent out, to explore various parts of the sewers with our followers,
 		 securing new areas, converting or driving off any existing denizens and claiming the areas
 		 for the cult.
@@ -4244,11 +4244,11 @@ TODO:
 				Mob dispersing rebuke + mastery of small manners
 			-You also get new favored ("calling") abilities, based on the calling you pick:
 				Oyabun
-					larceny, lore, presence, survival War
+					Larceny, Lore, Presence, Survival, War
 				Kyodai
-					Awareness Bureaucracy Medicine, Socialize, Larceny
+					Awareness, Bureaucracy, Medicine, Socialize, Larceny
 				Shatei
-					Athletics, larceny, Melee, Resistance War
+					Athletics, Larceny, Melee, Resistance, War
 				(If you already favor one you're getting again, it doubles the impact, adjusting
 				 XP costs and training time by twice as much.)
 			-Backgrounds: Illumination 3 (see cult's source book), Henchmen 1
@@ -4281,7 +4281,7 @@ TODO:
 		-DONE with free choice of charm pair.
 			-Chose Flawlessly Impenetrable Disguise + Body Mending Meditation
 		-DONE with Background updates.
-		-Flesh out your Henchman.
+		-DONE Flesh out your Henchman.
 			-Scroll of Heroes has the rules for Heroic Mortals.
 			-Created henchman.txt for this purpose.
 	-Spend XP.
@@ -4364,6 +4364,7 @@ TODO:
 		-What about our allied Exalts?
 			-Did The Mistress join the cult with us?
 				-Yep!
+				-She renamed herself The Penitent of the Hallowed Path.
 				-In fact, the Cult has another Abyssal among them, Waters the Fields with Blood,
 				 and had been studying him for some time.
 			-What's our dynast friend up to?
@@ -4405,6 +4406,189 @@ TODO:
 	-Did anyone implant the Bracers of Universal Crafting? If not, it's getting to the point you could
 	 make decent use of them.
 	-Was it Tidal Force you were fighting when you exalted?
+		-Nah. Reviewing your background, you like the name "Brother Jin" that's there, and you
+		 imagine he's still a fervent follower, while Tidal Force seems a bit more skeptical.
+
+
+1/3/22:
+	-During our training downtime, an older Sideral named Kai (who seems to be a bit insane) _knew_
+	 we had the mirror, and approached us about it.
+		-He'd been studying the Abyssals and The Deathlords.
+		-He intends to form a strike force, to act against The Mask of Winters, and strike a blow
+		 against the Deathlords.
+		-He believes The Black Mirror will be integral to that task, and understanding Abyssals,
+		 saying it was "fated to be so."
+		-He arranged to have Waters the Fields with Blood look into it and he became, to all we
+		 could see, a Solar.
+		-It did not last, though, and, when he returned to his dark self, shadowland-energey and
+		 ravenous spectres flooded forth from him, thankfully contained by wards, but limiting
+		 further study of this.
+		-Kai knew the mirror had been been dug from where the primordial Perfect Principal of
+		 Consumption had been slain.
+	-The Cult has warned us that, as we've grown more powerful, we've grown easier to spot for those
+	 watching Fate.
+		-In particular, any flare of our anima or charm with the Obvious keyword gives them a chance.
+		-A d10 is then rolled, and if it's less than your essence, it's spotted.
+	-It is also no secret to us that we've quickly become the most powerful circle in The Cult's
+	 training camp.
+	-While we've trained, Nexus has thrived, despite some issues.
+		-Our battle with the Deathknights in the city shook things up a bit, and The Emissary's
+		 proclamation provoked a backlash from merchants convinced they'd been doomed to destruction
+		 by The Wyld Hunt.
+		-Hawke's Chargers have risen in prominence, but word got out about his contract, with rivals
+	     impeding the works projects Hawke was initiating, hoping to claim ground.
+		-Trade, though, has thrived on the turmoil.
+		-The Cult of the Illuminated has been pushing into places vacated by the banished Immaculate
+		 Order, spreading rumors they were to blame for the Deathknight incursion.
+		-There seems to have been a scandal affecting Libak's family, a cousin linked to organized
+		 crime, the snakeman Ophilis Ses.
+			-Through a mix of The Cult and spies in Golden Blade's employ, we've learned things
+			 about him that few know.
+			-His Tang Zen are apparently actually based out of Great Forks, and he is the lover of
+			 a Solar from that city, Azure Path.
+			-The Tang Zen are small in number, but highly influential throughout The Riverlands.
+	-The power The Cult is most concerned about is The Mask of Winters.
+		-There have been many skirmishes between his forces and The Marukani.
+		-One of his Deathknights sits on The Council of the Concordant, and has been waging the
+		 same war diplomatically, claiming the the towns The Mask has seized have joined the rule
+		 of Thorns willingly.
+		-Many of The Riverlands' powers are sympathetic to that, fearing that, should Lookshy get
+		 involved, it would heavily disrupt the province.
+	-At one point, Ayesha, who initiated you into The Celestial Circle, asked if you planned to
+	 return to manse in the North.
+		-I responded, "Yes. There is much left to uncover there."
+		-In response, she summoned a silvery gateway, and led me within, past the Celestial Lions
+		 and into Yu-Shan.
+		-Within the heavenly city, she led me to a jade dome, with lines of spirits waiting to get
+		 in, and took me inside, to a doorway.
+			-She addressed the Celestial Lions guarding the dooway, saying we were on business for
+			 "The Forbidden Manse of Ivy".
+		-That led out onto the frozen, windswept valley before The Invisible Manse, opening a door
+		 in the side of a mountain there, to the skyship hanger we'd seen on it's blueprints.
+		-Inside was a grisly scene, the long desicatted corpses of dead dragonborn, one bearing what
+		 I recognized Meherrin's spear, and a craft shaped like a seed.
+		-With the hearthstone, I was able to activate the ship.
+			-It proved to be a Manta-Class Transport (Wonders of the Lost Age pg. 43).
+		-Ayesha, piloting it, took it out of it's berth, and into the sky.
+		-The next part, I was asked not to repeat. Ayesha took the craft down into a lake, our
+		 surroundings dissolved into flowers, and, when the receded, we were a mile from Nexus,
+		 on the river.
+			-Quite the trick.
+		-Before bringing it into the city, though, she had another question for me, saying that,
+		 "Your companion Libak's fate is clouded, difficult to see. You have a choice, though. If
+		  this spear is returned to him, his path may grow. . . dark, drenched in blood. Would you
+		  return this to him? Or deliver it to me, and spare him that?"
+		 "Well, I know what he would chose, if that is so, and I will assent to his choice. Here."
+		 "You must not tell him of this, then."
+		 "I will not bring it up. If he asks, though. . . he may well see through me. See that he
+		  does not ask."
+			-Hmm. . . 
+		-Back in Nexus, she provided us with the service of a suitable crew for the skyship.
+	-After we completed our training, we got word from three brothers, Illuminated monks.
+		-A member of their cell had been captured, held by the local horselord and an Immaculate
+		 official, and the mean to burn her at the stake.
+		-With the skyship, we can reach there in time, and we quickly debated a plan.
+			-We opted to disguise ourselves as traveling traders, to enter the town without alerting
+			 them (obviously setting the skyship down somewhere out of sight).
+	-After four hours travel and concealing the grounded ship, we approached what, to all appearances,
+	 seemed to be a normal village.
+		-Well, walking around, _one_ building stood out, it being substantially fortified.
+			-Outside stood an Immaculate Monk, praying, and from within drifted the scent of
+			 inscence.
+		-Pip strode boldy up to one of the guards at the door, introducing herself as a trader,
+		 newly arrived.
+		-The guard called within, to his lord, asking him if he had need of traders. I did not hear
+		 the muffled response, but we were then admitted.
+		-That was followed by a search of our possessions by the guards within.
+			-We were wise enough to bring packs of various innocuous goods, though they still
+			 confiscated many higher value items, like bars of soap. When questioned, the one word
+			 response was "taxes".
+			-We then had a brief audience with the horse lord within, Himvul, but he had no interest
+			 in our uninteresting goods and we were soon dismissed.
+				-When Pip asked what the lord _would_ wish, he responded that he desired the herbs
+				 necessary to test if someone was a witch.
+		-While we were busy with that, Silent Onyx and Sparrow looked through the village.
+			-It's primary resource was soon apparent, as the trees that surrounded the villlage were
+			 in fact _ironwood_ trees, and many things in the village were made from it.
+			-It was also obvious where the "witch" was likely kept, for there was a bell tower with
+			 no bell, and instead barred windows and a guard.
+			-The also found markings associated with The Cult of the Illuminated on one building.
+			-The villagers, though, seemed to be half-starved, and the vegetable gardens around the
+			 town seemed stricken with some kind of blight.
+		-As we caught up about that, we spotted some commotion in the market place, a guard
+		 harassing a peasant and merchant, demanding more "taxes".
+			-By the time Libak intervened, the guard was threatening to cut off the peasant's finger
+			 in lieu of the tax he did not have.
+			-Libak paid a bribe to the guard, claiming business with them that he wished to urgently
+			 attend to.
+			-Both were grateful, and we later spoke with the merchant within his home.
+			-He spoke of Himvul's depredations, that bandits Himvul was paying off with the majority
+			 of their ironwood, and the futility of the situation.
+			-He did mention an "idealist" Dao who sought to change this all, but did not hold much
+			 hope. He was willing to direct us to Dao, but said he could do little to help, being
+			 preoccupied with his brother's hard times, his brother's wife, Kerala, having been taken
+			 by Lord Himvul. Accussed of witchcraft, he claimed she'd sacrificed a child to some 
+			 cult of the dead, and the lord awaited a magistrate, to try and sentence her.
+		-We went off in search of Dao, only to see a pair emerging from the house we were directed to.
+			-One supported the other, who appeared to be drunk, and was certainly in tears.
+			-Libak asked him what was wrong, while a third villager, quite similar in appearance to
+			 the pair and, as he approached, made to Sparrow a Cult of the Illuminated recognition
+			 sign, one which was quickly returned.
+			-This latecomer then ushered us all over to his home. He stated he'd recognized young
+			 Sparrow as a "brother", and Pip chimed in that we were "kin" as well.
+			-We learned the story of Kerala. She had been wont to take the village children on walks
+			 in the wilderness, identifying useful herbs. One afternoon, the boy with her was bitten
+			 by a snake. She tried to suck the venom from the wound, and, failing that, opened it
+			 wider, to let the venom flow out with the blood. The child died, and she was found, with
+			 blood on her face and singing an ancient song, one the village once used to send off
+			 their dead. They called it a sacrifice.
+			-"Used to?" Libak asked, "What happened?"
+			-The Immaculate Order ended that when it came. It slew their priest, and cut the tongues
+			 from all who knew the old songs, save Kerala who none but the priest knew had learned
+			 them. When Lord Himvul exalted, they sent a priest here to stay, to guide him.
+	-Pip decided to start up a couple of word-of-mouth campaigns, against both the abuse of taxes
+	 and The Immaculate Faith.
+		-Meanwhile, I spent my time investigating the blight affecting the town's foodstuffs.
+			-The food crops, _and only the food crops_ were affected by a fungus. Examining it with
+			 Essence Sense, though, made apparent that the fungus propogated along patterns
+			 suggestive of the land's finest ley lines. I suspected the work of necrotic wood essence,
+			 emanating from one of Creation's dragon lines. But while such a thing could be an 
+			 intentional attack, the formation of shadowlands or corruption of key manses would
+			 necessarily cause such harm, whatever goal or random chance may have caused that.
+		-Blade, meanwhile, detailed some of his toops, sending them out as scouts into the surrounding
+		 area in search of the bandits.
+			-Well, he tried to, anyways, but, upon returning to the ship, he found they had a captive,
+			 bearing the emblem of a red eye on a white mountain.
+				-He was indeed a bandit, and the emblem was that of his company.
+				-Blade interrogated him (with Judge's Ear).
+					-They seem to have spiritual backing: "By the glory of Mother Bog. . ."
+					-He mentioned selling the occupants of some previous town to the fey, at which
+					 point Golden Blade became pissed, and the captive was disarmed (and then beaten
+					 to death with said arm).
+					-Turning to his men, "Give me another one."
+		-Silent Onyx cased the old bell tower.
+	-Gathering again, we discussed what we'd each done, and our next steps.
+		-It seems we've made good progress formenting rebellion against the horse lord, but no real
+		 progress filling any resulting vacuum.
+		-I advocated looking into the horse god of the Marukani. One of his hairs is the traditional
+		 marker of Marukani nobility. Perhaps he can be found and bargained with.
+			-Asking Dao, he knew tales of the god, despite Immaculate supression, integral as it
+			 was to Marukani culture.
+			-The hairs were rewards for acts of heroism undertaken in the sacred mountains. A horse,
+			 something this especially poor Marukani town lacks outside the horse lord's private
+			 stock, would also go a very long ways to help one's cause, given the god and culture.
+			-I had proposed Dao for the role, but the circle pointed out that Kerala also fit, and
+			 had, with the dying boy, already committed an arguable act of heroism.
+		-We also discussed substituting Pip or myself with Kerala, via Flawlessly Impenetrable
+		 Disguise, freeing her to seek her elevation.
+
+
+
+TODO:
+	-Did anyone implant the Bracers of Universal Crafting? If not, it's getting to the point you could
+	 make decent use of them.
+		-Sounds like they're yours! Get Yflea to implant them when you get back to Nexus.
+		-They also can indeed go under your Orichalcum Bracers.
 
 
 TODO:
@@ -4412,6 +4596,8 @@ TODO:
 		-You can summon suitable demons.
 		-underground_sanctuary.pdf mentioned the old Nexus subway, and that only some of the
 		 terminal's still exist. Could others be restored?
+		-With The Emissary's sanctuary law, Nexus is now a _big_ target, and could use things like
+		 bomb shelters. . .
 	-Turn that iron ore into cold iron weapons.
 		-You could have hook swords or a seven-section staff made for yourself, since they would be
 		 usable with your Martial Arts score (instead of Melee) and your Snake Style charms.

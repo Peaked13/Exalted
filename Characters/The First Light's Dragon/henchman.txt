@@ -110,41 +110,49 @@ Thaumaturgical Rituals:
 			 prediction about the subject's future. Split successes between duration (1 = one month,
 			 2+ = one season) and accuracy (1 = extremely vague, 2+ = vague).
 		Predetermined Attributes (1, Intelligence, 4, one hour) (Oadenol's pg. 132):
-			-
+			-Using an astrological profile, predict whether a child's Physical, Social, or Mental
+			 attributes will be primary, barring future interferences.
 		Reactive Planning (1, Wits, 5, one hour) (Oadenol's pg. 132):
 			-After successful Lesser+ Divination, compile factors and omens that, once in the near
 			 future, allow the target to reduce the difficulty of a single roll by 1.
 		Reverse Birth Engineering (1, Intelligence, 4, one day) (Oadenol's pg. 132):
-			-
+			-With "sufficient information", deduce target's date of birth, helping Compile Chart.
 	Dead (No Degree):
 		Summon Ghost (0, Charisma, 2, 15 minutes) (Oadenol's pg. 133):
-			-
+			-At location important to target, call ghost with offerings of blood and grave goods.
+			 Shadowlands reduce difficult by 1, and each full century of death adds 1.
 	Geomancy (1st Degree):
 		Alloyed Essence Indicator (0, Intelligence, 5, five minutes) (Oadenol's pg. 138):
-			-
+			-Identify object as an artifact, a hearthstone, or otherwise magical.
 		Dragon Line Compass (0, Perception, 1, five minutes) (Oadenol's pg. 137):
-			-
+			-Reveals if you're within (successes x 10) of a dragon line. Once one is found, can
+			 follow it for an hour before needing this ritual again.
 		Dragon Nest Compass (1, Perception, 2, five minutes) (Oadenol's pg. 138):
-			-
+			-Detect direction to a manse within 1 mile per success, or demesne within 2 per. May
+			 continue taking readings, spending five minutes on each, for the rest of the scene.
 		Essence Sense (0, Perception, 1, one minute) (Core pg. 139):
 			-Perceive the presence of Essence on or in a being or thing.
 		Ritual of Dedicated Purification (1, Perception, 2, one hour) (Oadenol's pg. 138):
-			-
+			-Prepares area for another ritual, allowing one botch reroll for that ritual.
 	Warding & Exorcism (2nd Degree):
 		Alarm Ward Against (Creature) (1, Perception, 1, one hour) (Oadenol's pg. 141):
-			-
+			-Invisible line alerts caster if they are within 1 mile per success and creature of type
+			 crosses it. Charms and misc. must exceed threshold to bypass, but Sorcery and Necromancy
+			 automatically do so. Lasts one day and covers up to (Warding Degree x 20) ft.
 		Alarm Ward Maintenance (2, Perception 3, five minutes) (Oadenol's pg. 141):
-			-
-		Lesser Ward Against Creature () (Oadenol's pg. 141):
-			-
+			-Extends Alarm Ward's duration. 1 success = 1 day, 2 = 1 week, 3 = 1 month, 4 = a season,
+			 or 1 year for every success over 4.
+		Lesser Ward Against Creature (1, Manipulation, 1, one hour) (Oadenol's pg. 141):
+			-Creature of type needs DMDV >= successes to pass it, or 1 Willpower per scene. Lasts
+			 one day and covers up to (Warding Degree x 20) ft.
 		Lesser Ward Maintenance (2, Perception 3, one day) (Oadenol's pg. 142):
-			-
+			-As Alarm Ward Maintenance but for Lesser Ward.
 		Sensing the Barrier (0, Perception, 3, one minute) (Oadenol's pg. 141):
 			-Reveals the presence, but no other details, of every mystic barrier within sight,
 			 even if it would not affect the thaumaturge.
 	Weather Working (No Degree):
 		Foretell Weather (0, Perception, 2, one minute) (Oadenol's pg. 144):
-			-	
+			-Predict weature for success days, though the Council of Winds could later make changes.
 	-Consumed Resource cost of rituals is 0 for 0, 0-1 for 1st degree, 2-3 for 2nd, and 4 to 5 for Master.
 		-Also needs laboratory of cost Resources 1 for 0, 2 for 1st degree, 3 for 2nd, and 4 for Master.
 
@@ -210,9 +218,17 @@ Flavor stuff:
 Planning:
 	-Eventual amalgamation:
 		-Sorcery?
+			-Demon Summoning? Compare the dice pools.
+		-Training charms?
 		-Occult Excellency, to help the Thaumaturgy?
 		-Get Garn Immanent Solar Glory before doing this? More motes to spend on the casting, and
 		 can even give this to Yflea.
+		-Will need to be able to move covertly, given new appearance.
+			-Second Larceny Excellency and Flawlessly Impenetrable Disguise? You have both, but will
+			 they suffice to hide amalgam-y-ness?
+			-Dots in Stealth plus a decent Dexterity?
+		-Maybe a shifting, liquid-y and color changing metalic form? Would fit the alchemy, high Dex,
+		 and disguise/stealth stuff. Would also look impressive 
 	-Attractive professions:
 		-Monk, of course.
 		-Scholar or Thaumaturge?
