@@ -4588,7 +4588,29 @@ TODO:
 	-Did anyone implant the Bracers of Universal Crafting? If not, it's getting to the point you could
 	 make decent use of them.
 		-Sounds like they're yours! Get Yflea to implant them when you get back to Nexus.
+			-Ah, or, perhaps better, a bottle bug. You've been presuming you've kept yours around,
+			 resummoning it as needed.
+			-Can't find the surgery rules, though. Ask Lesley.
 		-They also can indeed go under your Orichalcum Bracers.
+	-(DONE!) Figure out skyship operation.
+		-You're a good candidate for maintenance. Figure that system out.
+			-Ah, sounds like no need for maintenance, due to it's First Age origin, but I _do_
+			 want as much Craft(Magitech) as I can get to repair _damage_ to it:
+			 https://discord.com/channels/785604556934742036/785604557518405654/928857661095702578
+		-Talk to folks about learning enought to crew it ourselves?
+			-Discussed it here: https://discord.com/channels/785604556934742036/785604557518405654/928849921451393045
+			-Sounds like Pip is both interested in and well suited for being the primary pilot.
+			-Getting one more circle member to Lore 1 and Sail 2 is enough to fly it ourselves, or
+			 ideally get all 5 to it, for a full crew and no maneuverability penalties.
+	-Figure out the parameters of Bronze Faction Fate monitoring.
+		-Can the The Cult _shield_ you from this in some way? Otherwise, how does practice in the
+		 training camps work?
+			-Yep, they can manage localized stuff: https://discord.com/channels/785604556934742036/785604557518405654/929138934733230151
+			-They cover the training camps, at least.
+			-They've also suggested that The Inivisible Manse is similar hidden.
+		-Can understanding of this, my impressive Occult and Lore, and Libak and Pip's Bureaucracy
+		 be combined to create a kind of "side-channel" attack, monkey-wrenching the Bronze Faction
+		 despite our limited interface with their organization?
 
 
 TODO:

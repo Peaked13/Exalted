@@ -267,9 +267,9 @@ Followers:
 
 Advancement:
 	-Specialties look like a good deal at 3 XP each.
-		-The XP chart claims you can "purchase the same specialty multiple times", which indicates
+		-(DONE!) The XP chart claims you can "purchase the same specialty multiple times", which indicates
 		 you can get +3 dice to Martial Arts unarmed.
-			-More of your Dodge specialty is way cheaper than just advancing it (but training time!).
+			-(DONE!) More of your Dodge specialty is way cheaper than just advancing it (but training time!).
 		-First Age Lore would be a very flavorful _and_ useful one for you.
 	-More Snake Style!
 		-Starting the other branch, beginning with Snake Strikes the Heel, looks more attractive
@@ -286,9 +286,15 @@ Advancement:
 		-Mists of Eventide puts people to sleep, an interesting attack.
 		-Peacock Shadow Eyes. Mind control. Dark, but useful.
 	-Dodge Charms, especially Reflex Sidestep Technique are fairly attractive.
-	-More Ox-Body is the only Resistance one that looks especially useful to you.
-		-Too much duplication of your spells.
-		-More Ox-Body _is_ straight great, though!
+	-Resistance Charms?
+		-More Ox-Body is the only Resistance one that looks especially useful to you.
+			-Too much duplication of your spells.
+			-More Ox-Body _is_ straight great, though!
+		-OH! Essence-Gathering Temper is _great_ with the Twilight Caste Anima ability, paying for
+		 a use of it many times over.
+			-If your soak is high enough (something you're quite good at), it renders you indefinitely
+			 invulnerable to stuff with Essence (and weapon minimum damage) less than yours, and only
+			 lets through the difference.
 	-(DONE!) Investigation 2 would only cost you one XP.
 	-Medicine?
 		-No one else is good at it, and, as in character reasons, you both saw it's need at The
@@ -323,10 +329,10 @@ Advancement:
 		-As other Abilities reach 5, similar pairs for those abilities may be attractive.
 			-Dodge, in particular.
 		-Hmm. . . those excellencies are pretty good on their own, and with the Infinite one too.
-	-Celestial Sorcery is now possible, but a whole narrative thing you'll need to
+	-(DONE!) Celestial Sorcery is now possible, but a whole narrative thing you'll need to
 	 work on with Lesley.
 		-Second Circle Demons are awesome.
-		-Imbue Amalgam is a route to similar stuff to as Wyld shaping. Cheaper to access, but a
+		-(DONE) Imbue Amalgam is a route to similar stuff to as Wyld shaping. Cheaper to access, but a
 		 more than a bit slave-y.
 		-Threefold Binding of the Heart is even more powerful mind control.
 	-Necromancy may also be an appealing direction, as the Neverborn's minions are proving a problem
@@ -358,5 +364,6 @@ Advancement:
 				 to exceed the Willpower of those so inflicted.
 	-Learning Summon Ghost _Thaumaturgy_ would be interesting, given your Occult charms.
 		-Not clear how you do, but may require _no_ XP, it being Rank 0.
+		-Ah, probably 1 XP, based on how Lesley had you do Charms for Yflea, or more to get a degree.
 	-Tentative schedule:
 		
