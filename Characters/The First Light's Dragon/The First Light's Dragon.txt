@@ -299,7 +299,7 @@ Advancement:
 	-Medicine?
 		-No one else is good at it, and, as in character reasons, you both saw it's need at The
 		 Invisible Manse, when your allies were injured, and saw Larquen had thought it worth his
-		 time (though, gods, the terrible ends he put that knowledge too. . .).
+		 time (though, gods, the terrible ends he put that knowledge to. . .).
 		-The Charms are pretty solid too, though truely amazing stuff requires tax-y charms, multiple
 		 one in a combo, etc.
 			-Instant healing never quite happens, though.

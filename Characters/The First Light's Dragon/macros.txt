@@ -1,4 +1,4 @@
-Dodge DV: 10
+Dodge DV: 10 (+2 if you spend 3m on Serpentine Evasion)
 	-Sheet calculates and displays this, but doesn't let you enter everything that applies.
 	-Equal to (Dexterity + Dodge + Specialties + Essence + Bracers)/2 - Armor Mobility Penalty
 	-(4+5+3+4+3)/2-0 = 10
@@ -7,19 +7,18 @@ Soak with Invulnerable Skin of Bronze & Unbreakable Bones of Stone:
 	28B/16L/4A (and hardness 12B/6L)
 
 Current Claws (15 pts., Essence+Occult max each, can change reflexively at begining of each action):
-	Accuracy: 8
+	Accuracy: 6
 	Defense: 0
-	Damage: 6
+	Damage: 7
 	Rate: 2
 	Always Speed 5
 
 Attack with Wood Dragon's Claws:
-	-Equal to Dexterity + Martial Arts + Specialties + Dragon Hearthtone + Claw Accuracy
-	-4+5+3+4+variable = 16 + Claw Accuracy
+	-Equal to Dexterity + Martial Arts + Specialties + Dragon Hearthtone + Claw Accuracy + maybe Unity of Dreams
+	-4+5+3+4+variables = 16 + Claw Accuracy + 1 (if circle involved too)
 Damage with Invulnerable Skin of Bronze, Wood Dragon's Claws, & Unbreakable Bones of Stone:
 	-Equal to Strength + Bracers + Bronze Bonus + Claw Damage + Successes over DV
 	-8+2+2+variables = 12 + Claw Damage + Successes over DV
-TODO: What exactly does Unity of Dreams affect here? Just attack? Attack and damage both?
 
 Always active spells:
 	Unity of Dreams (White Treatise pg. 85) with the rest of the Circle.
@@ -31,7 +30,7 @@ Suspended spells, by trigger:
 		Wood Dragon's Claws
 	"The dragon's scales turn blades."
 		Invulnerable Skin of Bronze
-	"The dragon's might is great."
+	"The dragon's might is unsurpassed."
 		Unbreakable Bones of Stone
 	"The dragon takes wing."
 		Stormwind Rider

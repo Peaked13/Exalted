@@ -4486,7 +4486,7 @@ TODO:
 		-Back in Nexus, she provided us with the service of a suitable crew for the skyship.
 	-After we completed our training, we got word from three brothers, Illuminated monks.
 		-A member of their cell had been captured, held by the local horselord and an Immaculate
-		 official, and the mean to burn her at the stake.
+		 official, and they mean to burn her at the stake.
 		-With the skyship, we can reach there in time, and we quickly debated a plan.
 			-We opted to disguise ourselves as traveling traders, to enter the town without alerting
 			 them (obviously setting the skyship down somewhere out of sight).
@@ -4583,6 +4583,176 @@ TODO:
 		 Disguise, freeing her to seek her elevation.
 
 
+TODO:
+	-Figure out the parameters of Bronze Faction Fate monitoring.
+		-Can the The Cult _shield_ you from this in some way? Otherwise, how does practice in the
+		 training camps work?
+			-Yep, they can manage localized stuff: https://discord.com/channels/785604556934742036/785604557518405654/929138934733230151
+			-They cover the training camps, at least.
+			-They've also suggested that The Inivisible Manse is similarly hidden.
+		-Can understanding of this, my impressive Occult and Lore, and Libak and Pip's Bureaucracy
+		 be combined to create a kind of "side-channel" attack, monkey-wrenching the Bronze Faction
+		 despite our limited interface with their organization?
+			-Eh, doesn't sound like it, from discussion in #general.
+
+
+1/31/22:
+	-We continued to debate our course of action in this town, and settled on a general goal of
+	 elevating Kerala in Himvul's place, as horse lord of the village.
+		-To that end, Pip employed her subtle social manipulations to burnish the image of both Kerala
+		 and the traditional Marukani ways.
+		-We also decided to follow up on the necrotic essence affecting the town's food crops, with
+		 aid of Yflea.
+		-It seemed potentially the sort of heroic deed the god of the Marukani was looking for, and
+		 also the sort of thing Kerala's knowledge of local spirit lore might aid.
+		-As such, we decided we'd free her. Several of us could manage a suitable disguise, to replace
+		 her in prison, but none could sneak in and out quite like Silent Onyx, so he volunteered to
+		 take her place.
+			-A short while later, I indeed got to meet her for the first time, as she met us at the
+			 appointed spot outside of town.
+			-She carries herself like a noble, at least, even garbed as a peasant. Good material to
+			 work with, for our coup here.
+	-So, we headed back to our ship, intending to fetch Yflea from Nexus.
+		-Arriving there, though, Blade's troops informed us that there'd been futher attacks.
+			-Not by bandits, though, but by strange humanoid figures made from swamp debris, aided
+			 by animated vines.
+			-Such things sounded like elementals or demons to me, though I did not know the specific
+			 type. They seemed, though, to likely be related to the bandit's in the area, since the
+			 captive one had mentioned a "Mother Bog".
+		-Leaving the Blade and his troops behind to backup Silent Onyx as needed, we boarded the
+		 ship and flew to Nexus.
+			-Looking down as we flew, we saw much activity in the land. Bands of Lookshy troops and
+			 horsemen with Marukani banners were seen on the move, heading Southwest.
+				-No doubt towards Thorns. . .
+				-Most such bands were all of one nation, but we did see some mixed groups, and
+				 interesting indicator of the politcal winds.
+			-Arriving in Nexus, I went to the training camp, to retrieve Yflea and help him load his
+			 equipment aboard the ship, what he'll need for the geomantic rituals.
+			-Meanwhile, Libak had indicated he wanted to check in on his family, and he went to take
+			 care of that. I _had_ heard they were having some trouble (see notes above). . .
+			-Pip too wanted to check on her mother, so we decided to all meet back at the ship in
+			 two hours.
+	-Pip returned to the ship in a rage, saying her mother had been taken be triad members, who may
+	 have delivered her to the Tang Zen. She meant to find them, rescue her mother, and _hurt_ them.
+		-I agreed with her the matter was urgent, and so we sent Yflea and the ship's crew off back
+		 to the village.
+			-Yflea was to begin his investigation under the protection of Golden Blade's men, and
+			 the crew was to return here with Blade.
+		-Meanwhile, through our allies, we sought word of Tang Zen hideouts in the Firewander
+		 district, learning of five of them.
+			-Pip was definitely in a rage, threatening great displays of Solar wrath. Libak, Blade,
+			 and I tried to convince her discretion might be wise, but I'm not sure that we were
+			 successful.
+		-We then sought out the first of their hideouts, with Pip running straight up to the door
+		 and banging on it, threatening death to all inside, if her questions are not answered (and,
+		 also, once they are).
+			-A small bar, people soon began to stream out of it, running and screaming.
+			-Others, though, stood up from their stools and drew knives, with the bartender yelling,
+			 "You can _try_ to kill us, anathema! We won't yield!"
+			-The inside of the bar was soon painted with blood, but Libak had spared one, who he
+			 dragged to a back room to interrogate.
+				-I meanwhile wiped blood off myself while Pip and Blade rummaged through the bottles
+				 at the bar and drank.
+			-Libak came out, still clearly shaken, asking us not to kill the man who booked it out
+			 the front door without looking at us.
+				-I asked Libak what he'd learned, and he said the man had claimed _not_ to work for
+				 the Tang Zen, though we're still convinced the triad he's a member or is. He _also_
+				 claimed that, when in town, Ophilis Ses stays at a jail in the district.
+				-Ses is quite the target. Perhaps we can cut the head off this snake, or at least
+				 gain all the leverage we could desire to secure the release of Pip's mother.
+		-We then went in search of the jail.
+			-As we did so, The Penitent found us, saying that her spies had heard of the action at
+			 the bar (James showed up after being AWOL, so he's playing her while Silent Onyx is in
+			 that tower).
+			-Mercenaries known as The Hooded Executioners, sometimes called "The Black Cloaks",
+			 perform policing duties in the Firewander, and are likely the ones _supposed_ to be
+			 running this jail.
+			-Pip was eager, but the rest of us thought it best to look into what sort of arrangement
+			 they might have with the Tang Zen.
+				-Eh, did a fair amount of debating, but ultimately didn't learn much before we headed
+				 to the prison.
+			-Heading to the jail, we once again opted for the "front door" approach.
+			-This time, though, Pip was willing to talk first, thought she took a direct approach,
+			 asking directly for Ophilis Ses.
+			-That yielded, from the guard, a "Leave." He then began trying push Pip back out the door.
+			-There was some commotion, then, and a new voice from inside the door: "Let them in. I've
+			 been expecting them."
+				-A thing Libak noted was true.
+				-In the foyer stood a richly dressed snakeman with copper scales, who indeed proved
+				 to be Ophilis Ses.
+				-He claimed that the men sent to fetch Pip's mother were incompetent, and are now
+				 dead, their heads on pikes in the yard. He claimed she has not been harmed.
+					-Turning to Libak, he nodded at that too.
+				-Pip asked to see her, to which he assented, sending the door guard to retrieve her.
+				-When she came, she seemed to have been treated well.
+				-He also claimed that bringing her was the only way to protect her, but that received
+				 a grimace from Libak.
+				-He said something about having gotten what he wanted, asking us if we knew what would
+				 come after us. Pip responded yes, and he replied that we were either very brave or
+				 very stupid. . .
+				-He then said, "Well, I expect you wish to take me into custody?"
+				 "Yes," Pip replied.
+				 "I will go with you, then, if you'll promise not to harm me."
+				 "You did not harm my mother, so I will assent."
+				 "Very well. The oath is sanctified," he said, as his anima flared.
+				-He then explained that he had simply wished to speak to us.
+					-He knew of our shared past, and of the manse.
+					-He asked us to join with him, to kill Itraxian, blaming her for never returning
+					 to us, after seeing our dragonblooded persecutors brought low by The Great
+					 Contagion. "She could have told us! We could have restored Creation to it's
+					 lost glory!"
+					-Our circle was united in opposition.
+						-"Why divide ourselves against one another, given the forces arrayed against
+						 us?" I asked. "You blame her for not giving you the chance to restore
+						 Creation. Why not seize the chance you have now?"
+						 "She took from me what's mine!"
+						 "What's yours?"
+						 "Hollow! Don't you remember?!? I _built_ this city! I laid it's first
+						 foundations with my bare hands!"
+					-We also argued with him that he was identifying _way_ too much with his past
+					 incarnation.
+						-"I think neither you nor I would wish for me to claim every perogative
+						 Larquen Quen did. . ."
+					-We tried arguing too that Itraxian had protected the city from The Wyld Hunt,
+					 but he responded that he'd done far more than she ever did.
+						-"What did you do?" Pip asked.
+						 "Set in motion plans that took time to come to fruition. I just needed you
+						 here."
+					-We suddenly felt it neccessary to check on The Emissary, stepping out and
+					 looking up, to see Itraxian in the sky having a crazy martial arts battle in
+					 the air with four other figures.
+					-"Who are those figures?" I asked, "The Hunt? Yours?"
+					 "They didn't know who she was, and thus could not marshal the proper forces. I
+					 told them who she was."
+					 "The Sidereals, then."
+					 "The masters of The Wyld Hunt."
+					-We fell to arguing among ourselves, about whether to aid Itraxian, what to do
+					 about Ses, etc.
+						-As we did so, we witnessed flash of rainbow light above as one of the
+						 figures struck Itraxian, shattering the mask of The Emissary from her face.
+						 Her caste mark then flared, as she was surrounded by an anima banner of
+						 golden light.
+							-This was soon followed by shouts on the street: "The Emissary! She's
+							 an anathema!"
+					-Eventually, we decided there was likely little we could do about anyone
+					 threatening a millenia-old Solar, even if we could reach them in the sky, and
+					 that we still wished to hold onto Ophilis Ses.
+						-We thought it best to take him to The Cult of the Illuminated, but Blade
+						 asked him if that is what he expected, and Ophilis responded, "Yes."
+						-We tried binding him with the Manacles of Night, but, as he predicted,
+						 they would not close around his wrists: "It is no longer in my nature to
+						 be a prisoner, and Creation agrees."
+						-Hmm. . .
+					-We at least began to lead him out of the prison.
+						-The streets were in chaos, as rioting and panic broke out.
+						-He, meanwhile, brought his brandy bottle.
+	-As we walked out, one of the figures battling Itraxian was cast down from the sky, shattering
+	 several buildings he flew through.
+		-Nonetheless, the figured stood, bloody but alive. He was garbed as an Immaculate Monk, but
+		 his eyes glowed purple, and he had a matching halo.
+		-This was our opportunity, if we're to help Itraxian. Looking at each other, it seemed we
+		 were all resolved to do so, as we fell into stances and the like.
+
 
 TODO:
 	-Did anyone implant the Bracers of Universal Crafting? If not, it's getting to the point you could
@@ -4592,7 +4762,12 @@ TODO:
 			 resummoning it as needed.
 			-Can't find the surgery rules, though. Ask Lesley.
 		-They also can indeed go under your Orichalcum Bracers.
-	-(DONE!) Figure out skyship operation.
+	-Summon a Hopping Puppeteer?
+		-Kind of seems like you can shrink them down to something portable.
+			-Limit triggers might be a problem, though.
+		-Having access to Measure the Wind as needed is crazy useful by itself.
+			-Can find Exalts and the like by their essence!
+	-Become skyship pros.
 		-You're a good candidate for maintenance. Figure that system out.
 			-Ah, sounds like no need for maintenance, due to it's First Age origin, but I _do_
 			 want as much Craft(Magitech) as I can get to repair _damage_ to it:
@@ -4602,18 +4777,6 @@ TODO:
 			-Sounds like Pip is both interested in and well suited for being the primary pilot.
 			-Getting one more circle member to Lore 1 and Sail 2 is enough to fly it ourselves, or
 			 ideally get all 5 to it, for a full crew and no maneuverability penalties.
-	-Figure out the parameters of Bronze Faction Fate monitoring.
-		-Can the The Cult _shield_ you from this in some way? Otherwise, how does practice in the
-		 training camps work?
-			-Yep, they can manage localized stuff: https://discord.com/channels/785604556934742036/785604557518405654/929138934733230151
-			-They cover the training camps, at least.
-			-They've also suggested that The Inivisible Manse is similar hidden.
-		-Can understanding of this, my impressive Occult and Lore, and Libak and Pip's Bureaucracy
-		 be combined to create a kind of "side-channel" attack, monkey-wrenching the Bronze Faction
-		 despite our limited interface with their organization?
-
-
-TODO:
 	-Sewer expansion?
 		-You can summon suitable demons.
 		-underground_sanctuary.pdf mentioned the old Nexus subway, and that only some of the
@@ -4625,13 +4788,6 @@ TODO:
 		 usable with your Martial Arts score (instead of Melee) and your Snake Style charms.
 		-A pair of hook swords seems like the preferable option, but both have pluses and minuses.
 			-Easier to say they're all made of iron, though.
-	-Summon a Hopping Puppeteer?
-		-Kind of seems like you can shrink them down to something portable.
-			-Limit triggers might be a problem, though.
-		-Having access to Measure the Wind as needed is crazy useful by itself.
-			-Can find Exalts and the like by their essence!
-	-Pick up that ordered armor.
-		-You returned to Nexus roughly a week after ordering it, so need to wait three more weeks.
 	-Recruit. Cultists, followers, and allies all.
 		-Ask your monks to step up efforts on that front?
 			-The manse can support many more people.
@@ -4795,6 +4951,8 @@ TODO:
 
 
 TODONE:
+	-Pick up that ordered armor.
+		-You returned to Nexus roughly a week after ordering it, so need to wait three more weeks.
 	-Figure out what's going on with that ghost/spirit/whatever that's fucking with us in the manse.
 	-Continue looking through the tombs.
 	-Downtime mask servant interactions:
