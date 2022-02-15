@@ -4602,12 +4602,14 @@ TODO:
 		-To that end, Pip employed her subtle social manipulations to burnish the image of both Kerala
 		 and the traditional Marukani ways.
 		-We also decided to follow up on the necrotic essence affecting the town's food crops, with
-		 aid of Yflea.
+		 the aid of Yflea.
 		-It seemed potentially the sort of heroic deed the god of the Marukani was looking for, and
 		 also the sort of thing Kerala's knowledge of local spirit lore might aid.
 		-As such, we decided we'd free her. Several of us could manage a suitable disguise, to replace
 		 her in prison, but none could sneak in and out quite like Silent Onyx, so he volunteered to
 		 take her place.
+			-(James was also not responding until half way through the session, so it seemed a good
+			 way to tuck Silent Onyx away.)
 			-A short while later, I indeed got to meet her for the first time, as she met us at the
 			 appointed spot outside of town.
 			-She carries herself like a noble, at least, even garbed as a peasant. Good material to
@@ -4619,8 +4621,8 @@ TODO:
 			-Such things sounded like elementals or demons to me, though I did not know the specific
 			 type. They seemed, though, to likely be related to the bandit's in the area, since the
 			 captive one had mentioned a "Mother Bog".
-		-Leaving the Blade and his troops behind to backup Silent Onyx as needed, we boarded the
-		 ship and flew to Nexus.
+		-Leaving Blade and his troops behind to backup Silent Onyx as needed, we boarded the ship
+		 and flew to Nexus.
 			-Looking down as we flew, we saw much activity in the land. Bands of Lookshy troops and
 			 horsemen with Marukani banners were seen on the move, heading Southwest.
 				-No doubt towards Thorns. . .
@@ -4656,7 +4658,7 @@ TODO:
 			-Libak came out, still clearly shaken, asking us not to kill the man who booked it out
 			 the front door without looking at us.
 				-I asked Libak what he'd learned, and he said the man had claimed _not_ to work for
-				 the Tang Zen, though we're still convinced the triad he's a member or is. He _also_
+				 the Tang Zen, though we're still convinced the triad he's a member of is. He _also_
 				 claimed that, when in town, Ophilis Ses stays at a jail in the district.
 				-Ses is quite the target. Perhaps we can cut the head off this snake, or at least
 				 gain all the leverage we could desire to secure the release of Pip's mother.
@@ -4682,7 +4684,7 @@ TODO:
 				 to be Ophilis Ses.
 				-He claimed that the men sent to fetch Pip's mother were incompetent, and are now
 				 dead, their heads on pikes in the yard. He claimed she has not been harmed.
-					-Turning to Libak, he nodded at that too.
+					-Turning to Libak, he nodded at that.
 				-Pip asked to see her, to which he assented, sending the door guard to retrieve her.
 				-When she came, she seemed to have been treated well.
 				-He also claimed that bringing her was the only way to protect her, but that received
@@ -4752,6 +4754,188 @@ TODO:
 		 his eyes glowed purple, and he had a matching halo.
 		-This was our opportunity, if we're to help Itraxian. Looking at each other, it seemed we
 		 were all resolved to do so, as we fell into stances and the like.
+
+
+2/14/22: A St. Valentine's Day Massacre
+	-I myself fell into Snake Form, as the Wyld Hunter slowly got to his feat.
+	-The monk-garbed assassin, seeing three of my companions suddenly glow as their anima flared,
+	 turned to us, and lept forward, bizzarely throwing a paper crane at Pip as he did so.
+		-The crane left a minor cut wound across her shoulder, but the world also seemed to. . .
+		 twist as it did so. The world around us grew gray and murky, and the crane soared back off
+		 into that murk.
+	-Pip and The Penitent swung at the monk, who now glowed, with a red circle on his forehead, but
+	 there blows seemed to pass through his form.
+	-Blade met no greater success with his own strike, despite cleverly kicking up a paving stone
+	 as a distraction prior to it.
+		-However, the red glow grew brighter, and a strange band of white silk appeared from the
+		 murk, wrapping around Blade and pulling him closer to the monk.
+	-With my wooden claws twisting, forming a great single blade on each hand, I wove in between
+	 Pip and Ses, twisting to suddenly strike at the monk.
+		-My attacks were countered seemingly differently, with ribbons of white silk emerging from
+		 the murk to pull each of my hands away at the last moment.
+		-This felt familiar. . . a martial arts technique that I. . . no, that Larquen had once
+		 dueled against.
+		-"I can keep this up all day!" I shouted, adding, "Can you?"
+	-The Emissary above now resembled a many-armed golden goddess, and was continuing her battle with
+	 the others.
+	-It seems the Immaculate Sidereal knew all manner of ways to dodge an attack, demonstrating at
+	 least three as we all tried again and again to land a blow.
+	-Libak tried a different tack, and had greater success _offending_ the monk, as he shouted
+	 insults leading to a seeming change in the murk, swirling suddenly more intensely around Libak.
+	-Golden Blade then managed to burst the silk bands he was wrapped in, but still could not land
+	 a blow.
+	-This all continued on for some time.
+		-Attacks fueled by essence, though, seemed to evoke a different counter, the silk-from-the-
+		 mist diverting them. Each seemed to get a bit closer.
+	-Wearing or bored, the Immaculate monk suddenly disappeared, reappearing in a flurry of cherry
+	 blossoms and paper cranes, near a fountain some 20 meters away.
+		-This felt a bit familiar, the blossoms reminding me of how Ayesha got the airship back to
+		 Nexus so quickly. More confirmation they're both Sidereals? Or indicative of some other
+		 connection.
+	-Despite us at least distracting this one, Itraxian's battle with the remaining two monks in the
+	 sky did not seem to be going well.
+		-She kicked one of them hard enough that it seems she killed him, but, while doing so, the
+		 other got behind her, stabbing her near her kidney.
+		-Seemingly in response, the crowd of scared onlookers around us all clutched the same part
+		 of their chests, and we could hear cries of anguish all over the city. . .
+			-Clearly there's some kind of sympathetic magic at play here. The Emissary is very much
+			 thought of as the patron of Nexus. . .
+	-Blade then lept at the grounded monk, closing the distance in an instance, and attempting to
+	 tackle him. However, he collided with the fountain's statue instead, toppling it from it's
+	 plinth.
+	-The monk responded by reaching out towards Blade with his palm, the murk briefly disappearing
+	 as he did so. Blade managed to interpose his blade (heh), and the hand left a melted print on
+	 his daiklaive.
+	-I reached him next, running up onto the fountain and leaping at him, clawed hands forward.
+		-Finally, the right one connected, drawing first blood.
+		-The claws of that hand sunk into part of his chest, but he seemed staggered more than I
+		 would have expected from the wound.
+		-It also now dawned on me what his motions and dodges reminded me: the way the Wyld
+		 itself fights, chaotic forms driven by a story. Here his personal fortitude finally failed
+		 him, his story giving way before the story of the dragon.
+	-Seeing the connection between the city and it's Emissary, Libak sought to rally the people
+	 nearby, leading them in a prayer to The Unconquered Sun, in support of Itraxian.
+		-It was quite the performance, and The Emissary indeed seemed to Rally, landing a tremendous
+		 blow on one of her remaining attackers, punching his spine right out of his back.
+		-The other, though, glowed purple, and split into many doubles of himself.
+	-It would seem our monk didn't care for the sight of his own blood, as he turned to me, saying,
+	 "For that, you will suffer like none have ever suffered before."
+		-A dubious assertion, given that he's no lord of Malfeas or the like, but he clearly had a
+		 plan to at least try and make good on that, as he reached out towards my forehead with two
+		 glowing fingers.
+		-I thankfully leaned back just in time, and then quickly forward with a flurry of clawed
+		 strikes, though all were deflected by his suddenly-there silks.
+	-Before he could try anything else, Pip also landed a blow, cutting his body in twain.
+	-His body, though, dissolved into rose petals, leaving only his clothes, a few paper cranes, and
+	 a nine foot long sutra.
+		-Written in blood and tears on fine white silk, it is the tail of a maiden born with three
+		 faces, who saw all of her life at once.
+		-I recognized it as a martial arts parable, one that could allow someone attuned to this
+		 artifact to activate multiple forms at once.
+			-A thing Pip can make good use of.
+	-The foe at hand resolved, we again looked up, just in time to see Itraxian dealt a grevious
+	 blow from her remaining opponent's sword , though she tore him in half in response.
+		-The sword remained, though, piercing her breast, and she sagged, then fell from the sky.
+		-Pip, Libak, and I all rushed to where she fell nearby, with me pulling open my robes as
+		 I ran.
+		-As I got to where she lay unconscious amidst rubble on the street, my passenger emerged
+		 from my chest, scuttling over to her and burrowing into her flesh.
+		-While the bottlebug worked, eventually pushing the sword out and poking the occasional
+		 insect legs out to pull her wounds closed, I reached out to my Wooden Face under The Cult's
+		 control, telling the cultist monitoring it that, "One of the Shining Ones is in dire
+		 trouble, wounded and beset by enemies! Send soldiers and doctors!"
+			-I then directed them to where we are in Nexus.
+	-Within ten minutes, Nissen, Jack, and Nassara, all ranking Solars in The Cult, were there with
+	 us, and helping to tend to Itraxian's wounds. 20 minutes after that, she was again conscious
+	 and on her feet.
+	-Libak then brought Ses over to Itraxian, introducing him as "the one that sold you out."
+	-"Surin," she greeted him, "I wish it was a pleasure to see you. I thought I had banned you
+	 from the city."
+	 "Sure," he responded, "If you can keep me out."
+	 "I swore I would never raise a hand against my circlemates. . ."
+	 He grinned at that, and added, "They all refuses to aid me in killing you, you know."
+	 "So," he said, "Another offer: I have my own circle, and, while you were busy with this,
+	 they took control of the dams around the city. Acknowledge me as the greatest among you,
+	 swearing yourselves to me, or I will drown the city."
+	-We fell to shouting for a bit, at Ses and among ourselves.
+	-Eventually, we all seemed quite intent on ending Ses's misanthropic life (fuck his deal),
+	 though I wondered if we needed him to save the city.
+	-Pip, though, said that _she_, at least, could take no part, though she encouraged us. She said
+	 that she would meanwhile try to do something about the dam, and started asking questions about
+	 how she could get there quickest.
+		-Ah, there was something I could help with, and perhaps save the city. I told her I would go
+		 with her, and spoke the trigger phrase to call up a whirlwind for us.
+		-The next problem, though, was that the city of Nexus didn't have any dams. . .
+		-As we were born aloft through the city, though, golden images of Itraxian guided us,
+		 pointing the way.
+		-She led us to the Nighthammer district, to a white First Age building at the very Western
+		 edge of the peninsula on which the city rests.
+		-Atop the building, there was some newer construction, ramshackle shanties. The door of one
+		 of them had been torn off, and there were streaks of blood all around it, but no bodies.
+		-Rushing inside, Pip and I descended into the original building, then following a hallway
+		 for something like a quarter mile, until we could hear rushing water above us.
+		-The streaks of blood led this way, as if bodies were dragged down the corridor.
+		-Eventually, along with the smell of gore, we could smell spiced smoke, and we emerged into
+		 a viscera-filled room.
+			-There was a great altar, constructed from the bones of the mutilated corpses around the
+			 room, and draped in their organs. Atop it lay another snake man, dead from a knife in
+			 his chest.
+		-Along one wall, an illuminated screen showed a warning in Old Realm, speaking of activation
+		 of the dam and imminent overflow.
+			-The axe buried in the machine it was attached to probably wasn't helping things.
+		-I tried to understand the machinery before me, to see if there was something I could do.
+			-This was a matter of the utmost importance, and I gave it my all. 
+			-As I did so, a more metaphorical dam broke, and it was as if I'd operated such things
+			 many times. I began to operate the controls as if by rote.
+				-Pip later told me that, during this, I carried myself. . . differently, proud and
+				 sinuously fluid in my movements. Not unlike someone else I know all too
+				 intimately. . .
+			-I was able to slow the dam's closing, activate some kind of warning, and activate the
+			 city's sentinel defense force, to aid in the evacuation. I was not, however, able to
+			 stop the process.
+			-More screens then came to life, showing various parts of the city. Sewer covers were
+			 flying off, and metal soldiers emerging from the sewers and ushering people down the
+			 streets.
+				-They seemed to employ a strange, invisible force, herding people with it.
+			-We could also hear the warning that was broadcast, in Old Realm, talking of the closing
+			 dam.
+				-Pip asked if I could change it to Rivertongue and I nodded, engaging the manual
+				 override and recording mode.
+				-In Rivertongue, she warned the city's populace of the coming clood, telling them
+				 to take their things and flee the city to high ground.
+	-Pip and I then took our own advice, and fled the city in another whirlwind, stopping to help
+	 her mother escape as we went.
+	-Outside the city, we could see a great wall of light form, cutting off the Nighthammer district
+	 from the rest of the city, and blocking the flow of water. Within hours, the water had risen
+	 some sixty feet above the low lying city, the Nighthammer long since innundated.
+	-Eventually, the wall of light flickered, and gave out, and a great wave smashed through Nexus.
+		-The heights of some of the city's hills remained undamaged, and some other First Age
+		 buildings survived as well, but the vast majority of the city was flattened.
+		-Even among those who did not escape in time, though, there were many survivors, protected
+		 by the invisible force of the metal sentinels.
+		-This devestation must have also extended far up and down the Yellow, Grey, and Yanaze rivers,
+		 one of (perhaps _the_) most densely populated areas of Creation. . .
+	-While Pip and I observed the city, we also saw flashes to the West.
+		-They came from the Imperial Mountain, which soon began to display a red glow.
+		-In fact, the same glow appeared at various points around the city, forming into a woman,
+		 clad in scarlet.
+		-Then, she spoke: "In my absence, you have grown complacent. As such, you will be punished.
+		 You will serve the Scarlet Empress forever. I am the Scarlet Empress reborn."
+		-With that, all of the images disappeared, save the great one over the Imperial Mountain.
+		-Five minutes later, a column of elemental energy shot up from the Imperial Mountain, arcing
+		 down to some place in the South. It shone brightly for an hour, and then dimmed.
+	-Outside the city, Pip and I debated what we should do next (we not having yet reunited with
+	 the others.
+		-I favored contacting Itraxian and The Cult of the Illuminated both, to see what we could do
+		 to help the city.
+		-As we spoke of her beneath the sun, though, Itraxian came to us.
+		-"Rebuilding Nexus," she said, "Will not be possible. The Realm is going to invade. Their
+		 ships are already on the way."
+			-I suppose they can't exactly ignore what happened here.
+		-"What, then," I asked, "Are the thousands, millions here to do?"
+		 "I know of a place," she replied, "Where they can go. Denandsor, the City of Makers"
+		 "I remember. . . met you there. . ."
+			-Clearly, Larquen had been there (see references to Denandsor).
 
 
 TODO:

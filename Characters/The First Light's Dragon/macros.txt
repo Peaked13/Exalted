@@ -2,15 +2,17 @@ Dodge DV: 10 (+2 if you spend 3m on Serpentine Evasion)
 	-Sheet calculates and displays this, but doesn't let you enter everything that applies.
 	-Equal to (Dexterity + Dodge + Specialties + Essence + Bracers)/2 - Armor Mobility Penalty
 	-(4+5+3+4+3)/2-0 = 10
+	-Snake Form then subtracts 4 (your Essence) from dice pool to hit you if they can see you.
 Hardness: 4B/4L (from Invisible Fortress Hearthstone; equal to Permanent Essence)
 Soak with Invulnerable Skin of Bronze & Unbreakable Bones of Stone:
 	28B/16L/4A (and hardness 12B/6L)
+		Adding Snake Form (with MA 5): 33B/16L/4A
 
 Current Claws (15 pts., Essence+Occult max each, can change reflexively at begining of each action):
-	Accuracy: 6
+	Accuracy: 9
 	Defense: 0
-	Damage: 7
-	Rate: 2
+	Damage: 2
+	Rate: 4
 	Always Speed 5
 
 Attack with Wood Dragon's Claws:
