@@ -4815,7 +4815,7 @@ TODO:
 		 him, his story giving way before the story of the dragon.
 	-Seeing the connection between the city and it's Emissary, Libak sought to rally the people
 	 nearby, leading them in a prayer to The Unconquered Sun, in support of Itraxian.
-		-It was quite the performance, and The Emissary indeed seemed to Rally, landing a tremendous
+		-It was quite the performance, and The Emissary indeed seemed to rally, landing a tremendous
 		 blow on one of her remaining attackers, punching his spine right out of his back.
 		-The other, though, glowed purple, and split into many doubles of himself.
 	-It would seem our monk didn't care for the sight of his own blood, as he turned to me, saying,
@@ -4933,19 +4933,239 @@ TODO:
 		 ships are already on the way."
 			-I suppose they can't exactly ignore what happened here.
 		-"What, then," I asked, "Are the thousands, millions here to do?"
-		 "I know of a place," she replied, "Where they can go. Denandsor, the City of Makers"
+		 "I know of a place," she replied, "Where they can go. Denandsor, the City of Makers."
 		 "I remember. . . met you there. . ."
-			-Clearly, Larquen had been there (see references to Denandsor).
+			-Clearly, Larquen had been there (see references to Denandsor above).
+
+
+2/28/22:
+	-Nexus is a sodden ruin.
+		-Left homeless are around 640,000 refugees.
+		-We (jokingly?) discussed torturing the ghost of Ses.
+		-No one has seen or heard from Rishi, though Hawke has been trying to locate him.
+	-Over the first day, the Emissary rested.
+	-Over the second, though, she appeared as a golden light to nearly everyone in the city, guiding
+	 them to useful supplies. Food, medicine, and even, aiding me personally, the precious stone and
+	 gems from the Blessed Isle required for an amalgam. . .
+	-The Solars of The Cult of the Illuminated also provided a great deal of aid too.
+		-Black Powder Jack even showed a flare for construction, raising earthworks and wooden
+		 structures from diagrams comprised of freshcut saplings.
+		-We also began mass summonings of demons together, beginning with bottle bugs to aid the
+		 wounded.
+	-The night of that second day, we reached out to Onyx, via our shared dreams.
+		-We broke the hard news to him, about Nexus, and let him know we were coming for him
+		 tomorrow.
+		-We asked him to sneak out and link up with Blade's troops (and Yflea) in the hills.
+	-The third day, then, we indeed went to retrieve Silent Onyx and co.
+		-During the flight, Sparrow, Blade's young companion, received an Infallible Messenger,
+		 which spoke in a strange voice, calling him "Azada" and saying something about "The
+		 Fivescore Fellowship" being recalled.
+			-We've all heard the term: it's used for the secret masters of The Cult of the Illuminated,
+			 presumably a reference to the Sidereals.
+		-Then, with a strange look on his face, Sparrow began to perform a ritual, suddenly opening
+		 some kind of gateway, and disappearing through it before any of us could reach him.
+		-I reprimanded Blade for "picking up strays", but he disclaimed responsibility, saying he
+		 _tried_ to get rid of him. . .
+	-Completing the journey and finding our people, I greeted Silent Onyx.
+		-"Ah, you weren't spared all the excitement, up in that cell, after all!"
+			-There was a battlefield nearby, still being picked over by scavengers. He said he'd
+			 witnessed a battle between a Marukani legion and undead here.
+		-He told us that he'd witnessed the horselord arrested by a group of Marukani soldiers.
+			-Presumably from that same legion.
+			-A large group of bandits were also marched into town, and he and they were then all
+			 executed.
+		-I asked him if he thought Kerala's family was safe here. He was fairly sure the matter of
+		 the bandits and the official's corruption were the cause of the executions, making the
+		 situation here a fair bit better than it was, and certainly better than the crisis in Nexus.
+	-We then returned to Nexus, arriving during the night of the third day PN (Post Nexus).
+		-Still no sign of Rishi.
+	-A few hours after landing, we could see a purple light, emanating from the center of the
+	 ruined city, periodically flickering, but moving towards the encampment.
+		-That does fit the anima of one of a Sidereal we once saw among The Cult, though we did
+		 not rember them well (hmm. . .).
+		-Eventually, from the city, emerged. . . Sparrow, crawling on his hands and knees, and
+		 bleeding from many wounds.
+			-The rest of the circle and I ran to. . . her? She was the spitting image of Sparrow,
+			 but appeared to be a woman in her thirties, though, still short.
+				-I paused only momementarily, and then went back to work with the compresses I'd
+				 had Yflea make.
+				-Her wounds were grim and various, cuts, fist-blows, many different weapons.
+			-"They're. . . they're going to kill us all," she said.
+			 "What?!?"
+			 "The elders called us, said they wanted to talk about a treaty, now that The Empress
+			  has returned. It was a trap. They have. . . something. . . like demons? Like the
+			  Exalted, though, too? With animas. . .
+			  It wasn't a peace talk. It was a massacre. I don't think Ayesha, any of the others
+			  made it. . .
+			  I had to use the last of this. . . Here, I don't think I'll be needing it any
+			  longer. . ."
+			 -At this last, she dropped another spell-storing cord, and fell unconscious.
+				-I grabbed that once we were joined by more skilled medics, bugs and Solar cultists,
+				 to take over for me.
+	-We then sought out the Emissary, and asked her questions about Denandsor.
+		-She claimed to know how to disable the defensive systems, but warned that some may have been
+		 "damaged".
+		-She claimed also that it has been untouched since Master Bax built the city, and was
+		 doubtlessly filled with stores.
+		-"I hated each of who you once were. There's no shame in admitting that. You were monsters.
+		  I don't see those same people in you."
+			-Aw, shucks.
+		-She also pointed out that, if "Azada" is any indication, The Cult is now leaderless. . .
+			-"They'll last without support for a time. But they can only destroy, not build. . ."
+		-Libak also waved Ses's tongue about for a bit, asking what the hell this thing was.
+			-It seemed to be an artifact, but a strange one, reminiscent of the worms that serve
+			 the demon Kimberry, the Sea That Marched Against the Flame.
+		-After that, though, Libak also did his damnedest to cheer up The Emissary, kind sould that
+		 he is.
+	-We indeed resolved to head to Denandsor with the refugees.
+		-We worked towards the construction of ships, and, with funds from The Emissary, their
+		 purchase, from less devestated communities upstream.
+		-I spent my time with the sorcerers among The Cult, summoning more demons, eventually 
+		 switching from bottle bugs to to puppeteers, to aid with the construction of ships, wagons,
+		 and litters, for the journey to The Empty City.
+			-The bugs flew through whatever alcohol we found, but the demons largely remained fairly
+			 well behaved. The Emissary actually seemed to exert a calming effect on them, whenever
+			 she is near them.
+	-We spent two weeks in the area, getting this together.
+		-During that time, many among the refugees began to publicly worship the Solars among them. . .
+		-The Emissary seemed to be rather scornful of this practice, though she tried to hold her
+		 tongue on the score, but occasionally slipped.
+		-We also spoke with Azada.
+			-She confessed that the purpose of The Cult was indeed to keep an eye on Solars, since
+			 we're "dangerous".
+				-I can't really argue with that last bit.
+			-She also said that she stopped reporting on _us_, in particular, a while back, saying
+			 she trusted us.
+				-She seems young for the Sidereals, mentioning she Exalted a mere 300 years ago.
+			-She spoke further about the massacre, saying she saw elders slaying one another, and
+			 what she was sure was the detonation of a "Spirit Bomb".
+				-The fight among elder Sidereals seemed to disturb her most, as she said that, "Not
+				 even during The Ursurpation did it come to violence between the _Sidereals_.
+			-She also mentioned that, "No one appears to be manipulating Fate at the moment."
+				-That would seem to imply grim things about how many Sidereals were slain.
+				-We fell to discussing options for exploiting this vacuum, but she broke in saying
+				 that it may not be possible, for the gates of Heaven were sealed by those that
+				 attacked her gathering.
+			-She had a warning too, saying that Denandsor had been kept empty for _a reason_.
+				-There, she claimed, Kel Bax had created a "false loom", a mockery of the Loom of
+				 Fate in Heaven.
+					-He had been granted a moment to look at the real one in Heaven, and that turned
+					 out to be enough.
+			-She seemed despondant, at the (near total) loss of her kind.
+				-Libak spoke, though, of the people who _still lived_, who _will_ live.
+				-At the last, her eyes lit up. ". . . _they_ will live again. Their exaltations will
+				 come again. And I can predict where!"
+					-That was apparently how the Wyld Hunt pursued us.
+					-To do so, though, required a loom.
+						-Denandsor, again. . .
+						-Though she did also say that an orrery, in a city far to the East, buried
+						 in jungle, could also serve.
+				-Finding the new incarnations of the dead Sidereals could be one route to control
+				 over Fate.
+		-We asked The Emissary who else knew she had access to Denandsor.
+			-"Only my circle and yours, those who fled to the Inivisble Manse."
+	-By a third week, ships were beginning to come together.
+		-With immediate injuries now seen to, I began to fear disease. There are many thousands of
+		 refugees here, in temporary housing with limited infrastructure, and _more_ are actually
+		 coming, as people from the many surrounding communities that were also devestated sought
+		 out aid and leadership.
+			-As such, I had a hard conversation with Yflea.
+				-Since returning here with us, he'd been doing all he could to help people, using
+				 his considerable medical and alchemical talents, and I let him know that there was
+				 a way he could do more, but one with a cost. . . one that would bind him even
+				 tighter to me, and change him.
+				-Yflea had become a true believer. I think I got something across to him, for he
+				 considered the matter for several hours, but then he came to me, asking to be
+				 transformed.
+				 "I can help the people still more, entrusted with this power, and I am already
+				  yours in every way I can give. We will show the people the promise of the Shining
+				  Ones fulfilled!"
+				-And thus I took a day to cast Imbue Amalgam.
+		-Pip also asked us who the people should be rallying around.
+			-We debated us, each other, and their new city, but settled on The Unconquered Sun.
+			-Along with that, we decided to promote protecting one another, and preparedness, as
+			 great virtues.
+				-Regardless of where things go from here, these people would soon be facing many
+				 enemies.
+			-Lesley's write up of this all: https://discord.com/channels/785604556934742036/785604557518405654/948059633820528700
+			-Pip then saw to a campaign to infuence the people gathering around us, implementing
+			 those goals, "to prevent another disaster like this from happening again."
+	-With the ships together, we were able to make the journey down river inside of another week,
+	 disembarking at the closest poin to Denandsor along the Grey River.
+	-From there, we journeyed across savanahs and fields of tall grass.
+		-Several times, we had to scare off or slay large predators, attracted by the column of
+		 people, including one memorable incident in which Golden Blade had to go chase off a
+		 tyrant lizard.
+		-As we neared the city, wild life grew scarcer, and plants more scarce.
+		-Eventually, we could see the city's skyline, glinting gold on the horizon.
+		-Approaching, though, we felt a strange dread.
+	-The column stopped and set up camp ten miles from the city.
+		-Pip's work seemed to be paying off. We were greeted warmly where ever we went and Blade's
+		 military drills saw ever escalating attendance.
+		-We also heard prayers to The Unconquered Sun, perhaps more than had been offered to him
+		 since The First Age.
+	-Silent Onyx and Atraxian worked together to identify an approach through the city's outer
+	 defenses, and scouted ahead.
+		-They reported back that the city's robotic workforce was still maintaining the city, but
+		 also that there was some strange activity going on, what Atraxian thought may be a
+		 "resonance" between two of the city's different systems. The result was a confusion of
+		 thoughts, and the feeling of dread we'd felt.
+		-She said, and indeed we'd felt, that the the dread waxed and waned. It seemed strongest
+		 at dusk, and weakest just before dawn.
+		-She proposed an expedition at dawn, attempting to reach the city's control room, in it's
+		 central spire.
+		-Blade asked her about the details of the robots seen, and she indicated that many were
+		 indeed built for combat.
+		-Well, I then asked her if she knew how to bypass these defenses.
+			-"The city will examine your essence, allowing in those that have been granted access.
+			  Certain Solars were given this, along with a family of Dragonblooded, for whom it
+			  would have been heritable."
+			 "And do _you_ have this access?"
+			 "Yes, as do you, given by Kel Bax to your previous incarnations."
+	-As dawn came, we mounted our expedition into the city.
+		-Most of it, we left to our allies from The Cult, many of then well suited to stealthy
+		 intrusions.
+		-They were able to shut down the defenses, and the field, and we began to explore the city.
+	-We set the refugees up in a district of the city, within buildings that put even Nexus's finest
+	 to shame.
+		-The neighborhood even features a hydroponic farm, already filled with automatically harvested
+		 food, restocked and recycled over and over again across the millenia since people dwelled here.
+	-There remain unexplored districts of the city, though, areas Atraxian warned us were dangerous.
+		-Military bunkers or the like, which could potentially be of use, but which may have guardians
+		 unknown to her.
+	-With us now somewhat settled, I suggested we get eyes on the surrounding landscape, and do what
+	 we can to conceal signs of our passage to the city.
+		-We set our allied Solars to the task, many of them being skilled in stealth and survival.
+		-There's only so much that can be done to disguise the passage of many thousands, but we did
+		 what we could.
+	-We also began to see further refugees wandering the land.
+		-We opted to invite in those who came, and to even reach out, carefully, to groups of
+		 displaced people further afield.
+			-We have more than enough room and supplies, and they need our help.
+		-In talking with them, we heard various rumors.
+			-The Marukani are at war, not just with Thorns but maybe also with The Realm.
+			-_Something_ happened at Thorns, as refugees are coming from there too. Silent Onyx
+			 recalled seeing a great light, off in that direction, while "captive".
+			-Refugees were coming from the East too. They report a disaster in Chaya, where a flower
+			 causing insanity is blooming out of season, instead of only once per year.
+	-As Azada regained her strength, she attempted to work with Fate.
+		-She worked a blessing for our circle (see your bio in Roll20).
+		-She also worked a blessing over Denandsor and it's (new) people too, seeking their prosperity.
+	-With the people settled, though, we began to turn our eyes to the exploration of the more
+	 dangerous districts.
 
 
 TODO:
-	-Did anyone implant the Bracers of Universal Crafting? If not, it's getting to the point you could
-	 make decent use of them.
-		-Sounds like they're yours! Get Yflea to implant them when you get back to Nexus.
-			-Ah, or, perhaps better, a bottle bug. You've been presuming you've kept yours around,
-			 resummoning it as needed.
-			-Can't find the surgery rules, though. Ask Lesley.
-		-They also can indeed go under your Orichalcum Bracers.
+	-Amalgam-ify Yflea!
+	-Spend XP?
+		-Some charms may be useful before the amalgam-ification.
+	-Figure out that Spell Capturing Cord you claimed from Azada.
+		-Add it to your character sheet and maybe add some spells to it.
+		-Oh, it comes in different-dot versions. Ask Lesley which it is.
+	-Ah, you did the surgery for the Bracers of Universal Crafting, so add those to the sheet too.
+
+
+TODO:
 	-Summon a Hopping Puppeteer?
 		-Kind of seems like you can shrink them down to something portable.
 			-Limit triggers might be a problem, though.
@@ -4961,12 +5181,6 @@ TODO:
 			-Sounds like Pip is both interested in and well suited for being the primary pilot.
 			-Getting one more circle member to Lore 1 and Sail 2 is enough to fly it ourselves, or
 			 ideally get all 5 to it, for a full crew and no maneuverability penalties.
-	-Sewer expansion?
-		-You can summon suitable demons.
-		-underground_sanctuary.pdf mentioned the old Nexus subway, and that only some of the
-		 terminal's still exist. Could others be restored?
-		-With The Emissary's sanctuary law, Nexus is now a _big_ target, and could use things like
-		 bomb shelters. . .
 	-Turn that iron ore into cold iron weapons.
 		-You could have hook swords or a seven-section staff made for yourself, since they would be
 		 usable with your Martial Arts score (instead of Melee) and your Snake Style charms.
@@ -5216,6 +5430,13 @@ TODONE:
 	-Write up your usual monk check-in protocol.
 		-Avoid further surpises, like at the return to Nexus.
 		-Blow essence each night before sleeping?
+	-Did anyone implant the Bracers of Universal Crafting? If not, it's getting to the point you could
+	 make decent use of them.
+		-Sounds like they're yours! Get Yflea to implant them when you get back to Nexus.
+			-Ah, or, perhaps better, a bottle bug. You've been presuming you've kept yours around,
+			 resummoning it as needed.
+			-Can't find the surgery rules, though. Ask Lesley.
+		-They also can indeed go under your Orichalcum Bracers.
 
 TODON'T:
 	-Perhaps pursue that Windigo?
@@ -5224,3 +5445,9 @@ TODON'T:
 		-Raised it here: https://discord.com/channels/785604556934742036/785604557518405654/884559331570380840
 		-Do Lore checks and talk with the Terresterial to figure out if we can take it, though.
 			-Heard this from Lore/Occult, but doesn't give a clear idea if we can take it: https://discord.com/channels/785604556934742036/785604557518405654/884595066000269393
+	-Sewer expansion? (Too late now!)
+		-You can summon suitable demons.
+		-underground_sanctuary.pdf mentioned the old Nexus subway, and that only some of the
+		 terminal's still exist. Could others be restored?
+		-With The Emissary's sanctuary law, Nexus is now a _big_ target, and could use things like
+		 bomb shelters. . .

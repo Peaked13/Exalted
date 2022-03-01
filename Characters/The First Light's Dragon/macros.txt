@@ -64,6 +64,7 @@ Mundane Possessions:
 		- +1 die to binding rolls when summoning. Resource 2 for more, or 1 for regular components.
 	-3x Potion of Hero's Recovery (Oadenol's pg. 130)
 	-5x Blood-Staunching Compress (Oadenol's pg. 130)
+	-Amalgam supplies.
 Stuff Left At Monastery Manse:
 	-An elaborate demon summoning cage
 		-Pg. 28 of Books of Sorcery Vol. V
