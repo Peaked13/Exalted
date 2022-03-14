@@ -85,7 +85,7 @@ Thaumaturgical Rituals:
 			 effects end, Stamina becomes 1, recovering 1 per day of rest, halving healing until
 			 Stamina recovers.
 		Hero's Recovery (1, Intelligence, 3, one hour) (Oadenol's pg. 130):
-			-Imbiber heals as an Exalt does for 1/2 day per Stamina. Stamina does in a row double
+			-Imbiber heals as an Exalt does for 1/2 day per Stamina. Stamina doses in a row double
 			 healing time instead.
 		Philtre of Desire (2, Intelligence, 2, one hour) (Oadenol's pg. 131):
 			-Version 1: Imbiber gets +2 dice to Performance, Presence, and Socialize against target

@@ -5157,8 +5157,57 @@ TODO:
 
 TODO:
 	-Amalgam-ify Yflea!
+		-Motes available to spend: 19+45 = 64 (10 more if you spend XP on Immanent Solar Glory?)
+			-Yeah, lets count on Immanent Solar Glory. Otherwise, mayb ditch the last stuff added.
+		-Spending:
+			15m	Basic Abilities
+			8m	Essence 2 & 3
+			16m	Essence Pool 20
+					4m per 5 in the pool
+					10 for training charms
+					18 would allow ignoring reusable and one-time costs of a Master ritual.
+			9m	Training charms
+					Second Lore Excellency
+					Third Lore Excellency
+					Harmonious Academic Methodology
+			6m	Sorcery
+					Terresterial Circle Sorcery
+					Demon of the First Circle
+			10m	Shapeshift-y disguises
+				4m	Larceny 4 (with cooperation from someone, maybe Onyx?)
+				3m	Second Larceny Excellency
+				3m	Flawlessly Impenetrable Disguise
+			7m	Stealthy
+				6m +3 Dexterity
+				1m Stealth 1
+			3m	+3 Dodge
+			---
+			74
+			
+			2m	Stamina? Mostly for flavor. Maybe Strength too.
+			2m	Dexterity? Mostly for sneakiness.
+			Xm	Stealth? Might need help from Onyx, beyond the one dot I've got.
+				Charms? (3m, or 8m if borrowed)
+					Ox-Body Technique?
+					Sorcery?
+						Demon of the First Circle
+						Spoke the Wooden Face?
+						Stormwind Rider
+					Flawlessly Impenetrable Disguise?
+						Needs Second Larceny Excellency and Larceny itself, which I noteably can't
+						train to 4 myself.
+						So:
+							4m	Larceny 4 (with cooperation from someone, maybe Onyx?)
+							3m	Second Larceny Excellency
+							3m	Flawlessly Impenetrable Disguise
+					Other Stealth charms from Onyx?
+					Body Mending Meditation?
+				Soak? It's cheap!
+				Martial arts?
+				Attacks?
 	-Spend XP?
 		-Some charms may be useful before the amalgam-ification.
+			-Immanent Solar Glory??
 	-Figure out that Spell Capturing Cord you claimed from Azada.
 		-Add it to your character sheet and maybe add some spells to it.
 		-Oh, it comes in different-dot versions. Ask Lesley which it is.
