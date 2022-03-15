@@ -11,8 +11,8 @@ Soak with Invulnerable Skin of Bronze & Unbreakable Bones of Stone:
 Current Claws (15 pts., Essence+Occult max each, can change reflexively at begining of each action):
 	Accuracy: 9
 	Defense: 0
-	Damage: 2
-	Rate: 4
+	Damage: 4
+	Rate: 2
 	Always Speed 5
 
 Attack with Wood Dragon's Claws:
@@ -20,7 +20,7 @@ Attack with Wood Dragon's Claws:
 	-4+5+3+4+variables = 16 + Claw Accuracy + 1 (if circle involved too)
 Damage with Invulnerable Skin of Bronze, Wood Dragon's Claws, & Unbreakable Bones of Stone:
 	-Equal to Strength + Bracers + Bronze Bonus + Claw Damage + Successes over DV
-	-8+2+2+variables = 12 + Claw Damage + Successes over DV
+	-8+2+2+variables = 12 + Claw Damage + Successes over DV2
 
 Always active spells:
 	Unity of Dreams (White Treatise pg. 85) with the rest of the Circle.

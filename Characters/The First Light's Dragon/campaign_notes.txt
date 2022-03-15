@@ -1954,9 +1954,9 @@ TODO:
 			-He could weather it no better, though.
 		-That sent us back upstairs, to warm the pair of them in the tubs above.
 			-While they soaked, though, I, and Bloodstained Wind to stave off any further attacks,
-			 went to go let the Lunars and Terresterial know we were still alive.
+			 went to go let the Lunars and Terrestrial know we were still alive.
 				-They seemed fine, if bored, reporting no attacks or the like.
-				-The Terresterial Dynast requested something to read, and I said I'd see what I could
+				-The Terrestrial Dynast requested something to read, and I said I'd see what I could
 				 do, though warned her most of the books in the manse had been destroyed.
 					-I debated the matter with the others, once back below, but we had nothing that
 					 wasn't full of terrible secrets, or just terribly priceless.
@@ -4302,7 +4302,7 @@ TODO:
 					 would provide a months long buff to the circle, and provides limited teleport.
 					-Whirlwind of Fate (White Treatise pg. 86) is decent with good planning.
 				-_Solar_ Circle would also be cheap then, if you have Essence 5!
-			-More Terresterial spells?
+			-More Terrestrial spells?
 				-Infallible Messenger is taught by the cult.
 				-Unbreakable Bones of Stone (White Treatise pg. 66) is Essence to Str & Sta, and
 				 halved-round-down wound penalties. Probably better than Burning Eyes.
@@ -5171,7 +5171,7 @@ TODO:
 					Third Lore Excellency
 					Harmonious Academic Methodology
 			6m	Sorcery
-					Terresterial Circle Sorcery
+					Terrestrial Circle Sorcery
 					Demon of the First Circle
 			10m	Shapeshift-y disguises
 				4m	Larceny 4 (with cooperation from someone, maybe Onyx?)
@@ -5212,6 +5212,119 @@ TODO:
 		-Add it to your character sheet and maybe add some spells to it.
 		-Oh, it comes in different-dot versions. Ask Lesley which it is.
 	-Ah, you did the surgery for the Bracers of Universal Crafting, so add those to the sheet too.
+
+
+3/14/22:
+	-Options for further city exploring:
+		-The armory, capable of the automated production of arms and armor.
+		-The more general Factory-Cathedral, producing the day to day goods of The Old Realm,
+		 many even magical.
+	-I suggested our choice should depend on our need, and asked Golden Blade and Libak what they
+	 knew of our people's situation and that of the surrounding lands.
+		-Golden Blades spies and scouts report:
+			-The Realm is indeed on the move, and in conflict with Lookshy.
+			-The Marukani are at war with. . . someone.
+			-Something happened at Thorns, and now rogue ghosts and undead roam the surrounding,
+			 marauding.
+			-Nexus is ruined, but the automatons I awoke to protect it continue to do so. However,
+			 we've heard reports that a Wyld zone within the city was growing and spreading. . .
+			-In Great Forks, many people were displaced by the water, and now have formed bandit
+			 gangs.
+			-In the East, in Chaya, flowers causing insanity are blooming out of season.
+			-The Hundred Kingdoms are embroiled in an especially intense civil war, the worst in
+			 400 years.
+		-Libak meanwhile reported that our quarters were also providing us food and water through
+		 the still-functioning machinery, and that he and his family have been able to see to the
+		 rest of their basic needs. However, there are few luxuries.
+		-Well, walls without out guards stuffed with luxuries seems like a dangerous temptation. The
+		 armory it is, then.
+	-With the armory our chosen target, we then consulted with The Emissary, and what records we've
+	 found in the city thus far, looking for details about the area.
+		-The armory is a network of six Factory-Cathedrals, capable of producing sufficient arms for
+		 a legion in a day.
+		-To take control of the area, we'd need to infiltrate a control room in the central manse,
+		 shutting down the larger weapon systems defending the area, including armies of automatons.
+		-That will leave backup systems, like redundant generators, more independent automatons,
+		 and such.
+		-We learned some specifics about the guards of our target too, likely to include things like
+		 lightning ballistas, warstriders piloted by automata, and still worse.
+			-Golden Blade suggested a distraction of some kind, and wondered at the intelligence of
+			 these automated defenses.
+			-I replied that such machinery was often controlled by bound Little Gods, so they are
+			 indeed intelligent and reactive.
+	-Traveling to the area, Libak suggested a building to visit nearby, some place his past self had
+	 commissioned. . . something, that was never delivered.
+		-He led us to a great pool of some kind of oil. "Cooling oil", he referred to it as, saying
+		 that the device likely remained there, submerged in the oil.
+		-Blade and I looked at one another, both seemingly a bit unsure of getting in the oil, but
+		 Libak (literally) dived right in.
+		-While he fooled around down there, Blade and I began to hear the sound of metal on stone,
+		 growing closer, which turned out to be a pack of metal, wolf-like automatons.
+		-They raced over to us, lunging and biting at Golden Blade, who was nearest. I was quick to
+		 the fray too, though only Blade managed to land a blow.
+		-The oil, though, then began to roil. . .
+		-What emerged was a red warstrider, apparently piloted by Libak, since it reached out and
+		 swiped one of the wolves.
+		-Wolves were soon dropping like flies, as each of the three of us claim at least one kill.
+		-During the fray, Silent Onyx snuck away, his distraction apparently in hand.
+	-Those wolf-things sorted, Golden Blade and I clambered aboard Libak's new warstrider, and we
+	 went looking for more trouble, to provide Silent Onyx more cover.
+		-Approaching the well guarded street before the shielded control chamber, we got the attention
+		 of a large, low-to-the-ground war machine and the warstrider behind it.
+		-I lept off Libak's warstrider, onto a nearby building, and his red warstrider surged forward,
+		 slamming the war machine with it's arms and whip-like tail-blade.
+		-Golden Blade kept riding a while longer, leaping _forward_ from one machine, onto the
+		 low guardian machine. There, he struck it again and again with his sword, until something
+		 cracked, releasing smoke, and the machine went still.
+		-The enemy warstrider spent this time unlimbering an axe-like weapon but, before it could
+		 step forward, Libak and his warstrider lept over wreckage and Blade both, running at it's
+		 counterpart and punching it with a fist.
+		-It responded with an axe blow that thankfully missed.
+		-Undeterred by the size of his oponent, Golden Blade ran forward to the warstrider too,
+		 hacking away at it's legs with his admittedly almost as oversized sword.
+		-Over his head, Libak continued battering away at their opponent too.
+		-I then lept onto the enemy warstrider, from the building I'd been running along, tearing
+		 away at it's paneling with my wooden claws, until finally I reached, and destroyed, the
+		 equally mechanical pilot within.
+		-Libak and Golden Blade then ran by me, as I rode the failing warstrider to the ground, each
+		 attacking one of the two lightening ballistas in the fortified square ahead.
+		-I raced forward too, engaging two mechanical men at the front of the shield dome, raking
+		 each with a clawed hand.
+		-A few more swipes finished that job, while Golden Blade yelled about more wolves on their
+		 way.
+		-This continued for some time, us against various armored security assets, when some kind
+		 of combat aircraft joined the fun, blasting the area with some kind of explosive weapon,
+		 which thankfully all three of us seemed to manage to avoid the blast radius of.
+		-Libak rushed to engage it in his warstrider, swinging at the aircraft that only he was
+		 tall enough to reach.
+		-Fortunately, before he'd managed to land more than one blow, the shield around the central
+		 building went down, most of the automatons went still, and the aircraft flew off.
+		-Looks like Silent Onyx was successful in reaching the control room!
+		-From there, I set to examining the machinery all around us, identifying functions and
+		 taking notes.
+	-The armory's Factory-Cathedrals are also atelier manses, capable of being set to automatically
+	 produce various things.
+		-They can produce anything in Wonders of the Lost Age dealing with war.
+	-All that military equipment, then, made taking the rest of the city trivial, and it is now fully
+	 under our control.
+	-We'll be having a month of downtime before our next session.
+	-After than month, reports of Thorns, Empress used the Sword of Creation
+		-In doing so, the Shadowlands in the area were sealed.
+		-The being known as the Juggernaut, a huge undead creature with a city on it's back, was
+		 destroyed, and lay rotting.
+		-The Mask of Winters, his citadel / war beast destroyed, also somehow lost control of his
+		 undead, and retreated back to The Underworld.
+		-During the last week of that month, the corpse of the Juggernaut burst, unleashing a
+		 torrent of horse-sized maggots. They're cutting a path of destruction through the land,
+		 and are seemingly leading here. . .
+
+
+TODO:
+	-Training charms?
+	-Stuff to build?
+	-Spend more XP?
+		-Essence Gathering Temper?
+		-Craft(Magitech)?
 
 
 TODO:
@@ -5323,7 +5436,7 @@ TODO:
 		-Concerning Spirits part 2 (Roll20):
 			-Holy fuck. It "contain the methods of self initiation into sorcery up to Solar circle"!
 				-Shadowlands Circle Necromancy too: https://discord.com/channels/@me/772891797726822481/882491716714774538
-			-Terresterial Circle:
+			-Terrestrial Circle:
 				X Demon of the First Circle (Core pg. 252)
 				Summon Elemental (Core pg. 254)
 				Curse of Slavish Humility (White Treatise pg. 42)
@@ -5492,7 +5605,7 @@ TODON'T:
 		-Might help ingratiate ourselves with that Wyld-Hunt-affiliiated Terrestrial, who had been
 		 hunting it herself, or even help gain cultists, if we publicly claim credit for it.
 		-Raised it here: https://discord.com/channels/785604556934742036/785604557518405654/884559331570380840
-		-Do Lore checks and talk with the Terresterial to figure out if we can take it, though.
+		-Do Lore checks and talk with the Terrestrial to figure out if we can take it, though.
 			-Heard this from Lore/Occult, but doesn't give a clear idea if we can take it: https://discord.com/channels/785604556934742036/785604557518405654/884595066000269393
 	-Sewer expansion? (Too late now!)
 		-You can summon suitable demons.
