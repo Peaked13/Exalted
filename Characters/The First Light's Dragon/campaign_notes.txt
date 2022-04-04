@@ -5293,8 +5293,8 @@ TODO:
 		-A few more swipes finished that job, while Golden Blade yelled about more wolves on their
 		 way.
 		-This continued for some time, us against various armored security assets, when some kind
-		 of combat aircraft joined the fun, blasting the area with some kind of explosive weapon,
-		 which thankfully all three of us seemed to manage to avoid the blast radius of.
+		 of combat aircraft joined the fun, blasting the area with some sort of explosive weapon,
+		 which thankfully all three of us managed to avoid the blast radius of.
 		-Libak rushed to engage it in his warstrider, swinging at the aircraft that only he was
 		 tall enough to reach.
 		-Fortunately, before he'd managed to land more than one blow, the shield around the central
@@ -5308,7 +5308,7 @@ TODO:
 	-All that military equipment, then, made taking the rest of the city trivial, and it is now fully
 	 under our control.
 	-We'll be having a month of downtime before our next session.
-	-After than month, reports of Thorns, Empress used the Sword of Creation
+	-After that month, reports came in about Thorns, saying The Empress used the Sword of Creation.
 		-In doing so, the Shadowlands in the area were sealed.
 		-The being known as the Juggernaut, a huge undead creature with a city on it's back, was
 		 destroyed, and lay rotting.
@@ -5324,6 +5324,7 @@ TODO:
 		-_Probably_ doesn't conflict with other XP spend training?
 		-Each use is a week, and Yflea can do it as well.
 		-Is there a limit to how big of a group you can train?
+			-Magnitude equal to trainers' essence, according to Lesley.
 		-Is Yflea, a henchman, in the "XP exempt" category for training charms?
 		-Options:
 			-Occult could mean eventually mean making people alchemists or general thaumaturges.
@@ -5335,13 +5336,13 @@ TODO:
 			-Virtues?
 				-Check with Jake if he's doing Valor. If not, definitely do it.
 		-Schedule:
-			Weeks	Dragon			Yflea
-			-----------------------------
-			1		Intelligence	Linguistics (Old Realm)
-			2		Occult			Lore
-			3		Wits			Conviction
-			4		Charisma		Temperance
-	-Stuff to build?
+			Weeks	Dragon					Yflea
+			--------------------------------------------
+			1		Linguistics (Old Realm)	Intelligence
+			2		Lore					Perception
+			3		Wits					Conviction
+			4		Charisma				Temperance
+	-Stuff to build in those Factory-Cathedrals?
 	-Spend more XP? You have 18.
 		-8 for Essence Gathering Temper, in 1 day?
 		-Craft(Magitech)?
@@ -5369,6 +5370,8 @@ TODO:
 			-Limit triggers might be a problem, though.
 		-Having access to Measure the Wind as needed is crazy useful by itself.
 			-Can find Exalts and the like by their essence!
+			-And now, with Essence Gathering Temper, figure out their essence to see if you
+			 should use that defense or something else.
 	-Become skyship pros.
 		-You're a good candidate for maintenance. Figure that system out.
 			-Ah, sounds like no need for maintenance, due to it's First Age origin, but I _do_
