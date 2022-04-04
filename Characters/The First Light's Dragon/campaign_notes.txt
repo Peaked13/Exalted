@@ -5321,10 +5321,46 @@ TODO:
 
 TODO:
 	-Training charms?
+		-_Probably_ doesn't conflict with other XP spend training?
+		-Each use is a week, and Yflea can do it as well.
+		-Is there a limit to how big of a group you can train?
+		-Is Yflea, a henchman, in the "XP exempt" category for training charms?
+		-Options:
+			-Occult could mean eventually mean making people alchemists or general thaumaturges.
+				-That would be a _long_ term thing, though, as they'd have to learn actual
+				 thaumaturgy the traditional way.
+			-Lore?
+			-Linguistics (Old Realm)?
+			-Attributes?
+			-Virtues?
+				-Check with Jake if he's doing Valor. If not, definitely do it.
+		-Schedule:
+			Weeks	Dragon			Yflea
+			-----------------------------
+			1		Intelligence	Linguistics (Old Realm)
+			2		Occult			Lore
+			3		Wits			Conviction
+			4		Charisma		Temperance
 	-Stuff to build?
-	-Spend more XP?
-		-Essence Gathering Temper?
+	-Spend more XP? You have 18.
+		-8 for Essence Gathering Temper, in 1 day?
 		-Craft(Magitech)?
+			-Requires Air 2, Fire 2 before you can start it, for 2 XP total and no time.
+			-Then 3 and 3 weeks for Magitech 1, and Rx2-1 after that.
+		-Spells?
+			-Eh, cheap at 8, but 3 week training time conflicts with more important Magitech.
+		-Stuff from training charms?
+		-So:
+			XP	Time	Name
+			----------------
+			8	1 Day	Essence Gathering Temper
+			1	Instant	Craft(Air) 2
+			1	Instant	Craft(Fire) 2
+			3	3 Weeks	Craft(Magitech) 1
+			1	Instant	Craft(Magitech) 2
+			3	Instant	Craft(Magitech) 3
+			--
+			17
 
 
 TODO:
