@@ -5339,7 +5339,7 @@ TODO:
 			Weeks	Dragon					Yflea
 			--------------------------------------------
 			1		Linguistics (Old Realm)	Intelligence
-			2		Lore					Perception
+			2		Lore					Integrity
 			3		Wits					Conviction
 			4		Charisma				Temperance
 	-Stuff to build in those Factory-Cathedrals?
