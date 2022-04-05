@@ -39,9 +39,10 @@ Suspended spells, by trigger:
 Stuff previously suspended:
 	
 
-Motes Committed: 5
+Motes Committed: 6
 	4	Orichalcum Hearthstone Bracers
 	1	Orchalcum Hearthstone Amulet
+	1	Perfected Boots (BoS I pg. 52)
 Essence Recovery:
 	Base:
 		4m/hour when at ease

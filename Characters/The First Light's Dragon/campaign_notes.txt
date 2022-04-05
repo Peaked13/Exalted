@@ -5325,7 +5325,9 @@ TODO:
 		-Each use is a week, and Yflea can do it as well.
 		-Is there a limit to how big of a group you can train?
 			-Magnitude equal to trainers' essence, according to Lesley.
-		-Is Yflea, a henchman, in the "XP exempt" category for training charms?
+		-(DONE) Is Yflea, a henchman, in the "XP exempt" category for training charms? Yep!
+		-(DONE) What about your other henchman? Yep!
+		-(DONE) Apply Jake's training to them too.
 		-Options:
 			-Occult could mean eventually mean making people alchemists or general thaumaturges.
 				-That would be a _long_ term thing, though, as they'd have to learn actual
@@ -5335,13 +5337,16 @@ TODO:
 			-Attributes?
 			-Virtues?
 				-Check with Jake if he's doing Valor. If not, definitely do it.
-		-Schedule:
+		-Schedule (oh, two extra weeks a session or two back, according to Lesley):
 			Weeks	Dragon					Yflea
 			--------------------------------------------
 			1		Linguistics (Old Realm)	Intelligence
 			2		Lore					Integrity
 			3		Wits					Conviction
 			4		Charisma				Temperance
+			5		Awareness				Perception
+			6		Presence				Craft(Water)
+			It can take you to a max of 4, except Linguistics (1), Charisma (3), Temperance (3), Perception (3), and Presence (3).
 	-Stuff to build in those Factory-Cathedrals?
 	-Spend more XP? You have 18.
 		-8 for Essence Gathering Temper, in 1 day?
@@ -5362,6 +5367,201 @@ TODO:
 			3	Instant	Craft(Magitech) 3
 			--
 			17
+
+
+4/4/22:
+	-Pre-session stuff:
+		-Training:
+			-Oh, 2 of our fellow Illuminated Solars have training Charms.
+				-One has Tiger Warrior Training and it's sequel.
+				-The other has the first Lore one.
+				-TODO: plan some stuff for that?
+					-Maybe with minimal detail, unless you want to figure out their Essence and
+					 other stats.
+			-Azada mentioned that the Sidereals had been manipulating fate to speed training during
+			 the days of the Cult. Could such a thing be possible again?
+			-The Emissary has been chipping in too, with crazy Bureaucracy charms.
+				-She suggested the founding of a school, and I'm using my Training charms to create
+				 a cadre of teachers for it, with a focus on "careers in Magictechnology!".
+				-She seems pretty down, though, being listless, and mostly just going along with
+				 whatever we want, taking little initiative herself.
+				-Libak does seem to be trying to cheer her up.
+		-Military, given the horde of monster-maggots on their way here:
+			-Golden Blade and his henchmen saw to organizing militias and watch schedules, generally
+			 prepping for a defense of the city's walls.
+			-I spent my time on this front in the bowels of our Factory-Cathedrals, configuring them
+			 for the production of arms.
+				-We create a lot of:
+					-Ashigaru Skirmish Armor (BoS I pg. 79)
+					-Sentinel Defense Force Armor (BoS I pg. 81)
+					-Perfected Boots (BoS I pg. 52)
+					-Force-Projection Weapons (BoS I pg. 76)
+					-Aegis-Inset Amulets (BoS 1 pg. 71)
+					-Various mundane weaponry.
+	-Those maggot monsters are on their way.
+		-In their wake, they leave a trail of devestation and blight. They themselves consume any
+		 plant or animal matter they can reach, and anything left quickly sickens.
+		-We sent out some Ashigaru/Perfected Boots/Force-Projection Weapon equipped scouts, to get
+		 an idea of the capabilities of these things.
+		-They reported back that they explode satisfyingly when hit by the shock pikes, yielding no
+		 ranged response from the beasts.
+		-Well, sounds like hit and run tactics, along with raining death from above via the skyship,
+		 should make short work of these beasts.
+		-Golden Blade took Libak's war strider and set out with the skirmishers again, to harry the
+		 horde, while the rest of us boarded the skyship, with Pip and Yflea manning the fire lances.
+			-Blade and I each donned the Torcs, to let us communicate.
+		-As we approached the maggots, though, those of us aboard the ship could see four more large
+		 skyships, following the column of maggots.
+			-One looks like a big pagoda.
+			-The three others are large, octaganol platforms, with warstriders and soldiers standing
+			 on them.
+				-Most are smaller warstriders, though they're joined by a few large, red jade ones.
+				-The soldiers are decked out much like our own, in Ashigaru armor.
+			-Looking close, I could see an emblem I recognized as belonging to the 7th Legion. Lookshy.
+		-Well, they're not likely to be _very_ friendly to Solars, but we also have a common problem.
+		-As such, we descided to try to parley.
+		-Through the use of signal flags, Libak disclaimed hostile intent, saying we're here to deal
+		 with the maggots.
+		-They signaled back that a parley can wait, but that we should deal with the maggots without
+		 coming to blows.
+		-We set to it, and soon nothing was left of the maggots but greasy, charred stains.
+	-The left us with parleying with The 7th Legion. Their troops and warstriders began to assume a
+	 parade formation at one end of a narrow valley.
+		-We landed our airship and formed up at the other end of the valley, and Pip and Libak set
+		 about forming a negotiating party.
+			-Much to Pip's chagrin, we did not have a tea set in the skyship's minimal galley.
+		-Two parties of soldiers marched forward from their group, while Libak and Pip walked
+		 forward to meet them as the rest of us watched from a distance.
+		-Pip and Libak returned, reporting an ultimatum: they wanted control of the Factory-Cathedrals
+		 of Denandsor, and would take it from us or through us.
+		-Well, none of us were keen to give up what's ours, and their position is not as sound as
+		 they wish us to think.
+			-They don't _want_ control of the Factory-Cathedrals, they _need_ it, or face
+			 destruction by The Realm.
+	-We opted to retreat, racing back to the city, by air and by magic boot.
+		-As we left, we delivered a very literal parting shot, tying a message to an arrow and
+		 shooting it land several yards in front of them. It said, "Ultimatum denied. If you want
+		 the weapons, you either deal with Denandsor as a nation or burn your legions on trying to
+		 take it."
+		-As we raced back, they began boarding their airships again, and giving (thankfully slower
+		 than us) pursuit.
+		-Arriving back at the city, we saw to activating it's defenses.
+			-Most of those are in the form of combat automata, but centuries-out-of-date programming
+			 and similar accumluated cruft mean that's likely to lead to homicidal kill bots
+			 attacking anyone they find in the city.
+			-As such, I set about doing some debugging.
+		-During the first hour Yflea and I spent working on that, the 7th Legion troops began
+		 building and digging in, creating a fortified camp outside the city.
+			-It was insufficient to encircle the city and lay seige to us, not that our supplies
+			 are limited here. Might mean they're waiting on reinforcements.
+			-We decided to send Silent Onyx out to sabotage their supplies, further weakening their
+			 position here, and perhaps ruining the entire effort.
+			-Soon we could see flames in the camp, and smoke rising from it. . .
+			-He returned shortly after that, reporting a success in his mission.
+				-He even said he'd stolen the hearthstones from several of the warstriders.
+		-By the second hour of debugging, Yflea had returned with a group of my newly trained
+		 scholars, to assist me in my work. I then finished clearing the instruction set in short
+		 order, and taking full control over the city's defenses.
+			-Mostly that's a magnitude 8, might 7 legion of automata, known as Brass Legionairres.
+				-Their stats are in Roll20, under "AI NPCs", along with the stats for the rest of
+				 this.
+			-It also includes warstriders: common, scout, and noble types.
+			-There's also a unit of hover copters, several units of cybernetic tanks, and hordes of
+			 cybernetic dogs.
+			-Many of the buildings also incorporate concealed lightening ballista, capable
+			-Most impressive, though, is the function known as "The Dome", a shield that, when
+			 activated, gives the whole city Adament Skin Technique, rendering it impenetrable to
+			 harm, though also preventing anyone from leaving.
+		-With that done, I utilized the PA system, announcing that, "The cities defenses are now
+		 under our full control. The First Light's Dragon's circle should meet him in the control
+		 room."
+		-They soon did, and we arranged another party to parley with The 7th Legion.
+		-As they walked out from the gates, a substantial chunk of that brass legion took to the
+		 walls, saluting them as they passed. With Blade and I wearing the Torcs, I then brought
+		 The Dome online as soon as they were outside the gate.
+	-They met our party with one of their own, and negotiations began.
+		-They clearly recognized the our new position of strength in these negotiations, though
+		 there was the inevitable bit of sputtering.
+		-In the end, we asked for:
+			-Acknowledge our sovereignty.
+			-Common defense against the Realm.
+			-Denandsor will join The Confederation of Rivers in Nexus's place
+			-They agree to forego allying with The Realm.
+			-Raw materials in exchange for our Factory-Cathedral produced weapons and armor.
+		-We also agreed to return their hearthstones to them, this being a red line for them, and
+		 the stones being of little use to us ourselves.
+		-They only requested one additional condition: that we show our loyalty to The Confederation
+		 by immediately committing troops to the struggle against The Realm.
+			-Blade has toops, we can see about training more, and we have _Solars_. _Insurgency_
+			 trained Solars, who can raise more troops from the countryside, and turn them into
+			 elite Tiger Warriors.
+				-That last is also a hell of a propaganda win for us.
+		-Both parties agreed to the terms.
+		-With that, Denandsor then needs to choose a council member, to represent us on The
+		 Confederacy's council in Marita.
+			-Well, as I pointed out, we _do_ have an Emissary.
+				-She's a known quantity, having led a member of The Confederacy for centuries, and
+				 more than skilled for the purpose.
+				-She and the others all agreed.
+	-The Emissary went off to represent us at the council, leaving us to sort out the rule of the
+	 city.
+	-We also went about formalizing the rule of the city by our circle directly.
+	-The other members of The Cult of the Illuminated were rather resistant to openly ruling, it
+	 running very much contrary to everything they'd been taught.
+		-Black Powder Jack, Nissen, and Jasara the Wise supported all us in that, though, and soon
+		 the others fell in line.
+	-We then had a season (3 months) of relative calm.
+		-Shipments of materials from Lookshy indeed began arriving, with us reciprocating with the
+		 promised arms.
+			-Among those materials was a large shipment of Jade, and a small shipment of Orichalcum.
+			-In fact, they indicated that they have some means of producing Orichalcum. . .
+	-By the end of the season, The Realm was on the move, pushing into The Riverlands.
+		-Their forces gather both North of Port Calin and South, near where Thorns _was_.
+	-There was also, though, a barbarian horde gathering in the North of The Riverlands.
+		-Combrised of bandits and other disaffected or dispossed people from the area, the horde
+		 is pillaging everywhere they passed through.
+	-One day, from the West, we saw again the Sword of Creation used, attacking somewhere to the
+	 Northeast, in The Hundred Kingdoms.
+	-Shortly thereafter, Infallible Messengers began to arrive, telling us of the arrival of Severus,
+	 a dignitary from Lookshy, who will be arriving _in an hour_.
+		-He appeared amidst a flurry of flower petals, in a row boat in one of Denandsor's ponds.
+		-As we went out to greet him, he flashed, on his forehead, a caste mark, the sign of Venus.
+		-Introducing himself as Yoshudo Severus, he said he had only recently Exalted.
+		-He also bore with him a folded set of armor, red and ninja-style.
+		-He said that he, representing Lookshy, wished to smuggle us into The Blessed Isle, to
+		 disable The Sword of Creation.
+			-Libak admitted we had some designs on just that, and I that we had access to certain
+			 resources that might facilitate that.
+		-"What say you?"
+			-Golden Blade was first to respond, saying simply, "Tell me where to stab."
+			-I said, "It would indeed be fascinating to finally see the inside of the of the
+			 thing. . ."
+			-The others hemmed and hawwed a bit, but went along with it.
+		-"Excellent," he responded, "With this done, we will caste down The Empress, who's misrule
+		 has continued for too look, and restore the rightful order."
+		 "Restore the Shogunate?" I asked.
+		 "Yes."
+		-He then thrust forward his burden, saying, "This is The Crimson Armor of the Unseen
+		 Assassin. It has the power to take you outside of Fate, hidden from any monitoring it."
+		 "How did you come by such an artifact?" I asked, "Is some other faction, beyond Lookshy
+		 backing you?
+		 "I only know two others of my kind," he replied, "All of us operating out of Lookshy. I've
+		 tried going to Heaven, but all of the gates are locked. . ."
+		-We opted to consult with Azada on this, who enthusaistically suggested we do it, saying
+		 that, "You should seize control of The Sword of Creation if possible, but disable it if
+		 not. Either will deny it to the hand of our enemy."
+		-Over the next several hours, we conferred with Severus about the details.
+			-Lookshy is gearing up to invade The Realm, attacking The Imperial City directly, from
+			 the sea.
+			-They're raising armies from all over The Riverlands.
+
+
+TODO:
+	-Sort out what you do with those 3 months.
+		-Training Charms?
+		-Spend some XP?
+		-Building stuff?
+		-Summoning?
 
 
 TODO:
