@@ -283,7 +283,7 @@ Advancement:
 			-"Hold the book up to the tree!"
 		-Ritual of Elemental Empowerment will make you friends.
 		-Burning Eyes of the Offender is another substantial bump to your defenses.
-			-Ah, but it looks like it's only scene length, and you can just dispell it early.
+			-Ah, but it looks like it's only scene length, and you can just _dispell_ it early.
 		-Mists of Eventide puts people to sleep, an interesting attack.
 		-Peacock Shadow Eyes. Mind control. Dark, but useful.
 	-Dodge Charms, especially Reflex Sidestep Technique are fairly attractive.
@@ -291,7 +291,7 @@ Advancement:
 		-More Ox-Body is the only Resistance one that looks especially useful to you.
 			-Too much duplication of your spells.
 			-More Ox-Body _is_ straight great, though!
-		-OH! Essence-Gathering Temper is _great_ with the Twilight Caste Anima ability, paying for
+		-(DONE!) OH! Essence-Gathering Temper is _great_ with the Twilight Caste Anima ability, paying for
 		 a use of it many times over.
 			-If your soak is high enough (something you're quite good at), it renders you indefinitely
 			 invulnerable to stuff with Essence (and weapon minimum damage) less than yours, and only
@@ -308,7 +308,8 @@ Advancement:
 	-Lore Charms?
 		-Essence-Lending Method is a strong argument for the circle giving you every hearthstone we
 		 find, would then be genuinely good, and is available to you now.
-		-Lore 5 plus an excellency or two allows genuinely ridiculous stuff, like leadership-essence-pool
+			-Also pairs well with Essence-Gathering Temper, which you now have!
+		-(DONE!) Lore 5 plus an excellency or two allows genuinely ridiculous stuff, like leadership-essence-pool
 		 and the (XP-less?) you-and-group training ones.
 			-Ah, PCs pay XP, but XP isn't tracked for NPCs. . .
 			-Still tends to lead to _faster_ training times for PCs too.
@@ -330,6 +331,8 @@ Advancement:
 		-As other Abilities reach 5, similar pairs for those abilities may be attractive.
 			-Dodge, in particular.
 		-Hmm. . . those excellencies are pretty good on their own, and with the Infinite one too.
+			-Per attack makes them _expensive_, though, and willpower/scene means Infinite doesn't
+			 _totally_ solve that.
 	-(DONE!) Celestial Sorcery is now possible, but a whole narrative thing you'll need to
 	 work on with Lesley.
 		-Second Circle Demons are awesome.
