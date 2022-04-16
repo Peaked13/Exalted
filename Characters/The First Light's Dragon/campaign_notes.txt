@@ -5576,6 +5576,9 @@ TODO:
 				12		Occult					Linguistics (Low Realm)
 				It can take you to a max of 4, except Perception (3), Linguistics (3), Valor (3), and Craft(Fire or Air) (2)
 			-What about those other NPCs with Training charms?
+				-Notes from last session say 2 of our fellow Illuminated Solars have training Charms.
+					-One has Tiger Warrior Training and it's sequel.
+					-The other has the first Lore one.
 			-_Who_ do you train?
 				-Yflea trains up to 75 people and The Dragon up to 300.
 				-Prioritize folks going with us to The Blessed Isle, though ensure that at least 30
