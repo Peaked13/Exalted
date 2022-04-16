@@ -5574,13 +5574,15 @@ TODO:
 				10		Intelligence			Socialize
 				11		Occult					Linguistics (High Realm)
 				12		Occult					Linguistics (Low Realm)
-				It can take you to a max of 4, except Perception (3), Linguistics (3), Valor (3), Craft(Fire or Air) (2)
+				It can take you to a max of 4, except Perception (3), Linguistics (3), Valor (3), and Craft(Fire or Air) (2)
 			-What about those other NPCs with Training charms?
 			-_Who_ do you train?
 				-Yflea trains up to 75 people and The Dragon up to 300.
 				-Prioritize folks going with us to The Blessed Isle, though ensure that at least 30
 				 or so people staying in Denandsor get the Magitech 4 training, and bits of Lore and
 				 Occult, to provide the city a cadre of trained engineers in my absence.
+				-Offer seats in the clases up to allied factions, even Lookshy, if there's space
+				 after the forces we control who are coming with on the mission.
 		-Spend some XP?
 			-13 to spend.
 			-The 4th dot in Craft(Magitech), so that you can start training it?
