@@ -1,18 +1,18 @@
 Dodge DV: 10 (+2 if you spend 3m on Serpentine Evasion)
 	-Sheet calculates and displays this, but doesn't let you enter everything that applies.
 	-Equal to (Dexterity + Dodge + Specialties + Essence + Bracers)/2 - Armor Mobility Penalty
-	-(4+5+3+4+3)/2-0 = 10
-	-Snake Form then subtracts 4 (your Essence) from dice pool to hit you if they can see you.
-Hardness: 4B/4L (from Invisible Fortress Hearthstone; equal to Permanent Essence)
+	-(4+5+3+5+3)/2-0 = 10
+	-Snake Form then subtracts 5 (your Essence) from dice pool to hit you if they can see you.
+Hardness: 5B/5L (from Invisible Fortress Hearthstone; equal to Permanent Essence)
 Soak with Invulnerable Skin of Bronze & Unbreakable Bones of Stone:
 	28B/16L/4A (and hardness 12B/6L)
 		Adding Snake Form (with MA 5): 33B/16L/4A
 
 Current Claws (15 pts., Essence+Occult max each, can change reflexively at begining of each action):
-	Accuracy: 9
+	Accuracy: 10
 	Defense: 0
-	Damage: 4
-	Rate: 2
+	Damage: 1
+	Rate: 4
 	Always Speed 5
 
 Attack with Wood Dragon's Claws:
@@ -36,7 +36,8 @@ Suspended spells, by trigger:
 		Unbreakable Bones of Stone
 	"The dragon takes wing."
 		Stormwind Rider
-Stuff previously suspended:
+Spells stored in your Orichalcum Sorcery-Capturing Cord (max 3):
+	
 	
 
 Motes Committed: 6
@@ -48,6 +49,12 @@ Essence Recovery:
 		4m/hour when at ease
 		8m/hour when resting
 	10m/hour from hearthstones and amulet
+Willpower Recovery:
+	Each morning:
+		1 from Cult plus Conviction roll
+	From Blessing (Azada's Fate workings):
+		First time you assist someone in a scene, gain a willpower.
+		First time you act in defense of another during a scene, gain a willpower.
 
 Mundane Possessions:
 	-Mostly-Perfect Lamellar Armor
@@ -65,7 +72,8 @@ Mundane Possessions:
 		- +1 die to binding rolls when summoning. Resource 2 for more, or 1 for regular components.
 	-3x Potion of Hero's Recovery (Oadenol's pg. 130)
 	-5x Blood-Staunching Compress (Oadenol's pg. 130)
-	-Amalgam supplies.
+	-3x Philtre of Desire Version 3 (Oadenol's pg. 131):
+	-5x Seven Bounties Paste(Oadenol's pg. 132):
 Stuff Left At Monastery Manse:
 	-An elaborate demon summoning cage
 		-Pg. 28 of Books of Sorcery Vol. V

@@ -5462,13 +5462,14 @@ TODO:
 		-By the second hour of debugging, Yflea had returned with a group of my newly trained
 		 scholars, to assist me in my work. I then finished clearing the instruction set in short
 		 order, and taking full control over the city's defenses.
-			-Mostly that's a magnitude 8, might 7 legion of automata, known as Brass Legionairres.
+			-Mostly that's a magnitude 8, might 7 legion of automata, known as Brass Legionaires.
 				-Their stats are in Roll20, under "AI NPCs", along with the stats for the rest of
 				 this.
 			-It also includes warstriders: common, scout, and noble types.
 			-There's also a unit of hover copters, several units of cybernetic tanks, and hordes of
 			 cybernetic dogs.
-			-Many of the buildings also incorporate concealed lightening ballista, capable
+			-Many of the buildings also incorporate concealed lightening ballista, capable of firing
+			 on targets in and above the city.
 			-Most impressive, though, is the function known as "The Dome", a shield that, when
 			 activated, gives the whole city Adament Skin Technique, rendering it impenetrable to
 			 harm, though also preventing anyone from leaving.
@@ -5538,7 +5539,7 @@ TODO:
 			 thing. . ."
 			-The others hemmed and hawwed a bit, but went along with it.
 		-"Excellent," he responded, "With this done, we will caste down The Empress, who's misrule
-		 has continued for too look, and restore the rightful order."
+		 has continued for too long, and restore the rightful order."
 		 "Restore the Shogunate?" I asked.
 		 "Yes."
 		-He then thrust forward his burden, saying, "This is The Crimson Armor of the Unseen
@@ -5579,6 +5580,8 @@ TODO:
 				-Notes from last session say 2 of our fellow Illuminated Solars have training Charms.
 					-One has Tiger Warrior Training and it's sequel.
 					-The other has the first Lore one.
+				-Talked to Lesley and I'm going to have the Lore one duplicated Yflea's schedule, to
+				 increase the number of folks covered.
 			-_Who_ do you train?
 				-Yflea trains up to 75 people and The Dragon up to 300.
 				-Prioritize folks going with us to The Blessed Isle, though ensure that at least 30
@@ -5586,12 +5589,13 @@ TODO:
 				 Occult, to provide the city a cadre of trained engineers in my absence.
 				-Offer seats in the clases up to allied factions, even Lookshy, if there's space
 				 after the forces we control who are coming with on the mission.
-		-Spend some XP?
+			-Posted about it all here: https://discord.com/channels/785604556934742036/785604557518405654/965029799787647006
+			-Applied it all to both of my henchmen!
+		-(DONE!) Spend some XP?
 			-13 to spend.
 			-The 4th dot in Craft(Magitech), so that you can start training it?
 				-5 XP and done immediately.
 				-Yeah, lets assume you do this for training planning.
-				-Still need to apply it and pay the XP!
 			-All-Encompassing Sorcerer's Sight might be the top candidate for a Charm since it will
 			 open your eyes to all sorts of useful stuff that you can apply your Lore and Occult too.
 			-Essence-Lending Method, to keep the party going for a potentially grueling excursion
@@ -5599,15 +5603,350 @@ TODO:
 			-Second Martial Arts Excellency, to further boost offense?
 				-Eh, per attack makes the excellencies _expensive_.
 		-Building stuff?
+			-(DONE!) Have Yflea create alchemical stuff?
 		-Summoning?
 			-Summon a Hopping Puppeteer, to serve you as a necklace.
 				-Figure out the appropriate Abiscissic Binding for it and add it to macros.txt.
+				-Hmm. . . it's Summoning description suggests it'll go pretty quickly insane if
+				 idle, though.
+
+
+4/18/22:
+	-Severus turned The Crimson Armor over to Silent Onyx.
+	-Further, he spoke of a way the remaining four of us could also walk outside Fate, speaking
+	 of "an equation" and "assuming a role", to move outside the weave.
+		-He pulled out four metal plates, covered in mathematics and Old Realm script, saying we
+		 need simply "follow them."
+		-Most the circle stood scratching their heads, but I could see that the tablets prescribed
+		 a set of behaviors, carefully repeated, that he at least _claimed_ could allow us to evade
+		 Fate's weave.
+	-He also expressed urgency, saying that Fate dictated _some_ great thing in the near future.
+		-He then spoke of one whose Fate was "greater even than your own", who we must help "decide".
+		-"Is it given to you to know who this figure is?" I asked.
+		 "She is The Rose Black, Tepet Ejava. She stands in the Imperial Manse, and is about to be
+		  forced to do a terrible thing. She will either save The Realm, or destroy it."
+	-The use of the plates and their equations will be dangerous with out decent Lore, so we did
+	 some debating with Yoshudo Severus, to perhaps buy time to teach the less. . . scholarly
+	 members of the circle, but he said he had the means to get us into The Imperial City within 24
+	 hours, and that there was little time beyond that until The Rose's decision would be made.
+		-As such, we had Golden Blade take The Crimson Armor, it requiring no great grasp of Lore
+		 to shield it's wearer from Fate, while the rest of us, more learned or at least untrained
+		 with armor, would make do with the plates.
+		-Actually, given the danger her ignorant use of the tablets posed, Pip decided to bow out
+		 (and Pip herself had to bow out of the session).
+		-We debated some replacements, but were reluctant to bring even our most powerful allies to
+		 so dangerous a place (their loss would be all the more devestating, and none are as battle
+		 hardened as ourselves).
+			-Well, save The Emissary, but she refused to go (probably wisely).
+	-So, we made quick preparations, then indicated to Severus that we were ready.
+	-He led us to his row boat, now laying in a dry field. He indicated we should climb in and, once
+	 within, handed each of us a bottle, telling us we should pour them out around the boat.
+		-They proved to contain beer, and we repeated the act several times, until a muddy puddle
+		 of it was forming around the boat.
+		-As the boat began to slide and float, the beer turned to flower petals, and reality then
+		 dissolved into the same.
+	-While we sailed, I read, pouring over Kel Bax's notes concerning the Imperial Manse.
+		-Most of it is underground, with what's seen above merely being it's elaborate entrance.
+		-Below ground, it expands vastly, in a ziggurat-like shape.
+		-Within it, space is folded back onto itself, with rooms connecting strangely, and
+		 sometimes even to different places depending on how you pass through.
+		-Deep within it are great pillars of jade, and a substance that Kel Bax indicated was
+		 the same substance the black mirror was made of.
+		-Further, Bax also lamented how difficult is was to work with "the sections constructed
+		 by Autochthon himself."
+			-I've come across the name several times. He was one of The Primordials, The Great
+			 Maker. I'd thought this thing a work of The First Age, but sounds like it's far older.
+	-A day or so later, we arrived, in a bathtub.
+		-The row boat nearly filled the tub, and we could hear murmering voices through the closed
+		 door.
+		-Fortunately a window next to the tub offered another route out of the chamber.
+	-As we took in our new surroundings, Silent Onyx's caste mark suddenly flared.
+	-He said he'd received a vision of The Unconquered Sun, and reached out to touch each of us
+	 on the forehead in turn, saying it would allow him to share his stealthy charms with us.
+	-Touching each of us again, Silent Onyx activated some charm, and we all moved quietly out
+	 the window and into the night dark street.
+	-We found ourselves in a district of the city which banners on nearby buildings marked as The
+	 Gem District.
+		-The area was something of a slum, located on the side of a hill.
+		-Most people on the streets were Southerners and nearly all of them walked about in foul,
+		 fearful moods, plainly visible.
+		-Perhaps that had something to do with the fact that the streets were also filled with many
+		 armed guards, and many, many demons. . .
+			-Far more demons, in fact, than any scholar would recommend summoning in one place. There
+			 were thousands of them easily seen arounds us.
+			-The demons were engaged in construction projects _all_ over the city, visible everywhere
+			 from our high vantage.
+			-The city was also filled with a dark smoke or smog, perhaps from all this activity.
+			-Clearly, _something_ is afoot in The Imperial City. This _isn't_ normal.
+	-Also visible from our high vantage was our target, The Imperial Manse.
+		-It's roof and 20' defensive walls, all constructed of jade, were unmistakable, and indeed
+		 matched Kel Bax's notes about "recent" work on the entranceway.
+	-Protected by Onyx's charms, we approached the manse, and, standing some distance away, we
+	 observed the gate for some 20 minutes.
+		-Eventually we did witness a wagon approach the gate, bearing contruction supplies, stone
+		 and various metals.
+		-As the wagon reached the gate, soldiers in essence powered armore stepped forward, emitting
+		 some kind of essence "beam" from the armor and apparently scanning everything.
+		-Once the gates were finally opened, and the wagon passed within. Onyx and Blade noticed a
+		 flicker as it did so, not quite concealing smoke coming from within. An illusion.
+	-Well, we're probably not getting through that search. But, thanks to our artifact boots, we
+	 felt we could likely leap the walls.
+		-As each of us did so, still protected by Onyx's charms, we each had a startling realization,
+		 and had to catch ourselves atop the wall.
+		-Now inside the illusion, we could see what it had concealed: the grounds inside the walls
+		 have been excavated down hundreds of feat, revealing large parts of the manses structure,
+		 and that space was filled with _countless_ demons.
+			-As we watched, they fell upon the cart that had just entered, devouring the horses,
+			 carrying off the cart's contents, and then even disassembling the cart itself,
+			 carrying it's pieces towards the manse.
+		-They were. . . changing the manse, digging tunnels into it and building structures atop it.
+		-I could see that they were changing the essence flows of the manse.
+	-The inside of the manse was still our goal, so we began to climb down the wall, and the rough
+	 hewn sides of the excavation.
+		-Silent Onyx led the way, anchoring a rope for the rest of us as he went, and the rest of
+		 us soon joined him at the bottom.
+			-Though it was a bit touch and go with Libak, who nearly fell several time.
+	-Once we'd all reached the bottom, we snuck over to the nearest of the rudely carved tunnels
+	 that led inside the exposed structure of the manse.
+		-It took us into a chamber thoroughly encrusted in First Age artworks. The cool marble floor
+		 evoked an impression of snow, particularly in light of the forest decorating the walls in
+		 carved bas-relief.
+	-Wary now of security measures, the rest of the circle carefully examined the chamber's sole
+	 door while I engaged my newly developed essence sight, to do similar.
+		-Upon opening my third eye with my Sorcerer's Sight, I was immediately overwhelmed. Each
+		 part of the manse glowed with sun-bright essence flows, dancing and shifting like chaotic
+		 flames.
+			-Slowly, my "eye" adjusted, and I could spot structures made of essence all over the
+			 place, but could understand few details of the complicated system.
+			-Turning to the door itself, I could see it was clearly covered in Solar-aspected
+			 essence, but didn't understand it's purpose.
+		-The others detected no mundane traps, and Golden Blade boldly tried the knob.
+		-As he did so, a voice called out from seemingly everywhere, saying "The Panopticon
+		 Cataclysmic has been engaged. Awaiting key commands."
+			-It's unclear whether that was in response to Blade opening the door, or coincidental.
+		-Thinking a memoment, I did one mention of a "command string" in Bax's notes, one meant to
+		 disable the First Circle demon guards that often troubled his construction work within the
+		 manse.
+			-I spoke the remembered command phrase aloud.
+			-In response, a small burning flame appeared above each of our caste marks, soaring
+			 quickly up and then disappearing.
+	-The door led to a hallway, which led in turn, past a bend, to three more doors.
+		-One of the doors was marked with the Old Realm name for Autochthon, and, below it, was
+		 labeled "The Door of Debok-Mum", a name I recognized as belonging to one of the Third
+		 Circle souls of Autochthon.
+		-Well, that primordial does seem to have been involved in the creation of this place,
+		 so that seemed a reasonable destination.
+		-After examining the door, though, Golden Blade warned that it was connected to some
+		 kind of security system, and opted to bypass it, turning down the hall.
+	-Golden Blade led the way and, rounding a bend in the hall, he depressed a pressure plate
+	 triggering some kind of trap.
+		-A bass hum sounded for a few moments, and Blade was clearly wracked with anguish, but he
+		 pushed through it, and past the bend, where he was seemingly no longer troubled by it.
+			-The rest of us evaded the trigger in various ways, I by running forward, leaping up,
+			 and wall-walking past.
+	-The hall then ended, a short distance later, in a door covered in complicated essence flows,
+	 more elaborate than anything I'd yet seen even here, forming complex mechanisms.
+		-Maybe the work of Autochthon? From what little I'd heard of him, it would fit.
+		-Walking through the door, it lead to a great platform, floating in a vast and seemingly
+		 empty space.
+			-The door still stood behind us, or at least the arch of one, with nothing behind it.
+		-In the center of the platform we stood on, there was a massive and constantly shapechanging
+		 monstrosity, chained in bands of starmetal.
+		-Around it were markings in Old Realm, labeling this place "The Foundary of Infinite Genius",
+		 and various monitors saying that "The Wyld Cauldron Resonator is currently offline."
+		-Circling the platform were other archways, each labeled: "Library of Martial Conflict",
+		 "The Twice Martyred Hero Clinic", "Elysandae, the Tree of Benefice", and "Personal
+		 Laboratories".
+	-We chose the clinic, and passed through the marked archway.
+		-We found ourselves on another platform, this one circling the roots of a massive,
+		 upsidedown tree.
+		-The platform indeed proved to be a hospital, though, covered in various forms of medical
+		 equipment.
+		-Golden Blade looked over the edge, and down, reporting that there seem to be buildings down
+		 there, amongst the branches.
+		-Well, we _are_ trying to find our way down into the structure of the manse. I'm less than
+		 confident that down in this space corresponds to down in Creation, but it's at least as
+		 likely as not.
+		-As such, we all began to climb down the tree.
+			-I made good use of my claws in this. However, that _may_ not have been wise, as, from
+			 the tree, they shockingly drew _blood_, followed by a great booming "Ow!" coming from
+			 below us. Huh.
+			-Gentler now, we continued down, and eventually spotted another floating platform, still
+			 below us.
+			-Golden Blade, with one end of a length of rope, lept for the platform, barely making it.
+			-That brought forth the booming voice again, seemingly from the tree itself, saying,
+			 "You're the hooligans who were climbing on me! You should be ashamed of yourselves,
+			 harming an old man. . ."
+			 Blade shouted back a response, saying, "Our apologies! We did not mean to harm you!"
+			 "Ah, I forget you children like to play. All is forgiven. Are you friends with the
+			 nice young lady who brought me that tea? The one in the red robes?"
+			 "Admirers of hers," Onyx replied.
+			 "Ah! I am Elysandae."
+			-I meanwhile, slid down the rope, now held on one end by Blade and the other by Onyx,
+			 using my wooden claws like a zip line.
+				-From the platform, I could now see that the great tree possessed a face, the canopy
+				 spreading below it forming a great beard.
+			-"Do you know much about these tunnels?" Blade asked.
+			 "Tunnels? What tunnels? Oh, do you have anything to do with those other hooligans? The
+			 ones going around smashing things?"
+			-Seeing he must mean the demons, Silent Onyx asked the tree where they were.
+			 "They're down in the deeps, burning something. The smell of it makes it hard to breath."
+			 "What are they burning?" Libak asked, "Do you know the smell?"
+			 "It smells of the rot that grows in Autochthon, the stink of Malfeas."
+			-We volunteered to help with this matter, being highly concerned about it ourselves.
+			-Thanking us for our offer, Elysandae offered us a boon to aid us. One of his branches
+			 bent toward the platform, bearing four acorns.
+			-With my Sorcerer's Sight, it was clear to me they pulsed with life giving essence.
+			-"How," I asked, "Are we to use these?"
+			 "These are the seeds that bore the gods," Elysandae boomed, "From which grew the trees
+			 bearing immortal fruits."
+			 . . . We thanked him again. It's at least clear to me they possess powerful healing
+			 properties.
+			-As we parted, he reminded us, "You should really use the doors. Though some require keys"
+			 "Keys?" Onyx asked, "Who has them?"
+			 "The Chosen of the Sun. The keys are tied to their souls.'
+			-While we discussed this, we heard a _different_ booming voice, reporting, "Primordial
+			 seal engaged."
+				-Hmm. . . we may have some time pressure here.
+			-Standing before the platform's sole archway, Blade flared his anima, and the door
+			 responded by listing destinations in glowing Old Realm script, including three new ones.
+				-The new onews were, "Honoured Entourage Barracks", "Apartments of Saturnal
+				 Apportionment", and "Basilica of Final Victory".
+					-I guessed the first two corresponded to the Terrestrials and the Celestials,
+					 with the third being our likely destination.
+					-Asking the tree, my guess was correct, with the first being the Terrestrial
+					barracks, the second holding the apartments of the Celestials and the royal
+					apartments of Autochthon, and the last being the manse's hearthstone room.
+	-Well, matching Blade's and my intuitions, The Basilica indeed sounds like our destination.
+	-After a brief discussion, Blade reached out with his essence, selecting our destination.
+	-In response the door turned red (a worrying sign) but, as we passed through it, we found
+	 ourselves in a chamber that _could_ be our desired destination.
+	-It was the first of two octaganol chambers, linked by a wide, gently declining stairway.
+		-We crept forward, still under the cover of Onyx's shared charms, and could see, in the
+		 second chamber a line of four war-like automatons, and a green jade armored woman on a
+		 dais behind them, working the controls of some interface.
+		-Screens around the room showed The Blessed Isle and some. . . corruption spreading
+		 through it.
+	-As we reached the bottom of the stairs, the automatons took one step forward, each raising one
+	 arm which began to flow and glow as if molten.
+	-The woman turned and spoke, "We knew he'd send his minions, but you're too late. They're
+	 already in Heaven."
+		-Her armor was very strange, with chains piercing and binding it. To my sight, armor seemed
+		 to be trying to possess her.
+			-Examining her carefully with the same sight, her permanent essence is 5, and it was
+			 weirdly shifting from wood aspect to some kind of Malfean shadow essence, a thing I
+			 associate with The Ebon Dragon.
+		-"Are you by any chance Tepet Ejava?" Libak, asked.
+		 "You will call me by my proper name!" was her shouted response. "I am the Shogun of the Realm!"
+		-That elicited a chorus of additional questions to us, but she dismissed them, saying, "I
+		 don't have time for this. . ."
+		-In response, the automatons standing before her began to march forward, as she turned back
+		 to her work.
+		-Quick as ever, I fell into Snake Form and rushed forward, to stand before the circle.
+		-My reward was many attacks from the automatons that ran forward to meet me. Only one
+		 actually landed, though, and my anima guarded me, glowing scales of essence preventing any
+		 harm from the molten blow.
+		-Libak, meanwhile, vaulted the automatons, and began a sanxian solo.
+			-The music was impressive, especially given the circumstances, and heartening. It's
+			 primary audience, the lady in jade, seemed conflicted for a moment, but then merely
+			 scowled.
+		-Blade prepped himself for battle, with a great deal of screaming and flexing, his muscles
+		 bulging.
+		-Suddenly, everything went black, and I could feel my essence flicker and sputter.
+			-We all then saw a vision, showing The Unconquered Sun with a spear shoved through his
+			 side, reaching out to us with one (of four) arms, saying "Avenge me!"
+			-We all gained a dot of permanent Essence, our motivations changed to "Avenge the Sun"
+			 (no longer "Unconqured". . .), and we'll be gaining 10 charms after this battle.
+		-Much slashing on my part ensued, and, in seconds, only one of the four automatons remained
+		 standing.
+		-It, though, responded by curling up into a ball and then exploding.
+		-Onyx was the only one seriously wounded by the blast. His response, though was a shrug, as
+		 he pulled out his acorn and ate it. He immediately fell to the ground, unconscious. His
+		 wounds began to rapidly close, but he also began to grow some bark. . .
+		-Libak, meanwhile, darted forward, running at the lady in green.
+			-They both struck out at one another, both of their blows enhanced by charms (to my
+			 charm-enhanced eyes).
+			-Her daiklaive barely met Libak's skin, making a shallow cut.
+			-His bare-fisted punch, meanwhile, shattered her strange armor into green jade shards.
+	-With only a second's pause and the barest shake of her head, Tepet Ejava began shouting saying,
+	 "Access codes!" followed by a string of numbers.
+		-In response, a voice issued forth from the equipment before her, saying, "Panopticon
+		 Cataclysmic on pause."
+		-Turning to us briefly, in a strained voice, Tepet said, "Give me a moment. . ."
+		-She then turned back to the equipment before her, and began to speak into it, with all the
+		 shakiness gone from her voice.
+		 "My brothers and sisters, we have been deceived. The Scarlet Empress, our beloved ancestor
+		 is no more. Grieve for her TODO: named the "Empress" a hellspawned forgery
+			-Lesley was reading this long speech form hard copy, but said he'd take a photo of it at
+			 some point and post it.
+		-She then turned to us, tears streaming down her face, saying, "Help me! I don't think I can
+		 stand any longer. . ."
+		-Libak caught her before she could reach her knees.
+	-Saying, "Quickly, please. . ." she led us, with Libak's help, to a nearby room, speaking
+	 various command words as she went, visibly disabling various traps.
+		-In the room she led us to, there was a great statue of a dragon. Immense streams of essence
+		 flowed into it and, as we entered, it reached out one clawed hand to us.
+		-I recognized it from Bax's drawings. We stood in the manse's hearthstone chamber. . .
+		-From the statue, I could hear a. . .  murmering. It called to me, and seemed to want me to
+		 pierce my hand on talons of it's outstretched hand. . .
+		-"Are you hearing this too?" I asked, turning to my companions, eliciting denials and
+		 confused head shakes.
+		-This was a moment heavy with destiny, and I very much mean to fulfill my destiny. I stepped
+		 forward, piercing my hand on the talon.
+		-The act felt very familiar. I could recall myself. . . No, _Larquen_ piercing his hand in
+		 the very same place, long ago.
+			-In fact, I could suddenly recall a great _deal_ more, instantly gaining Solar level
+			 Sorcery, and my choice of any three spells.
+			-I also recalled a few things about the nature of this manse. In many ways, it was like
+			 a vastly greater Metasorcerous Phylactery, a resonator of immense power and flexibility.
+		-When I shook free of my (?) memories, I was elsewhere.
+			-Before me stood a beautiful creature. It asked a question of me in a language I did
+			 not understand, but which I could. . . _feel_ the meaning of nonetheless.
+			-The creature was asking me what I wished to do with The Sword of Creation.
+			-Even through what I saw before me, I felt a vote of confidence from Tepet, her hand on
+			 my shoulder, saying that she trusts in my choice, trusts in the Solar Exalted.
+			-"Can you seal it?" I asked, "Seal the manse off form the outside world?"
+			 "It wouldn't prevent it's use if someone still found their way inside," the creature
+			 responded, more or less.
+			 "Is this what you wish?"
+			 "Yes. Do it."
+			-Immediately, essence welled up around you, and the earth began to shake.
+			-The claw then withdrew, and I came to my senses.
+	-We proceeded to wisely get the fuck out of there.
+		-Leaving the manse proved easy with Tepet's access codes.
+		-From it, though, we emerged into the destruction of The Imperial City.
+		-The shaking earth had caused much devestation around the city already, with no sign of
+		 abating.
+		-As we fled the manse's ground, great jaws of earth formed, rising and closing around the
+		 manse, pulling it beneath the ground.
+	-In the days that followed, "The Empress" made an announcement, saying she was moving the
+	 capital, to a new city, New Meru, being built on the ruins of the old city of Meru on The
+	 Imperial Mountain.
+	-She gathered several of The Realm's armies too her, and acquired many more, spread throughout
+	 Creation, from. . . somewhere. Wars were springing up in all corners of the world.
+	-Worse still, the sun does not rise or set. Instead, it remains fixed in the sky, weeping bloody
+	 rain.
+	-We'll resume a year from now, when the first troops from our new ally, Tepet Ejava, and her
+	 allied Dragonblooded Houses, arrive at Denandsor.
+		-No longer safe in The Realm, they come to us for sanctuary and to rebuild their strength.
+
+
+TODO:
+	-Fix health levels. Too few zeros, and maybe other problems after trying to fix that.
+	-Gain those 10 charms.
+	-Add that solar circle sorcery charm and any three spells.
+	-See if anything still needs updating for now-5 Essence.
+		-Essence regen likely does.
+	-Update your motivation.
+		-It used to be "To restore the glories of The First Age, and the glorious rule of The Solar
+		 Exalted, for all the peoples of the world, leading to the dawning of a new age."
 
 
 TODO:
 	-Summon a Hopping Puppeteer?
 		-Kind of seems like you can shrink them down to something portable.
 			-Limit triggers might be a problem, though.
+				-It's Summoning description suggests it'll go pretty quickly insane idle.
 		-Having access to Measure the Wind as needed is crazy useful by itself.
 			-Can find Exalts and the like by their essence!
 			-And now, with Essence Gathering Temper, figure out their essence to see if you
@@ -5632,7 +5971,7 @@ TODO:
 			-The manse can support many more people.
 		-Make a true Ally of Rishi?
 			-Offer him Sorcery?
-				-"I not eager to advertise it, or how easily I picked it up. It marks me as. . .
+				-"I am not eager to advertise it, or how easily I picked it up. It marks me as. . .
 				  something other than a normal human."
 					-An angle he should be sympathetic to, and also why he himself my have a higher
 					 than normal Essence.
