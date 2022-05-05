@@ -5934,7 +5934,46 @@ TODO:
 TODO:
 	-Fix health levels. Too few zeros, and maybe other problems after trying to fix that.
 	-Gain those 10 charms.
+		-Get the First or Second Martial Arts Excellency and Infinite Martial Arts Mastery.
+			-Probably the First Excellency, to suit your currently odd Dex+MA, to be a bit more
+			 flexible, and to occasionaly manage very unlikely success totals (high DVs!).
+		-Sorcerer's Burning Chakra Charm. You're now a Solar ruling openly. Might as well be marked.
+		-Terrestrial Edification Program (Lore, DoFA 2 pg. 61)?
+			-Training charm that makes motherfucking sorcerers.
+		-The Wyld stuff:
+			-3 charms:
+				-Chaos-Repelling Pattern
+				-Wyld-Shaping Technique
+				-Wyld Cauldron Technology
+			-The next is Essence 7.
+			-You may never get to really use this, but, if you do, it's amazing, and there's
+			 certainly _hints_ it will one day be very important with you and your sworn enemy.
+		-3 more.
+			-More Snake Style?
+				Snake Strikes the Heel
+				Uncoiling Sepent Prana
+				Striking Serpent Speed
+			-Martial Arts Essence Flow?
+				-Mostly only helps with spirits now, but would be come a bit better with more
+				 Snake Style.
 	-Add that solar circle sorcery charm and any three spells.
+		-Unity of the Closed Fist (White Treatise pg. 98)!
+		-Adamant countermagic (Core pg. 255)?
+		-Look for ones you don't otherwise have access to!
+			-Curse of Unyielding Mist (White Treatise pg. 89)?
+				-Good against a static area, like a country.
+				-Use it on The Blessed Isle?!?
+			-Enemy of Nature (White Treatise pg. 90)?
+				-Good against groups and individuals.
+			-Wrath of the Five Elements (White Treatise pg. 99)?
+				-Eh, nature of environmental damge and single target probably makes this the worst
+				 of these angry 3.
+			-The above all fit well with the wrath of a vengeful sun.
+			-Chariot of the Blazing Sun (White Treatise pg. 88)?
+				-Interesting transit, and acces to Yu-Shan.
+				-Current state of the sun might make it better, worse, or both.
+				-Ah, but it needs a dot of Ride.
+		-Did gaining the charm in this way circumvent the need to sacrifice?!?
 	-See if anything still needs updating for now-5 Essence.
 		-Essence regen likely does.
 	-Update your motivation.
@@ -6080,7 +6119,7 @@ TODO:
 				Threefold Binding of the Heart (White Treatise pg. 84)
 			-Solar Circle:
 				Adamant countermagic (Core pg. 255)
-				Deomon of the Third Circle (Core pg. 255)
+				Demon of the Third Circle (Core pg. 255)
 				Evocation from the Mirror (White Treatise pg. 91)
 				Invoking the Eyeless Face (White Treatise pg. 92)
 				Soul Seal (White Treatise pg. 96)

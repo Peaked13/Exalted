@@ -89,7 +89,7 @@ Thaumaturgical Rituals:
 			 healing time instead.
 		Philtre of Desire (2, Intelligence, 2, one hour) (Oadenol's pg. 131):
 			-Version 1: Imbiber gets +2 dice to Performance, Presence, and Socialize against target
-			chosen when made, requiring an arcane link.
+			 chosen when made, requiring an arcane link.
 			-Version 2: Reduces imbiber's MDV by 2. Victim chosen when made, requiring an arcane link.
 			-For +1 difficulty, can ignore above arcane link requirements.
 			-Version 3: For +2 difficulty, gives imbiber +2 dice to Social attacks against any target.
